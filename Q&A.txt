@@ -1,50 +1,92 @@
+Q: Hva er fristen på innsending av merverdiavgift?
+A: 
+
 Q: Hva er merverdiavgift (MVA)?
-A: Merverdiavgift, ofte forkortet MVA, er en skatt som legges til prisen på varer og tjenester. I Norge er standard MVA-satsen 25%.
+A:
+
+Q: Hva er fristen på innsending av skattemelding?
+A: 
+
+Q: Hva er fristen for årsoppgjør?
+A: 
 
 Q: Hvordan registrerer jeg et enkeltpersonforetak?
-A: Du kan registrere et enkeltpersonforetak gjennom Brønnøysundregistrene. Du trenger å fylle ut et skjema for Samordnet registermelding og sende det inn elektronisk via Altinn.
+A:
 
-Q: Når er fristen for å levere årsregnskapet?
-A: Fristen for å levere årsregnskapet til Regnskapsregisteret er innen 31. juli året etter regnskapsåret.
+Q: Hvor /hvordan/søknad for serveringsbevilling?
+A: 
+
+Q: Hvor /hvordan/søknad for etableringsprøve?
+A: 
+
+Q: Hvor /hvordan/søknad for registrering av mv?
+A: 
+
+Q: Omsetningsoppgave for alkohol?
+A: 
+
+Q: Frist for A melding?
+A: 
+
+Q: Timepris for bokføring?
+A: 
+
+Q: Pris for registrering av enkeltpresonsforetak?
+A: 2000 eks MVA
+
+Q: Pris for registrering av aksjeselskap?
+A: 3500 eks MVA
+
+Q: Pris på årsoppgjør for EPF og Aksje selskap?
+A: 
+
+Q: Hva er forskjellen mellom regnskapsføring og revisjon?
+A: 
+
+Q: Trenger jeg revisor?
+A: 
+
+Q: Har alle regnskaps plikt?
+A: 
 
 Q: Hva innebærer bokføringsplikt?
-A: Bokføringsplikt betyr at virksomheter er lovpålagt å føre regnskap over alle økonomiske transaksjoner. Dette inkluderer kjøp, salg, og andre finansielle bevegelser.
+A:
 
 Q: Kan jeg trekke fra hjemmekontor på skatten?
-A: Ja, hvis du har et hjemmekontor som er nødvendig for arbeidet ditt, kan du trekke fra en del av utgiftene til hjemmekontoret på skatten. Dette krever at visse kriterier er oppfylt.
+A:
 
 Q: Hva er forskjellen på en balanse og et resultatregnskap?
-A: En balanse viser virksomhetens eiendeler, gjeld og egenkapital på et bestemt tidspunkt. Et resultatregnskap viser inntekter og kostnader over en periode, og resultatet av virksomhetens drift.
+A:
 
 Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-A: Skatt for enkeltpersonforetak beregnes basert på foretakets overskudd. Overskuddet legges til din personlige inntekt, og skatten beregnes deretter etter de gjeldende skattesatsene.
+A:
 
 Q: Er det obligatorisk med revisor for små foretak?
-A: Nei, små foretak som ikke overskrider visse grenser i omsetning og balansesum, er ikke pliktige til å ha revisor.
+A:
 
 Q: Hva er åpningstidene deres?
-A: Våre åpningstider er fra 08:00 til 16:00, mandag til fredag.
+A:
 
 Q: Tilbyr dere bistand med selvangivelsen?
-A: Ja, vi tilbyr fullstendig bistand med selvangivelsen, inkludert optimalisering av skatteposisjonen din.
+A:
 
 Q: Kan dere hjelpe til med lønnstjenester?
-A: Absolutt, vi tilbyr lønnstjenester som inkluderer lønnsutbetaling, skatteberegning og rapportering til myndighetene.
+A:
 
 Q: Hvor er kontoret deres lokalisert?
-A: Vårt kontor er lokalisert i Oslo sentrum, nær Nationaltheatret stasjon.
+A:
 
 Q: Tilbyr dere rådgivning for småbedrifter?
-A: Ja, vi spesialiserer oss på regnskap og økonomisk rådgivning for småbedrifter og startups.
+A:
 
 Q: Hvordan kan jeg bestille en konsultasjon?
-A: Du kan bestille en konsultasjon ved å kontakte oss direkte via telefon eller e-post, eller ved å fylle ut kontaktskjemaet på nettsiden vår.
+A:
 
 Q: Er dere erfarne med internasjonal skatterådgivning?
-A: Ja, vi har bred erfaring med internasjonal skatterådgivning og kan hjelpe til med spørsmål om dobbeltbeskatning og skatteavtaler.
+A:
 
 Q: Tilbyr dere digitale regnskapstjenester?
-A: Ja, vi tilbyr digitale regnskapstjenester som lar deg administrere økonomien din online, inkludert skybaserte løsninger.
+A:
 
-Q: Hvilke generelle tjenester tilbyr deres regnskapsfirma?
-A: Vårt regnskapsfirma tilbyr en bred rekke tjenester...
+Q: Hvilke tjenester tilbyr deres firma?
+A:

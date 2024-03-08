@@ -1,7 +1,5 @@
-from transformers import AutoTokenizer, BertModel
 from sentence_transformers import SentenceTransformer  #Bruke modellen på setninger
 import numpy as np
-
 
 model_name = "NbAiLab/nb-sbert-base"
 model = SentenceTransformer(model_name)
