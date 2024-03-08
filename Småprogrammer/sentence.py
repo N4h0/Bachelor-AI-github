@@ -26,7 +26,7 @@ _______________________________Formater spørsmål med modellen_________________
 
 spørsmål = [] #Tom liste
 
-with open('Q&A.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den /r) og enkoder som uft-8 (lar Æ, Ø og å vere med)
+with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den /r) og enkoder som uft-8 (lar Æ, Ø og å vere med)
     for line in file:
         if line.startswith('Q:'):
             spørsmål.append(line[3:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.
@@ -35,7 +35,7 @@ modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.c
 
 modell = SentenceTransformer(modellnavn) #Instansierer BERT modellen . https://huggingface.co/docs/transformers/main_classes/model
 
-encoded_questions = np.loadtxt('Q&A_embedded.csv', delimiter=',')
+encoded_questions = np.loadtxt('txtandCSV-files/Q&A_embedded.csv', delimiter=',')
 encoded_user_question = modell.encode([args.input])[0]
 
 

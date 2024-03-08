@@ -1,0 +1,95 @@
+
+I: Hvilken dato må merverdiavgiften være sendt inn innen?
+Q: Hva er fristen på innsending av merverdiavgift?
+
+I: Kan du forklare meg hva begrepet merverdiavgift (MVA) betyr?
+Q: Hva er merverdiavgift (MVA)?
+
+I: Når må skattemeldingen leveres inn?
+Q: Hva er fristen på innsending av skattemelding?
+
+I: Når er siste frist for å levere årsoppgjøret til regnskapsfirmaet deres?
+Q: Hva er fristen for årsoppgjør?
+
+I: Hvordan kan jeg opprette et enkeltpersonforetak med deres regnskapsfirma?
+Q: Hvordan registrerer jeg et enkeltpersonforetak?
+
+I: Hvordan går jeg frem for å søke om serveringsbevilling hos deres regnskapsfirma?
+Q: Hvordan er søknad for serveringsbevilling?
+
+I: Hvordan går jeg fram for å søke om etableringsprøve hos deres regnskapsfirma?
+Q: Hvordan er søknad for etableringsprøve?
+
+I: Hvordan kan jeg søke om registrering av merverdiavgift gjennom deres regnskapsfirma?
+Q: Hvordan er søknad for registrering av mv?
+
+I: Hvordan behandles omsetningsoppgaven for alkohol på deres regnskapsfirma?
+Q: Hvordan utføres omsetningsoppgaven for alkohol?
+
+I: Hva er den siste datoen for å sende inn A-meldingen til regnskapsfirmaet?
+Q: Hva er fristen for å levere A-meldingen?
+
+I: Hvor mye koster det per time for bokføringstjenester?
+Q: Hva er timepris for bokføring?
+
+I: Hvor mye koster det å få registrert et enkeltpersonsforetak hos dere?
+Q: Hva er pris for registrering av enkeltpresonsforetak?
+
+I: Hvor mye koster det å registrere et aksjeselskap med deres regnskapsfirma?
+Q: Hva er pris for registrering av aksjeselskap?
+
+I: Hva er kostnaden for årsregnskapet for et EPF og aksjeselskap hos ditt regnskapsfirma?
+
+Kan du gi meg informasjon om prisen for årsoppgjøret for et EPF og aksjeselskap hos dere?
+Q: Pris på årsoppgjør for EPF og Aksje selskap?
+
+I: Hva skiller regnskapsføring fra revisjon når det kommer til tjenestene deres?
+Q: Hva er forskjellen mellom regnskapsføring og revisjon?
+
+I: Trenger jeg profesjonell hjelp fra et regnskapsfirma for å håndtere min økonomi?
+Q: Er det nødvendig for meg å ansette en revisor?
+
+I: Er det obligatorisk for alle å ha regnskap?
+Q: Har alle regnskaps plikt?
+
+I: Hva er den konkrete betydningen av bokføringsplikt, og hvordan kan deres regnskapsfirma hjelpe meg med dette?
+Q: Hva innebærer bokføringsplikt?
+
+I: Er det mulig å få fradrag på skatten for hjemmekontorutgifter gjennom regnskapsfirmaet deres?
+Q: Kan jeg trekke fra hjemmekontor på skatten?
+
+I: Hva skiller en balanse fra et resultatregnskap i regnskapsfaget?
+Q: Hva er forskjellen på en balanse og et resultatregnskap?
+
+I: Hvordan kan jeg finne ut av skatteberegningen for mitt enkeltpersonforetak på deres nettside?
+Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+
+I: Må små bedrifter ha en revisor ifølge regelverket?
+Q: Er det obligatorisk med revisor for små foretak?
+
+I: Hvilke tidspunkter er dere tilgjengelige for henvendelser?
+Q: Hva er åpningstidene deres?
+
+I: Kan dere hjelpe meg med å fylle ut selvangivelsen?
+Q: Tilbyr dere bistand med selvangivelsen?
+
+I: Trenger dere assistanse med lønnsadministrasjonen?
+Q: Kan dere hjelpe til med lønnstjenester?
+
+I: Hvor ligger regnskapsfirmaets kontor?
+Q: Hvor er kontoret deres lokalisert?
+
+I: Har dere tjenester for veiledning og rådgivning tilgjengelig for småbedriftseiere?
+Q: Tilbyr dere rådgivning for småbedrifter?
+
+I: Hvordan kan jeg avtale en konsultasjon med regnskapsfirmaet deres?
+Q: Hvordan kan jeg bestille en konsultasjon?
+
+I: Har deres regnskapsfirma spesialisert seg på internasjonal skatterådgivning og har erfaring på området?
+Q: Er dere erfarne med internasjonal skatterådgivning?
+
+I: Er det mulig å benytte digitale regnskapstjenester hos deres regnskapsfirma?
+Q: Tilbyr dere digitale regnskapstjenester?
+
+I: Hva slags regnskapstjenester leverer deres selskap?
+Q: Hvilke tjenester tilbyr deres firma?

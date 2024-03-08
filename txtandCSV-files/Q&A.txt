@@ -13,28 +13,28 @@ A:
 Q: Hvordan registrerer jeg et enkeltpersonforetak?
 A:
 
-Q: Hvor /hvordan/søknad for serveringsbevilling?
+Q: Hvordan er søknad for serveringsbevilling?
 A: 
 
-Q: Hvor /hvordan/søknad for etableringsprøve?
+Q: Hvordan er søknad for etableringsprøve?
 A: 
 
-Q: Hvor /hvordan/søknad for registrering av mv?
+Q: Hvordan er søknad for registrering av mv?
 A: 
 
-Q: Omsetningsoppgave for alkohol?
+Q: Hvordan utføres omsetningsoppgaven for alkohol?
 A: 
 
-Q: Frist for A melding?
+Q: Hva er fristen for å levere A-meldingen?
 A: 
 
-Q: Timepris for bokføring?
-A: 
+Q: Hva er timepris for bokføring?
+A: 1100kr eks mva
 
-Q: Pris for registrering av enkeltpresonsforetak?
+Q: Hva er pris for registrering av enkeltpresonsforetak?
 A: 2000 eks MVA
 
-Q: Pris for registrering av aksjeselskap?
+Q: Hva er pris for registrering av aksjeselskap?
 A: 3500 eks MVA
 
 Q: Pris på årsoppgjør for EPF og Aksje selskap?
@@ -43,7 +43,7 @@ A:
 Q: Hva er forskjellen mellom regnskapsføring og revisjon?
 A: 
 
-Q: Trenger jeg revisor?
+Q: Er det nødvendig for meg å ansette en revisor?
 A: 
 
 Q: Har alle regnskaps plikt?
