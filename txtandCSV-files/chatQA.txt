@@ -1,8 +1,8 @@
 
-I: Hvilken dato må merverdiavgiften være sendt inn innen?
+I: Hvordan er søknad for etableringsprøve?
 Q: Hva er fristen på innsending av merverdiavgift?
 
-I: Kan du forklare meg hva begrepet merverdiavgift (MVA) betyr?
+I: Hvordan er søknad for etableringsprøve?
 Q: Hva er merverdiavgift (MVA)?
 
 I: Når må skattemeldingen leveres inn?

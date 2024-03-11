@@ -1,125 +1,156 @@
 
-            Spørsmål generert: Hvilken dato må merverdiavgiften være sendt inn innen?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
+            Spørsmål generert: Hvordan er søknad for etableringsprøve?
+            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
             Fasit: Hva er fristen på innsending av merverdiavgift?
+            SimScore: 0.9999999999996543
             
-            Spørsmål generert: Kan du forklare meg hva begrepet merverdiavgift (MVA) betyr?
-            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
+            Spørsmål generert: Hvordan er søknad for etableringsprøve?
+            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
             Fasit: Hva er merverdiavgift (MVA)?
+            SimScore: 0.9999999999996543
             
             Spørsmål generert: Når må skattemeldingen leveres inn?
             Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
             Fasit: Hva er fristen på innsending av skattemelding?
+            SimScore: 0.8992273049404818
             
             Spørsmål generert: Når er siste frist for å levere årsoppgjøret til regnskapsfirmaet deres?
             Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
             Fasit: Hva er fristen for årsoppgjør?
+            SimScore: 0.7535085219332734
             
             Spørsmål generert: Hvordan kan jeg opprette et enkeltpersonforetak med deres regnskapsfirma?
             Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
             Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
+            SimScore: 0.8385777366223128
             
             Spørsmål generert: Hvordan går jeg frem for å søke om serveringsbevilling hos deres regnskapsfirma?
             Spørsmål som ligner mest: Hvordan er søknad for serveringsbevilling?
             Fasit: Hvordan er søknad for serveringsbevilling?
+            SimScore: 0.6364665400054352
             
             Spørsmål generert: Hvordan går jeg fram for å søke om etableringsprøve hos deres regnskapsfirma?
             Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
             Fasit: Hvordan er søknad for etableringsprøve?
+            SimScore: 0.7272258875202794
             
             Spørsmål generert: Hvordan kan jeg søke om registrering av merverdiavgift gjennom deres regnskapsfirma?
             Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
             Fasit: Hvordan er søknad for registrering av mv?
+            SimScore: 0.6532636547334576
             
             Spørsmål generert: Hvordan behandles omsetningsoppgaven for alkohol på deres regnskapsfirma?
             Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
             Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
+            SimScore: 0.8060108033283192
             
             Spørsmål generert: Hva er den siste datoen for å sende inn A-meldingen til regnskapsfirmaet?
             Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
             Fasit: Hva er fristen for å levere A-meldingen?
+            SimScore: 0.6089023871707675
             
             Spørsmål generert: Hvor mye koster det per time for bokføringstjenester?
             Spørsmål som ligner mest: Hva er timepris for bokføring?
             Fasit: Hva er timepris for bokføring?
+            SimScore: 0.8954929357041981
             
             Spørsmål generert: Hvor mye koster det å få registrert et enkeltpersonsforetak hos dere?
             Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
             Fasit: Hva er pris for registrering av enkeltpresonsforetak?
+            SimScore: 0.803774914473784
             
             Spørsmål generert: Hvor mye koster det å registrere et aksjeselskap med deres regnskapsfirma?
             Spørsmål som ligner mest: Hva er pris for registrering av aksjeselskap?
             Fasit: Hva er pris for registrering av aksjeselskap?
+            SimScore: 0.8655892992022493
             
             Spørsmål generert: Hva er kostnaden for årsregnskapet for et EPF og aksjeselskap hos ditt regnskapsfirma?
             Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
             Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
+            SimScore: 0.8091089865813345
             
             Spørsmål generert: Hva skiller regnskapsføring fra revisjon når det kommer til tjenestene deres?
             Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
             Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
+            SimScore: 0.8254162081745856
             
             Spørsmål generert: Trenger jeg profesjonell hjelp fra et regnskapsfirma for å håndtere min økonomi?
             Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
             Fasit: Er det nødvendig for meg å ansette en revisor?
+            SimScore: 0.7563674135806613
             
             Spørsmål generert: Er det obligatorisk for alle å ha regnskap?
             Spørsmål som ligner mest: Har alle regnskaps plikt?
             Fasit: Har alle regnskaps plikt?
+            SimScore: 0.8552621381761887
             
             Spørsmål generert: Hva er den konkrete betydningen av bokføringsplikt, og hvordan kan deres regnskapsfirma hjelpe meg med dette?
             Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
             Fasit: Hva innebærer bokføringsplikt?
+            SimScore: 0.8359535724371201
             
             Spørsmål generert: Er det mulig å få fradrag på skatten for hjemmekontorutgifter gjennom regnskapsfirmaet deres?
             Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
             Fasit: Kan jeg trekke fra hjemmekontor på skatten?
+            SimScore: 0.7321266783573974
             
             Spørsmål generert: Hva skiller en balanse fra et resultatregnskap i regnskapsfaget?
             Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
             Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
+            SimScore: 0.8951012817420219
             
             Spørsmål generert: Hvordan kan jeg finne ut av skatteberegningen for mitt enkeltpersonforetak på deres nettside?
             Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
             Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+            SimScore: 0.803311366977232
             
             Spørsmål generert: Må små bedrifter ha en revisor ifølge regelverket?
             Spørsmål som ligner mest: Er det obligatorisk med revisor for små foretak?
             Fasit: Er det obligatorisk med revisor for små foretak?
+            SimScore: 0.9389567947765438
             
             Spørsmål generert: Hvilke tidspunkter er dere tilgjengelige for henvendelser?
             Spørsmål som ligner mest: Hva er åpningstidene deres?
             Fasit: Hva er åpningstidene deres?
+            SimScore: 0.7013547161224596
             
             Spørsmål generert: Kan dere hjelpe meg med å fylle ut selvangivelsen?
             Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
             Fasit: Tilbyr dere bistand med selvangivelsen?
+            SimScore: 0.8016000674535875
             
             Spørsmål generert: Trenger dere assistanse med lønnsadministrasjonen?
             Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
             Fasit: Kan dere hjelpe til med lønnstjenester?
+            SimScore: 0.8755479849604737
             
             Spørsmål generert: Hvor ligger regnskapsfirmaets kontor?
             Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
             Fasit: Hvor er kontoret deres lokalisert?
+            SimScore: 0.7841496995938126
             
             Spørsmål generert: Har dere tjenester for veiledning og rådgivning tilgjengelig for småbedriftseiere?
             Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
             Fasit: Tilbyr dere rådgivning for småbedrifter?
+            SimScore: 0.9337591810971861
             
             Spørsmål generert: Hvordan kan jeg avtale en konsultasjon med regnskapsfirmaet deres?
             Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
             Fasit: Hvordan kan jeg bestille en konsultasjon?
+            SimScore: 0.6978689284773119
             
             Spørsmål generert: Har deres regnskapsfirma spesialisert seg på internasjonal skatterådgivning og har erfaring på området?
             Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
             Fasit: Er dere erfarne med internasjonal skatterådgivning?
+            SimScore: 0.8505298703497945
             
             Spørsmål generert: Er det mulig å benytte digitale regnskapstjenester hos deres regnskapsfirma?
             Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
             Fasit: Tilbyr dere digitale regnskapstjenester?
+            SimScore: 0.9500660721996578
             
             Spørsmål generert: Hva slags regnskapstjenester leverer deres selskap?
             Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
             Fasit: Hvilke tjenester tilbyr deres firma?
+            SimScore: 0.7414784192677384
             

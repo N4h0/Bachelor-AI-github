@@ -18,7 +18,6 @@ fasit = [] #Lista somk inneheld fasiten aka spørsmåla chatGPT har generert i t
 spørsmål = [] #Liste med spørmsåla chatGPT har laga
 søkeliste = [] #Liste som programmet søker gjennom for å finne spørsmål som ligner mest.
 
-
 with open('txtandCSV-files/chatQA.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den /r) og enkoder som uft-8 (lar Æ, Ø og å vere med)
     for line in file:
         if line.startswith('Q:'):
@@ -51,6 +50,8 @@ IandAandQ = [] #Inquiry, fasit og det modellen kom fram til.
 with open('txtandCSV-files/testresults.txt', 'w', encoding='utf-8') as file:
     file.write("")
 
+Resultat = []
+
 for i, question in enumerate(encoded_user_questions, start = 0):
     
     similarity_scores = cosine_similarity([question], encoded_questions)[0]
@@ -60,19 +61,36 @@ for i, question in enumerate(encoded_user_questions, start = 0):
     inquiry = spørsmål[i] #Spørsmål generert av chatGPT.
     fasiten = fasit[i] #Fasiten, spørsmålet chatGPT har generet skal i teorien ligne mest på dette.
     løsning = most_similar_question #Spørsmålet modellen vår kjem fram til at ligner mest.
+    
+    Resultat.append({
+        "inquiry": inquiry,
+        "løsning": løsning,
+        "fasit": fasiten,
+        "similarity_score": max(similarity_scores)
+    })
 
     with open('txtandCSV-files/testresults.txt', 'a', encoding='utf-8') as file:
         file.write(f"""
             Spørsmål generert: {inquiry}
             Spørsmål som ligner mest: {løsning}
             Fasit: {fasiten}
+            SimScore: {max(similarity_scores)}
             """)
-    
-    nested_list = [[a, b] for a, b in zip(spørsmål, similarity_scores)]
 
-    # Sort the nested list based on the first value of each inner list, in descending order
-    sorted_nested_list = sorted(nested_list, key=lambda x: x[1], reverse=True)
-    
-    if (løsning != fasiten): #Gir output hvis løsningen modellen har kommet fram til ikke er lik fasiten
-        print("Spørsmål generert: " + inquiry + "\n" + "løsning: " + str(max(similarity_scores)) + løsning + "\n" + "fasit: " + fasiten +"\n")
-        print(sorted_nested_list)
+# Assuming your nested list is named results_list
+highest_score_løsning_not_fasit = None  # Store the highest score where løsning != fasit
+lowest_score_løsning_equals_fasit = None  # Store the lowest score where løsning = fasit
+
+for result in Resultat:
+    if result["løsning"] != result["fasit"]:
+        # Update the highest score for løsning != fasit condition
+        if highest_score_løsning_not_fasit is None or result["similarity_score"] > highest_score_løsning_not_fasit:
+            highest_score_løsning_not_fasit = result["similarity_score"]
+    else:
+        # Update the lowest score for løsning = fasit condition
+        if lowest_score_løsning_equals_fasit is None or result["similarity_score"] < lowest_score_løsning_equals_fasit:
+            lowest_score_løsning_equals_fasit = result["similarity_score"]
+
+# Print the results
+print("Highest similarity score where løsning != fasit:", highest_score_løsning_not_fasit)
+print("Lowest similarity score where løsning = fasit:", lowest_score_løsning_equals_fasit)

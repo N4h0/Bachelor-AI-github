@@ -1,2 +1,0 @@
-I: "Hvor kan jeg finne dere?"
-Q: Hvor er kontoret deres lokalisert?

@@ -4,7 +4,7 @@ with open('txtandCSV-files/chatQA.txt', 'w', encoding='utf-8') as file:
     file.write("\n")
 
 client = OpenAI(
-    # This is the default and can be omitted
+    # API-nøkkel burde ikke vere public i de fleste scripts, men denne kjører bare lokalt. 
     api_key="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"
 )
 
@@ -14,6 +14,7 @@ with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file:
         if line.startswith('Q:'):
             questions.append(line[3:].strip())
 
+#Generer et spørsmål for hvert spørsmål i spørsmålslisten.
 for question in questions:
     message = [
                 {"role": "user", "content": f"Generer et spørsmål som er likt dette spørsmålet, men skrevet på en annen måte. Du er en kunde for et regnskapsfirma, og undersøker nettsiden deres: {question}"}
