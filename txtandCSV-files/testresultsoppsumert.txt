@@ -1,0 +1,15 @@
+2 spørringer ga feil resultat. Dette gjaldt følgende spørringer: 
+10 og 28
+
+Spørringsnummer: 10, 
+Inquiry: Når er siste frist for innsending av A-meldingen til Skatteetaten?, 
+Løsning: Hva er fristen på innsending av skattemelding?, 
+Fasit: Hva er fristen for å levere A-meldingen?, 
+Similarity Score: 0.728099360822138
+
+
+Spørringsnummer: 28, 
+Inquiry: Hvordan kan jeg avtale en konsultasjon med deres regnskapsfirma?, 
+Løsning: Er det nødvendig for meg å ansette en revisor?, 
+Fasit: Hvordan kan jeg bestille en konsultasjon?, 
+Similarity Score: 0.6900635386925926

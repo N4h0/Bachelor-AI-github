@@ -14,6 +14,7 @@ txtandCSV-files
 chatQA.txt er spørsmål opprettet av chatGPT
 Q&A_embedded er en embedded versjon av Q&A.txt
 testresults.txt er resultater fra testing i txt.format
+testresultasoppsumert oppsummerer resultatene fra sist test kjørt
 
 Småprogrammer
 Encode_question.py omformaterer spørsmålene i filen Q&A.txt til embedded format, dvs vektorer som kan samenlignes med hverande ved feks cosine similarity.

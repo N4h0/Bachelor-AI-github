@@ -4,7 +4,7 @@ with open('txtandCSV-files/chatQA.txt', 'w', encoding='utf-8') as file:
     file.write("\n")
 
 client = OpenAI(
-    # API-nøkkel burde ikke vere public i de fleste scripts, men denne kjører bare lokalt. 
+    # API-nøkkel burde ikke vere public i de fleste scripts, men denne kjører bare lokalt og er bare delt innad i gruppen.
     api_key="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"
 )
 

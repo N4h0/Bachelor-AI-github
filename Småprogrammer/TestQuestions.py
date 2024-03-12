@@ -18,17 +18,17 @@ fasit = [] #Lista somk inneheld fasiten aka spørsmåla chatGPT har generert i t
 spørsmål = [] #Liste med spørmsåla chatGPT har laga
 søkeliste = [] #Liste som programmet søker gjennom for å finne spørsmål som ligner mest.
 
-with open('txtandCSV-files/chatQA.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den /r) og enkoder som uft-8 (lar Æ, Ø og å vere med)
+with open('txtandCSV-files/chatQA.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den og enkoder som uft-8 (lar Æ, Ø og å vere med)
     for line in file:
         if line.startswith('Q:'):
             fasit.append(line[3:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.
 
-with open('txtandCSV-files/chatQA.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den /r) og enkoder som uft-8 (lar Æ, Ø og å vere med)
+with open('txtandCSV-files/chatQA.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den og enkoder som uft-8 (lar Æ, Ø og å vere med)
     for line in file:
         if line.startswith('I:'):
             spørsmål.append(line[3:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.
 
-with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den /r) og enkoder som uft-8 (lar Æ, Ø og å vere med)
+with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den og enkoder som uft-8 (lar Æ, Ø og å vere med)
     for line in file:
         if line.startswith('Q:'):
             søkeliste.append(line[3:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.
@@ -51,9 +51,14 @@ with open('txtandCSV-files/testresults.txt', 'w', encoding='utf-8') as file:
     file.write("")
 
 Resultat = []
+feilsvar =[]
+highestWrongCoSim = None
+lowestCorrectCoSim = None
 
+#Looper gjennom heile lista med chatbpt-spørsmål
 for i, question in enumerate(encoded_user_questions, start = 0):
     
+    #Finn cosine similarity for spørsmålet
     similarity_scores = cosine_similarity([question], encoded_questions)[0]
     most_similar_question_index = np.argmax(similarity_scores)
     most_similar_question = søkeliste[most_similar_question_index]
@@ -62,13 +67,30 @@ for i, question in enumerate(encoded_user_questions, start = 0):
     fasiten = fasit[i] #Fasiten, spørsmålet chatGPT har generet skal i teorien ligne mest på dette.
     løsning = most_similar_question #Spørsmålet modellen vår kjem fram til at ligner mest.
     
+    #legg til resultatet i resultatsliast
     Resultat.append({
+        "spørringsnummer": i+1,
         "inquiry": inquiry,
         "løsning": løsning,
         "fasit": fasiten,
         "similarity_score": max(similarity_scores)
     })
+    #Hvis løsningen er feil blir det lagt til i ei eigen liste (i tillegg til listen med alle resultat).
+    if løsning != fasiten:
+        feilsvar.append({
+        "spørringsnummer": i+1,
+        "inquiry": inquiry,
+        "løsning": løsning,
+        "fasit": fasiten,
+        "similarity_score": max(similarity_scores)
+        })
+        if highestWrongCoSim is None or max(similarity_scores) < highestWrongCoSim:
+            highestWrongCoSim = max(similarity_scores)
+    else:
+        if lowestCorrectCoSim is None or max(similarity_scores) < lowestCorrectCoSim:
+            lowestCorrectCoSim = max(similarity_scores)
 
+    #Lagrer resultatet i ei tekstfil
     with open('txtandCSV-files/testresults.txt', 'a', encoding='utf-8') as file:
         file.write(f"""
             Spørsmål {i}
@@ -78,20 +100,28 @@ for i, question in enumerate(encoded_user_questions, start = 0):
             CoSim-Score: {max(similarity_scores)}
             """)
 
-# Assuming your nested list is named results_list
-highest_score_løsning_not_fasit = None  # Store the highest score where løsning != fasit
-lowest_score_løsning_equals_fasit = None  # Store the lowest score where løsning = fasit
-
-for result in Resultat:
-    if result["løsning"] != result["fasit"]:
-        # Update the highest score for løsning != fasit condition
-        if highest_score_løsning_not_fasit is None or result["similarity_score"] > highest_score_løsning_not_fasit:
-            highest_score_løsning_not_fasit = result["similarity_score"]
-    else:
-        # Update the lowest score for løsning = fasit condition
-        if lowest_score_løsning_equals_fasit is None or result["similarity_score"] < lowest_score_løsning_equals_fasit:
-            lowest_score_løsning_equals_fasit = result["similarity_score"]
+#Tekstfil som oppsummerer de viktiste resultatene. 
+with open('txtandCSV-files/testresultsoppsumert.txt', 'w', encoding='utf-8') as file:
+    file.write(f"{str(len(feilsvar))} spørringer ga feil resultat. Dette gjaldt følgende spørringer: \n")
+    for i, svar in enumerate(feilsvar):
+        file.write(f"{str(svar['spørringsnummer'])}")
+        if i < len(feilsvar) - 1:
+            if i == len(feilsvar) - 2:
+                file.write(" og ")
+            else:
+                file.write(", ")
+            
+    file.write("\n\n")
+    for i, svar in enumerate(feilsvar):
+        file.write(f"Spørringsnummer: {svar['spørringsnummer']}, ")
+        file.write(f"\nInquiry: {svar['inquiry']}, ")
+        file.write(f"\nLøsning: {svar['løsning']}, ")
+        file.write(f"\nFasit: {svar['fasit']}, ")
+        if i < len(feilsvar)-1:
+            file.write(f"\nSimilarity Score: {svar['similarity_score']}\n\n\n")
+        else:
+            file.write(f"\nSimilarity Score: {svar['similarity_score']}")
 
 # Print the results
-print("Highest similarity score where løsning != fasit:", highest_score_løsning_not_fasit)
-print("Lowest similarity score where løsning = fasit:", lowest_score_løsning_equals_fasit)
+print("Høyest cosine similarity der løsning og fasit ikke er like fasit:", highestWrongCoSim)
+print("Laveste cosine similiarty der fasit og løsning er like:", lowestCorrectCoSim)
