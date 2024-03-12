@@ -71,10 +71,11 @@ for i, question in enumerate(encoded_user_questions, start = 0):
 
     with open('txtandCSV-files/testresults.txt', 'a', encoding='utf-8') as file:
         file.write(f"""
+            Spørsmål {i}
             Spørsmål generert: {inquiry}
             Spørsmål som ligner mest: {løsning}
             Fasit: {fasiten}
-            SimScore: {max(similarity_scores)}
+            CoSim-Score: {max(similarity_scores)}
             """)
 
 # Assuming your nested list is named results_list
