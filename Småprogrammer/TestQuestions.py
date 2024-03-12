@@ -6,6 +6,9 @@
 from sklearn.metrics.pairwise import cosine_similarity  #For å kunne sammenligne setninger, som cosine_similarity tydeligvis er bra til
 from sentence_transformers import SentenceTransformer  #Bruke modellen på setninger
 import numpy as np  #For at python skal jobbe med mattegreier
+import pandas as pd
+import matplotlib.pyplot as plt
+
 
 modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.co/NbAiLab/nb-sbert-base
 modell = SentenceTransformer(modellnavn) #Instansierer BERT modellen . https://huggingface.co/docs/transformers/main_classes/model
@@ -110,18 +113,40 @@ with open('txtandCSV-files/testresultsoppsumert.txt', 'w', encoding='utf-8') as 
                 file.write(" og ")
             else:
                 file.write(", ")
+    file.write(f"\nHøyest cosine similarity der løsning og fasit ikke er like fasit: {highestWrongCoSim}")
+    file.write(f"\nLaveste cosine similiarty der fasit og løsning er like: {lowestCorrectCoSim}")
             
     file.write("\n\n")
     for i, svar in enumerate(feilsvar):
         file.write(f"Spørringsnummer: {svar['spørringsnummer']}, ")
-        file.write(f"\nInquiry: {svar['inquiry']}, ")
-        file.write(f"\nLøsning: {svar['løsning']}, ")
-        file.write(f"\nFasit: {svar['fasit']}, ")
+        file.write(f"\nInquiry: {svar['inquiry']}")
+        file.write(f"\nLøsning: {svar['løsning']}")
+        file.write(f"\nFasit: {svar['fasit']}")
         if i < len(feilsvar)-1:
             file.write(f"\nSimilarity Score: {svar['similarity_score']}\n\n\n")
         else:
             file.write(f"\nSimilarity Score: {svar['similarity_score']}")
 
-# Print the results
+df = pd.DataFrame(feilsvar)
+
+print(df)
+
+# Print resultata
 print("Høyest cosine similarity der løsning og fasit ikke er like fasit:", highestWrongCoSim)
 print("Laveste cosine similiarty der fasit og løsning er like:", lowestCorrectCoSim)
+
+df = pd.DataFrame(Resultat)
+df_sorted = df.sort_values('similarity_score', ascending=False)
+
+plt.figure(figsize=(10, 6))
+# Using a simple range(len()) for the x-axis to avoid specific inquiry number labeling.
+plt.bar(range(len(df_sorted)), df_sorted['similarity_score'], color='purple')
+plt.title('Similarit scores sortert')
+plt.xlabel('Spørringer')
+plt.ylabel('Similarity Score')
+plt.xticks([])  # Remove x-axis labels entirely for an unlabeled effect
+plt.ylim(0, 1)  # Assuming similarity scores range from 0 to 1
+plt.grid(axis='y', linestyle='--', alpha=0.7)
+
+# Show the plot
+plt.show()
