@@ -73,6 +73,8 @@ for i, question in enumerate(encoded_user_questions, start = 0):
     fasiten = fasit[i] #Fasiten, spørsmålet chatGPT har generet skal i teorien ligne mest på dette.
     løsning = most_similar_question #Spørsmålet modellen vår kjem fram til at ligner mest.
     
+    #RESTEN ER BARE DATABEHANDING.
+    
     #legg til resultatet i resultatsliast
     Resultat.append({
         "spørringsnummer": i+1,
@@ -153,4 +155,4 @@ fig, ax = plt.subplots()
 ax.boxplot([resultat_scores, rettsvar_scores, feilsvar_scores], labels=['Resultat', 'Rett svar', 'Feil svar'])
 ax.set_title('Boxplot av Resultat, Rett svar, og Feil svar')
 ax.set_ylabel('Cosine Similarity Scores')
-plt.show()
+plt.savefig("figures/result-boxplot")

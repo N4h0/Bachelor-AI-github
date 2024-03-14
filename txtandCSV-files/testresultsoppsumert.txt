@@ -1,479 +1,283 @@
-68 spørringer ga feil resultat. Dette gjaldt følgende spørringer: 
-73, 94, 97, 99, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 123, 124, 125, 126, 152, 194, 222, 224, 231, 232, 233, 234, 235, 236, 237, 238, 249, 300, 302, 303, 304, 305, 307, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 333, 335, 336, 363, 380, 381, 382, 383, 388, 389, 390, 391, 392, 428, 431 og 432
-Høyest cosine similarity der løsning og fasit ikke er like fasit: 0.534803460747339
-Laveste cosine similiarty der fasit og løsning er like: 0.555387568159833
-
-Spørringsnummer: 73, 
-Inquiry: Hvordan kan jeg få tillatelse til å servere alkohol på min bedrift?
-Løsning: Hvordan utføres omsetningsoppgaven for alkohol?
-Fasit: Hvordan er søknad for serveringsbevilling?
-Similarity Score: 0.661049023332613
-
-
-Spørringsnummer: 94, 
-Inquiry: "Jeg trenger informasjon om hvordan jeg kan registrere meg for å ta etableringsprøven, kan du hjelpe meg med det?"
-Løsning: Hvordan kan jeg bestille en konsultasjon?
-Fasit: Hvordan er søknad for etableringsprøve?
-Similarity Score: 0.722207508444412
-
-
-Spørringsnummer: 97, 
-Inquiry: "Hva må jeg gjøre for å melde meg på etableringsprøven hos regnskapsfirmaet?"
-Løsning: Er det nødvendig for meg å ansette en revisor?
-Fasit: Hvordan er søknad for etableringsprøve?
-Similarity Score: 0.7395288215376303
-
+40 spørringer ga feil resultat. Dette gjaldt følgende spørringer: 
+99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 219, 301, 302, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 384, 385, 386, 387, 388, 389, 390, 391, 392, 425 og 433
+Høyest cosine similarity der løsning og fasit ikke er like fasit: 0.5194921283562854
+Laveste cosine similiarty der fasit og løsning er like: 0.5383500529334246
 
 Spørringsnummer: 99, 
-Inquiry: "Kan du fortelle meg hva som kreves for å søke om registrering av merverdiavgift?"
+Inquiry: Hvordan fungerer søknadsprosessen for registrering av merverdiavgift (mva)?
+Løsning: Hva er merverdiavgift (MVA)?
+Fasit: Hvordan er søknad for registrering av mv?
+Similarity Score: 0.7624697877717319
+
+
+Spørringsnummer: 100, 
+Inquiry: Hvordan går jeg frem for å søke om registrering for merverdiavgift?
 Løsning: Hva er fristen på innsending av merverdiavgift?
 Fasit: Hvordan er søknad for registrering av mv?
-Similarity Score: 0.7505680537609467
+Similarity Score: 0.716967486282716
+
+
+Spørringsnummer: 101, 
+Inquiry: Hvordan kan jeg søke om å bli registrert for merverdiavgift?
+Løsning: Hva er fristen på innsending av merverdiavgift?
+Fasit: Hvordan er søknad for registrering av mv?
+Similarity Score: 0.7322843075249234
 
 
 Spørringsnummer: 102, 
-Inquiry: "Kan du gi meg veiledning om hvordan jeg kan registrere meg for merverdiavgift?"
+Inquiry: Hvordan gjør jeg for å melde meg på for merverdiavgiftsregistrering?
 Løsning: Hva er fristen på innsending av merverdiavgift?
 Fasit: Hvordan er søknad for registrering av mv?
-Similarity Score: 0.6542068693519019
+Similarity Score: 0.6809324569652924
 
 
 Spørringsnummer: 103, 
-Inquiry: "Kan du hjelpe meg med å få veiledning om hvordan jeg kan melde meg opp for merverdiavgift?"
-Løsning: Tilbyr dere bistand med selvangivelsen?
+Inquiry: Hvordan kan jeg registrere meg for merverdiavgift?
+Løsning: Hva er fristen på innsending av merverdiavgift?
 Fasit: Hvordan er søknad for registrering av mv?
-Similarity Score: 0.6377616043271064
+Similarity Score: 0.7179849533068243
 
 
 Spørringsnummer: 104, 
-Inquiry: "Kan du veilede meg gjennom prosessen med å registrere meg for merverdiavgift?"
+Inquiry: Hvordan går jeg frem for å registrere meg for merverdiavgift?
 Løsning: Hva er fristen på innsending av merverdiavgift?
 Fasit: Hvordan er søknad for registrering av mv?
-Similarity Score: 0.631881328805948
+Similarity Score: 0.7216475599097572
 
 
 Spørringsnummer: 105, 
-Inquiry: "Kan du hjelpe meg med å forstå hvordan jeg skal registrere meg for merverdiavgift?"
+Inquiry: Hvordan kan jeg søke om merverdiavgiftsregistrering?
 Løsning: Hva er fristen på innsending av merverdiavgift?
 Fasit: Hvordan er søknad for registrering av mv?
-Similarity Score: 0.6600412427908715
+Similarity Score: 0.7123689515634875
 
 
 Spørringsnummer: 106, 
-Inquiry: "Kan du veilede meg gjennom prosessen med å registrere meg for merverdiavgift?"
+Inquiry: Hvordan går jeg frem for å registrere meg for merverdiavgift?
 Løsning: Hva er fristen på innsending av merverdiavgift?
 Fasit: Hvordan er søknad for registrering av mv?
-Similarity Score: 0.631881328805948
+Similarity Score: 0.7216475599097572
 
 
 Spørringsnummer: 107, 
-Inquiry: "Jeg trenger hjelp til å registrere meg for merverdiavgift, kan du guide meg gjennom prosessen?"
-Løsning: Tilbyr dere bistand med selvangivelsen?
+Inquiry: Hvordan kan jeg søke om registrering for merverdiavgift?
+Løsning: Hva er fristen på innsending av merverdiavgift?
 Fasit: Hvordan er søknad for registrering av mv?
-Similarity Score: 0.6070914912686001
+Similarity Score: 0.7306721370114015
 
 
 Spørringsnummer: 108, 
-Inquiry: "Kan du veilede meg gjennom prosessen med å registrere meg for merverdiavgift?"
+Inquiry: Hvordan kan jeg registrere meg for merverdiavgift?
 Løsning: Hva er fristen på innsending av merverdiavgift?
 Fasit: Hvordan er søknad for registrering av mv?
-Similarity Score: 0.631881328805948
+Similarity Score: 0.7179849533068243
 
 
 Spørringsnummer: 109, 
-Inquiry: "Kan du hjelpe meg med å forstå hva som kreves for å registrere meg for merverdiavgift?"
+Inquiry: Hvordan går jeg frem for å søke om å bli registrert for merverdiavgift?
 Løsning: Hva er fristen på innsending av merverdiavgift?
 Fasit: Hvordan er søknad for registrering av mv?
-Similarity Score: 0.6774191458710543
+Similarity Score: 0.722113161831232
 
 
 Spørringsnummer: 110, 
-Inquiry: "Kan du gi meg veiledning om hva som trengs for å melde meg for merverdiavgift?"
+Inquiry: Hvordan kan jeg søke om å bli registrert for merverdiavgift?
 Løsning: Hva er fristen på innsending av merverdiavgift?
 Fasit: Hvordan er søknad for registrering av mv?
-Similarity Score: 0.6577958043346355
+Similarity Score: 0.7322843075249234
 
 
 Spørringsnummer: 111, 
-Inquiry: "Kan du fortelle meg hva som er nødvendig for å registrere meg for merverdiavgift?"
+Inquiry: Hvordan går jeg frem for å søke om registrering for merverdiavgift?
 Løsning: Hva er fristen på innsending av merverdiavgift?
 Fasit: Hvordan er søknad for registrering av mv?
-Similarity Score: 0.6591572570617591
+Similarity Score: 0.7169674382556455
 
 
 Spørringsnummer: 112, 
-Inquiry: "Jeg trenger informasjon om prosessen for å registrere meg for merverdiavgift, kan du hjelpe meg med det?"
-Løsning: Tilbyr dere bistand med selvangivelsen?
+Inquiry: Hvordan kan jeg søke om registrering for merverdiavgift?
+Løsning: Hva er fristen på innsending av merverdiavgift?
 Fasit: Hvordan er søknad for registrering av mv?
-Similarity Score: 0.6012160942311296
+Similarity Score: 0.7306721370114015
 
 
-Spørringsnummer: 123, 
-Inquiry: Kan du vise meg hvordan jeg skal rapportere inntekter fra salg av alkohol i selvangivelsen? Jeg trenger veiledning gjennom denne prosessen.
-Løsning: Tilbyr dere bistand med selvangivelsen?
-Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-Similarity Score: 0.5806540482579541
-
-
-Spørringsnummer: 124, 
-Inquiry: Kan du hjelpe meg med å forstå hvordan jeg skal rapportere inntekter fra salg av alkohol i selvangivelsen? Jeg trenger veiledning gjennom denne prosessen.
-Løsning: Tilbyr dere bistand med selvangivelsen?
-Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-Similarity Score: 0.5942666610670637
-
-
-Spørringsnummer: 125, 
-Inquiry: Kan du guide meg gjennom rapporteringen av inntekter fra alkoholsalg i selvangivelsen? Jeg trenger hjelp til å forstå og fullføre denne prosessen.
-Løsning: Tilbyr dere bistand med selvangivelsen?
-Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-Similarity Score: 0.5962268110832847
-
-
-Spørringsnummer: 126, 
-Inquiry: Kan du hjelpe meg med å forstå hvordan jeg skal rapportere inntektene fra alkoholsalg i selvangivelsen? Jeg trenger veiledning for å fullføre denne prosessen.
-Løsning: Tilbyr dere bistand med selvangivelsen?
-Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-Similarity Score: 0.6048568435015487
-
-
-Spørringsnummer: 152, 
-Inquiry: "Kan du gi meg detaljer angående regnskapstjenestene deres og hva prisen er per time?"
-Løsning: Kan dere hjelpe til med lønnstjenester?
-Fasit: Hva er timepris for bokføring?
-Similarity Score: 0.7209371797640058
-
-
-Spørringsnummer: 194, 
-Inquiry: Kan du gi meg informasjon om prisen for å få utført årsregnskapet for både enkeltmannsforetak og aksjeselskap?
-Løsning: Hva er pris for registrering av aksjeselskap?
-Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
-Similarity Score: 0.7212667428760484
-
-
-Spørringsnummer: 222, 
-Inquiry: "Kan du gi meg informasjon om fordelene ved å bruke deres regnskapsfirma fremfor å utføre regnskapet selv?"
+Spørringsnummer: 219, 
+Inquiry: Kan en revisor gi meg positiv økonomisk rådgivning og hjelp?
 Løsning: Tilbyr dere bistand med selvangivelsen?
 Fasit: Er det nødvendig for meg å ansette en revisor?
-Similarity Score: 0.5934374688348277
+Similarity Score: 0.6659364019332072
 
 
-Spørringsnummer: 224, 
-Inquiry: "Kan du fortelle meg fordelene ved å bruke deres regnskapsfirma i stedet for å håndtere regnskapet selv?"
-Løsning: Tilbyr dere bistand med selvangivelsen?
-Fasit: Er det nødvendig for meg å ansette en revisor?
-Similarity Score: 0.6020118166658885
-
-
-Spørringsnummer: 231, 
-Inquiry: "Er det pålagt å benytte regnskapsførsel, eller kan man velge å ikke bruke det?"
-Løsning: Hva innebærer bokføringsplikt?
-Fasit: Har alle regnskaps plikt?
-Similarity Score: 0.6918593401779183
-
-
-Spørringsnummer: 232, 
-Inquiry: "Er det obligatorisk å bruke regnskapsførsel, eller kan man velge å ikke benytte det?"
-Løsning: Hva innebærer bokføringsplikt?
-Fasit: Har alle regnskaps plikt?
-Similarity Score: 0.6843821702132332
-
-
-Spørringsnummer: 233, 
-Inquiry: "Er det påkrevd å benytte regnskapsførsel, eller har man frihet til å ikke bruke det?"
-Løsning: Hva innebærer bokføringsplikt?
-Fasit: Har alle regnskaps plikt?
-Similarity Score: 0.6732247964937736
-
-
-Spørringsnummer: 234, 
-Inquiry: "Er det obligatorisk å benytte regnskapsfirma, eller er det valgfritt?"
-Løsning: Er det obligatorisk med revisor for små foretak?
-Fasit: Har alle regnskaps plikt?
-Similarity Score: 0.6095995510069796
-
-
-Spørringsnummer: 235, 
-Inquiry: "Er det påkrevd å engasjere et regnskapsfirma, eller er det opp til meg?"
-Løsning: Er det nødvendig for meg å ansette en revisor?
-Fasit: Har alle regnskaps plikt?
-Similarity Score: 0.8721572992106206
-
-
-Spørringsnummer: 236, 
-Inquiry: "Er det obligatorisk å benytte et regnskapsfirma, eller har jeg valget selv?"
-Løsning: Er det nødvendig for meg å ansette en revisor?
-Fasit: Har alle regnskaps plikt?
-Similarity Score: 0.7807089368939489
-
-
-Spørringsnummer: 237, 
-Inquiry: "Kan jeg velge å ikke bruke et regnskapsfirma, eller er det påkrevd?"
-Løsning: Er det nødvendig for meg å ansette en revisor?
-Fasit: Har alle regnskaps plikt?
-Similarity Score: 0.6730239613210574
-
-
-Spørringsnummer: 238, 
-Inquiry: "Er det frivillig å bruke et regnskapsfirma, eller er det obligatorisk?"
-Løsning: Er det obligatorisk med revisor for små foretak?
-Fasit: Har alle regnskaps plikt?
-Similarity Score: 0.6238645356611001
-
-
-Spørringsnummer: 249, 
-Inquiry: Kan du fortelle meg hva slags ansvar jeg har som kunde når det gjelder regnskapsføring?
-Løsning: Er det nødvendig for meg å ansette en revisor?
-Fasit: Hva innebærer bokføringsplikt?
-Similarity Score: 0.6167745479964277
-
-
-Spørringsnummer: 300, 
-Inquiry: "Kan små bedrifter dra nytte av å bruke regnskapstjenester fra en revisor?"
+Spørringsnummer: 301, 
+Inquiry: Kan små bedrifter dra nytte av å samarbeide med en revisor?
 Løsning: Tilbyr dere rådgivning for småbedrifter?
 Fasit: Er det obligatorisk med revisor for små foretak?
-Similarity Score: 0.776604666441743
+Similarity Score: 0.8138838969455506
 
 
 Spørringsnummer: 302, 
-Inquiry: "Kan du fortelle meg hva små bedrifter kan dra nytte av ved å bruke regnskapstjenester fra en revisor?"
+Inquiry: Kan små bedrifter ha nytte av å samarbeide med et regnskapsfirma?
 Løsning: Tilbyr dere rådgivning for småbedrifter?
 Fasit: Er det obligatorisk med revisor for små foretak?
-Similarity Score: 0.7712458447715
-
-
-Spørringsnummer: 303, 
-Inquiry: "Kan du gi meg informasjon om fordelene for små bedrifter som benytter seg av regnskapstjenester fra en revisor?"
-Løsning: Tilbyr dere rådgivning for småbedrifter?
-Fasit: Er det obligatorisk med revisor for små foretak?
-Similarity Score: 0.7696580270654696
-
-
-Spørringsnummer: 304, 
-Inquiry: "Kan du fortelle meg hvilke fordeler små bedrifter kan oppleve ved å bruke regnskapstjenester fra en revisor?"
-Løsning: Tilbyr dere rådgivning for småbedrifter?
-Fasit: Er det obligatorisk med revisor for små foretak?
-Similarity Score: 0.7271827316162278
-
-
-Spørringsnummer: 305, 
-Inquiry: "Hva er fordelene for små bedrifter med å bruke en revisor for regnskapstjenester?"
-Løsning: Tilbyr dere rådgivning for småbedrifter?
-Fasit: Er det obligatorisk med revisor for små foretak?
-Similarity Score: 0.7672507682318084
-
-
-Spørringsnummer: 307, 
-Inquiry: "Hva er fordelene ved at små bedrifter bruker regnskapstjenester fra en revisor?"
-Løsning: Tilbyr dere rådgivning for småbedrifter?
-Fasit: Er det obligatorisk med revisor for små foretak?
-Similarity Score: 0.7310719194486158
-
-
-Spørringsnummer: 309, 
-Inquiry: Kan du fortelle meg når jeg kan nå dere?
-Løsning: Hvordan kan jeg bestille en konsultasjon?
-Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.534803460747339
-
-
-Spørringsnummer: 310, 
-Inquiry: Hvordan kan jeg kontakte regnskapsfirmaet ditt?
-Løsning: Tilbyr dere bistand med selvangivelsen?
-Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6773636259118533
+Similarity Score: 0.8145363909173193
 
 
 Spørringsnummer: 311, 
-Inquiry: Kan du vennligst gi meg informasjon om hvordan jeg kan komme i kontakt med regnskapsfirmaet ditt?
-Løsning: Tilbyr dere bistand med selvangivelsen?
+Inquiry: Kan du fortelle meg når dere har mulighet til å ta imot henvendelser?
+Løsning: Hva er fristen for å levere A-meldingen?
 Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6391253671736963
+Similarity Score: 0.6027054142614281
 
 
 Spørringsnummer: 312, 
-Inquiry: "Kan du fortelle meg hvordan jeg kan kontakte regnskapsfirmaet ditt?"
-Løsning: Tilbyr dere bistand med selvangivelsen?
+Inquiry: Kan du gi meg informasjon om når dere er tilgjengelige for henvendelser?
+Løsning: Hvordan kan jeg bestille en konsultasjon?
 Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6418758544247443
+Similarity Score: 0.6171560393250994
 
 
 Spørringsnummer: 313, 
-Inquiry: "Jeg trenger å komme i kontakt med regnskapsfirmaet ditt, kan du hjelpe meg med å finne kontaktinformasjonen deres?"
-Løsning: Tilbyr dere bistand med selvangivelsen?
+Inquiry: Kan du fortelle meg når regnskapsfirmaet er tilgjengelig for henvendelser?
+Løsning: Hva er fristen for årsoppgjør?
 Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6124251726928629
+Similarity Score: 0.6490237349741788
 
 
 Spørringsnummer: 314, 
-Inquiry: "Kan du gi meg kontaktinformasjonen til regnskapsfirmaet ditt?"
-Løsning: Tilbyr dere bistand med selvangivelsen?
+Inquiry: Når kan jeg kontakte regnskapsfirmaet ditt?
+Løsning: Er det nødvendig for meg å ansette en revisor?
 Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6264598345230099
+Similarity Score: 0.6103663526120771
 
 
 Spørringsnummer: 315, 
-Inquiry: "Jeg trenger å komme i kontakt med regnskapsfirmaet ditt. Kan du hjelpe meg med å finne kontaktinformasjonen deres?"
-Løsning: Tilbyr dere bistand med selvangivelsen?
+Inquiry: Når er regnskapsfirmaet deres tilgjengelig for kontakt?
+Løsning: Hva er fristen for årsoppgjør?
 Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6032631599341814
+Similarity Score: 0.6589351018980041
 
 
 Spørringsnummer: 316, 
-Inquiry: "Kan du gi meg kontaktinformasjonen til regnskapsfirmaet ditt, jeg trenger å komme i kontakt med dem?"
-Løsning: Er det nødvendig for meg å ansette en revisor?
+Inquiry: Når kan jeg kontakte regnskapsfirmaet deres?
+Løsning: Hva er fristen for årsoppgjør?
 Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6452605427724557
+Similarity Score: 0.6124265519798295
 
 
 Spørringsnummer: 317, 
-Inquiry: "Jeg trenger kontaktinformasjonen til regnskapsfirmaet deres, kan du hjelpe meg med det?"
-Løsning: Tilbyr dere bistand med selvangivelsen?
+Inquiry: Kan du fortelle meg når regnskapsfirmaet deres er tilgjengelig for kontakt?
+Løsning: Hva er fristen for årsoppgjør?
 Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.625621319757935
+Similarity Score: 0.6059535902364062
 
 
 Spørringsnummer: 318, 
-Inquiry: "Er det mulig å få tak i kontaktinformasjonen til regnskapsfirmaet deres?"
-Løsning: Hvilke tjenester tilbyr deres firma?
+Inquiry: Når kan jeg kontakte regnskapsfirmaet deres?
+Løsning: Hva er fristen for årsoppgjør?
 Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6474084344859293
+Similarity Score: 0.6124265519798295
 
 
 Spørringsnummer: 319, 
-Inquiry: "Kan jeg få kontaktinformasjonen til regnskapsfirmaet deres?"
-Løsning: Hvilke tjenester tilbyr deres firma?
+Inquiry: Kan du fortelle meg når regnskapsfirmaet deres er tilgjengelig?
+Løsning: Hva er fristen for årsoppgjør?
 Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6428515626223966
+Similarity Score: 0.6546015045237262
 
 
 Spørringsnummer: 320, 
-Inquiry: "Kan du gi meg kontaktinformasjonen til regnskapsfirmaet ditt?"
-Løsning: Tilbyr dere bistand med selvangivelsen?
+Inquiry: Når har regnskapsfirmaet deres åpent?
+Løsning: Hva er fristen for årsoppgjør?
 Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6264598345230099
+Similarity Score: 0.6143868127114066
 
 
 Spørringsnummer: 321, 
-Inquiry: "Kan du hjelpe meg med å komme i kontakt med regnskapsfirmaet ditt?"
-Løsning: Tilbyr dere bistand med selvangivelsen?
+Inquiry: Hvilke timer kan jeg kontakte regnskapsfirmaet deres?
+Løsning: Hva er timepris for bokføring?
 Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6561701373480389
+Similarity Score: 0.5861444476223096
 
 
 Spørringsnummer: 322, 
-Inquiry: "Kan du assistere meg med å finne kontaktinformasjonen til ditt regnskapsfirma?"
-Løsning: Tilbyr dere bistand med selvangivelsen?
+Inquiry: Når er regnskapsfirmaet deres tilgjengelig for kontakt?
+Løsning: Hva er fristen for årsoppgjør?
 Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6521419555863046
+Similarity Score: 0.6589351018980041
 
 
-Spørringsnummer: 333, 
-Inquiry: "Kan du gi meg informasjon om skatteregler og avgiftsbestemmelser som gjelder for mitt selskap?"
-Løsning: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-Fasit: Tilbyr dere bistand med selvangivelsen?
-Similarity Score: 0.6546088373577978
-
-
-Spørringsnummer: 335, 
-Inquiry: "Kan du gi meg informasjon om skatt og avgiftsbestemmelser som gjelder for mitt selskap?"
-Løsning: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-Fasit: Tilbyr dere bistand med selvangivelsen?
-Similarity Score: 0.6808098603399768
-
-
-Spørringsnummer: 336, 
-Inquiry: "Kan du hjelpe meg med å forstå skatte- og avgiftsreglene som gjelder for min bedrift?"
-Løsning: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-Fasit: Tilbyr dere bistand med selvangivelsen?
-Similarity Score: 0.6759733001364805
-
-
-Spørringsnummer: 363, 
-Inquiry: Kan du gi meg informasjon om adressen til regnskapsfirmaet deres?
-Løsning: Tilbyr dere bistand med selvangivelsen?
-Fasit: Hvor er kontoret deres lokalisert?
-Similarity Score: 0.5968533910471479
-
-
-Spørringsnummer: 380, 
-Inquiry: "Jeg vil gjerne sette opp en avtale for å diskutere mine regnskapsbehov med dere, hvordan kan jeg gjøre det?"
+Spørringsnummer: 384, 
+Inquiry: Hvordan kan jeg planlegge et møte med dere for å diskutere mine regnskapsbehov?
 Løsning: Er det nødvendig for meg å ansette en revisor?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.609747171231928
+Similarity Score: 0.6397804487451308
 
 
-Spørringsnummer: 381, 
-Inquiry: "Hvordan kan jeg avtale en tid for å diskutere mine regnskapsbehov med dere?"
+Spørringsnummer: 385, 
+Inquiry: "Jeg ønsker å diskutere mine regnskapsbehov med dere, hvordan kan jeg avtale et møte?"
 Løsning: Er det nødvendig for meg å ansette en revisor?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.6365228507487087
+Similarity Score: 0.6125676280133695
 
 
-Spørringsnummer: 382, 
-Inquiry: "Kan jeg bestille en avtale for å diskutere min regnskapsmessige situasjon med dere?"
+Spørringsnummer: 386, 
+Inquiry: Hvordan kan jeg avtale en samtale for å gå gjennom mine regnskapsbehov?
 Løsning: Er det nødvendig for meg å ansette en revisor?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.6962312010054913
+Similarity Score: 0.683850405525692
 
 
-Spørringsnummer: 383, 
-Inquiry: "Er det mulig å avtale en samtale for å drøfte min nåværende økonomiske situasjon med dere?"
-Løsning: Kan dere hjelpe til med lønnstjenester?
+Spørringsnummer: 387, 
+Inquiry: Hvordan kan jeg planlegge en gjennomgang av mine regnskapsbehov?
+Løsning: Er det nødvendig for meg å ansette en revisor?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.5862253763586219
+Similarity Score: 0.6399409732661486
 
 
 Spørringsnummer: 388, 
-Inquiry: "Kan jeg avtale en time for å diskutere min økonomi med deres regnskapsfirma?"
+Inquiry: Hvordan kan jeg avtale en gjennomgang av mine regnskapsbehov?
 Løsning: Er det nødvendig for meg å ansette en revisor?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.6194034790195779
+Similarity Score: 0.6799905809429
 
 
 Spørringsnummer: 389, 
-Inquiry: "Er det mulig å booke en avtale for å snakke om min økonomiske situasjon med regnskapsfirmaet deres?"
+Inquiry: Hvordan kan jeg planlegge en gjennomgang av mine regnskapsbehov?
 Løsning: Er det nødvendig for meg å ansette en revisor?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.6459648585499924
+Similarity Score: 0.6399409959270353
 
 
 Spørringsnummer: 390, 
-Inquiry: "Kan jeg avtale en konsultasjon for å diskutere min økonomi med deres regnskapsfirma?"
+Inquiry: Hvordan kan jeg få hjelp til å vurdere mine regnskapsbehov?
 Løsning: Er det nødvendig for meg å ansette en revisor?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.6631569113212777
+Similarity Score: 0.6788946050083761
 
 
 Spørringsnummer: 391, 
-Inquiry: "Er det mulig å avtale en samtale for å gå gjennom min økonomi med deres regnskapsfirma?"
+Inquiry: Hvordan kan jeg få veiledning angående mine regnskapsbehov?
 Løsning: Er det nødvendig for meg å ansette en revisor?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.6667482310576095
+Similarity Score: 0.6630277759649359
 
 
 Spørringsnummer: 392, 
-Inquiry: Kan jeg avtale en samtale for å gjennomgå min økonomi med deres regnskapsfirma?
-Løsning: Er det nødvendig for meg å ansette en revisor?
+Inquiry: Hvordan kan jeg få hjelp med mine regnskapsbehov?
+Løsning: Tilbyr dere bistand med selvangivelsen?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.6351916846671204
+Similarity Score: 0.6815410466931988
 
 
-Spørringsnummer: 428, 
-Inquiry: Kan du fortelle meg mer om hva slags tjenester dere tilbyr hos regnskapsfirmaet?
+Spørringsnummer: 425, 
+Inquiry: Kan jeg få informasjon om tjenestene som tilbys av regnskapsfirmaet ditt?
 Løsning: Tilbyr dere bistand med selvangivelsen?
 Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.7100612948355259
+Similarity Score: 0.7209099361816513
 
 
-Spørringsnummer: 431, 
-Inquiry: Jeg er interessert i å få informasjon om hvilke tjenester regnskapsfirmaet tilbyr. Kan du hjelpe meg med å få den informasjonen?
-Løsning: Tilbyr dere bistand med selvangivelsen?
+Spørringsnummer: 433, 
+Inquiry: Kan du gi meg mer informasjon om deres tjenesteutvalg?
+Løsning: Hvordan kan jeg bestille en konsultasjon?
 Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.6880684667682402
-
-
-Spørringsnummer: 432, 
-Inquiry: Selvfølgelig! Jeg kan hjelpe deg med å få informasjon om hvilke tjenester regnskapsfirmaet tilbyr. Hva vil du vite?
-Løsning: Tilbyr dere bistand med selvangivelsen?
-Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.6660526900757326
+Similarity Score: 0.5896541383458469

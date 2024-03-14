@@ -15,6 +15,7 @@ with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file:
             questions.append(line[3:].strip())
 
 #Generer et spørsmål for hvert spørsmål i spørsmålslisten.
+i=0
 for question in questions:
     promptquestion = question
     for i in range(1,15):
@@ -22,6 +23,7 @@ for question in questions:
                     {"role": "user", "content": f"""
 Du er en kunde for et regnskapsfirma, og ønsker informasjon fra en chatbot.
 Spørsmålet du stiller stilles annerledes enn dette spørsmålet, men har samme betydning: {promptquestion}. 
+Spørsmålet har samme betydning som {question}.
 """}
         ]
         stream = client.chat.completions.create(
@@ -30,12 +32,13 @@ Spørsmålet du stiller stilles annerledes enn dette spørsmålet, men har samme
         stream=True,
         )
         promptquestion = ""
+        for chunk in stream: #returnerer ein og ein token, så må loope gjennom heile streamen og legge til tokens ein og ein
+            content = chunk.choices[0].delta.content
+            if content:
+                promptquestion += content 
         with open('txtandCSV-files/chatQA.txt', 'a', encoding='utf-8') as file:
-            file.write("I: ")
-            for chunk in stream:
-                content = chunk.choices[0].delta.content
-                if content:
-                    promptquestion += content
-            file.write(promptquestion)
+            file.write("Spørringsnummer: " + str(i) + "\n")
+            file.write("I: " + promptquestion)
             file.write("\n" + "Q: " + question + "\n\n")
         print(promptquestion)
+        i += 1
