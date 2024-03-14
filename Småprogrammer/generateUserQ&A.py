@@ -14,11 +14,17 @@ with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file:
         if line.startswith('Q:'):
             questions.append(line[3:].strip())
 
+
+
 #Generer et spørsmål for hvert spørsmål i spørsmålslisten.
 for question in questions:
+    promptquestion = question
     for i in range(1,15):
         message = [
-                    {"role": "user", "content": f"Generer et spørsmål som er likt dette spørsmålet, men skrevet på en annen måte. Du er en kunde for et regnskapsfirma, og undersøker nettsiden deres: {question}"}
+                    {"role": "user", "content": f"""
+Du er en kunde for et regnskapsfirma, og ønsker informasjon fra en chatbot.
+Spørsmålet du stiller stilles HELT annerledes enn dette spørsmålet: {promptquestion}. 
+"""}
         ]
         stream = client.chat.completions.create(
         model="gpt-3.5-turbo-1106",
@@ -30,6 +36,6 @@ for question in questions:
             for chunk in stream:
                 content = chunk.choices[0].delta.content
                 if content:
-                    print(content, end = "")
                     file.write(content)
+                    promptquestion = content
             file.write("\n" + "Q: " + question + "\n\n")
