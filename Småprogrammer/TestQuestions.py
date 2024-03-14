@@ -21,6 +21,7 @@ fasit = [] #Lista somk inneheld fasiten aka spørsmåla chatGPT har generert i t
 spørsmål = [] #Liste med spørmsåla chatGPT har laga
 søkeliste = [] #Liste som programmet søker gjennom for å finne spørsmål som ligner mest.
 
+
 with open('txtandCSV-files/chatQA.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den og enkoder som uft-8 (lar Æ, Ø og å vere med)
     for line in file:
         if line.startswith('Q:'):
@@ -35,6 +36,7 @@ with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file: #Opne Q&A, 
     for line in file:
         if line.startswith('Q:'):
             søkeliste.append(line[3:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.
+    
 
 encoded_questions = np.loadtxt('txtandCSV-files/Q&A_embedded.csv', delimiter=',') #henter ut lista med spørsmål som alt er "encoda".
 encoded_user_questions = modell.encode(spørsmål)
@@ -54,6 +56,7 @@ with open('txtandCSV-files/testresults.txt', 'w', encoding='utf-8') as file:
     file.write("")
 
 Resultat = []
+rettsvar = []
 feilsvar =[]
 highestWrongCoSim = None
 lowestCorrectCoSim = None
@@ -87,8 +90,17 @@ for i, question in enumerate(encoded_user_questions, start = 0):
         "fasit": fasiten,
         "similarity_score": max(similarity_scores)
         })
-        if highestWrongCoSim is None or max(similarity_scores) < highestWrongCoSim:
-            highestWrongCoSim = max(similarity_scores)
+    else:
+        rettsvar.append({
+        "spørringsnummer": i+1,
+        "inquiry": inquiry,
+        "løsning": løsning,
+        "fasit": fasiten,
+        "similarity_score": max(similarity_scores)
+        })
+    
+    if highestWrongCoSim is None or max(similarity_scores) < highestWrongCoSim:
+        highestWrongCoSim = max(similarity_scores)
     else:
         if lowestCorrectCoSim is None or max(similarity_scores) < lowestCorrectCoSim:
             lowestCorrectCoSim = max(similarity_scores)
@@ -131,22 +143,14 @@ df = pd.DataFrame(feilsvar)
 
 print(df)
 
-# Print resultata
-print("Høyest cosine similarity der løsning og fasit ikke er like fasit:", highestWrongCoSim)
-print("Laveste cosine similiarty der fasit og løsning er like:", lowestCorrectCoSim)
+resultat_scores = [item['similarity_score'] for item in Resultat]
+rettsvar_scores = [item['similarity_score'] for item in rettsvar]
+feilsvar_scores = [item['similarity_score'] for item in feilsvar]
 
-df = pd.DataFrame(Resultat)
-df_sorted = df.sort_values('similarity_score', ascending=False)
 
-plt.figure(figsize=(10, 6))
-# Using a simple range(len()) for the x-axis to avoid specific inquiry number labeling.
-plt.bar(range(len(df_sorted)), df_sorted['similarity_score'], color='purple')
-plt.title('Similarit scores sortert')
-plt.xlabel('Spørringer')
-plt.ylabel('Similarity Score')
-plt.xticks([])  # Remove x-axis labels entirely for an unlabeled effect
-plt.ylim(0, 1)  # Assuming similarity scores range from 0 to 1
-plt.grid(axis='y', linestyle='--', alpha=0.7)
-
-# Show the plot
+# Creating the boxplots
+fig, ax = plt.subplots()
+ax.boxplot([resultat_scores, rettsvar_scores, feilsvar_scores], labels=['Resultat', 'Rett svar', 'Feil svar'])
+ax.set_title('Boxplot av Resultat, Rett svar, og Feil svar')
+ax.set_ylabel('Cosine Similarity Scores')
 plt.show()
