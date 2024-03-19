@@ -119,7 +119,7 @@ for i, question in enumerate(encoded_user_questions, start = 0):
 
 #Tekstfil som oppsummerer de viktiste resultatene. 
 with open('txtandCSV-files/testresultsoppsumert.txt', 'w', encoding='utf-8') as file:
-    file.write(f"{str(len(feilsvar))} spørringer ga feil resultat. Dette gjaldt følgende spørringer: \n")
+    file.write(f"{str(len(feilsvar))} av {str(len(Resultat))} av spørringer ga feil resultat. Dette gjaldt følgende spørringer: \n")
     for i, svar in enumerate(feilsvar):
         file.write(f"{str(svar['spørringsnummer'])}")
         if i < len(feilsvar) - 1:

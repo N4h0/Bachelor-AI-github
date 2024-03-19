@@ -14,11 +14,16 @@ with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file:
         if line.startswith('Q:'):
             questions.append(line[3:].strip())
 
+print(questions)
+
 #Generer et spørsmål for hvert spørsmål i spørsmålslisten.
 i=0
 for question in questions:
     promptquestion = question
-    for i in range(1,15):
+    if i != 0:
+        with open('txtandCSV-files/chatQA.txt', 'a', encoding='utf-8') as file:
+            file.write(f"\n_____________NYTT SPØRSMÅL: {question}_____________\n")
+    for j in range(1,15):
         message = [
                     {"role": "user", "content": f"""
 Du er en kunde for et regnskapsfirma, og ønsker informasjon fra en chatbot.
@@ -26,7 +31,12 @@ Spørsmålet du stiller stilles annerledes enn dette spørsmålet, men har samme
 Spørsmålet har samme betydning som {question}.
 """}
         ]
+        
         stream = client.chat.completions.create(
+        temperature=1.0, #https://platform.openai.com/docs/api-reference/audio
+        #sjekk og
+        #https://community.openai.com/t/cheat-sheet-mastering-temperature-and-top-p-in-chatgpt-api/172683
+        #https://aimresearch.co/leaders-opinion/leaders-opinion-how-temperature-affects-chatgpt-with-rachael-chudoba
         model="gpt-3.5-turbo-1106",
         messages=message,
         stream=True,

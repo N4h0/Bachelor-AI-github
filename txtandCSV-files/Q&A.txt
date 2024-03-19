@@ -11,15 +11,15 @@ Q: Hva er fristen for årsoppgjør?
 A: 
 
 Q: Hvordan registrerer jeg et enkeltpersonforetak?
-A:
+A: 
 
-Q: Hvordan er søknad for serveringsbevilling?
+Q: Hvordan søker jeg om serveringsbevilling?
 A: 
 
 Q: Hvordan er søknad for etableringsprøve?
 A: 
 
-Q: Hvordan er søknad for registrering av mv?
+Q: Hvordan søker jeg om registrering av mva?
 A: 
 
 Q: Hvordan utføres omsetningsoppgaven for alkohol?
