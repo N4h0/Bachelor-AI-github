@@ -1,2605 +1,721 @@
 
             Spørsmål 0
-            Spørsmål generert: Når er fristen for å sende inn merverdiavgift?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
+            Spørsmål generert: What is the deadline for submitting value-added tax?
+            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
             Fasit: Hva er fristen på innsending av merverdiavgift?
-            CoSim-Score: 0.9299511494014707
+            CoSim-Score: 0.7881264741144762
             
             Spørsmål 1
-            Spørsmål generert: Når er den siste datoen jeg kan sende inn merverdiavgift?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
+            Spørsmål generert: When is the deadline for filing VAT?
+            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
             Fasit: Hva er fristen på innsending av merverdiavgift?
-            CoSim-Score: 0.7046816542530623
+            CoSim-Score: 0.6258856960414165
             
             Spørsmål 2
-            Spørsmål generert: Hvordan finner jeg ut når fristen for innsending av merverdiavgift er?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
+            Spørsmål generert: What is the due date for submitting VAT?
+            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
             Fasit: Hva er fristen på innsending av merverdiavgift?
-            CoSim-Score: 0.9148374364515738
+            CoSim-Score: 0.5955584189938323
             
             Spørsmål 3
-            Spørsmål generert: Når er fristen for å sende inn merverdiavgift?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
+            Spørsmål generert: What is the deadline for VAT submission?
+            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
             Fasit: Hva er fristen på innsending av merverdiavgift?
-            CoSim-Score: 0.9299511494014707
+            CoSim-Score: 0.652399681556336
             
             Spørsmål 4
-            Spørsmål generert: Når er siste frist for å levere inn merverdiavgift?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hva er fristen på innsending av merverdiavgift?
-            CoSim-Score: 0.7834925868605783
+            Spørsmål generert: What is value added tax (VAT)?
+            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
+            Fasit: Hva er merverdiavgift (MVA)?
+            CoSim-Score: 0.5992466125080015
             
             Spørsmål 5
-            Spørsmål generert: Hva er den siste datoen jeg kan levere inn merverdiavgiftsoppgaven?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hva er fristen på innsending av merverdiavgift?
-            CoSim-Score: 0.6425501948493391
+            Spørsmål generert: What does the acronym VAT stand for, and what is its significance in accounting?
+            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
+            Fasit: Hva er merverdiavgift (MVA)?
+            CoSim-Score: 0.5165566240182091
             
             Spørsmål 6
-            Spørsmål generert: Når er den siste datoen for å levere merverdiavgiftsoppgaven?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hva er fristen på innsending av merverdiavgift?
-            CoSim-Score: 0.6821912332127238
+            Spørsmål generert: What is the acronym VAT, and how does it impact accounting practices?
+            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
+            Fasit: Hva er merverdiavgift (MVA)?
+            CoSim-Score: 0.5147061334329405
             
             Spørsmål 7
-            Spørsmål generert: Hva er den endelige datoen for å sende inn merverdiavgiftsoppgaven?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hva er fristen på innsending av merverdiavgift?
-            CoSim-Score: 0.7797974669883018
+            Spørsmål generert: What does the acronym VAT stand for, and what are its implications for accounting procedures?
+            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
+            Fasit: Hva er merverdiavgift (MVA)?
+            CoSim-Score: 0.521424784870219
             
             Spørsmål 8
-            Spørsmål generert: Når er siste frist for å sende inn merverdiavgiftsoppgaven?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hva er fristen på innsending av merverdiavgift?
-            CoSim-Score: 0.7456616200851834
+            Spørsmål generert: What is the deadline for submitting the tax return?
+            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
+            Fasit: Hva er fristen på innsending av skattemelding?
+            CoSim-Score: 0.7855253307451124
             
             Spørsmål 9
-            Spørsmål generert: Hva er den siste datoen for å sende inn merverdiavgiftsoppgaven?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hva er fristen på innsending av merverdiavgift?
-            CoSim-Score: 0.6344563067001046
+            Spørsmål generert: What is the due date for filing the tax return?
+            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
+            Fasit: Hva er fristen på innsending av skattemelding?
+            CoSim-Score: 0.6940787795106855
             
             Spørsmål 10
-            Spørsmål generert: Når er den endelige datoen for å sende inn merverdiavgiftsoppgaven?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hva er fristen på innsending av merverdiavgift?
-            CoSim-Score: 0.8251429544458163
+            Spørsmål generert: When is the deadline for submitting the tax return?
+            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
+            Fasit: Hva er fristen på innsending av skattemelding?
+            CoSim-Score: 0.7721751001592407
             
             Spørsmål 11
-            Spørsmål generert: Når er fristen for å levere merverdiavgiftsoppgaven?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hva er fristen på innsending av merverdiavgift?
-            CoSim-Score: 0.9181512751122838
+            Spørsmål generert: What is the deadline for filing the tax return?
+            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
+            Fasit: Hva er fristen på innsending av skattemelding?
+            CoSim-Score: 0.735628250439449
             
             Spørsmål 12
-            Spørsmål generert: Når må merverdiavgiftsoppgaven leveres?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hva er fristen på innsending av merverdiavgift?
-            CoSim-Score: 0.8706098023484519
+            Spørsmål generert: What is the deadline for annual financial statements?
+            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
+            Fasit: Hva er fristen for årsoppgjør?
+            CoSim-Score: 0.8519947773995997
             
             Spørsmål 13
-            Spørsmål generert: Når er det siste frist for å levere merverdiavgiftsoppgaven?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hva er fristen på innsending av merverdiavgift?
-            CoSim-Score: 0.7346269292319969
+            Spørsmål generert: What is the deadline for filing annual financial statements?
+            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
+            Fasit: Hva er fristen for årsoppgjør?
+            CoSim-Score: 0.7584975152765567
             
             Spørsmål 14
-            Spørsmål generert: Kan du forklare meg hva moms (MVA) er?
-            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
-            Fasit: Hva er merverdiavgift (MVA)?
-            CoSim-Score: 0.8713115282498662
+            Spørsmål generert: What is the deadline for submitting the annual financial reports?
+            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
+            Fasit: Hva er fristen for årsoppgjør?
+            CoSim-Score: 0.8197564129757262
             
             Spørsmål 15
-            Spørsmål generert: Kan du gi meg en forklaring på begrepet moms (MVA)?
-            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
-            Fasit: Hva er merverdiavgift (MVA)?
-            CoSim-Score: 0.8398597553316529
+            Spørsmål generert: What is the deadline for filing the year-end financial statements?
+            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
+            Fasit: Hva er fristen for årsoppgjør?
+            CoSim-Score: 0.7474925023226877
             
             Spørsmål 16
-            Spørsmål generert: Kan du forklare hva moms (MVA) er?
-            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
-            Fasit: Hva er merverdiavgift (MVA)?
-            CoSim-Score: 0.9004084040139894
+            Spørsmål generert: How do I go about registering a sole proprietorship?
+            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
+            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
+            CoSim-Score: 0.7156416851821396
             
             Spørsmål 17
-            Spørsmål generert: Kan du gi meg en forklaring på hva moms (MVA) er?
-            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
-            Fasit: Hva er merverdiavgift (MVA)?
-            CoSim-Score: 0.850103118464808
+            Spørsmål generert: How can I register a sole proprietorship?
+            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
+            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
+            CoSim-Score: 0.6726449694323988
             
             Spørsmål 18
-            Spørsmål generert: Kan du forklare meg hva moms (MVA) er?
-            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
-            Fasit: Hva er merverdiavgift (MVA)?
-            CoSim-Score: 0.8713115282498662
+            Spørsmål generert: What is the process for registering a sole proprietorship?
+            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
+            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
+            CoSim-Score: 0.567625012895304
             
             Spørsmål 19
-            Spørsmål generert: Kan du gi meg en forklaring på moms (MVA)?
-            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
-            Fasit: Hva er merverdiavgift (MVA)?
-            CoSim-Score: 0.8252025699129414
+            Spørsmål generert: How do I go about registering a sole proprietorship?
+            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
+            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
+            CoSim-Score: 0.7156416851821396
             
             Spørsmål 20
-            Spørsmål generert: Kan du hjelpe meg med å forstå hva moms (MVA) er?
-            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
-            Fasit: Hva er merverdiavgift (MVA)?
-            CoSim-Score: 0.8100515634276675
+            Spørsmål generert: How do I apply for a liquor license?
+            Spørsmål som ligner mest: Hvordan søker jeg om serveringsbevilling?
+            Fasit: Hvordan søker jeg om serveringsbevilling?
+            CoSim-Score: 0.6433153844188483
             
             Spørsmål 21
-            Spørsmål generert: Kan du gi meg informasjon om hva moms (MVA) betyr og hvordan det påvirker min bedrift?
-            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
-            Fasit: Hva er merverdiavgift (MVA)?
-            CoSim-Score: 0.7608029172157962
+            Spørsmål generert: How can I obtain a liquor license?
+            Spørsmål som ligner mest: Hvordan søker jeg om serveringsbevilling?
+            Fasit: Hvordan søker jeg om serveringsbevilling?
+            CoSim-Score: 0.6196005844243739
             
             Spørsmål 22
-            Spørsmål generert: Kan du forklare meg hva moms (MVA) er, og hvordan det påvirker min bedrift?
-            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
-            Fasit: Hva er merverdiavgift (MVA)?
-            CoSim-Score: 0.7848684268850374
+            Spørsmål generert: What is the process for applying for a liquor license?
+            Spørsmål som ligner mest: Hvordan søker jeg om serveringsbevilling?
+            Fasit: Hvordan søker jeg om serveringsbevilling?
+            CoSim-Score: 0.513869989544357
             
             Spørsmål 23
-            Spørsmål generert: Kan du gi meg en forklaring på hva moms (MVA) er, og hvordan det påvirker min bedrift?
-            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
-            Fasit: Hva er merverdiavgift (MVA)?
-            CoSim-Score: 0.7777520200428076
+            Spørsmål generert: How do I apply for a liquor license?
+            Spørsmål som ligner mest: Hvordan søker jeg om serveringsbevilling?
+            Fasit: Hvordan søker jeg om serveringsbevilling?
+            CoSim-Score: 0.6433153844188483
             
             Spørsmål 24
-            Spørsmål generert: Kan du gi meg en forklaring på hva moms er, og hvordan det påvirker min bedrift?
-            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
-            Fasit: Hva er merverdiavgift (MVA)?
-            CoSim-Score: 0.6468330473767734
+            Spørsmål generert: What is the application process like for the establishment test?
+            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
+            Fasit: Hvordan er søknad for etableringsprøve?
+            CoSim-Score: 0.8262789148234987
             
             Spørsmål 25
-            Spørsmål generert: Kan du gi meg en forklaring på hva moms er, og hvordan det påvirker min bedrift?
-            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
-            Fasit: Hva er merverdiavgift (MVA)?
-            CoSim-Score: 0.6468330473767734
+            Spørsmål generert: How do I apply for the establishment test?
+            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
+            Fasit: Hvordan er søknad for etableringsprøve?
+            CoSim-Score: 0.7596062997546856
             
             Spørsmål 26
-            Spørsmål generert: Kan du forklare meg hva moms er, og hvordan det påvirker min bedrift?
-            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
-            Fasit: Hva er merverdiavgift (MVA)?
-            CoSim-Score: 0.6591021218513571
+            Spørsmål generert: What is the process for applying for the establishment test?
+            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
+            Fasit: Hvordan er søknad for etableringsprøve?
+            CoSim-Score: 0.8266849624244825
             
             Spørsmål 27
-            Spørsmål generert: Kan du gi en forklaring på begrepet moms og hvordan det påvirker min bedrift?
-            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
-            Fasit: Hva er merverdiavgift (MVA)?
-            CoSim-Score: 0.6429976914244269
+            Spørsmål generert: How do I apply for the establishment test?
+            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
+            Fasit: Hvordan er søknad for etableringsprøve?
+            CoSim-Score: 0.7596062997546856
             
             Spørsmål 28
-            Spørsmål generert: Når er fristen for å levere skattemeldingen?
-            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
-            Fasit: Hva er fristen på innsending av skattemelding?
-            CoSim-Score: 0.9315838708696806
+            Spørsmål generert: How can I apply for VAT registration?
+            Spørsmål som ligner mest: Hvordan søker jeg om registrering av mva?
+            Fasit: Hvordan søker jeg om registrering av mva?
+            CoSim-Score: 0.6358751278369158
             
             Spørsmål 29
-            Spørsmål generert: Når er siste frist for å levere skattemeldingen?
-            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
-            Fasit: Hva er fristen på innsending av skattemelding?
-            CoSim-Score: 0.7618614245431254
+            Spørsmål generert: How do I go about applying for VAT registration?
+            Spørsmål som ligner mest: Hvordan søker jeg om registrering av mva?
+            Fasit: Hvordan søker jeg om registrering av mva?
+            CoSim-Score: 0.6382291705318783
             
             Spørsmål 30
-            Spørsmål generert: Kan du gi meg informasjon om den siste fristen for å levere skattemeldingen?
-            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
-            Fasit: Hva er fristen på innsending av skattemelding?
-            CoSim-Score: 0.6937064276811507
+            Spørsmål generert: What is the process for applying for VAT registration?
+            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
+            Fasit: Hvordan søker jeg om registrering av mva?
+            CoSim-Score: 0.5790183675012606
             
             Spørsmål 31
-            Spørsmål generert: Når er fristen for å levere skattemeldingen?
-            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
-            Fasit: Hva er fristen på innsending av skattemelding?
-            CoSim-Score: 0.9315838708696806
+            Spørsmål generert: How do I apply for VAT registration?
+            Spørsmål som ligner mest: Hvordan søker jeg om registrering av mva?
+            Fasit: Hvordan søker jeg om registrering av mva?
+            CoSim-Score: 0.6521100736858964
             
             Spørsmål 32
-            Spørsmål generert: Når må skattemeldingen leveres?
-            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
-            Fasit: Hva er fristen på innsending av skattemelding?
-            CoSim-Score: 0.8864010286265408
+            Spørsmål generert: How is the turnover declaration for alcohol carried out?
+            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
+            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
+            CoSim-Score: 0.8194557016578107
             
             Spørsmål 33
-            Spørsmål generert: Kan du fortelle meg når skattemeldingen må leveres?
-            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
-            Fasit: Hva er fristen på innsending av skattemelding?
-            CoSim-Score: 0.8396510540007601
+            Spørsmål generert: How is the alcohol turnover declaration processed?
+            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
+            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
+            CoSim-Score: 0.7902343664187925
             
             Spørsmål 34
-            Spørsmål generert: Når er fristen for å levere skattemeldingen?
-            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
-            Fasit: Hva er fristen på innsending av skattemelding?
-            CoSim-Score: 0.9315838708696806
+            Spørsmål generert: How is the alcohol sales report processed?
+            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
+            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
+            CoSim-Score: 0.8392793377123144
             
             Spørsmål 35
-            Spørsmål generert: Når må jeg levere skattemeldingen?
-            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
-            Fasit: Hva er fristen på innsending av skattemelding?
-            CoSim-Score: 0.8261061130646307
+            Spørsmål generert: In what way is the alcohol sales report handled?
+            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
+            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
+            CoSim-Score: 0.8470325766769455
             
             Spørsmål 36
-            Spørsmål generert: Når er fristen for å levere skattemeldingen?
-            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
-            Fasit: Hva er fristen på innsending av skattemelding?
-            CoSim-Score: 0.9315838708696806
+            Spørsmål generert: What is the deadline for submitting the A-melding?
+            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
+            Fasit: Hva er fristen for å levere A-meldingen?
+            CoSim-Score: 0.9284580740634687
             
             Spørsmål 37
-            Spørsmål generert: "Hva er tidsfristen for innlevering av skattemeldingen?"
-            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
-            Fasit: Hva er fristen på innsending av skattemelding?
-            CoSim-Score: 0.9502538269317703
+            Spørsmål generert: What is the last date to submit the A-melding?
+            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
+            Fasit: Hva er fristen for å levere A-meldingen?
+            CoSim-Score: 0.5943143742595054
             
             Spørsmål 38
-            Spørsmål generert: "Kan du fortelle meg når skattemeldingen må leveres inn?"
-            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
-            Fasit: Hva er fristen på innsending av skattemelding?
-            CoSim-Score: 0.8526960625876353
+            Spørsmål generert: What is the deadline for submitting the A-melding?
+            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
+            Fasit: Hva er fristen for å levere A-meldingen?
+            CoSim-Score: 0.9284580740634687
             
             Spørsmål 39
-            Spørsmål generert: "Kan du gi meg informasjon om fristen for å levere skattemeldingen?"
-            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
-            Fasit: Hva er fristen på innsending av skattemelding?
-            CoSim-Score: 0.892720370167614
+            Spørsmål generert: What is the A-melding submission deadline?
+            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
+            Fasit: Hva er fristen for å levere A-meldingen?
+            CoSim-Score: 0.9022507528575558
             
             Spørsmål 40
-            Spørsmål generert: Kan du fortelle meg når fristen for å levere skattemeldingen er?
-            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
-            Fasit: Hva er fristen på innsending av skattemelding?
-            CoSim-Score: 0.901268275796649
+            Spørsmål generert: What is the hourly rate for bookkeeping services?
+            Spørsmål som ligner mest: Hva er timepris for bokføring?
+            Fasit: Hva er timepris for bokføring?
+            CoSim-Score: 0.6246512035583038
             
             Spørsmål 41
-            Spørsmål generert: Når må jeg levere skattemeldingen?
-            Spørsmål som ligner mest: Hva er fristen på innsending av skattemelding?
-            Fasit: Hva er fristen på innsending av skattemelding?
-            CoSim-Score: 0.8261061130646307
+            Spørsmål generert: What is the cost per hour for bookkeeping services?
+            Spørsmål som ligner mest: Hva er timepris for bokføring?
+            Fasit: Hva er timepris for bokføring?
+            CoSim-Score: 0.7636739105472806
             
             Spørsmål 42
-            Spørsmål generert: Når er siste frist for å levere årsregnskapet?
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er fristen for årsoppgjør?
-            CoSim-Score: 0.7414782858742158
+            Spørsmål generert: How much does the bookkeeping service charge per hour?
+            Spørsmål som ligner mest: Hva er timepris for bokføring?
+            Fasit: Hva er timepris for bokføring?
+            CoSim-Score: 0.7225617302911418
             
             Spørsmål 43
-            Spørsmål generert: "Kan du fortelle meg når siste frist er for å levere årsregnskapet?"
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er fristen for årsoppgjør?
-            CoSim-Score: 0.7197429032801568
+            Spørsmål generert: What is the hourly rate for bookkeeping services?
+            Spørsmål som ligner mest: Hva er timepris for bokføring?
+            Fasit: Hva er timepris for bokføring?
+            CoSim-Score: 0.6246512035583038
             
             Spørsmål 44
-            Spørsmål generert: "Når er siste frist for å levere årsregnskapet?"
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er fristen for årsoppgjør?
-            CoSim-Score: 0.7477660936460576
+            Spørsmål generert: What are the fees for registering a sole proprietorship?
+            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
+            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
+            CoSim-Score: 0.7131228701972143
             
             Spørsmål 45
-            Spørsmål generert: "Kan du fortelle meg når årsregnskapet må leveres?"
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er fristen for årsoppgjør?
-            CoSim-Score: 0.8217948629987764
+            Spørsmål generert: How much does it cost to register a sole proprietorship?
+            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
+            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
+            CoSim-Score: 0.6927461216784264
             
             Spørsmål 46
-            Spørsmål generert: "Når er siste frist for å levere årsregnskapet?"
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er fristen for årsoppgjør?
-            CoSim-Score: 0.7477660936460576
+            Spørsmål generert: What is the fee for setting up a sole proprietorship?
+            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
+            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
+            CoSim-Score: 0.6082968316030868
             
             Spørsmål 47
-            Spørsmål generert: "Hva er den siste datoen for å sende inn årsregnskapet?"
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er fristen for årsoppgjør?
-            CoSim-Score: 0.5948532222706153
+            Spørsmål generert: What is the cost of establishing a sole proprietorship?
+            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
+            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
+            CoSim-Score: 0.6181735124741912
             
             Spørsmål 48
-            Spørsmål generert: Når er siste frist for å levere årsregnskapet?
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er fristen for årsoppgjør?
-            CoSim-Score: 0.7414782858742158
+            Spørsmål generert: What are the costs involved in registering a private limited company?
+            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
+            Fasit: Hva er pris for registrering av aksjeselskap?
+            CoSim-Score: 0.6801638964326446
             
             Spørsmål 49
-            Spørsmål generert: Når er fristen for å sende inn årsregnskapet?
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er fristen for årsoppgjør?
-            CoSim-Score: 0.8973230849795799
+            Spørsmål generert: How much does it cost to register a private limited company?
+            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
+            Fasit: Hva er pris for registrering av aksjeselskap?
+            CoSim-Score: 0.6977165696537551
             
             Spørsmål 50
-            Spørsmål generert: Når er siste frist for å levere inn årsregnskapet?
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er fristen for årsoppgjør?
-            CoSim-Score: 0.7490898235433601
+            Spørsmål generert: What are the fees for setting up a private limited company?
+            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
+            Fasit: Hva er pris for registrering av aksjeselskap?
+            CoSim-Score: 0.6642000358051029
             
             Spørsmål 51
-            Spørsmål generert: Hva er dato for siste frist for innlevering av årsregnskapet?
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er fristen for årsoppgjør?
-            CoSim-Score: 0.6909493149522244
+            Spørsmål generert: What is the cost for establishing a private limited company?
+            Spørsmål som ligner mest: Hva er pris for registrering av aksjeselskap?
+            Fasit: Hva er pris for registrering av aksjeselskap?
+            CoSim-Score: 0.6384970453068671
             
             Spørsmål 52
-            Spørsmål generert: Når er siste frist for innlevering av årsregnskapet?
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er fristen for årsoppgjør?
-            CoSim-Score: 0.7303116284125712
+            Spørsmål generert: What are the costs for annual accounts for an EPF and a stock company?
+            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
+            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
+            CoSim-Score: 0.7981398160851741
             
             Spørsmål 53
-            Spørsmål generert: Når er siste frist for innlevering av årsregnskapet?
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er fristen for årsoppgjør?
-            CoSim-Score: 0.7303116284125712
+            Spørsmål generert: What is the pricing for annual accounts for an EPF and a stock company?
+            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
+            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
+            CoSim-Score: 0.8746983988988822
             
             Spørsmål 54
-            Spørsmål generert: Når må vi levere inn årsregnskapet?
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er fristen for årsoppgjør?
-            CoSim-Score: 0.8344048737702052
+            Spørsmål generert: What are the costs for annual financial statements for an EPF and a stock company?
+            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
+            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
+            CoSim-Score: 0.7823268065185776
             
             Spørsmål 55
-            Spørsmål generert: Når er fristen for å levere inn årsregnskapet?
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er fristen for årsoppgjør?
-            CoSim-Score: 0.8976402880303945
+            Spørsmål generert: What is the pricing for annual financial statements for an EPF and a stock company?
+            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
+            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
+            CoSim-Score: 0.8676069004747979
             
             Spørsmål 56
-            Spørsmål generert: Hvordan går jeg frem for å registrere et enkeltpersonforetak?
-            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
-            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
-            CoSim-Score: 0.9623981329568179
+            Spørsmål generert: What are the differences between accounting and auditing?
+            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
+            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
+            CoSim-Score: 0.8694686228401893
             
             Spørsmål 57
-            Spørsmål generert: Hvordan kan jeg gå frem for å opprette et enkeltpersonforetak?
-            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
-            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
-            CoSim-Score: 0.8847724204835932
+            Spørsmål generert: What distinctions exist between accounting and auditing?
+            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
+            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
+            CoSim-Score: 0.8163932922456172
             
             Spørsmål 58
-            Spørsmål generert: Hvordan kan jeg starte prosessen med å opprette et enkeltpersonforetak?
-            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
-            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
-            CoSim-Score: 0.809712724220409
+            Spørsmål generert: What are the differences between accounting and auditing?
+            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
+            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
+            CoSim-Score: 0.8694686228401893
             
             Spørsmål 59
-            Spørsmål generert: Hvordan går jeg frem for å starte opp et enkeltpersonforetak?
-            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
-            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
-            CoSim-Score: 0.8462427937578094
+            Spørsmål generert: What distinguishes accounting from auditing?
+            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
+            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
+            CoSim-Score: 0.8166948185039479
             
             Spørsmål 60
-            Spørsmål generert: Hvordan kan jeg registrere et enkeltpersonforetak?
-            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
-            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
-            CoSim-Score: 0.978432823482638
+            Spørsmål generert: Are all businesses required to keep accounting records?
+            Spørsmål som ligner mest: Har alle regnskapsplikt?
+            Fasit: Har alle regnskapsplikt?
+            CoSim-Score: 0.7240866915653539
             
             Spørsmål 61
-            Spørsmål generert: Hvordan går jeg frem for å registrere et enkeltpersonforetak?
-            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
-            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
-            CoSim-Score: 0.9623981329568179
+            Spørsmål generert: Is it mandatory for all businesses to maintain accounting records?
+            Spørsmål som ligner mest: Har alle regnskapsplikt?
+            Fasit: Har alle regnskapsplikt?
+            CoSim-Score: 0.7273809023614658
             
             Spørsmål 62
-            Spørsmål generert: Hvordan kan jeg starte prosessen med å registrere et enkeltpersonforetak?
-            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
-            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
-            CoSim-Score: 0.8776518325976084
+            Spørsmål generert: Are all businesses required to keep accounting records?
+            Spørsmål som ligner mest: Har alle regnskapsplikt?
+            Fasit: Har alle regnskapsplikt?
+            CoSim-Score: 0.7240866915653539
             
             Spørsmål 63
-            Spørsmål generert: Hvordan kan jeg komme i gang med å registrere et enkeltpersonforetak hos dere?
-            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
-            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
-            CoSim-Score: 0.8855432088099923
+            Spørsmål generert: Is every business obligated to maintain accounting records?
+            Spørsmål som ligner mest: Har alle regnskapsplikt?
+            Fasit: Har alle regnskapsplikt?
+            CoSim-Score: 0.7465417533564787
             
             Spørsmål 64
-            Spørsmål generert: Hvordan kan jeg starte prosessen med å få registrert mitt enkeltpersonforetak hos dere?
-            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
-            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
-            CoSim-Score: 0.8324054937879193
+            Spørsmål generert: What are the responsibilities involved in bookkeeping obligation?
+            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
+            Fasit: Hva innebærer bokføringsplikt?
+            CoSim-Score: 0.7417744410324084
             
             Spørsmål 65
-            Spørsmål generert: Hvordan kan jeg komme i gang med å registrere mitt enkeltpersonforetak hos dere?
-            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
-            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
-            CoSim-Score: 0.8689131568861359
+            Spørsmål generert: What are the duties associated with bookkeeping requirements?
+            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
+            Fasit: Hva innebærer bokføringsplikt?
+            CoSim-Score: 0.7121544267016681
             
             Spørsmål 66
-            Spørsmål generert: Hvordan kan jeg starte prosessen med å registrere mitt enkeltpersonforetak hos dere?
-            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
-            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
-            CoSim-Score: 0.8323671467759381
+            Spørsmål generert: What are the responsibilities involved in bookkeeping obligations?
+            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
+            Fasit: Hva innebærer bokføringsplikt?
+            CoSim-Score: 0.7445415385380212
             
             Spørsmål 67
-            Spørsmål generert: Hvordan går jeg frem for å starte registreringen av mitt enkeltpersonforetak hos dere?
-            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
-            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
-            CoSim-Score: 0.8509225363420552
+            Spørsmål generert: What are the duties and obligations associated with bookkeeping requirements?
+            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
+            Fasit: Hva innebærer bokføringsplikt?
+            CoSim-Score: 0.7424238064442328
             
             Spørsmål 68
-            Spørsmål generert: Hvordan starter jeg prosessen med å registrere mitt enkeltpersonforetak hos dere?
-            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
-            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
-            CoSim-Score: 0.8384458107308779
+            Spørsmål generert: Am I eligible to deduct home office expenses from my taxes?
+            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
+            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
+            CoSim-Score: 0.815513048631971
             
             Spørsmål 69
-            Spørsmål generert: Hvordan kan jeg komme i gang med å registrere mitt enkeltpersonforetak hos deres regnskapsfirma?
-            Spørsmål som ligner mest: Hvordan registrerer jeg et enkeltpersonforetak?
-            Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
-            CoSim-Score: 0.8444088348534633
+            Spørsmål generert: Am I able to claim tax deductions for home office expenses?
+            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
+            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
+            CoSim-Score: 0.7853243250406173
             
             Spørsmål 70
-            Spørsmål generert: Hvordan fungerer søknadsprosessen for å få en serveringsbevilling?
-            Spørsmål som ligner mest: Hvordan er søknad for serveringsbevilling?
-            Fasit: Hvordan er søknad for serveringsbevilling?
-            CoSim-Score: 0.9244217894332897
+            Spørsmål generert: Is it possible for me to take tax deductions for expenses related to my home office?
+            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
+            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
+            CoSim-Score: 0.8011735701107029
             
             Spørsmål 71
-            Spørsmål generert: Hvordan går man frem for å søke om en serveringsbevilling?
-            Spørsmål som ligner mest: Hvordan er søknad for serveringsbevilling?
-            Fasit: Hvordan er søknad for serveringsbevilling?
-            CoSim-Score: 0.9361920415407061
+            Spørsmål generert: Am I eligible to claim tax deductions for home office expenses?
+            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
+            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
+            CoSim-Score: 0.7808327952421185
             
             Spørsmål 72
-            Spørsmål generert: Hvordan skal jeg søke om en serveringsbevilling?
-            Spørsmål som ligner mest: Hvordan er søknad for serveringsbevilling?
-            Fasit: Hvordan er søknad for serveringsbevilling?
-            CoSim-Score: 0.8353103879158811
+            Spørsmål generert: What distinguishes a balance sheet from an income statement?
+            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
+            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
+            CoSim-Score: 0.8151434361345484
             
             Spørsmål 73
-            Spørsmål generert: Hvordan går jeg frem for å søke om en serveringsbevilling?
-            Spørsmål som ligner mest: Hvordan er søknad for serveringsbevilling?
-            Fasit: Hvordan er søknad for serveringsbevilling?
-            CoSim-Score: 0.8407337776470822
+            Spørsmål generert: What are the key differences between a balance sheet and an income statement?
+            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
+            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
+            CoSim-Score: 0.8313386450392068
             
             Spørsmål 74
-            Spørsmål generert: Hvordan kan jeg søke om en serveringsbevilling?
-            Spørsmål som ligner mest: Hvordan er søknad for serveringsbevilling?
-            Fasit: Hvordan er søknad for serveringsbevilling?
-            CoSim-Score: 0.8342213888867562
+            Spørsmål generert: What distinguishes a balance sheet from an income statement?
+            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
+            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
+            CoSim-Score: 0.8151434361345484
             
             Spørsmål 75
-            Spørsmål generert: Hvordan går jeg frem for å søke om en serveringsbevilling?
-            Spørsmål som ligner mest: Hvordan er søknad for serveringsbevilling?
-            Fasit: Hvordan er søknad for serveringsbevilling?
-            CoSim-Score: 0.8407337776470822
+            Spørsmål generert: What sets apart a balance sheet from an income statement?
+            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
+            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
+            CoSim-Score: 0.7431492285754993
             
             Spørsmål 76
-            Spørsmål generert: Hvordan kan jeg søke om en serveringsbevilling?
-            Spørsmål som ligner mest: Hvordan er søknad for serveringsbevilling?
-            Fasit: Hvordan er søknad for serveringsbevilling?
-            CoSim-Score: 0.8342213888867562
+            Spørsmål generert: How do I calculate taxes for my sole proprietorship?
+            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+            CoSim-Score: 0.7502424171716839
             
             Spørsmål 77
-            Spørsmål generert: Hvordan kan jeg søke om tillatelse til servering?
-            Spørsmål som ligner mest: Hvordan er søknad for serveringsbevilling?
-            Fasit: Hvordan er søknad for serveringsbevilling?
-            CoSim-Score: 0.8153169298862131
+            Spørsmål generert: How can I determine the tax amount for my sole proprietorship?
+            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+            CoSim-Score: 0.7352988838709793
             
             Spørsmål 78
-            Spørsmål generert: Jeg lurer på hva som trengs for å søke om tillatelse til servering. Kan du hjelpe meg med informasjon om søknad for serveringsbevilling?
-            Spørsmål som ligner mest: Hvordan er søknad for serveringsbevilling?
-            Fasit: Hvordan er søknad for serveringsbevilling?
-            CoSim-Score: 0.8515473251485607
+            Spørsmål generert: What is the procedure for calculating taxes for my sole proprietorship?
+            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+            CoSim-Score: 0.7116372461310945
             
             Spørsmål 79
-            Spørsmål generert: Kan du fortelle meg hva som kreves for å søke om tillatelse til å servere alkohol?
-            Spørsmål som ligner mest: Hvordan er søknad for serveringsbevilling?
-            Fasit: Hvordan er søknad for serveringsbevilling?
-            CoSim-Score: 0.7684342862248204
+            Spørsmål generert: How do I calculate taxes for my sole proprietorship?
+            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+            CoSim-Score: 0.7502424171716839
             
             Spørsmål 80
-            Spørsmål generert: Hva er prosessen for å søke om tillatelse til å servere alkohol?
-            Spørsmål som ligner mest: Hvordan er søknad for serveringsbevilling?
-            Fasit: Hvordan er søknad for serveringsbevilling?
-            CoSim-Score: 0.8264498492343804
+            Spørsmål generert: Is it necessary to have an accountant?
+            Spørsmål som ligner mest: Er det obligatorisk med revisor?
+            Fasit: Er det obligatorisk med revisor?
+            CoSim-Score: 0.6592035946557749
             
             Spørsmål 81
-            Spørsmål generert: Hvordan går jeg frem for å søke om tillatelse til å servere alkohol?
-            Spørsmål som ligner mest: Hvordan er søknad for serveringsbevilling?
-            Fasit: Hvordan er søknad for serveringsbevilling?
-            CoSim-Score: 0.7366147830577308
+            Spørsmål generert: Do I need to hire an accountant?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
+            Fasit: Er det obligatorisk med revisor?
+            CoSim-Score: 0.6127480721013128
             
             Spørsmål 82
-            Spørsmål generert: Hvordan kan jeg søke om tillatelse for å servere alkohol?
-            Spørsmål som ligner mest: Hvordan er søknad for serveringsbevilling?
-            Fasit: Hvordan er søknad for serveringsbevilling?
-            CoSim-Score: 0.7260998184524443
+            Spørsmål generert: Is it necessary to engage the services of an accountant?
+            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
+            Fasit: Er det obligatorisk med revisor?
+            CoSim-Score: 0.6126973731169014
             
             Spørsmål 83
-            Spørsmål generert: Hvordan kan jeg få tillatelse til å servere alkohol?
-            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
-            Fasit: Hvordan er søknad for serveringsbevilling?
-            CoSim-Score: 0.6831613637235714
+            Spørsmål generert: Do I need to hire an accountant?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
+            Fasit: Er det obligatorisk med revisor?
+            CoSim-Score: 0.6127480721013128
             
             Spørsmål 84
-            Spørsmål generert: Kan du hjelpe meg med informasjon om søknadsprosessen for etableringsprøve?
-            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
-            Fasit: Hvordan er søknad for etableringsprøve?
-            CoSim-Score: 0.8485052896320084
+            Spørsmål generert: What are your business hours?
+            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Fasit: Hva er åpningstidene deres?
+            CoSim-Score: 0.5616807259865599
             
             Spørsmål 85
-            Spørsmål generert: Kan du gi meg informasjon om hvordan jeg kan søke for etableringsprøve?
-            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
-            Fasit: Hvordan er søknad for etableringsprøve?
-            CoSim-Score: 0.783050659176117
+            Spørsmål generert: What time are you open for business?
+            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Fasit: Hva er åpningstidene deres?
+            CoSim-Score: 0.5802438558948573
             
             Spørsmål 86
-            Spørsmål generert: Kan du hjelpe meg med å få informasjon om søknadsprosessen for etableringsprøve?
-            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
-            Fasit: Hvordan er søknad for etableringsprøve?
-            CoSim-Score: 0.8420997949459355
+            Spørsmål generert: When is your business available?
+            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Fasit: Hva er åpningstidene deres?
+            CoSim-Score: 0.6495969739329501
             
             Spørsmål 87
-            Spørsmål generert: Kan du gi meg informasjon om hvordan man søker for etableringsprøve?
-            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
-            Fasit: Hvordan er søknad for etableringsprøve?
-            CoSim-Score: 0.8777861694124496
+            Spørsmål generert: What are your business hours?
+            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Fasit: Hva er åpningstidene deres?
+            CoSim-Score: 0.5616807259865599
             
             Spørsmål 88
-            Spørsmål generert: Kan du fortelle meg hvordan man søker for etableringsprøve?
-            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
-            Fasit: Hvordan er søknad for etableringsprøve?
-            CoSim-Score: 0.8806683602801431
+            Spørsmål generert: Do you provide assistance with filing tax returns?
+            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
+            Fasit: Tilbyr dere bistand med selvangivelsen?
+            CoSim-Score: 0.7350790787782888
             
             Spørsmål 89
-            Spørsmål generert: Hvordan går jeg frem for å søke om etableringsprøve?
-            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
-            Fasit: Hvordan er søknad for etableringsprøve?
-            CoSim-Score: 0.8477397639832113
+            Spørsmål generert: Can you help with preparing tax returns?
+            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
+            Fasit: Tilbyr dere bistand med selvangivelsen?
+            CoSim-Score: 0.7344043294597574
             
             Spørsmål 90
-            Spørsmål generert: Hvordan kan jeg utføre søknaden for etableringsprøve?
-            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
-            Fasit: Hvordan er søknad for etableringsprøve?
-            CoSim-Score: 0.8451434893083274
+            Spørsmål generert: Do you assist with tax return preparation?
+            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
+            Fasit: Tilbyr dere bistand med selvangivelsen?
+            CoSim-Score: 0.7180839767617786
             
             Spørsmål 91
-            Spørsmål generert: Hvordan kan jeg søke om etableringsprøve?
-            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
-            Fasit: Hvordan er søknad for etableringsprøve?
-            CoSim-Score: 0.8574459625620001
+            Spørsmål generert: Can you help with preparing tax returns?
+            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
+            Fasit: Tilbyr dere bistand med selvangivelsen?
+            CoSim-Score: 0.7344044173954902
             
             Spørsmål 92
-            Spørsmål generert: Hvordan går jeg frem for å søke om etableringsprøve?
-            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
-            Fasit: Hvordan er søknad for etableringsprøve?
-            CoSim-Score: 0.8477397639832113
+            Spørsmål generert: Are you able to assist with payroll services?
+            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
+            Fasit: Kan dere hjelpe til med lønnstjenester?
+            CoSim-Score: 0.7860047655793376
             
             Spørsmål 93
-            Spørsmål generert: Hvordan kan jeg søke om etableringsprøve?
-            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
-            Fasit: Hvordan er søknad for etableringsprøve?
-            CoSim-Score: 0.8574459625620001
+            Spørsmål generert: Can you provide assistance with payroll services?
+            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
+            Fasit: Kan dere hjelpe til med lønnstjenester?
+            CoSim-Score: 0.7849612034815919
             
             Spørsmål 94
-            Spørsmål generert: Hvordan kan jeg søke om etableringsprøve?
-            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
-            Fasit: Hvordan er søknad for etableringsprøve?
-            CoSim-Score: 0.8574459625620001
+            Spørsmål generert: Are you able to help with payroll services?
+            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
+            Fasit: Kan dere hjelpe til med lønnstjenester?
+            CoSim-Score: 0.7809518206549115
             
             Spørsmål 95
-            Spørsmål generert: Hvordan kan jeg søke om etableringsprøve?
-            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
-            Fasit: Hvordan er søknad for etableringsprøve?
-            CoSim-Score: 0.8574459625620001
+            Spørsmål generert: Can you assist with payroll services?
+            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
+            Fasit: Kan dere hjelpe til med lønnstjenester?
+            CoSim-Score: 0.7879345628731769
             
             Spørsmål 96
-            Spørsmål generert: Hvordan går jeg frem for å søke om etableringsprøve?
-            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
-            Fasit: Hvordan er søknad for etableringsprøve?
-            CoSim-Score: 0.8477397639832113
+            Spørsmål generert: Where is your office located?
+            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
+            Fasit: Hvor er kontoret deres lokalisert?
+            CoSim-Score: 0.8715037391227223
             
             Spørsmål 97
-            Spørsmål generert: Hva er prosessen for å søke om etableringsprøve?
-            Spørsmål som ligner mest: Hvordan er søknad for etableringsprøve?
-            Fasit: Hvordan er søknad for etableringsprøve?
-            CoSim-Score: 0.9554536498713161
+            Spørsmål generert: What is the location of your office?
+            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
+            Fasit: Hvor er kontoret deres lokalisert?
+            CoSim-Score: 0.8407143389380505
             
             Spørsmål 98
-            Spørsmål generert: Hvordan fungerer søknadsprosessen for registrering av merverdiavgift?
-            Spørsmål som ligner mest: Hvordan er søknad for registrering av mv?
-            Fasit: Hvordan er søknad for registrering av mv?
-            CoSim-Score: 0.7699470757757135
+            Spørsmål generert: Where is your office situated?
+            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
+            Fasit: Hvor er kontoret deres lokalisert?
+            CoSim-Score: 0.8617790440293357
             
             Spørsmål 99
-            Spørsmål generert: Kan du gi meg informasjon om hvordan man går frem med søknadsprosessen for registrering av merverdiavgift?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hvordan er søknad for registrering av mv?
-            CoSim-Score: 0.7189286735617656
+            Spørsmål generert: Where can I find your office?
+            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
+            Fasit: Hvor er kontoret deres lokalisert?
+            CoSim-Score: 0.8136985678242725
             
             Spørsmål 100
-            Spørsmål generert: Kan du hjelpe meg med informasjon om prosessen for å søke om registrering av merverdiavgift?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hvordan er søknad for registrering av mv?
-            CoSim-Score: 0.6969171612557913
+            Spørsmål generert: Do you provide consulting services for small businesses?
+            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
+            Fasit: Tilbyr dere rådgivning for småbedrifter?
+            CoSim-Score: 0.9022042732468436
             
             Spørsmål 101
-            Spørsmål generert: Kan du gi meg informasjon om prosessen for å søke om registrering av merverdiavgift?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hvordan er søknad for registrering av mv?
-            CoSim-Score: 0.7324158921514614
+            Spørsmål generert: Do you offer consultancy services for small businesses?
+            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
+            Fasit: Tilbyr dere rådgivning for småbedrifter?
+            CoSim-Score: 0.8815771958553777
             
             Spørsmål 102
-            Spørsmål generert: Kan du fortelle meg om hvordan jeg søker om registrering av merverdiavgift?
-            Spørsmål som ligner mest: Hvordan er søknad for registrering av mv?
-            Fasit: Hvordan er søknad for registrering av mv?
-            CoSim-Score: 0.6771074855378018
+            Spørsmål generert: Do you provide consulting services for small enterprises?
+            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
+            Fasit: Tilbyr dere rådgivning for småbedrifter?
+            CoSim-Score: 0.9060577918366487
             
             Spørsmål 103
-            Spørsmål generert: Kan du veilede meg gjennom prosessen med å søke om registrering for merverdiavgift?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hvordan er søknad for registrering av mv?
-            CoSim-Score: 0.6366622421711499
+            Spørsmål generert: Do you offer consulting services for small businesses?
+            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
+            Fasit: Tilbyr dere rådgivning for småbedrifter?
+            CoSim-Score: 0.9002000976594497
             
             Spørsmål 104
-            Spørsmål generert: Kan du hjelpe meg med å forstå hvordan jeg kan søke om registrering for merverdiavgift?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hvordan er søknad for registrering av mv?
-            CoSim-Score: 0.646971531167229
+            Spørsmål generert: How can I schedule a consultation?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
+            Fasit: Hvordan kan jeg bestille en konsultasjon?
+            CoSim-Score: 0.8160524796520996
             
             Spørsmål 105
-            Spørsmål generert: Kan du guide meg gjennom prosessen for å søke om registrering for merverdiavgift?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hvordan er søknad for registrering av mv?
-            CoSim-Score: 0.6565355844306942
+            Spørsmål generert: How do I go about arranging a consultation?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
+            Fasit: Hvordan kan jeg bestille en konsultasjon?
+            CoSim-Score: 0.790639912097461
             
             Spørsmål 106
-            Spørsmål generert: Kan du hjelpe meg med å forstå hvordan jeg søker om registrering for merverdiavgift?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hvordan er søknad for registrering av mv?
-            CoSim-Score: 0.6675444055934547
+            Spørsmål generert: What is the process for scheduling a consultation?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
+            Fasit: Hvordan kan jeg bestille en konsultasjon?
+            CoSim-Score: 0.6598779841633092
             
             Spørsmål 107
-            Spørsmål generert: Kan du veilede meg gjennom prosessen med å søke om registrering for merverdiavgift?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hvordan er søknad for registrering av mv?
-            CoSim-Score: 0.6366622283941956
+            Spørsmål generert: How do I go about scheduling a consultation?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
+            Fasit: Hvordan kan jeg bestille en konsultasjon?
+            CoSim-Score: 0.7853828607755279
             
             Spørsmål 108
-            Spørsmål generert: Kan du hjelpe meg med å forstå hvordan jeg søker om merverdiavgiftsregistrering?
-            Spørsmål som ligner mest: Hvordan er søknad for registrering av mv?
-            Fasit: Hvordan er søknad for registrering av mv?
-            CoSim-Score: 0.6477757607189338
+            Spørsmål generert: Do you have experience with international tax advisory?
+            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
+            Fasit: Er dere erfarne med internasjonal skatterådgivning?
+            CoSim-Score: 0.8973021945284956
             
             Spørsmål 109
-            Spørsmål generert: Kan du veilede meg gjennom prosessen med å søke om registrering for merverdiavgift?
-            Spørsmål som ligner mest: Hva er fristen på innsending av merverdiavgift?
-            Fasit: Hvordan er søknad for registrering av mv?
-            CoSim-Score: 0.6366622283941956
+            Spørsmål generert: Have you dealt with international tax advisory before?
+            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
+            Fasit: Er dere erfarne med internasjonal skatterådgivning?
+            CoSim-Score: 0.845470002462134
             
             Spørsmål 110
-            Spørsmål generert: Kunne du hjelpe meg med å forstå søknadsprosessen for merverdiavgiftsregistrering?
-            Spørsmål som ligner mest: Hvordan er søknad for registrering av mv?
-            Fasit: Hvordan er søknad for registrering av mv?
-            CoSim-Score: 0.6819176357876859
+            Spørsmål generert: Have you had experience with international tax advisory services?
+            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
+            Fasit: Er dere erfarne med internasjonal skatterådgivning?
+            CoSim-Score: 0.8794430703340467
             
             Spørsmål 111
-            Spørsmål generert: Kan du veilede meg gjennom prosessen for å søke om merverdiavgiftsregistrering?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Hvordan er søknad for registrering av mv?
-            CoSim-Score: 0.656657608132174
+            Spørsmål generert: Are you familiar with providing international tax advisory services?
+            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
+            Fasit: Er dere erfarne med internasjonal skatterådgivning?
+            CoSim-Score: 0.8568416801878681
             
             Spørsmål 112
-            Spørsmål generert: Hvordan gjennomføres omsetningsoppgaven for alkohol i regnskapet?
-            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
-            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-            CoSim-Score: 0.8760231216551132
+            Spørsmål generert: Do you provide digital accounting services?
+            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
+            Fasit: Tilbyr dere digitale regnskapstjenester?
+            CoSim-Score: 0.8961251647021694
             
             Spørsmål 113
-            Spørsmål generert: Kan du gi meg informasjon om hvordan alkoholomsetning håndteres i regnskapet?
-            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
-            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-            CoSim-Score: 0.7532874754585273
+            Spørsmål generert: Do you offer online accounting services?
+            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
+            Fasit: Tilbyr dere digitale regnskapstjenester?
+            CoSim-Score: 0.7768152474933591
             
             Spørsmål 114
-            Spørsmål generert: Kan du forklare meg hvordan alkoholomsetning blir bokført i regnskapet?
-            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
-            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-            CoSim-Score: 0.7725899203877734
+            Spørsmål generert: What digital accounting services do you provide?
+            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
+            Fasit: Tilbyr dere digitale regnskapstjenester?
+            CoSim-Score: 0.8421399414572281
             
             Spørsmål 115
-            Spørsmål generert: Kan du gi meg informasjon om hvordan alkoholomsetning blir håndtert i regnskapet?
-            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
-            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-            CoSim-Score: 0.7551845671342947
+            Spørsmål generert: Do you offer any online accounting services?
+            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
+            Fasit: Tilbyr dere digitale regnskapstjenester?
+            CoSim-Score: 0.760862505548788
             
             Spørsmål 116
-            Spørsmål generert: Kan du forklare meg hvordan alkoholomsetning blir behandlet i regnskapet?
-            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
-            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-            CoSim-Score: 0.745923080686139
+            Spørsmål generert: What services does your company offer?
+            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
+            Fasit: Hvilke tjenester tilbyr deres firma?
+            CoSim-Score: 0.588945303069816
             
             Spørsmål 117
-            Spørsmål generert: Kan du gi meg informasjon om hvordan alkoholomsetning blir regnskapsført?
-            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
-            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-            CoSim-Score: 0.819780887570976
+            Spørsmål generert: Can you provide me with information about the services your company offers?
+            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Fasit: Hvilke tjenester tilbyr deres firma?
+            CoSim-Score: 0.6221575269424302
             
             Spørsmål 118
-            Spørsmål generert: Kan du forklare meg prosessen for regnskapsføring av alkoholomsetning?
-            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
-            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-            CoSim-Score: 0.7832726150323791
+            Spørsmål generert: What services does your company offer?
+            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
+            Fasit: Hvilke tjenester tilbyr deres firma?
+            CoSim-Score: 0.588945303069816
             
             Spørsmål 119
-            Spørsmål generert: Kan du beskrive hvordan regnskapsføringen av alkoholomsetning utføres?
-            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
-            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-            CoSim-Score: 0.8568622266080992
-            
-            Spørsmål 120
-            Spørsmål generert: Kan du fortelle meg mer om regnskapsføringen av omsetningen av alkohol?
-            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
-            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-            CoSim-Score: 0.7786419393248716
-            
-            Spørsmål 121
-            Spørsmål generert: Kan du gi meg mer informasjon om hvordan omsetningen av alkohol håndteres regnskapsmessig?
-            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
-            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-            CoSim-Score: 0.7636556391833671
-            
-            Spørsmål 122
-            Spørsmål generert: "Kan du forklare meg hvordan alkoholomsetningen behandles i regnskapet?"
-            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
-            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-            CoSim-Score: 0.7661909065914596
-            
-            Spørsmål 123
-            Spørsmål generert: Hvordan behandles alkoholomsetningen i regnskapet?
-            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
-            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-            CoSim-Score: 0.8018557037605121
-            
-            Spørsmål 124
-            Spørsmål generert: Hvordan håndteres regnskapet for salg av alkohol?
-            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
-            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-            CoSim-Score: 0.8347824337235935
-            
-            Spørsmål 125
-            Spørsmål generert: Hvordan behandles regnskapet for salg av alkohol?
-            Spørsmål som ligner mest: Hvordan utføres omsetningsoppgaven for alkohol?
-            Fasit: Hvordan utføres omsetningsoppgaven for alkohol?
-            CoSim-Score: 0.8267981577514035
-            
-            Spørsmål 126
-            Spørsmål generert: Kan du fortelle meg når innleveringsfristen for A-meldingen er?
-            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
-            Fasit: Hva er fristen for å levere A-meldingen?
-            CoSim-Score: 0.9222576607013135
-            
-            Spørsmål 127
-            Spørsmål generert: Kan du opplyse meg om når fristen for innlevering av A-meldingen er?
-            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
-            Fasit: Hva er fristen for å levere A-meldingen?
-            CoSim-Score: 0.9264714227975581
-            
-            Spørsmål 128
-            Spørsmål generert: Kan du gi meg informasjon om når A-meldingen må være levert innen?
-            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
-            Fasit: Hva er fristen for å levere A-meldingen?
-            CoSim-Score: 0.880857251350984
-            
-            Spørsmål 129
-            Spørsmål generert: Kan du fortelle meg når må A-meldingen være levert?
-            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
-            Fasit: Hva er fristen for å levere A-meldingen?
-            CoSim-Score: 0.8724742300318462
-            
-            Spørsmål 130
-            Spørsmål generert: Når er siste frist for å levere A-meldingen?
-            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
-            Fasit: Hva er fristen for å levere A-meldingen?
-            CoSim-Score: 0.7810189969222752
-            
-            Spørsmål 131
-            Spørsmål generert: Når må A-meldingen leveres inn?
-            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
-            Fasit: Hva er fristen for å levere A-meldingen?
-            CoSim-Score: 0.9024933791043762
-            
-            Spørsmål 132
-            Spørsmål generert: Når er siste frist for å levere A-meldingen?
-            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
-            Fasit: Hva er fristen for å levere A-meldingen?
-            CoSim-Score: 0.7810189969222752
-            
-            Spørsmål 133
-            Spørsmål generert: Kan du gi meg informasjon om når siste frist er for å levere A-meldingen?
-            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
-            Fasit: Hva er fristen for å levere A-meldingen?
-            CoSim-Score: 0.7587302652655611
-            
-            Spørsmål 134
-            Spørsmål generert: Når er den siste fristen for å levere A-meldingen?
-            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
-            Fasit: Hva er fristen for å levere A-meldingen?
-            CoSim-Score: 0.7427948952804962
-            
-            Spørsmål 135
-            Spørsmål generert: Hva er den siste fristen for å levere A-meldingen?
-            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
-            Fasit: Hva er fristen for å levere A-meldingen?
-            CoSim-Score: 0.682188599813383
-            
-            Spørsmål 136
-            Spørsmål generert: Når er den siste fristen for å levere A-meldingen?
-            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
-            Fasit: Hva er fristen for å levere A-meldingen?
-            CoSim-Score: 0.7427948952804962
-            
-            Spørsmål 137
-            Spørsmål generert: Når er det siste tidspunktet for å sende inn A-meldingen?
-            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
-            Fasit: Hva er fristen for å levere A-meldingen?
-            CoSim-Score: 0.7087409655101863
-            
-            Spørsmål 138
-            Spørsmål generert: Hva er den siste fristen for å sende inn A-meldingen?
-            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
-            Fasit: Hva er fristen for å levere A-meldingen?
-            CoSim-Score: 0.6977912171372823
-            
-            Spørsmål 139
-            Spørsmål generert: Når er den siste datoen for å sende inn A-meldingen?
-            Spørsmål som ligner mest: Hva er fristen for å levere A-meldingen?
-            Fasit: Hva er fristen for å levere A-meldingen?
-            CoSim-Score: 0.7067465712293137
-            
-            Spørsmål 140
-            Spørsmål generert: Kan du fortelle meg hva regnskapsfirmaet ditt tar i timepris for bokføring?
-            Spørsmål som ligner mest: Hva er timepris for bokføring?
-            Fasit: Hva er timepris for bokføring?
-            CoSim-Score: 0.8625233903578711
-            
-            Spørsmål 141
-            Spørsmål generert: Kan jeg få informasjon om timeprisen for bokføring hos deres regnskapsfirma?
-            Spørsmål som ligner mest: Hva er timepris for bokføring?
-            Fasit: Hva er timepris for bokføring?
-            CoSim-Score: 0.8440726383100179
-            
-            Spørsmål 142
-            Spørsmål generert: Kan du fortelle meg hva timeprisen for bokføring er hos deres regnskapsfirma?
-            Spørsmål som ligner mest: Hva er timepris for bokføring?
-            Fasit: Hva er timepris for bokføring?
-            CoSim-Score: 0.8684281921431779
-            
-            Spørsmål 143
-            Spørsmål generert: Hva er kostnaden per time for bokføringstjenester hos dere?
-            Spørsmål som ligner mest: Hva er timepris for bokføring?
-            Fasit: Hva er timepris for bokføring?
-            CoSim-Score: 0.8911656795450165
-            
-            Spørsmål 144
-            Spørsmål generert: Kan jeg få informasjon om kostnaden for bokføringstjenester per time hos deres regnskapsfirma?
-            Spørsmål som ligner mest: Hva er timepris for bokføring?
-            Fasit: Hva er timepris for bokføring?
-            CoSim-Score: 0.7970598629996053
-            
-            Spørsmål 145
-            Spørsmål generert: Kan du fortelle meg hva timeprisen for bokføringstjenester er hos deres regnskapsfirma?
-            Spørsmål som ligner mest: Hva er timepris for bokføring?
-            Fasit: Hva er timepris for bokføring?
-            CoSim-Score: 0.8528291565467703
-            
-            Spørsmål 146
-            Spørsmål generert: Kan jeg få informasjon om timeprisen for bokføringstjenester hos deres regnskapsfirma?
-            Spørsmål som ligner mest: Hva er timepris for bokføring?
-            Fasit: Hva er timepris for bokføring?
-            CoSim-Score: 0.8251060169930433
-            
-            Spørsmål 147
-            Spørsmål generert: Kan jeg få vite prisen for bokføringstjenester per time hos deres regnskapsfirma?
-            Spørsmål som ligner mest: Hva er timepris for bokføring?
-            Fasit: Hva er timepris for bokføring?
-            CoSim-Score: 0.7789841447859089
-            
-            Spørsmål 148
-            Spørsmål generert: Kan du opplyse meg om hvor mye det koster per time for bokføringstjenester hos deres regnskapsfirma?
-            Spørsmål som ligner mest: Hva er timepris for bokføring?
-            Fasit: Hva er timepris for bokføring?
-            CoSim-Score: 0.8211743359987218
-            
-            Spørsmål 149
-            Spørsmål generert: Kan jeg få informasjon om prisen per time for bokføringstjenester hos deres regnskapsfirma?
-            Spørsmål som ligner mest: Hva er timepris for bokføring?
-            Fasit: Hva er timepris for bokføring?
-            CoSim-Score: 0.78716619308617
-            
-            Spørsmål 150
-            Spørsmål generert: Kan du gi meg informasjon om prisen per time for bokføringstjenestene deres?
-            Spørsmål som ligner mest: Hva er timepris for bokføring?
-            Fasit: Hva er timepris for bokføring?
-            CoSim-Score: 0.7796789111206763
-            
-            Spørsmål 151
-            Spørsmål generert: Kan jeg få vite hva prisen per time er for bokføringstjenestene deres?
-            Spørsmål som ligner mest: Hva er timepris for bokføring?
-            Fasit: Hva er timepris for bokføring?
-            CoSim-Score: 0.8237744130647591
-            
-            Spørsmål 152
-            Spørsmål generert: Kan du opplyse meg om prisen per time for deres bokføringstjenester?
-            Spørsmål som ligner mest: Hva er timepris for bokføring?
-            Fasit: Hva er timepris for bokføring?
-            CoSim-Score: 0.7986443696230718
-            
-            Spørsmål 153
-            Spørsmål generert: Kan du gi meg informasjon om prisene deres for bokføringstjenester per time?
-            Spørsmål som ligner mest: Hva er timepris for bokføring?
-            Fasit: Hva er timepris for bokføring?
-            CoSim-Score: 0.7662579124812139
-            
-            Spørsmål 154
-            Spørsmål generert: Kan du gi meg informasjon om kostnadene for å registrere et enkeltpersonsforetak?
-            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
-            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
-            CoSim-Score: 0.7413003553764452
-            
-            Spørsmål 155
-            Spørsmål generert: Kan du fortelle meg hva kostnadene er for å registrere et enkeltpersonsforetak?
-            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
-            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
-            CoSim-Score: 0.7813713978245325
-            
-            Spørsmål 156
-            Spørsmål generert: Kan du gi meg informasjon om kostnadene for å registrere et enkeltpersonsforetak?
-            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
-            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
-            CoSim-Score: 0.7413003553764452
-            
-            Spørsmål 157
-            Spørsmål generert: Kan du fortelle meg hva det koster å registrere et enkeltpersonsforetak?
-            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
-            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
-            CoSim-Score: 0.8014089878375108
-            
-            Spørsmål 158
-            Spørsmål generert: Hvor mye koster det å registrere et enkeltpersonsforetak hos dere?
-            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
-            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
-            CoSim-Score: 0.8114710772020999
-            
-            Spørsmål 159
-            Spørsmål generert: Kan du gi meg informasjon om kostnadene for å registrere et enkeltpersonsforetak hos dere?
-            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
-            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
-            CoSim-Score: 0.7232216521137645
-            
-            Spørsmål 160
-            Spørsmål generert: Kan du gi meg informasjon om kostnadene for å registrere et enkeltpersonsforetak hos dere?
-            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
-            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
-            CoSim-Score: 0.7232216521137645
-            
-            Spørsmål 161
-            Spørsmål generert: Kan du fortelle meg hvor mye det koster å registrere et enkeltpersonsforetak hos dere?
-            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
-            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
-            CoSim-Score: 0.7646950609687246
-            
-            Spørsmål 162
-            Spørsmål generert: Hva er kostnaden for å registrere et enkeltpersonsforetak hos deres regnskapsfirma?
-            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
-            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
-            CoSim-Score: 0.766726051553926
-            
-            Spørsmål 163
-            Spørsmål generert: Hvor mye koster det å registrere et enkeltpersonsforetak hos deres regnskapsfirma?
-            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
-            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
-            CoSim-Score: 0.7781806789779944
-            
-            Spørsmål 164
-            Spørsmål generert: Kan du gi meg informasjon om kostnadene for registrering av et enkeltpersonsforetak hos deres regnskapsfirma?
-            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
-            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
-            CoSim-Score: 0.7027741875043232
-            
-            Spørsmål 165
-            Spørsmål generert: Kan jeg få informasjon om kostnadene for å registrere et enkeltpersonsforetak hos deres regnskapsfirma?
-            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
-            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
-            CoSim-Score: 0.7145829031422624
-            
-            Spørsmål 166
-            Spørsmål generert: Hva er kostnadene for å registrere et enkeltpersonsforetak hos deres regnskapsfirma?
-            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
-            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
-            CoSim-Score: 0.7614175723217471
-            
-            Spørsmål 167
-            Spørsmål generert: Kan du gi meg informasjon om kostnadene for å registrere et enkeltpersonsforetak hos deres regnskapsfirma?
-            Spørsmål som ligner mest: Hva er pris for registrering av enkeltpresonsforetak?
-            Fasit: Hva er pris for registrering av enkeltpresonsforetak?
-            CoSim-Score: 0.6958448074303178
-            
-            Spørsmål 168
-            Spørsmål generert: Hvor mye koster det å registrere et aksjeselskap?
-            Spørsmål som ligner mest: Hva er pris for registrering av aksjeselskap?
-            Fasit: Hva er pris for registrering av aksjeselskap?
-            CoSim-Score: 0.9314356624330129
-            
-            Spørsmål 169
-            Spørsmål generert: Hva er kostnaden for å opprette et aksjeselskap?
-            Spørsmål som ligner mest: Hva er pris for registrering av aksjeselskap?
-            Fasit: Hva er pris for registrering av aksjeselskap?
-            CoSim-Score: 0.8389734146882424
-            
-            Spørsmål 170
-            Spørsmål generert: Hva er kostnaden for å etablere et aksjeselskap?
-            Spørsmål som ligner mest: Hva er pris for registrering av aksjeselskap?
-            Fasit: Hva er pris for registrering av aksjeselskap?
-            CoSim-Score: 0.832706761466762
-            
-            Spørsmål 171
-            Spørsmål generert: Hva er kostnaden for å opprette et aksjeselskap?
-            Spørsmål som ligner mest: Hva er pris for registrering av aksjeselskap?
-            Fasit: Hva er pris for registrering av aksjeselskap?
-            CoSim-Score: 0.8389734146882424
-            
-            Spørsmål 172
-            Spørsmål generert: Hvor mye koster det å etablere et aksjeselskap?
-            Spørsmål som ligner mest: Hva er pris for registrering av aksjeselskap?
-            Fasit: Hva er pris for registrering av aksjeselskap?
-            CoSim-Score: 0.8603280031256061
-            
-            Spørsmål 173
-            Spørsmål generert: Kan du oppgi informasjon om kostnadene for å opprette et aksjeselskap?
-            Spørsmål som ligner mest: Hva er pris for registrering av aksjeselskap?
-            Fasit: Hva er pris for registrering av aksjeselskap?
-            CoSim-Score: 0.8132597852215391
-            
-            Spørsmål 174
-            Spørsmål generert: Kan du gi meg informasjon om kostnadene ved å etablere et aksjeselskap?
-            Spørsmål som ligner mest: Hva er pris for registrering av aksjeselskap?
-            Fasit: Hva er pris for registrering av aksjeselskap?
-            CoSim-Score: 0.7600674670272989
-            
-            Spørsmål 175
-            Spørsmål generert: Kan du gi meg en oversikt over hva det koster å etablere et aksjeselskap?
-            Spørsmål som ligner mest: Hva er pris for registrering av aksjeselskap?
-            Fasit: Hva er pris for registrering av aksjeselskap?
-            CoSim-Score: 0.8209088253711434
-            
-            Spørsmål 176
-            Spørsmål generert: Hva er kostnaden for å etablere et aksjeselskap?
-            Spørsmål som ligner mest: Hva er pris for registrering av aksjeselskap?
-            Fasit: Hva er pris for registrering av aksjeselskap?
-            CoSim-Score: 0.832706761466762
-            
-            Spørsmål 177
-            Spørsmål generert: Hvor mye koster det å opprette et aksjeselskap?
-            Spørsmål som ligner mest: Hva er pris for registrering av aksjeselskap?
-            Fasit: Hva er pris for registrering av aksjeselskap?
-            CoSim-Score: 0.863225656249974
-            
-            Spørsmål 178
-            Spørsmål generert: Hva er kostnaden for å etablere et aksjeselskap?
-            Spørsmål som ligner mest: Hva er pris for registrering av aksjeselskap?
-            Fasit: Hva er pris for registrering av aksjeselskap?
-            CoSim-Score: 0.832706761466762
-            
-            Spørsmål 179
-            Spørsmål generert: Hvor mye koster det å opprette et aksjeselskap?
-            Spørsmål som ligner mest: Hva er pris for registrering av aksjeselskap?
-            Fasit: Hva er pris for registrering av aksjeselskap?
-            CoSim-Score: 0.863225656249974
-            
-            Spørsmål 180
-            Spørsmål generert: Hva er kostnaden for å etablere et aksjeselskap?
-            Spørsmål som ligner mest: Hva er pris for registrering av aksjeselskap?
-            Fasit: Hva er pris for registrering av aksjeselskap?
-            CoSim-Score: 0.832706761466762
-            
-            Spørsmål 181
-            Spørsmål generert: Kan jeg få informasjon om kostnadene for å opprette et aksjeselskap?
-            Spørsmål som ligner mest: Hva er pris for registrering av aksjeselskap?
-            Fasit: Hva er pris for registrering av aksjeselskap?
-            CoSim-Score: 0.802024226725923
-            
-            Spørsmål 182
-            Spørsmål generert: Hva er kostnaden for årsregnskapet for et EPF og et aksjeselskap?
-            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
-            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
-            CoSim-Score: 0.833669495005398
-            
-            Spørsmål 183
-            Spørsmål generert: Hvor mye koster det å få årsregnskapet ferdigstilt for et EPF og et aksjeselskap?
-            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
-            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
-            CoSim-Score: 0.8140489993937661
-            
-            Spørsmål 184
-            Spørsmål generert: Hva er kostnaden for ferdigstillelse av årsregnskapet for et EPF og et aksjeselskap?
-            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
-            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
-            CoSim-Score: 0.799021586192812
-            
-            Spørsmål 185
-            Spørsmål generert: Kan du gi meg informasjon om kostnaden for å fullføre årsregnskapet for et EPF og et aksjeselskap?
-            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
-            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
-            CoSim-Score: 0.7903004633754668
-            
-            Spørsmål 186
-            Spørsmål generert: Hva er kostnaden for å fullføre årsregnskapet for et EPF og et aksjeselskap?
-            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
-            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
-            CoSim-Score: 0.8208783580376131
-            
-            Spørsmål 187
-            Spørsmål generert: Kan jeg få informasjon om kostnadene for å fullføre årsregnskapet for et EPF og et aksjeselskap?
-            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
-            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
-            CoSim-Score: 0.7851598449187631
-            
-            Spørsmål 188
-            Spørsmål generert: Kan du gi meg informasjon om kostnadene for å fullføre årsregnskapet for et EPF og et aksjeselskap?
-            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
-            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
-            CoSim-Score: 0.7740701166819989
-            
-            Spørsmål 189
-            Spørsmål generert: Kan du fortelle meg hva det koster å fullføre årsregnskapet for et EPF og et aksjeselskap?
-            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
-            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
-            CoSim-Score: 0.8237238447088935
-            
-            Spørsmål 190
-            Spørsmål generert: Hva er kostnaden for å gjennomføre årsregnskapet for et EPF og et aksjeselskap?
-            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
-            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
-            CoSim-Score: 0.8249823142297514
-            
-            Spørsmål 191
-            Spørsmål generert: Hva er kostnaden for å få årsregnskapet klart for både et EPF og et aksjeselskap?
-            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
-            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
-            CoSim-Score: 0.7558783667666846
-            
-            Spørsmål 192
-            Spørsmål generert: Hvor mye koster det å få årsregnskapet ferdig for både et EPF og et aksjeselskap?
-            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
-            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
-            CoSim-Score: 0.7758380501741933
-            
-            Spørsmål 193
-            Spørsmål generert: Kan du gi meg informasjon om kostnader for å få årsregnskapet ferdig for både et EPF og et aksjeselskap?
-            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
-            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
-            CoSim-Score: 0.7050418140919685
-            
-            Spørsmål 194
-            Spørsmål generert: Kan jeg få informasjon om kostnadene for å fullføre årsregnskapet for både et EPF og et aksjeselskap?
-            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
-            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
-            CoSim-Score: 0.7610369587369888
-            
-            Spørsmål 195
-            Spørsmål generert: Kan du fortelle meg kostnaden for å fullføre årsregnskapet for både et EPF og et aksjeselskap?
-            Spørsmål som ligner mest: Pris på årsoppgjør for EPF og Aksje selskap?
-            Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
-            CoSim-Score: 0.7774302985849344
-            
-            Spørsmål 196
-            Spørsmål generert: Kan du forklare meg forskjellen mellom regnskapsføring og revisjon?
-            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
-            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
-            CoSim-Score: 0.9346001206174106
-            
-            Spørsmål 197
-            Spørsmål generert: 
-            Spørsmål som ligner mest: Hvordan er søknad for registrering av mv?
-            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
-            CoSim-Score: 0.2170671301805181
-            
-            Spørsmål 198
-            Spørsmål generert: Kan du beskrive de ulike forskjellene mellom regnskapsføring og revisjon?
-            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
-            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
-            CoSim-Score: 0.9158919601355426
-            
-            Spørsmål 199
-            Spørsmål generert: Kan du forklare meg de ulike forskjellene mellom regnskapsføring og revisjon?
-            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
-            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
-            CoSim-Score: 0.8923107531290828
-            
-            Spørsmål 200
-            Spørsmål generert: Kan du gi meg informasjon om de ulike forskjellene mellom regnskapsføring og revisjon?
-            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
-            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
-            CoSim-Score: 0.8729123710458196
-            
-            Spørsmål 201
-            Spørsmål generert: Kan du fortelle meg hva som skiller regnskapsføring fra revisjon?
-            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
-            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
-            CoSim-Score: 0.8269414793415911
-            
-            Spørsmål 202
-            Spørsmål generert: 
-            Spørsmål som ligner mest: Hvordan er søknad for registrering av mv?
-            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
-            CoSim-Score: 0.2170671301805181
-            
-            Spørsmål 203
-            Spørsmål generert: Kan du forklare meg hva som skiller regnskapsføring fra revisjon?
-            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
-            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
-            CoSim-Score: 0.8340128896409227
-            
-            Spørsmål 204
-            Spørsmål generert: Kan du gi meg en forklaring på forskjellen mellom regnskapsføring og revisjon?
-            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
-            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
-            CoSim-Score: 0.9147081010688679
-            
-            Spørsmål 205
-            Spørsmål generert: Kan du hjelpe meg med å forstå forskjellen mellom regnskapsføring og revisjon?
-            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
-            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
-            CoSim-Score: 0.886914028473818
-            
-            Spørsmål 206
-            Spørsmål generert: Kan du gi meg informasjon om forskjellen mellom regnskapsføring og revisjon?
-            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
-            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
-            CoSim-Score: 0.9159477350028806
-            
-            Spørsmål 207
-            Spørsmål generert: Kan du forklare meg forskjellen mellom regnskapsføring og revisjon?
-            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
-            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
-            CoSim-Score: 0.9346001206174106
-            
-            Spørsmål 208
-            Spørsmål generert: Kan du beskrive meg forskjellene mellom regnskapsføring og revisjon?
-            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
-            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
-            CoSim-Score: 0.8756962819266956
-            
-            Spørsmål 209
-            Spørsmål generert: Kan du dele informasjon om forskjellene mellom regnskapsføring og revisjon?
-            Spørsmål som ligner mest: Hva er forskjellen mellom regnskapsføring og revisjon?
-            Fasit: Hva er forskjellen mellom regnskapsføring og revisjon?
-            CoSim-Score: 0.876263776704822
-            
-            Spørsmål 210
-            Spørsmål generert: Trenger jeg å ha en revisor?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Er det nødvendig for meg å ansette en revisor?
-            CoSim-Score: 0.9333090338396848
-            
-            Spørsmål 211
-            Spørsmål generert: Er det viktig for meg å ha en revisor?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Er det nødvendig for meg å ansette en revisor?
-            CoSim-Score: 0.8940462862263827
-            
-            Spørsmål 212
-            Spørsmål generert: Hvordan kan en revisor være til nytte for meg som kunde av regnskapsfirmaet?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Er det nødvendig for meg å ansette en revisor?
-            CoSim-Score: 0.7235702206098189
-            
-            Spørsmål 213
-            Spørsmål generert: Hvordan kan en revisor bidra til å styrke min bedrifts økonomi og regnskapsmessige overholdelse som kunde hos regnskapsfirmaet?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Er det nødvendig for meg å ansette en revisor?
-            CoSim-Score: 0.6417859282132345
-            
-            Spørsmål 214
-            Spørsmål generert: Hvordan kan en revisor hjelpe meg med å styrke min bedrifts økonomi og overholde regnskapsmessige krav som kunde hos regnskapsfirmaet?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Er det nødvendig for meg å ansette en revisor?
-            CoSim-Score: 0.6755390981213736
-            
-            Spørsmål 215
-            Spørsmål generert: Hvordan kan en revisor hjelpe meg med å styrke min bedrifts økonomi og overholde regnskapsmessige krav som kunde hos regnskapsfirmaet? Er det nødvendig for meg å ansette en revisor?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Er det nødvendig for meg å ansette en revisor?
-            CoSim-Score: 0.8157748268583813
-            
-            Spørsmål 216
-            Spørsmål generert: Hvordan kan en revisor bidra til å styrke min bedrifts økonomi og sikre at jeg overholder regnskapsmessige krav som kunde hos regnskapsfirmaet?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Er det nødvendig for meg å ansette en revisor?
-            CoSim-Score: 0.6643765227137455
-            
-            Spørsmål 217
-            Spørsmål generert: Hvordan kan en revisor hjelpe meg med å styrke økonomien og sikre at jeg overholder regnskapsmessige krav som kunde hos regnskapsfirmaet? Er det essensielt for meg å ansette en revisor?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Er det nødvendig for meg å ansette en revisor?
-            CoSim-Score: 0.771580496999628
-            
-            Spørsmål 218
-            Spørsmål generert: Hvordan kan en revisor hjelpe meg med å styrke økonomien og sikre at jeg overholder regnskapsmessige krav som kunde hos regnskapsfirmaet? Er det viktig for meg å ansette en revisor?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Er det nødvendig for meg å ansette en revisor?
-            CoSim-Score: 0.7719573262987595
-            
-            Spørsmål 219
-            Spørsmål generert: Hvordan kan en revisor bidra til å styrke økonomien og sikre at jeg oppfyller regnskapsfaglige krav som kunde hos regnskapsfirmaet? Er det viktig for meg å ansette en revisor?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Er det nødvendig for meg å ansette en revisor?
-            CoSim-Score: 0.7540511035297531
-            
-            Spørsmål 220
-            Spørsmål generert: Hvordan kan en revisor hjelpe meg med å styrke økonomien og sikre at jeg oppfyller regnskapsfaglige krav som kunde hos regnskapsfirmaet? Er det viktig for meg å ansette en revisor?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Er det nødvendig for meg å ansette en revisor?
-            CoSim-Score: 0.765479510270453
-            
-            Spørsmål 221
-            Spørsmål generert: Hvordan kan en revisor hjelpe meg med å styrke økonomien og sikre at jeg oppfyller regnskapsfaglige krav som kunde hos regnskapsfirmaet? Er det viktig for meg å ansette en revisor?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Er det nødvendig for meg å ansette en revisor?
-            CoSim-Score: 0.765479510270453
-            
-            Spørsmål 222
-            Spørsmål generert: Hvordan kan en revisor bidra til å styrke økonomien min og sikre at jeg oppfyller regnskapsfaglige krav som kunde hos regnskapsfirmaet? Er det viktig for meg å ansette en revisor?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Er det nødvendig for meg å ansette en revisor?
-            CoSim-Score: 0.7618977069616985
-            
-            Spørsmål 223
-            Spørsmål generert: Hvordan kan en revisor hjelpe meg med å forbedre økonomien min og sikre at jeg oppfyller alle regnskapsmessige krav som kunde hos et regnskapsfirma? Er det viktig for meg å ta i bruk tjenester fra en revisor?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Er det nødvendig for meg å ansette en revisor?
-            CoSim-Score: 0.7585786499804152
-            
-            Spørsmål 224
-            Spørsmål generert: Er det obligatorisk for alle å ha regnskapsplikt?
-            Spørsmål som ligner mest: Har alle regnskaps plikt?
-            Fasit: Har alle regnskaps plikt?
-            CoSim-Score: 0.8619841127398904
-            
-            Spørsmål 225
-            Spørsmål generert: Må alle ha regnskapsplikt?
-            Spørsmål som ligner mest: Har alle regnskaps plikt?
-            Fasit: Har alle regnskaps plikt?
-            CoSim-Score: 0.9099991692914948
-            
-            Spørsmål 226
-            Spørsmål generert: Spørsmålet mitt er om det er pålagt for alle å ha regnskapsplikt?
-            Spørsmål som ligner mest: Har alle regnskaps plikt?
-            Fasit: Har alle regnskaps plikt?
-            CoSim-Score: 0.8633783560738464
-            
-            Spørsmål 227
-            Spørsmål generert: Er det obligatorisk for alle å ha regnskapsplikt?
-            Spørsmål som ligner mest: Har alle regnskaps plikt?
-            Fasit: Har alle regnskaps plikt?
-            CoSim-Score: 0.8619841127398904
-            
-            Spørsmål 228
-            Spørsmål generert: Må alle ha regnskapsplikt?
-            Spørsmål som ligner mest: Har alle regnskaps plikt?
-            Fasit: Har alle regnskaps plikt?
-            CoSim-Score: 0.9099991692914948
-            
-            Spørsmål 229
-            Spørsmål generert: "Er det obligatorisk for alle å føre regnskap?"
-            Spørsmål som ligner mest: Har alle regnskaps plikt?
-            Fasit: Har alle regnskaps plikt?
-            CoSim-Score: 0.8522467880896665
-            
-            Spørsmål 230
-            Spørsmål generert: "Er det nødvendig for alle å holde regnskap?"
-            Spørsmål som ligner mest: Har alle regnskaps plikt?
-            Fasit: Har alle regnskaps plikt?
-            CoSim-Score: 0.8306593352454235
-            
-            Spørsmål 231
-            Spørsmål generert: "Er det obligatorisk for alle å føre regnskap?"
-            Spørsmål som ligner mest: Har alle regnskaps plikt?
-            Fasit: Har alle regnskaps plikt?
-            CoSim-Score: 0.8522467880896665
-            
-            Spørsmål 232
-            Spørsmål generert: "Er det nødvendig for alle å holde regnskap?"
-            Spørsmål som ligner mest: Har alle regnskaps plikt?
-            Fasit: Har alle regnskaps plikt?
-            CoSim-Score: 0.8306593352454235
-            
-            Spørsmål 233
-            Spørsmål generert: "Er det obligatorisk for alle å føre regnskap?"
-            Spørsmål som ligner mest: Har alle regnskaps plikt?
-            Fasit: Har alle regnskaps plikt?
-            CoSim-Score: 0.8522467880896665
-            
-            Spørsmål 234
-            Spørsmål generert: Er det nødvendig for alle å ha regnskapsføring?
-            Spørsmål som ligner mest: Har alle regnskaps plikt?
-            Fasit: Har alle regnskaps plikt?
-            CoSim-Score: 0.8265000886678345
-            
-            Spørsmål 235
-            Spørsmål generert: Trenger jeg å ha regnskapsføring selv om jeg ikke driver et stort selskap?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Har alle regnskaps plikt?
-            CoSim-Score: 0.5972938443933522
-            
-            Spørsmål 236
-            Spørsmål generert: Trenger jeg å føre regnskap selv om jeg driver en liten bedrift?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Har alle regnskaps plikt?
-            CoSim-Score: 0.6219051119006922
-            
-            Spørsmål 237
-            Spørsmål generert: Må jeg følge regnskapsplikt selv om jeg driver en liten bedrift?
-            Spørsmål som ligner mest: Er det obligatorisk med revisor for små foretak?
-            Fasit: Har alle regnskaps plikt?
-            CoSim-Score: 0.6665880029499389
-            
-            Spørsmål 238
-            Spørsmål generert: Hva er omfanget av bokføringsplikten?
-            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
-            Fasit: Hva innebærer bokføringsplikt?
-            CoSim-Score: 0.9095195079374303
-            
-            Spørsmål 239
-            Spørsmål generert: Kan du gi meg informasjon om hva bokføringsplikten omfatter?
-            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
-            Fasit: Hva innebærer bokføringsplikt?
-            CoSim-Score: 0.8624837420032622
-            
-            Spørsmål 240
-            Spørsmål generert: Kan du fortelle meg hva som er inkludert i bokføringsplikten?
-            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
-            Fasit: Hva innebærer bokføringsplikt?
-            CoSim-Score: 0.8802950694257075
-            
-            Spørsmål 241
-            Spørsmål generert: Kan du forklare meg hva som er pålagt i bokføringsplikten?
-            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
-            Fasit: Hva innebærer bokføringsplikt?
-            CoSim-Score: 0.8874538795393221
-            
-            Spørsmål 242
-            Spørsmål generert: Kan du gi meg informasjon om hva som kreves i forbindelse med bokføringsplikt?
-            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
-            Fasit: Hva innebærer bokføringsplikt?
-            CoSim-Score: 0.8445326682272057
-            
-            Spørsmål 243
-            Spørsmål generert: Kan du forklare hvilke krav som gjelder i forbindelse med bokføringsplikt?
-            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
-            Fasit: Hva innebærer bokføringsplikt?
-            CoSim-Score: 0.87900379034925
-            
-            Spørsmål 244
-            Spørsmål generert: Kan du gi meg informasjon om bokføringspliktens krav?
-            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
-            Fasit: Hva innebærer bokføringsplikt?
-            CoSim-Score: 0.8026701295578023
-            
-            Spørsmål 245
-            Spørsmål generert: Kan du gi meg en oversikt over kravene for bokføring?
-            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
-            Fasit: Hva innebærer bokføringsplikt?
-            CoSim-Score: 0.7666129903746683
-            
-            Spørsmål 246
-            Spørsmål generert: Kan du fortelle meg hva som er nødvendig for å oppfylle kravene for bokføring?
-            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
-            Fasit: Hva innebærer bokføringsplikt?
-            CoSim-Score: 0.7852539950035529
-            
-            Spørsmål 247
-            Spørsmål generert: Hva må jeg gjøre for å oppfylle kravene for bokføring?
-            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
-            Fasit: Hva innebærer bokføringsplikt?
-            CoSim-Score: 0.7655896150678956
-            
-            Spørsmål 248
-            Spørsmål generert: Hva er de nødvendige kravene for bokføring som jeg må oppfylle?
-            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
-            Fasit: Hva innebærer bokføringsplikt?
-            CoSim-Score: 0.7346852495135447
-            
-            Spørsmål 249
-            Spørsmål generert: Kan du gi meg informasjon om de kravene jeg må oppfylle for å kunne bokføre?
-            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
-            Fasit: Hva innebærer bokføringsplikt?
-            CoSim-Score: 0.6036771632922169
-            
-            Spørsmål 250
-            Spørsmål generert: Hvilke krav må jeg oppfylle for å kunne bokføre?
-            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
-            Fasit: Hva innebærer bokføringsplikt?
-            CoSim-Score: 0.6448646221562309
-            
-            Spørsmål 251
-            Spørsmål generert: Kan du fortelle meg hvilke krav jeg må oppfylle for å kunne bokføre? Og hva innebærer egentlig bokføringsplikt?
-            Spørsmål som ligner mest: Hva innebærer bokføringsplikt?
-            Fasit: Hva innebærer bokføringsplikt?
-            CoSim-Score: 0.7921501693431109
-            
-            Spørsmål 252
-            Spørsmål generert: Er det mulig å få fradrag for hjemmekontor på skatten?
-            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
-            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
-            CoSim-Score: 0.9196588111980728
-            
-            Spørsmål 253
-            Spørsmål generert: Kan jeg få fradrag for hjemmekontor på skatten?
-            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
-            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
-            CoSim-Score: 0.9761607690700793
-            
-            Spørsmål 254
-            Spørsmål generert: Kan jeg få skattefradrag for å arbeide hjemmefra?
-            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
-            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
-            CoSim-Score: 0.8175025614629299
-            
-            Spørsmål 255
-            Spørsmål generert: Kan jeg få fradrag på skatten for å jobbe hjemmefra?
-            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
-            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
-            CoSim-Score: 0.8141441996782321
-            
-            Spørsmål 256
-            Spørsmål generert: Kan jeg få skattefradrag for å jobbe hjemmefra?
-            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
-            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
-            CoSim-Score: 0.8168577929371844
-            
-            Spørsmål 257
-            Spørsmål generert: Kan jeg få skattetrekk for å jobbe hjemmefra?
-            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
-            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
-            CoSim-Score: 0.8286148422106183
-            
-            Spørsmål 258
-            Spørsmål generert: Kan jeg få skattefradrag for å arbeide hjemmefra?
-            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
-            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
-            CoSim-Score: 0.8175025614629299
-            
-            Spørsmål 259
-            Spørsmål generert: Kan jeg få skattemessige fradrag for å jobbe hjemmefra?
-            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
-            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
-            CoSim-Score: 0.8223721998501192
-            
-            Spørsmål 260
-            Spørsmål generert: Kan jeg få fradrag på skatten for å jobbe hjemmefra?
-            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
-            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
-            CoSim-Score: 0.8141441996782321
-            
-            Spørsmål 261
-            Spørsmål generert: Kan jeg få skattefradrag for hjemmekontor?
-            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
-            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
-            CoSim-Score: 0.953189411536921
-            
-            Spørsmål 262
-            Spørsmål generert: Kan jeg få fradrag for hjemmekontor i skattemeldingen?
-            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
-            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
-            CoSim-Score: 0.9373782545200589
-            
-            Spørsmål 263
-            Spørsmål generert: "Er det mulig å få fradrag for hjemmekontor i skattemeldingen?"
-            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
-            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
-            CoSim-Score: 0.8814219190408784
-            
-            Spørsmål 264
-            Spørsmål generert: Kan jeg få fradrag for hjemmekontor i skattemeldingen?
-            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
-            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
-            CoSim-Score: 0.9373782545200589
-            
-            Spørsmål 265
-            Spørsmål generert: Kan jeg få fradrag for hjemmekontor i skattemeldingen?
-            Spørsmål som ligner mest: Kan jeg trekke fra hjemmekontor på skatten?
-            Fasit: Kan jeg trekke fra hjemmekontor på skatten?
-            CoSim-Score: 0.9373782545200589
-            
-            Spørsmål 266
-            Spørsmål generert: Kan du forklare meg forskjellen mellom en balanse og et resultatregnskap?
-            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
-            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
-            CoSim-Score: 0.9360682526171065
-            
-            Spørsmål 267
-            Spørsmål generert: Kan du gi meg en forklaring på forskjellen mellom en balanse og et resultatregnskap?
-            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
-            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
-            CoSim-Score: 0.9142789655450225
-            
-            Spørsmål 268
-            Spørsmål generert: Kan du dele informasjon om hvordan en balanse og et resultatregnskap er forskjellige?
-            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
-            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
-            CoSim-Score: 0.8484033892349836
-            
-            Spørsmål 269
-            Spørsmål generert: Kan du gi meg informasjon om forskjellene mellom en balanse og et resultatregnskap?
-            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
-            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
-            CoSim-Score: 0.9045063019640183
-            
-            Spørsmål 270
-            Spørsmål generert: Kan du forklare meg de ulike forskjellene mellom en balanse og et resultatregnskap?
-            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
-            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
-            CoSim-Score: 0.9054997837610383
-            
-            Spørsmål 271
-            Spørsmål generert: Kan du gi meg informasjon om de ulike forskjellene mellom en balanse og et resultatregnskap?
-            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
-            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
-            CoSim-Score: 0.8907986562031018
-            
-            Spørsmål 272
-            Spørsmål generert: Kan du forklare meg de ulike forskjellene mellom en balanse og et resultatregnskap?
-            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
-            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
-            CoSim-Score: 0.9054997341714695
-            
-            Spørsmål 273
-            Spørsmål generert: Kan du gi meg en forklaring på hvordan en balanse skiller seg fra et resultatregnskap?
-            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
-            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
-            CoSim-Score: 0.8557923077761405
-            
-            Spørsmål 274
-            Spørsmål generert: Kan du forklare forskjellen mellom en balanse og et resultatregnskap for meg?
-            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
-            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
-            CoSim-Score: 0.8844255000831592
-            
-            Spørsmål 275
-            Spørsmål generert: "Kan du hjelpe meg med å forstå forskjellen mellom en balanse og et resultatregnskap?"
-            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
-            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
-            CoSim-Score: 0.8796653552438201
-            
-            Spørsmål 276
-            Spørsmål generert: Kan du gi meg informasjon om hvordan en balanse skiller seg fra et resultatregnskap?
-            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
-            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
-            CoSim-Score: 0.8477485142833223
-            
-            Spørsmål 277
-            Spørsmål generert: Kan du forklare meg forskjellen mellom en balanse og et resultatregnskap?
-            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
-            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
-            CoSim-Score: 0.9360682526171065
-            
-            Spørsmål 278
-            Spørsmål generert: Kan du hjelpe meg med å forstå hva som skiller en balanse fra et resultatregnskap?
-            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
-            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
-            CoSim-Score: 0.8383539687350288
-            
-            Spørsmål 279
-            Spørsmål generert: Kan du forklare meg forskjellen mellom en balanse og et resultatregnskap?
-            Spørsmål som ligner mest: Hva er forskjellen på en balanse og et resultatregnskap?
-            Fasit: Hva er forskjellen på en balanse og et resultatregnskap?
-            CoSim-Score: 0.9360682526171065
-            
-            Spørsmål 280
-            Spørsmål generert: Hvordan kan jeg beregne skatten for mitt enkeltpersonforetak?
-            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            CoSim-Score: 0.986353376407892
-            
-            Spørsmål 281
-            Spørsmål generert: Hvordan kan jeg finne ut av skatten min for mitt enkeltpersonforetak?
-            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            CoSim-Score: 0.9501809181829075
-            
-            Spørsmål 282
-            Spørsmål generert: Hvordan kan jeg sjekke skatteplikten for mitt enkeltpersonforetak?
-            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            CoSim-Score: 0.9103906057836779
-            
-            Spørsmål 283
-            Spørsmål generert: Hvordan kan jeg finne ut om mitt enkeltpersonforetak er skattepliktig?
-            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            CoSim-Score: 0.9127366167473749
-            
-            Spørsmål 284
-            Spørsmål generert: Hvordan kan jeg sjekke om mitt enkeltpersonforetak er skattepliktig?
-            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            CoSim-Score: 0.9086500350530042
-            
-            Spørsmål 285
-            Spørsmål generert: Hvordan kan jeg finne ut om mitt enkeltpersonforetak er skattepliktig?
-            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            CoSim-Score: 0.9127366167473749
-            
-            Spørsmål 286
-            Spørsmål generert: Hvordan kan jeg fastslå om mitt enkeltpersonforetak er skattepliktig?
-            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            CoSim-Score: 0.9056904182818872
-            
-            Spørsmål 287
-            Spørsmål generert: Hvordan kan jeg finne ut om mitt enkeltpersonforetak er skattepliktig?
-            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            CoSim-Score: 0.9127366167473749
-            
-            Spørsmål 288
-            Spørsmål generert: Hvordan kan jeg få informasjon om skatteplikt for mitt enkeltpersonforetak?
-            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            CoSim-Score: 0.8972852337450641
-            
-            Spørsmål 289
-            Spørsmål generert: Hvordan kan jeg finne informasjon om skatteplikten for mitt enkeltpersonforetak?
-            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            CoSim-Score: 0.888065658625182
-            
-            Spørsmål 290
-            Spørsmål generert: Hvordan kan jeg få informasjon om skatteplikten for mitt enkeltpersonforetak?
-            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            CoSim-Score: 0.8953086983451377
-            
-            Spørsmål 291
-            Spørsmål generert: Hvordan kan jeg finne ut mer om skattereglene for mitt enkeltpersonforetak?
-            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            CoSim-Score: 0.8813513715377481
-            
-            Spørsmål 292
-            Spørsmål generert: Hvordan kan jeg få mer informasjon om skatteregler for enkeltpersonforetak?
-            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            CoSim-Score: 0.7941075058031417
-            
-            Spørsmål 293
-            Spørsmål generert: Hvordan kan jeg få veiledning om skattespørsmål for mitt enkeltpersonforetak?
-            Spørsmål som ligner mest: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-            CoSim-Score: 0.8388736272355128
-            
-            Spørsmål 294
-            Spørsmål generert: Må små foretak ha revisor?
-            Spørsmål som ligner mest: Er det obligatorisk med revisor for små foretak?
-            Fasit: Er det obligatorisk med revisor for små foretak?
-            CoSim-Score: 0.9353998103123617
-            
-            Spørsmål 295
-            Spørsmål generert: "Trenger små foretak å ansette en revisor?"
-            Spørsmål som ligner mest: Er det obligatorisk med revisor for små foretak?
-            Fasit: Er det obligatorisk med revisor for små foretak?
-            CoSim-Score: 0.8664487528688917
-            
-            Spørsmål 296
-            Spørsmål generert: "Er det nødvendig for små bedrifter å ha en revisor?"
-            Spørsmål som ligner mest: Er det obligatorisk med revisor for små foretak?
-            Fasit: Er det obligatorisk med revisor for små foretak?
-            CoSim-Score: 0.9096346361781316
-            
-            Spørsmål 297
-            Spørsmål generert: Trenger små bedrifter å ha en revisor?
-            Spørsmål som ligner mest: Er det obligatorisk med revisor for små foretak?
-            Fasit: Er det obligatorisk med revisor for små foretak?
-            CoSim-Score: 0.8701209761828708
-            
-            Spørsmål 298
-            Spørsmål generert: Trenger små bedrifter å ha en regnskapsfører?
-            Spørsmål som ligner mest: Er det obligatorisk med revisor for små foretak?
-            Fasit: Er det obligatorisk med revisor for små foretak?
-            CoSim-Score: 0.8120518266273431
-            
-            Spørsmål 299
-            Spørsmål generert: Trenger små firmaer å ansette en revisor?
-            Spørsmål som ligner mest: Er det obligatorisk med revisor for små foretak?
-            Fasit: Er det obligatorisk med revisor for små foretak?
-            CoSim-Score: 0.8492572363329347
-            
-            Spørsmål 300
-            Spørsmål generert: "Er det nødvendig for små bedrifter å ha en revisor?"
-            Spørsmål som ligner mest: Er det obligatorisk med revisor for små foretak?
-            Fasit: Er det obligatorisk med revisor for små foretak?
-            CoSim-Score: 0.9096346361781316
-            
-            Spørsmål 301
-            Spørsmål generert: "Er det anbefalt for små bedrifter å benytte seg av revisortjenester?"
-            Spørsmål som ligner mest: Er det obligatorisk med revisor for små foretak?
-            Fasit: Er det obligatorisk med revisor for små foretak?
-            CoSim-Score: 0.8350078804721579
-            
-            Spørsmål 302
-            Spørsmål generert: "Er det nødvendig for små bedrifter å ansette en revisor?"
-            Spørsmål som ligner mest: Er det obligatorisk med revisor for små foretak?
-            Fasit: Er det obligatorisk med revisor for små foretak?
-            CoSim-Score: 0.8913702199157951
-            
-            Spørsmål 303
-            Spørsmål generert: "Trenger små bedrifter å ha en revisor?"
-            Spørsmål som ligner mest: Er det obligatorisk med revisor for små foretak?
-            Fasit: Er det obligatorisk med revisor for små foretak?
-            CoSim-Score: 0.8647684454268926
-            
-            Spørsmål 304
-            Spørsmål generert: "Er det nødvendig for små bedrifter å ansette en revisor?"
-            Spørsmål som ligner mest: Er det obligatorisk med revisor for små foretak?
-            Fasit: Er det obligatorisk med revisor for små foretak?
-            CoSim-Score: 0.8913702199157951
-            
-            Spørsmål 305
-            Spørsmål generert: "Er det viktig for små bedrifter å ha en revisor?"
-            Spørsmål som ligner mest: Er det obligatorisk med revisor for små foretak?
-            Fasit: Er det obligatorisk med revisor for små foretak?
-            CoSim-Score: 0.8976269792065525
-            
-            Spørsmål 306
-            Spørsmål generert: "Hva er fordelen for små bedrifter med å ha en revisor?"
-            Spørsmål som ligner mest: Er det obligatorisk med revisor for små foretak?
-            Fasit: Er det obligatorisk med revisor for små foretak?
-            CoSim-Score: 0.7485051237114058
-            
-            Spørsmål 307
-            Spørsmål generert: "Hva er grunnen til at små bedrifter bør benytte seg av en revisor?"
-            Spørsmål som ligner mest: Er det obligatorisk med revisor for små foretak?
-            Fasit: Er det obligatorisk med revisor for små foretak?
-            CoSim-Score: 0.8221214285524974
-            
-            Spørsmål 308
-            Spørsmål generert: Kan du fortelle meg når dere har åpent?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
-            Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.7887228667003932
-            
-            Spørsmål 309
-            Spørsmål generert: Kan du gi meg informasjon om deres åpningstider?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
-            Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.8806918868856708
-            
-            Spørsmål 310
-            Spørsmål generert: Kan du fortelle meg når dere er åpne?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
-            Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.7211230073241077
-            
-            Spørsmål 311
-            Spørsmål generert: Kan du gi meg informasjon om når regnskapsfirmaet er tilgjengelig for henvendelser?
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.6486302403780538
-            
-            Spørsmål 312
-            Spørsmål generert: Når er regnskapsfirmaet tilgjengelig for henvendelser?
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.7055099569561878
-            
-            Spørsmål 313
-            Spørsmål generert: Kan du fortelle meg når regnskapsfirmaet er tilgjengelig for henvendelser?
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.6490237238206863
-            
-            Spørsmål 314
-            Spørsmål generert: Når kan jeg kontakte regnskapsfirmaet deres?
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.6124265825513057
-            
-            Spørsmål 315
-            Spørsmål generert: Kan du fortelle meg når regnskapsfirmaet deres er tilgjengelig?
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.6546015045237262
-            
-            Spørsmål 316
-            Spørsmål generert: Når kan jeg kontakte regnskapsfirmaet deres?
-            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
-            Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.6124265519798295
-            
-            Spørsmål 317
-            Spørsmål generert: Hvilke tidspunkter kan jeg få tak i dere?
-            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
-            Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.6318491933982411
-            
-            Spørsmål 318
-            Spørsmål generert: Når er dere tilgjengelige for henvendelser?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
-            Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.6532135276059297
-            
-            Spørsmål 319
-            Spørsmål generert: Når kan jeg kontakte dere?
-            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
-            Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.6184239081080181
-            
-            Spørsmål 320
-            Spørsmål generert: Når er dere tilgjengelig for kontakt?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
-            Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.6082057850553895
-            
-            Spørsmål 321
-            Spørsmål generert: Når kan jeg kontakte dere?
-            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
-            Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.6184239081080181
-            
-            Spørsmål 322
-            Spørsmål generert: Kan dere hjelpe meg med å fylle ut selvangivelsen?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Tilbyr dere bistand med selvangivelsen?
-            CoSim-Score: 0.8016001226757705
-            
-            Spørsmål 323
-            Spørsmål generert: Kan dere veilede meg gjennom prosessen med å fylle ut selvangivelsen?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Tilbyr dere bistand med selvangivelsen?
-            CoSim-Score: 0.7557103967296406
-            
-            Spørsmål 324
-            Spørsmål generert: Kan dere hjelpe meg med å fylle ut selvangivelsen?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Tilbyr dere bistand med selvangivelsen?
-            CoSim-Score: 0.8016001226757705
-            
-            Spørsmål 325
-            Spørsmål generert: Kan dere assistere meg med å fullføre min selvangivelse?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Tilbyr dere bistand med selvangivelsen?
-            CoSim-Score: 0.7729930773777632
-            
-            Spørsmål 326
-            Spørsmål generert: Kan dere hjelpe meg med å ferdigstille selvangivelsen min?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Tilbyr dere bistand med selvangivelsen?
-            CoSim-Score: 0.7216275976615837
-            
-            Spørsmål 327
-            Spørsmål generert: Kan dere assistere meg med å fullføre min selvangivelse?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Tilbyr dere bistand med selvangivelsen?
-            CoSim-Score: 0.7729930773777632
-            
-            Spørsmål 328
-            Spørsmål generert: Kan dere hjelpe meg med å ferdigstille min selvangivelse?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Tilbyr dere bistand med selvangivelsen?
-            CoSim-Score: 0.7157673052987443
-            
-            Spørsmål 329
-            Spørsmål generert: Kan dere assistere meg med å fullføre min selvangivelse?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Tilbyr dere bistand med selvangivelsen?
-            CoSim-Score: 0.7729930773777632
-            
-            Spørsmål 330
-            Spørsmål generert: Kan dere hjelpe meg med å fylle ut selvangivelsen min?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Tilbyr dere bistand med selvangivelsen?
-            CoSim-Score: 0.7810539992628323
-            
-            Spørsmål 331
-            Spørsmål generert: Kan dere assistere meg med å fullføre selvangivelsen min?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Tilbyr dere bistand med selvangivelsen?
-            CoSim-Score: 0.7822071967905597
-            
-            Spørsmål 332
-            Spørsmål generert: Kan dere hjelpe meg med å ferdigstille selvangivelsen min?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Tilbyr dere bistand med selvangivelsen?
-            CoSim-Score: 0.7216275976615837
-            
-            Spørsmål 333
-            Spørsmål generert: Kan dere assistere meg med å fullføre min selvangivelse?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Tilbyr dere bistand med selvangivelsen?
-            CoSim-Score: 0.7729930773777632
-            
-            Spørsmål 334
-            Spørsmål generert: Kan dere hjelpe meg med å fullføre min selvangivelse?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Tilbyr dere bistand med selvangivelsen?
-            CoSim-Score: 0.7528383514797007
-            
-            Spørsmål 335
-            Spørsmål generert: Kan dere assistere meg med å ferdigstille selvangivelsen min?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Tilbyr dere bistand med selvangivelsen?
-            CoSim-Score: 0.7513694209212778
-            
-            Spørsmål 336
-            Spørsmål generert: Kan dere assistere med lønnsadministrasjon?
+            Spørsmål generert: What are the services provided by your company?
             Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
-            Fasit: Kan dere hjelpe til med lønnstjenester?
-            CoSim-Score: 0.9347753908188617
-            
-            Spørsmål 337
-            Spørsmål generert: Kan dere tilby hjelp med lønnsadministrasjon?
-            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
-            Fasit: Kan dere hjelpe til med lønnstjenester?
-            CoSim-Score: 0.9334963663618542
-            
-            Spørsmål 338
-            Spørsmål generert: Kan dere assistere med lønnsadministrasjon?
-            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
-            Fasit: Kan dere hjelpe til med lønnstjenester?
-            CoSim-Score: 0.9347753908188617
-            
-            Spørsmål 339
-            Spørsmål generert: Kan dere tilby assistanse med lønnsadministrasjon?
-            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
-            Fasit: Kan dere hjelpe til med lønnstjenester?
-            CoSim-Score: 0.9430868876798284
-            
-            Spørsmål 340
-            Spørsmål generert: Kan dere hjelpe med lønnsadministrasjon?
-            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
-            Fasit: Kan dere hjelpe til med lønnstjenester?
-            CoSim-Score: 0.9380710807224342
-            
-            Spørsmål 341
-            Spørsmål generert: Kan dere assistere med lønnsadministrasjon?
-            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
-            Fasit: Kan dere hjelpe til med lønnstjenester?
-            CoSim-Score: 0.9347753908188617
-            
-            Spørsmål 342
-            Spørsmål generert: Kan dere være behjelpelige med lønnsadministrasjonen?
-            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
-            Fasit: Kan dere hjelpe til med lønnstjenester?
-            CoSim-Score: 0.9187143559122947
-            
-            Spørsmål 343
-            Spørsmål generert: Kan dere assistere med lønnsadministrasjonen?
-            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
-            Fasit: Kan dere hjelpe til med lønnstjenester?
-            CoSim-Score: 0.9256678892145604
-            
-            Spørsmål 344
-            Spørsmål generert: Kan dere gi hjelp med lønnsadministrasjonen?
-            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
-            Fasit: Kan dere hjelpe til med lønnstjenester?
-            CoSim-Score: 0.9117652460620136
-            
-            Spørsmål 345
-            Spørsmål generert: Kan dere assistere med lønnsadministrasjonen?
-            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
-            Fasit: Kan dere hjelpe til med lønnstjenester?
-            CoSim-Score: 0.9256678892145604
-            
-            Spørsmål 346
-            Spørsmål generert: Kan dere bidra med lønnsadministrasjonen?
-            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
-            Fasit: Kan dere hjelpe til med lønnstjenester?
-            CoSim-Score: 0.9126289734612677
-            
-            Spørsmål 347
-            Spørsmål generert: Kan dere supportere med lønnsadministrasjonen?
-            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
-            Fasit: Kan dere hjelpe til med lønnstjenester?
-            CoSim-Score: 0.7129623346712821
-            
-            Spørsmål 348
-            Spørsmål generert: Kan dere assistere med lønnsadministrasjonen?
-            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
-            Fasit: Kan dere hjelpe til med lønnstjenester?
-            CoSim-Score: 0.9256678892145604
-            
-            Spørsmål 349
-            Spørsmål generert: Kan dere gi meg informasjon om hva slags hjelp dere tilbyr når det gjelder lønnsadministrasjon?
-            Spørsmål som ligner mest: Kan dere hjelpe til med lønnstjenester?
-            Fasit: Kan dere hjelpe til med lønnstjenester?
-            CoSim-Score: 0.8759292275640744
-            
-            Spørsmål 350
-            Spørsmål generert: Kan du fortelle meg hvor jeg kan finne kontoret deres?
-            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
-            Fasit: Hvor er kontoret deres lokalisert?
-            CoSim-Score: 0.7905260110621404
-            
-            Spørsmål 351
-            Spørsmål generert: Kan du vennligst fortelle meg hvor jeg kan finne adressen til kontoret deres?
-            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
-            Fasit: Hvor er kontoret deres lokalisert?
-            CoSim-Score: 0.741721796488467
-            
-            Spørsmål 352
-            Spørsmål generert: Kan du gi meg informasjon om hvor deres kontor ligger?
-            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
-            Fasit: Hvor er kontoret deres lokalisert?
-            CoSim-Score: 0.8778241109065467
-            
-            Spørsmål 353
-            Spørsmål generert: Kan du fortelle meg hvor regnskapsfirmaet deres er beliggende?
-            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
-            Fasit: Hvor er kontoret deres lokalisert?
-            CoSim-Score: 0.7562983850457679
-            
-            Spørsmål 354
-            Spørsmål generert: Kan du fortelle meg hvor jeg kan finne regnskapsfirmaet deres?
-            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
-            Fasit: Hvor er kontoret deres lokalisert?
-            CoSim-Score: 0.6268861116117839
-            
-            Spørsmål 355
-            Spørsmål generert: Hvor er regnskapsfirmaet deres beliggenhet?
-            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
-            Fasit: Hvor er kontoret deres lokalisert?
-            CoSim-Score: 0.7747083695611766
-            
-            Spørsmål 356
-            Spørsmål generert: Kan du fortelle meg hvor regnskapsfirmaet deres er plassert?
-            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
-            Fasit: Hvor er kontoret deres lokalisert?
-            CoSim-Score: 0.753565283320126
-            
-            Spørsmål 357
-            Spørsmål generert: Kan jeg få informasjon om hvor regnskapsfirmaet deres holder til?
-            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
-            Fasit: Hvor er kontoret deres lokalisert?
-            CoSim-Score: 0.765847397990733
-            
-            Spørsmål 358
-            Spørsmål generert: Kan du gi meg informasjon om hvor regnskapsfirmaet deres holder til?
-            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
-            Fasit: Hvor er kontoret deres lokalisert?
-            CoSim-Score: 0.730091417788356
-            
-            Spørsmål 359
-            Spørsmål generert: Kan jeg få vite hvor regnskapsfirmaet deres befinner seg?
-            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
-            Fasit: Hvor er kontoret deres lokalisert?
-            CoSim-Score: 0.7809503277087108
-            
-            Spørsmål 360
-            Spørsmål generert: Kan jeg få informasjon om hvor regnskapsfirmaet deres er beliggende?
-            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
-            Fasit: Hvor er kontoret deres lokalisert?
-            CoSim-Score: 0.7882075919525523
-            
-            Spørsmål 361
-            Spørsmål generert: Hvor befinner regnskapsfirmaet deres seg fysisk?
-            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
-            Fasit: Hvor er kontoret deres lokalisert?
-            CoSim-Score: 0.6730727628359403
-            
-            Spørsmål 362
-            Spørsmål generert: Hvor er regnskapsfirmaet deres beliggende?
-            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
-            Fasit: Hvor er kontoret deres lokalisert?
-            CoSim-Score: 0.7853710474772655
-            
-            Spørsmål 363
-            Spørsmål generert: Kan du fortelle meg hvor regnskapsfirmaet deres befinner seg?
-            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
-            Fasit: Hvor er kontoret deres lokalisert?
-            CoSim-Score: 0.7487465962894004
-            
-            Spørsmål 364
-            Spørsmål generert: Kan dere gi råd og veiledning til småbedriftskunder?
-            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
-            Fasit: Tilbyr dere rådgivning for småbedrifter?
-            CoSim-Score: 0.9127590225731084
-            
-            Spørsmål 365
-            Spørsmål generert: Kan du hjelpe småbedrifter med rådgivning og veiledning?
-            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
-            Fasit: Tilbyr dere rådgivning for småbedrifter?
-            CoSim-Score: 0.9159774566603331
-            
-            Spørsmål 366
-            Spørsmål generert: Kan dere bistå småbedrifter med rådgivning og veiledning?
-            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
-            Fasit: Tilbyr dere rådgivning for småbedrifter?
-            CoSim-Score: 0.9226698455996116
-            
-            Spørsmål 367
-            Spørsmål generert: Kan dere hjelpe små bedrifter med veiledning og rådgivning?
-            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
-            Fasit: Tilbyr dere rådgivning for småbedrifter?
-            CoSim-Score: 0.9052649115263938
-            
-            Spørsmål 368
-            Spørsmål generert: Kan dere veilede og gi råd til små bedrifter?
-            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
-            Fasit: Tilbyr dere rådgivning for småbedrifter?
-            CoSim-Score: 0.9180454789118249
-            
-            Spørsmål 369
-            Spørsmål generert: Kan dere hjelpe små bedrifter med veiledning og rådgivning?
-            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
-            Fasit: Tilbyr dere rådgivning for småbedrifter?
-            CoSim-Score: 0.9052649115263938
-            
-            Spørsmål 370
-            Spørsmål generert: Kan dere gi veiledning og rådgivning til småbedrifter?
-            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
-            Fasit: Tilbyr dere rådgivning for småbedrifter?
-            CoSim-Score: 0.9477372941262987
-            
-            Spørsmål 371
-            Spørsmål generert: Kan dere gi veiledning og rådgivning til småbedrifter?
-            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
-            Fasit: Tilbyr dere rådgivning for småbedrifter?
-            CoSim-Score: 0.9477372941262987
-            
-            Spørsmål 372
-            Spørsmål generert: Kan dere hjelpe småbedrifter med veiledning og rådgivning?
-            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
-            Fasit: Tilbyr dere rådgivning for småbedrifter?
-            CoSim-Score: 0.9183448411565553
-            
-            Spørsmål 373
-            Spørsmål generert: Kan dere gi veiledning og rådgivning til småbedrifter?
-            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
-            Fasit: Tilbyr dere rådgivning for småbedrifter?
-            CoSim-Score: 0.9477372941262987
-            
-            Spørsmål 374
-            Spørsmål generert: Kan dere hjelpe småbedrifter med veiledning og rådgivning?
-            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
-            Fasit: Tilbyr dere rådgivning for småbedrifter?
-            CoSim-Score: 0.9183448411565553
-            
-            Spørsmål 375
-            Spørsmål generert: Kan dere gi veiledning og rådgivning til småbedrifter?
-            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
-            Fasit: Tilbyr dere rådgivning for småbedrifter?
-            CoSim-Score: 0.9477372941262987
-            
-            Spørsmål 376
-            Spørsmål generert: Kan dere hjelpe småbedrifter med veiledning og rådgivning i forhold til regnskap?
-            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
-            Fasit: Tilbyr dere rådgivning for småbedrifter?
-            CoSim-Score: 0.8214199614626443
-            
-            Spørsmål 377
-            Spørsmål generert: Kan dere gi veiledning og rådgivning til småbedrifter angående regnskap?
-            Spørsmål som ligner mest: Tilbyr dere rådgivning for småbedrifter?
-            Fasit: Tilbyr dere rådgivning for småbedrifter?
-            CoSim-Score: 0.8069232971192277
-            
-            Spørsmål 378
-            Spørsmål generert: Hvordan kan jeg avtale en konsultasjon med dere?
-            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
-            Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.8626536769239591
-            
-            Spørsmål 379
-            Spørsmål generert: Hvordan kan jeg planlegge en avtale med deres regnskapsfirma?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.6393756114490727
-            
-            Spørsmål 380
-            Spørsmål generert: Hvordan kan jeg avtale et møte med deres regnskapsfirma?
-            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
-            Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.6435742428465523
-            
-            Spørsmål 381
-            Spørsmål generert: "Kan jeg få informasjon om hvordan jeg kan avtale en konsultasjon med deres regnskapsfirma?"
-            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
-            Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.7044391458967496
-            
-            Spørsmål 382
-            Spørsmål generert: "Kan du gi meg informasjon om hvordan jeg kan avtale en konsultasjon med deres regnskapsfirma?"
-            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
-            Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.6793803241149555
-            
-            Spørsmål 383
-            Spørsmål generert: Kan du veilede meg gjennom prosessen for å avtale en konsultasjon med deres regnskapsfirma?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.6496014708935043
-            
-            Spørsmål 384
-            Spørsmål generert: Hvordan kan jeg avtale en konsultasjon med deres regnskapsfirma?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.6900635665528434
-            
-            Spørsmål 385
-            Spørsmål generert: Hvordan kan jeg planlegge en avtale med deres regnskapsfirma?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.6393756114490727
-            
-            Spørsmål 386
-            Spørsmål generert: Hvordan kan jeg avtale en konsultasjon med deres regnskapsfirma?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.6900635665528434
-            
-            Spørsmål 387
-            Spørsmål generert: Hvordan kan jeg få en avtale for en konsultasjon med deres regnskapsfirma?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.6833995094253245
-            
-            Spørsmål 388
-            Spørsmål generert: Hvordan kan jeg avtale en konsultasjon med deres regnskapsfirma?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.6900635665528434
-            
-            Spørsmål 389
-            Spørsmål generert: Hvordan kan jeg planlegge en avtale med deres regnskapsfirma for en konsultasjon?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.6594975823960767
-            
-            Spørsmål 390
-            Spørsmål generert: Hvordan kan jeg avtale en konsultasjon med deres regnskapsfirma?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.6900635665528434
-            
-            Spørsmål 391
-            Spørsmål generert: Hvordan kan jeg få en avtale for en konsultasjon med deres regnskapsfirma?
-            Spørsmål som ligner mest: Er det nødvendig for meg å ansette en revisor?
-            Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.6833995094253245
-            
-            Spørsmål 392
-            Spørsmål generert: Har dere kompetanse innen internasjonal skatterådgivning?
-            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
-            Fasit: Er dere erfarne med internasjonal skatterådgivning?
-            CoSim-Score: 0.9391809296091119
-            
-            Spørsmål 393
-            Spørsmål generert: Har dere erfaring med å gi råd om internasjonal beskatning?
-            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
-            Fasit: Er dere erfarne med internasjonal skatterådgivning?
-            CoSim-Score: 0.9111360624639883
-            
-            Spørsmål 394
-            Spørsmål generert: Kan dere tilby rådgivning og hjelp med internasjonal beskatning?
-            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
-            Fasit: Er dere erfarne med internasjonal skatterådgivning?
-            CoSim-Score: 0.8584645908381132
-            
-            Spørsmål 395
-            Spørsmål generert: Kan dere assistere med rådgivning og hjelp innen internasjonal beskatning?
-            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
-            Fasit: Er dere erfarne med internasjonal skatterådgivning?
-            CoSim-Score: 0.8505220757932265
-            
-            Spørsmål 396
-            Spørsmål generert: Kan dere hjelpe med rådgivning og assistanse innen internasjonal beskatning?
-            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
-            Fasit: Er dere erfarne med internasjonal skatterådgivning?
-            CoSim-Score: 0.8541790416594756
-            
-            Spørsmål 397
-            Spørsmål generert: Kan dere gi assistanse og råd når det gjelder internasjonal beskatning?
-            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
-            Fasit: Er dere erfarne med internasjonal skatterådgivning?
-            CoSim-Score: 0.8367311744748595
-            
-            Spørsmål 398
-            Spørsmål generert: Kan dere hjelpe meg med råd og assistanse angående internasjonal beskatning?
-            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
-            Fasit: Er dere erfarne med internasjonal skatterådgivning?
-            CoSim-Score: 0.7987402361285466
-            
-            Spørsmål 399
-            Spørsmål generert: Kan dere gi meg råd og assistanse angående internasjonal beskatning?
-            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
-            Fasit: Er dere erfarne med internasjonal skatterådgivning?
-            CoSim-Score: 0.7979443023353116
-            
-            Spørsmål 400
-            Spørsmål generert: Kan dere hjelpe meg med spørsmål om internasjonal beskatning?
-            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
-            Fasit: Er dere erfarne med internasjonal skatterådgivning?
-            CoSim-Score: 0.7979878469876068
-            
-            Spørsmål 401
-            Spørsmål generert: Kan dere bistå meg med spørsmål angående internasjonal beskatning?
-            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
-            Fasit: Er dere erfarne med internasjonal skatterådgivning?
-            CoSim-Score: 0.7952975909609623
-            
-            Spørsmål 402
-            Spørsmål generert: Kan dere hjelpe meg med spørsmål om internasjonal beskatning?
-            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
-            Fasit: Er dere erfarne med internasjonal skatterådgivning?
-            CoSim-Score: 0.7979878469876068
-            
-            Spørsmål 403
-            Spørsmål generert: Kan dere svare på spørsmål om internasjonal beskatning?
-            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
-            Fasit: Er dere erfarne med internasjonal skatterådgivning?
-            CoSim-Score: 0.8027597223873079
-            
-            Spørsmål 404
-            Spørsmål generert: Kan dere hjelpe meg med spørsmål om internasjonal beskatning?
-            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
-            Fasit: Er dere erfarne med internasjonal skatterådgivning?
-            CoSim-Score: 0.7979878469876068
-            
-            Spørsmål 405
-            Spørsmål generert: Kan dere veilede meg med spørsmål om internasjonal beskatning?
-            Spørsmål som ligner mest: Er dere erfarne med internasjonal skatterådgivning?
-            Fasit: Er dere erfarne med internasjonal skatterådgivning?
-            CoSim-Score: 0.7937687064517164
-            
-            Spørsmål 406
-            Spørsmål generert: Kan dere hjelpe meg med regnskapstjenester via digitale plattformer?
-            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
-            Fasit: Tilbyr dere digitale regnskapstjenester?
-            CoSim-Score: 0.8975434413790281
-            
-            Spørsmål 407
-            Spørsmål generert: Kan dere assistere meg med regnskapstjenester gjennom digitale plattformer?
-            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
-            Fasit: Tilbyr dere digitale regnskapstjenester?
-            CoSim-Score: 0.8801611622298646
-            
-            Spørsmål 408
-            Spørsmål generert: Kan dere hjelpe meg med regnskapstjenester via digitale kanaler?
-            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
-            Fasit: Tilbyr dere digitale regnskapstjenester?
-            CoSim-Score: 0.8942004919796586
-            
-            Spørsmål 409
-            Spørsmål generert: Kan dere assistere meg med regnskapstjenester gjennom digitale plattformer?
-            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
-            Fasit: Tilbyr dere digitale regnskapstjenester?
-            CoSim-Score: 0.8801611622298646
-            
-            Spørsmål 410
-            Spørsmål generert: Kan deres firma hjelpe meg med regnskapstjenester via digitale plattformer?
-            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
-            Fasit: Tilbyr dere digitale regnskapstjenester?
-            CoSim-Score: 0.8919540947962983
-            
-            Spørsmål 411
-            Spørsmål generert: Kan dere hjelpe meg med digitale regnskapstjenester?
-            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
-            Fasit: Tilbyr dere digitale regnskapstjenester?
-            CoSim-Score: 0.8879484751752115
-            
-            Spørsmål 412
-            Spørsmål generert: Kan dere bistå med regnskapstjenester på nett?
-            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
-            Fasit: Tilbyr dere digitale regnskapstjenester?
-            CoSim-Score: 0.822209217093713
-            
-            Spørsmål 413
-            Spørsmål generert: Kan dere hjelpe meg med regnskapet online?
-            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
-            Fasit: Tilbyr dere digitale regnskapstjenester?
-            CoSim-Score: 0.7194167256514254
-            
-            Spørsmål 414
-            Spørsmål generert: Kan dere assistere meg med å håndtere regnskapet mitt via nettet?
-            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
-            Fasit: Tilbyr dere digitale regnskapstjenester?
-            CoSim-Score: 0.7116405998022604
-            
-            Spørsmål 415
-            Spørsmål generert: Kan jeg få hjelp til å administrere regnskapet mitt online?
-            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
-            Fasit: Tilbyr dere digitale regnskapstjenester?
-            CoSim-Score: 0.7127943704369497
-            
-            Spørsmål 416
-            Spørsmål generert: Ja, vi tilbyr digitale regnskapstjenester som lar deg administrere regnskapet ditt online. Hvordan kan jeg hjelpe deg med dette?
-            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
-            Fasit: Tilbyr dere digitale regnskapstjenester?
-            CoSim-Score: 0.8376006718928187
-            
-            Spørsmål 417
-            Spørsmål generert: Kan jeg få hjelp med å administrere regnskapet mitt online?
-            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
-            Fasit: Tilbyr dere digitale regnskapstjenester?
-            CoSim-Score: 0.715345768926251
-            
-            Spørsmål 418
-            Spørsmål generert: Kan jeg få assistanse med å håndtere regnskapet mitt på nettet?
-            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
-            Fasit: Tilbyr dere digitale regnskapstjenester?
-            CoSim-Score: 0.7291108684388781
-            
-            Spørsmål 419
-            Spørsmål generert: Kan dere hjelpe meg med å administrere regnskapet mitt online?
-            Spørsmål som ligner mest: Tilbyr dere digitale regnskapstjenester?
-            Fasit: Tilbyr dere digitale regnskapstjenester?
-            CoSim-Score: 0.7114614456530105
-            
-            Spørsmål 420
-            Spørsmål generert: Kan du fortelle meg om hvilke tjenester som er tilgjengelige hos deres regnskapsfirma?
-            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
             Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7635771652955219
-            
-            Spørsmål 421
-            Spørsmål generert: Kan du gi meg informasjon om de tjenestene dere tilbyr hos regnskapsfirmaet?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7174299216436875
-            
-            Spørsmål 422
-            Spørsmål generert: Kan du fortelle meg mer om hva slags tjenester regnskapsfirmaet tilbyr?
-            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
-            Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7193936022167599
-            
-            Spørsmål 423
-            Spørsmål generert: Kan du gi meg mer informasjon om hvilke tjenester regnskapsfirmaet tilbyr?
-            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
-            Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7177350166888498
-            
-            Spørsmål 424
-            Spørsmål generert: Kan du vennligst gi meg en oversikt over hvilke tjenester regnskapsfirmaet ditt tilbyr?
-            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
-            Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.683763711975826
-            
-            Spørsmål 425
-            Spørsmål generert: Kan du gi meg informasjon om hvilke tjenester ditt regnskapsfirma tilbyr?
-            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
-            Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7402786879174962
-            
-            Spørsmål 426
-            Spørsmål generert: Kan du fortelle meg mer om hva slags tjenester ditt regnskapsfirma tilbyr?
-            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
-            Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.727365231117342
-            
-            Spørsmål 427
-            Spørsmål generert: Kan du gi meg mer informasjon om hvilke tjenester ditt regnskapsfirma tilbyr?
-            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
-            Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7208222405331319
-            
-            Spørsmål 428
-            Spørsmål generert: Kan du fortelle meg mer om hva slags tjenester ditt regnskapsfirma tilbyr?
-            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
-            Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.727365231117342
-            
-            Spørsmål 429
-            Spørsmål generert: Kan du gi meg en oversikt over tjenestene deres regnskapsfirma tilbyr?
-            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
-            Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7115819474073026
-            
-            Spørsmål 430
-            Spørsmål generert: Kan du fortelle meg hva slags tjenester deres regnskapsfirma tilbyr?
-            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
-            Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7921019730175172
-            
-            Spørsmål 431
-            Spørsmål generert: Kan du gi meg informasjon om hvilke tjenester deres regnskapsfirma tilbyr?
-            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
-            Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7729625717596681
-            
-            Spørsmål 432
-            Spørsmål generert: Kan du gi meg en oversikt over hvilke tjenester deres regnskapsfirma tilbyr?
-            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
-            Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7557326844454781
-            
-            Spørsmål 433
-            Spørsmål generert: Kan du fortelle meg hva slags tjenester dere tilbyr som et regnskapsfirma?
-            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
-            Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7376427664559407
+            CoSim-Score: 0.5611165011470892
             

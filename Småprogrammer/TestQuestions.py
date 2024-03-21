@@ -8,6 +8,7 @@ from sentence_transformers import SentenceTransformer  #Bruke modellen på setni
 import numpy as np  #For at python skal jobbe med mattegreier
 import pandas as pd
 import matplotlib.pyplot as plt
+import json
 
 
 modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.co/NbAiLab/nb-sbert-base
@@ -20,7 +21,6 @@ _______________________________Formater spørsmål med modellen_________________
 fasit = [] #Lista somk inneheld fasiten aka spørsmåla chatGPT har generert i teorien skal ligne mest på
 spørsmål = [] #Liste med spørmsåla chatGPT har laga
 søkeliste = [] #Liste som programmet søker gjennom for å finne spørsmål som ligner mest.
-
 
 with open('txtandCSV-files/chatQA.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den og enkoder som uft-8 (lar Æ, Ø og å vere med)
     for line in file:
@@ -36,9 +36,17 @@ with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file: #Opne Q&A, 
     for line in file:
         if line.startswith('Q:'):
             søkeliste.append(line[3:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.
-    
 
-encoded_questions = np.loadtxt('txtandCSV-files/Q&A_embedded.csv', delimiter=',') #henter ut lista med spørsmål som alt er "encoda".
+# Load the structure from JSON
+with open('txtandCSV-files/Q&A_embedded.json', 'r', encoding='utf-8') as file:
+    loaded_list_as_lists = json.load(file)
+
+# Convert lists back to NumPy arrays if necessary
+def convert_to_arrays(loaded_list_as_lists):
+    return [np.array(sublist) for sublist in loaded_list_as_lists]
+
+loaded_list = [convert_to_arrays(sublist) for sublist in loaded_list_as_lists]
+
 encoded_user_questions = modell.encode(spørsmål)
 
 '''
@@ -65,7 +73,10 @@ lowestCorrectCoSim = None
 for i, question in enumerate(encoded_user_questions, start = 0):
     
     #Finn cosine similarity for spørsmålet
-    similarity_scores = cosine_similarity([question], encoded_questions)[0]
+    similarity_scores = []
+
+    for sublist in loaded_list:
+        similarity_scores.append(max(cosine_similarity([question], sublist)[0]))
     most_similar_question_index = np.argmax(similarity_scores)
     most_similar_question = søkeliste[most_similar_question_index]
     
@@ -92,6 +103,8 @@ for i, question in enumerate(encoded_user_questions, start = 0):
         "fasit": fasiten,
         "similarity_score": max(similarity_scores)
         })
+        if highestWrongCoSim is None or max(similarity_scores) < highestWrongCoSim:
+            highestWrongCoSim = max(similarity_scores)
     else:
         rettsvar.append({
         "spørringsnummer": i+1,
@@ -100,10 +113,6 @@ for i, question in enumerate(encoded_user_questions, start = 0):
         "fasit": fasiten,
         "similarity_score": max(similarity_scores)
         })
-    
-    if highestWrongCoSim is None or max(similarity_scores) < highestWrongCoSim:
-        highestWrongCoSim = max(similarity_scores)
-    else:
         if lowestCorrectCoSim is None or max(similarity_scores) < lowestCorrectCoSim:
             lowestCorrectCoSim = max(similarity_scores)
 

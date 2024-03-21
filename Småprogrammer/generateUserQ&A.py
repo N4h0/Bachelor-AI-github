@@ -23,12 +23,12 @@ for question in questions:
     if i != 0:
         with open('txtandCSV-files/chatQA.txt', 'a', encoding='utf-8') as file:
             file.write(f"\n_____________NYTT SPØRSMÅL: {question}_____________\n")
-    for j in range(1,15):
+    for j in range(1,5):
         message = [
                     {"role": "user", "content": f"""
 Du er en kunde for et regnskapsfirma, og ønsker informasjon fra en chatbot.
 Spørsmålet du stiller stilles annerledes enn dette spørsmålet, men har samme betydning: {promptquestion}. 
-Spørsmålet har samme betydning som {question}.
+Spørsmålet har samme betydning som {question}. Generer spørsmålet på ENGELSK! Bare generer ett spørsmål.
 """}
         ]
         

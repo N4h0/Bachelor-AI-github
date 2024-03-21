@@ -7,6 +7,7 @@ import argparse  #For å kunne køyre programmet med user input i terminalen
 from sklearn.metrics.pairwise import cosine_similarity  #For å kunne sammenligne setninger, som cosine_similarity tydeligvis er bra til
 from sentence_transformers import SentenceTransformer  #Bruke modellen på setninger
 import numpy as np  #For at python skal jobbe med mattegreier
+import json
 
 '''
 _______________________________Kunne køyre i terminal med custom input_______________________________
@@ -35,7 +36,16 @@ modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.c
 
 modell = SentenceTransformer(modellnavn) #Instansierer BERT modellen . https://huggingface.co/docs/transformers/main_classes/model
 
-encoded_questions = np.loadtxt('txtandCSV-files/Q&A_embedded.csv', delimiter=',')
+# Load the structure from JSON
+with open('txtandCSV-files/Q&A_embedded.json', 'r', encoding='utf-8') as file:
+    loaded_list_as_lists = json.load(file)
+
+# Convert lists back to NumPy arrays if necessary
+def convert_to_arrays(loaded_list_as_lists):
+    return [np.array(sublist) for sublist in loaded_list_as_lists]
+
+loaded_list = [convert_to_arrays(sublist) for sublist in loaded_list_as_lists]
+
 encoded_user_question = modell.encode([args.input])[0]
 
 
@@ -47,7 +57,11 @@ _______________________________Sammenlign spørmsål____________________________
 # https://huggingface.co/tasks/sentence-similarity "The similarity of the embeddings is evaluated mainly on cosine similarity. 
 # It is calculated as the cosine of the angle between two vectors. It is particularly useful when your texts are not the same length"
 # Initialize an empty list to hold the similarity scores
-similarity_scores = cosine_similarity([encoded_user_question], encoded_questions)[0]
+
+similarity_scores = []
+
+for sublist in loaded_list:
+    similarity_scores.append(max(cosine_similarity([encoded_user_question], sublist)[0]))
 
 # Identify the most similar question
 most_similar_question_index = np.argmax(similarity_scores)
