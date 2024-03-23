@@ -1,129 +1,199 @@
-18 av 120 av spørringer ga feil resultat. Dette gjaldt følgende spørringer: 
-1, 2, 3, 4, 6, 7, 8, 31, 49, 50, 51, 82, 83, 84, 117, 118, 119 og 120
-Høyest cosine similarity der løsning og fasit ikke er like fasit: 0.5147061334329405
-Laveste cosine similiarty der fasit og løsning er like: 0.513869989544357
-
-Spørringsnummer: 1, 
-Inquiry: What is the deadline for submitting value-added tax?
-Løsning: Hva er fristen på innsending av skattemelding?
-Fasit: Hva er fristen på innsending av merverdiavgift?
-Similarity Score: 0.7881264741144762
-
+28 av 120 av spørringer ga feil resultat. Dette gjaldt følgende spørringer: 
+2, 3, 4, 7, 19, 31, 49, 50, 51, 52, 53, 54, 55, 56, 65, 66, 67, 68, 82, 83, 84, 90, 91, 92, 117, 118, 119 og 120
+Høyest cosine similarity der løsning og fasit ikke er like fasit: 0.2063061398232803
+Laveste cosine similiarty der fasit og løsning er like: 0.2084224727465988
 
 Spørringsnummer: 2, 
 Inquiry: When is the deadline for filing VAT?
 Løsning: Hva er fristen for årsoppgjør?
 Fasit: Hva er fristen på innsending av merverdiavgift?
-Similarity Score: 0.6258856960414165
+Similarity Score: 0.2063061398232803
 
 
 Spørringsnummer: 3, 
 Inquiry: What is the due date for submitting VAT?
 Løsning: Hva er fristen for å levere A-meldingen?
 Fasit: Hva er fristen på innsending av merverdiavgift?
-Similarity Score: 0.5955584189938323
+Similarity Score: 0.26601042591137314
 
 
 Spørringsnummer: 4, 
 Inquiry: What is the deadline for VAT submission?
 Løsning: Hva er fristen for å levere A-meldingen?
 Fasit: Hva er fristen på innsending av merverdiavgift?
-Similarity Score: 0.652399681556336
-
-
-Spørringsnummer: 6, 
-Inquiry: What does the acronym VAT stand for, and what is its significance in accounting?
-Løsning: Hva innebærer bokføringsplikt?
-Fasit: Hva er merverdiavgift (MVA)?
-Similarity Score: 0.5165566240182091
+Similarity Score: 0.28828347230821016
 
 
 Spørringsnummer: 7, 
 Inquiry: What is the acronym VAT, and how does it impact accounting practices?
 Løsning: Hva er forskjellen mellom regnskapsføring og revisjon?
 Fasit: Hva er merverdiavgift (MVA)?
-Similarity Score: 0.5147061334329405
+Similarity Score: 0.2239195684618521
 
 
-Spørringsnummer: 8, 
-Inquiry: What does the acronym VAT stand for, and what are its implications for accounting procedures?
-Løsning: Hva innebærer bokføringsplikt?
-Fasit: Hva er merverdiavgift (MVA)?
-Similarity Score: 0.521424784870219
+Spørringsnummer: 19, 
+Inquiry: What is the process for registering a sole proprietorship?
+Løsning: Hva er pris for registrering av enkeltpresonsforetak?
+Fasit: Hvordan registrerer jeg et enkeltpersonforetak?
+Similarity Score: 0.23924942870125915
 
 
 Spørringsnummer: 31, 
 Inquiry: What is the process for applying for VAT registration?
 Løsning: Hvordan er søknad for etableringsprøve?
 Fasit: Hvordan søker jeg om registrering av mva?
-Similarity Score: 0.5790183675012606
+Similarity Score: 0.25822485559876496
 
 
 Spørringsnummer: 49, 
 Inquiry: What are the costs involved in registering a private limited company?
 Løsning: Hva er pris for registrering av enkeltpresonsforetak?
 Fasit: Hva er pris for registrering av aksjeselskap?
-Similarity Score: 0.6801638964326446
+Similarity Score: 0.34477795642693765
 
 
 Spørringsnummer: 50, 
 Inquiry: How much does it cost to register a private limited company?
 Løsning: Hva er pris for registrering av enkeltpresonsforetak?
 Fasit: Hva er pris for registrering av aksjeselskap?
-Similarity Score: 0.6977165696537551
+Similarity Score: 0.33856484418860644
 
 
 Spørringsnummer: 51, 
 Inquiry: What are the fees for setting up a private limited company?
 Løsning: Hva er pris for registrering av enkeltpresonsforetak?
 Fasit: Hva er pris for registrering av aksjeselskap?
-Similarity Score: 0.6642000358051029
+Similarity Score: 0.32087345841170845
+
+
+Spørringsnummer: 52, 
+Inquiry: What is the cost for establishing a private limited company?
+Løsning: Tilbyr dere rådgivning for småbedrifter?
+Fasit: Hva er pris for registrering av aksjeselskap?
+Similarity Score: 0.2973320945633707
+
+
+Spørringsnummer: 53, 
+Inquiry: What are the costs for annual accounts for an EPF and a stock company?
+Løsning: Hva er prisen på årsoppgjør for EPF og Aksje selskap?
+Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
+Similarity Score: 0.486622587844679
+
+
+Spørringsnummer: 54, 
+Inquiry: What is the pricing for annual accounts for an EPF and a stock company?
+Løsning: Hva er prisen på årsoppgjør for EPF og Aksje selskap?
+Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
+Similarity Score: 0.5282097350173866
+
+
+Spørringsnummer: 55, 
+Inquiry: What are the costs for annual financial statements for an EPF and a stock company?
+Løsning: Hva er prisen på årsoppgjør for EPF og Aksje selskap?
+Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
+Similarity Score: 0.47938899020932246
+
+
+Spørringsnummer: 56, 
+Inquiry: What is the pricing for annual financial statements for an EPF and a stock company?
+Løsning: Hva er prisen på årsoppgjør for EPF og Aksje selskap?
+Fasit: Pris på årsoppgjør for EPF og Aksje selskap?
+Similarity Score: 0.5297290776240318
+
+
+Spørringsnummer: 65, 
+Inquiry: What are the responsibilities involved in bookkeeping obligation?
+Løsning: Hva er bokføringsplikt?
+Fasit: Hva innebærer bokføringsplikt?
+Similarity Score: 0.3748525625225569
+
+
+Spørringsnummer: 66, 
+Inquiry: What are the duties associated with bookkeeping requirements?
+Løsning: Hva er bokføringsplikt?
+Fasit: Hva innebærer bokføringsplikt?
+Similarity Score: 0.3202416798837452
+
+
+Spørringsnummer: 67, 
+Inquiry: What are the responsibilities involved in bookkeeping obligations?
+Løsning: Hva er bokføringsplikt?
+Fasit: Hva innebærer bokføringsplikt?
+Similarity Score: 0.3805813307861854
+
+
+Spørringsnummer: 68, 
+Inquiry: What are the duties and obligations associated with bookkeeping requirements?
+Løsning: Hva er bokføringsplikt?
+Fasit: Hva innebærer bokføringsplikt?
+Similarity Score: 0.3575265461508446
 
 
 Spørringsnummer: 82, 
 Inquiry: Do I need to hire an accountant?
 Løsning: Hvordan kan jeg bestille en konsultasjon?
 Fasit: Er det obligatorisk med revisor?
-Similarity Score: 0.6127480721013128
+Similarity Score: 0.353111351324094
 
 
 Spørringsnummer: 83, 
 Inquiry: Is it necessary to engage the services of an accountant?
 Løsning: Tilbyr dere bistand med selvangivelsen?
 Fasit: Er det obligatorisk med revisor?
-Similarity Score: 0.6126973731169014
+Similarity Score: 0.3273347181496053
 
 
 Spørringsnummer: 84, 
 Inquiry: Do I need to hire an accountant?
 Løsning: Hvordan kan jeg bestille en konsultasjon?
 Fasit: Er det obligatorisk med revisor?
-Similarity Score: 0.6127480721013128
+Similarity Score: 0.353111351324094
+
+
+Spørringsnummer: 90, 
+Inquiry: Can you help with preparing tax returns?
+Løsning: Er dere erfarne med internasjonal skatterådgivning?
+Fasit: Tilbyr dere bistand med selvangivelsen?
+Similarity Score: 0.34299691458342807
+
+
+Spørringsnummer: 91, 
+Inquiry: Do you assist with tax return preparation?
+Løsning: Er dere erfarne med internasjonal skatterådgivning?
+Fasit: Tilbyr dere bistand med selvangivelsen?
+Similarity Score: 0.38226913837795246
+
+
+Spørringsnummer: 92, 
+Inquiry: Can you help with preparing tax returns?
+Løsning: Er dere erfarne med internasjonal skatterådgivning?
+Fasit: Tilbyr dere bistand med selvangivelsen?
+Similarity Score: 0.3429968633421384
 
 
 Spørringsnummer: 117, 
 Inquiry: What services does your company offer?
-Løsning: Kan dere hjelpe til med lønnstjenester?
+Løsning: Tilbyr dere rådgivning for småbedrifter?
 Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.588945303069816
+Similarity Score: 0.3406495295549633
 
 
 Spørringsnummer: 118, 
 Inquiry: Can you provide me with information about the services your company offers?
-Løsning: Hva er åpningstidene deres?
+Løsning: Tilbyr dere rådgivning for småbedrifter?
 Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.6221575269424302
+Similarity Score: 0.34422114561187744
 
 
 Spørringsnummer: 119, 
 Inquiry: What services does your company offer?
-Løsning: Kan dere hjelpe til med lønnstjenester?
+Løsning: Tilbyr dere rådgivning for småbedrifter?
 Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.588945303069816
+Similarity Score: 0.3406495295549633
 
 
 Spørringsnummer: 120, 
 Inquiry: What are the services provided by your company?
-Løsning: Kan dere hjelpe til med lønnstjenester?
+Løsning: Tilbyr dere rådgivning for småbedrifter?
 Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.5611165011470892
+Similarity Score: 0.3115207559685966

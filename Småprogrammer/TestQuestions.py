@@ -9,11 +9,13 @@ import numpy as np  #For at python skal jobbe med mattegreier
 import pandas as pd
 import matplotlib.pyplot as plt
 import json
-
+from setfit import SetFitModel #For å kunne teste med en modell treng med setFit
 
 modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.co/NbAiLab/nb-sbert-base
-modell = SentenceTransformer(modellnavn) #Instansierer BERT modellen . https://huggingface.co/docs/transformers/main_classes/model
+modell = SetFitModel.from_pretrained("modeller/alpha1") #Instansierer BERT modellen . https://huggingface.co/docs/transformers/main_classes/model
 
+
+#modell = SetFitModel.from_pretrained("modeller/alpha1") #For å teste med en trent modell.
 '''
 _______________________________Formater spørsmål med modellen_______________________________
 '''

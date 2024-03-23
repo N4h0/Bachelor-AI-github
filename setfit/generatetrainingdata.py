@@ -1,7 +1,8 @@
+#Me er for late for å lage data for å trene modellen sjølv :D
 from openai import OpenAI
 
-with open('txtandCSV-files/chatQA.txt', 'w', encoding='utf-8') as file:
-    file.write("\n")
+with open('setfit/treningsdata.csv', 'w', encoding='utf-8') as file:
+    file.write("text,label_text\n")
 
 client = OpenAI(
     # API-nøkkel burde ikke vere public i de fleste scripts, men denne kjører bare lokalt og er bare delt innad i gruppen.
@@ -14,24 +15,17 @@ with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file:
         if line.startswith('Q:'):
             questions.append(line[3:].strip())
 
-print(questions)
-
 #Generer et spørsmål for hvert spørsmål i spørsmålslisten.
 i=0
 for question in questions:
     promptquestion = question
-    if i != 0:
-        with open('txtandCSV-files/chatQA.txt', 'a', encoding='utf-8') as file:
-            file.write(f"\n_____________NYTT SPØRSMÅL: {question}_____________\n")
-    for j in range(1,10):
+    for j in range(0,6):
         message = [
                     {"role": "user", "content": f"""
-Du er en kunde for et regnskapsfirma, og ønsker informasjon fra en chatbot.
-Spørsmålet du stiller stilles annerledes enn dette spørsmålet, men har samme betydning: {promptquestion}. 
-Spørsmålet har samme betydning som {question}.
+Lag 1 setninger som er en omforumlering av følgende spørsmål: {promptquestion}
 """}
         ]
-        
+        promptquestion = ""
         stream = client.chat.completions.create(
         temperature=1.0, #https://platform.openai.com/docs/api-reference/audio
         #sjekk og
@@ -46,9 +40,6 @@ Spørsmålet har samme betydning som {question}.
             content = chunk.choices[0].delta.content
             if content:
                 promptquestion += content 
-        with open('txtandCSV-files/chatQA.txt', 'a', encoding='utf-8') as file:
-            file.write("Spørringsnummer: " + str(i) + "\n")
-            file.write("I: " + promptquestion)
-            file.write("\n" + "Q: " + question + "\n\n")
-        print(promptquestion)
+        with open('setfit/treningsdata.csv', 'a', encoding='utf-8') as file:
+            file.write("\"" + promptquestion + "\""+ "," + question + "\n")
         i += 1

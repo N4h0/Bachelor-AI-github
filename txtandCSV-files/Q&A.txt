@@ -41,7 +41,7 @@ A: 2000 eks MVA
 Q: Hva er pris for registrering av aksjeselskap?
 A: 3500 eks MVA
 
-Q: Pris på årsoppgjør for EPF og Aksje selskap?
+Q: Hva er prisen på årsoppgjør for EPF og Aksje selskap?
 A: 
 
 Q: Hva er forskjellen mellom regnskapsføring og revisjon?
@@ -50,7 +50,7 @@ A:
 Q: Har alle regnskapsplikt?
 A: 
 
-Q: Hva innebærer bokføringsplikt?
+Q: Hva er bokføringsplikt?
 A:
 
 Q: Kan jeg trekke fra hjemmekontor på skatten?
