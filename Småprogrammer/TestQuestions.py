@@ -16,6 +16,7 @@ modell = SetFitModel.from_pretrained("modeller/alpha1") #Instansierer BERT model
 
 
 #modell = SetFitModel.from_pretrained("modeller/alpha1") #For å teste med en trent modell.
+#modell = SentenceTransformer(modellnavn) #For å teste utrent modell
 '''
 _______________________________Formater spørsmål med modellen_______________________________
 '''

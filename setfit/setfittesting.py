@@ -15,11 +15,24 @@ from sklearn.model_selection import train_test_split
 from datasets import Dataset, DatasetDict
 from setfit import TrainingArguments
 
-data_path = 'SetFit/treningsdata.csv'
-df = pd.read_csv(data_path, quotechar='"')
+data_path = 'SetFit/treningsdata.txt'
 model_name = "NbAiLab/nb-sbert-base"
 model = SetFitModel.from_pretrained(model_name)
 
+data_path = 'SetFit/treningsdata.txt'
+data_lines = []
+
+with open(data_path, 'r', encoding='utf-8') as file:
+    while True:
+        text_line = file.readline().strip()
+        label_line = file.readline().strip()
+        if not text_line or not label_line:
+            break  # Exit loop if end of file or if there's an empty line.
+        text = text_line.split(" ", 1)[1]  # Skip the 'text' prefix.
+        label = label_line.split(" ", 1)[1]  # Skip the 'label' prefix.
+        data_lines.append({'text': text, 'label': label})
+
+df = pd.DataFrame(data_lines)
 
 # Split data into train+val and test
 train_val_df, test_df = train_test_split(df, test_size=0.2, random_state=42)
