@@ -19,7 +19,7 @@ with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file:
 i=0
 for question in questions:
     promptquestion = question
-    for j in range(0,6):
+    for j in range(0,9):
         message = [
                     {"role": "user", "content": f"""
 Lag 1 setninger som er en omforumlering av følgende spørsmål: {promptquestion}
@@ -40,6 +40,6 @@ Lag 1 setninger som er en omforumlering av følgende spørsmål: {promptquestion
             content = chunk.choices[0].delta.content
             if content:
                 promptquestion += content 
-        with open('setfit/treningsdata.txt', 'a', encoding='utf-8') as file:
-            file.write("text " + promptquestion + " \n"+ "label " + question + "\n")
+        with open('setfit/treningsdata.csv', 'a', encoding='utf-8') as file:
+            file.write("\"" + promptquestion + "\""+ "," + question + "\n")
         i += 1

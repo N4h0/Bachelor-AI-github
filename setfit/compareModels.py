@@ -14,7 +14,7 @@ from setfit import SetFitModel
 
 modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.co/NbAiLab/nb-sbert-base
 modell = SentenceTransformer(modellnavn) #Instansierer BERT modellen . https://huggingface.co/docs/transformers/main_classes/model
-modell2 = SetFitModel.from_pretrained("modeller/alpha1")
+modell2 = SetFitModel.from_pretrained("modeller/alpha2")
 
 
 
