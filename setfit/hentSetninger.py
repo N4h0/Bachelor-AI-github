@@ -1,4 +1,4 @@
-#Enkelt program som henter ut alle kategoriene våre (dvs alle unike setninger).
+A#Enkelt program som henter ut alle kategoriene våre (dvs alle unike setninger).
 
 kategorier = []
 with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den /r) og enkoder som uft-8 (lar Æ, Ø og å vere med)

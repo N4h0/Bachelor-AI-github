@@ -754,8 +754,7 @@ I: "Kan du hjelpe meg med å beregne skatten for mitt enkeltpersonforetak?"
 Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
 
 Spørringsnummer: 179
-I: 
-"Kan du veilede meg gjennom prosessen med å beregne skatten for mitt enkeltpersonforetak?"
+I: "Kan du veilede meg gjennom prosessen med å beregne skatten for mitt enkeltpersonforetak?"
 Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
 
 

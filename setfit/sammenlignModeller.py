@@ -6,17 +6,13 @@
 from sklearn.metrics.pairwise import cosine_similarity  #For å kunne sammenligne setninger, som cosine_similarity tydeligvis er bra til
 from sentence_transformers import SentenceTransformer  #Bruke modellen på setninger
 import numpy as np  #For at python skal jobbe med mattegreier
-import pandas as pd
-import matplotlib.pyplot as plt
 import json
 from setfit import SetFitModel
 
 
 modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.co/NbAiLab/nb-sbert-base
 modell = SentenceTransformer(modellnavn) #Instansierer BERT modellen . https://huggingface.co/docs/transformers/main_classes/model
-modell2 = SetFitModel.from_pretrained("modeller/alpha2")
-
-
+modell2 = SetFitModel.from_pretrained("modeller/alpha6")
 
 '''
 _______________________________Formater spørsmål med modellen_______________________________
@@ -30,26 +26,25 @@ with open('txtandCSV-files/chatQA.txt', 'r', encoding='utf-8') as file: #Opne Q&
     for line in file:
         if line.startswith('Q:'):
             fasit.append(line[3:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.
+        elif line.startswith('I:'):
+            spørsmål.append(line[3:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.    
 
-with open('txtandCSV-files/chatQA.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den og enkoder som uft-8 (lar Æ, Ø og å vere med)
-    for line in file:
-        if line.startswith('I:'):
-            spørsmål.append(line[3:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.
-
-with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den og enkoder som uft-8 (lar Æ, Ø og å vere med)
+with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den /r) og enkoder som uft-8 (lar Æ, Ø og å vere med)
     for line in file:
         if line.startswith('Q:'):
             søkeliste.append(line[3:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.
 
-# Load the structure from JSON
-with open('txtandCSV-files/Q&A_embedded.json', 'r', encoding='utf-8') as file:
-    loaded_list_as_lists = json.load(file)
 
-# Convert lists back to NumPy arrays if necessary
+# Laste jsonfila med alle encoda spørsmål
+with open('txtandCSV-files/Q&A_embedded.json', 'r', encoding='utf-8') as file:
+    jsonliste = json.load(file)
+
+# Konverter til arrays for å bruke videre
 def convert_to_arrays(loaded_list_as_lists):
     return [np.array(sublist) for sublist in loaded_list_as_lists]
 
-loaded_list = [convert_to_arrays(sublist) for sublist in loaded_list_as_lists]
+
+loaded_list = [convert_to_arrays(sublist) for sublist in jsonliste]
 
 encoded_user_questions = modell.encode(spørsmål)
 encoded_user_questions2 = modell2.encode(spørsmål)
@@ -70,10 +65,13 @@ IandAandQ2 = [] #Inquiry, fasit og det modellen kom fram til.
 with open('results/comparisonresults.txt', 'w', encoding='utf-8') as file:
     file.write("")
 
+#Liste med alle resultat
 Resultat = []
 Resultat2 = []
+#Liste med alle svar som er rett
 rettsvar = []
 rettsvar2 = []
+#Liste med alle svar som er feil
 feilsvar =[]
 feilsvar2 = []
 highestWrongCoSim = None
@@ -83,8 +81,6 @@ lowestCorrectCoSim2 = None
 
 with open('results/defaultmodelresults.txt', 'w', encoding='utf-8') as file:
     file.write("")
-with open('results/trainedmodelresults.txt', 'w', encoding='utf-8') as file:
-    file.write("")
 
 #Looper gjennom heile lista med chatbpt-spørsmål
 for i, (question,question2) in enumerate(zip(encoded_user_questions,encoded_user_questions2), start = 0):
@@ -93,7 +89,7 @@ for i, (question,question2) in enumerate(zip(encoded_user_questions,encoded_user
     similarity_scores = []
     similarity_scores2 = []
 
-    for sublist in loaded_list: #Looper gjennom lista med spørsmål og finner cosine similarity scores.
+    for sublist in loaded_list: #Looper gjennom lista med spørsmål og finner cosine similarity scores. Bruker sublist for å ta hensyn til alt. formuleringar.
         similarity_scores.append(max(cosine_similarity([question], sublist)[0]))
         similarity_scores2.append(max(cosine_similarity([question2], sublist)[0]))
     most_similar_question_index = np.argmax(similarity_scores)

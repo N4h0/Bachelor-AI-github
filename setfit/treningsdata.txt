@@ -288,7 +288,7 @@ text Når har dere åpent?
 label Hva er åpningstidene deres?
 text Hvilke tidspunkter er dere tilgjengelige? 
 label Hva er åpningstidene deres?
-text Når er det mest praktisk for dere å møtes? 
+text hva er åpningstidene deres?
 label Hva er åpningstidene deres?
 text Når passer det best for deg å møtes? 
 label Hva er åpningstidene deres?
@@ -344,9 +344,9 @@ text Hvordan gjør jeg for å avtale en konsultasjon?
 label Hvordan kan jeg bestille en konsultasjon?
 text Hvordan kan jeg avtale en konsultasjon? 
 label Hvordan kan jeg bestille en konsultasjon?
-text Hvordan kan jeg avtale en avtale for en konsultasjon? 
+text Hvordan kan jeg avtale ett møte med dere?? 
 label Hvordan kan jeg bestille en konsultasjon?
-text Hvordan kan jeg ordne en avtale for å få en konsultasjon? 
+text Hvordan kan jeg ordne en konsultasjon? 
 label Hvordan kan jeg bestille en konsultasjon?
 text Hvordan kan jeg avtale en konsultasjon? 
 label Hvordan kan jeg bestille en konsultasjon?
@@ -378,13 +378,13 @@ text Kan vi være til hjelp med å opprette regnskapet deres på en digital plat
 label Tilbyr dere digitale regnskapstjenester?
 text Hva slags tjenester leverer deres bedrift? 
 label Hvilke tjenester tilbyr deres firma?
-text Hvilke tjenester tilbyr deres firma? 
+text Hva kan dere hjelpe meg med?
 label Hvilke tjenester tilbyr deres firma?
 text Hva slags tjenester har deres firma? 
 label Hvilke tjenester tilbyr deres firma?
 text Kan dere fortelle meg om hvilke tjenester deres firma tilbyr? 
 label Hvilke tjenester tilbyr deres firma?
-text Hva slags tjenester tilbyr deres firma? 
+text Hvilke oppdrag utfører dere? 
 label Hvilke tjenester tilbyr deres firma?
-text Hvilke tjenester leverer deres bedrift? 
+text Hva kan dere hjelpe meg med? 
 label Hvilke tjenester tilbyr deres firma?

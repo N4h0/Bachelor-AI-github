@@ -1,157 +1,101 @@
-22 av 270 av spørringer ga feil resultat. Dette gjaldt følgende spørringer: 
-29, 180, 218, 225, 235, 236, 237, 238, 239, 240, 241, 243, 253, 262, 263, 264, 265, 266, 267, 268, 269 og 270
-Høyest cosine similarity der løsning og fasit ikke er like fasit: 0.23494271642482387
-Laveste cosine similiarty der fasit og løsning er like: 0.5616428364409844
+14 av 270 av spørringer ga feil resultat. Dette gjaldt følgende spørringer: 
+140, 144, 218, 236, 237, 238, 240, 241, 242, 243, 253, 263, 264 og 270
+Høyest cosine similarity der løsning og fasit ikke er like fasit: 0.2546853613294525
+Laveste cosine similiarty der fasit og løsning er like: 0.5322385068286605
 
-Spørringsnummer: 29, 
-Inquiry: Kan du fortelle meg når jeg må levere årsregnskapet mitt?
-Løsning: Hva er åpningstidene deres?
-Fasit: Hva er fristen for årsoppgjør?
-Similarity Score: 0.6674539902232302
+Spørringsnummer: 140, 
+Inquiry: "Er det obligatorisk for alle selskaper å benytte seg av regnskapstjenester?"
+Løsning: Er det obligatorisk med revisor?
+Fasit: Har alle regnskapsplikt?
+Similarity Score: 0.6059700046570664
 
 
-Spørringsnummer: 180, 
-Inquiry: 
-Løsning: Hvordan kan jeg bestille en konsultasjon?
-Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-Similarity Score: 0.23494271642482387
+Spørringsnummer: 144, 
+Inquiry: "Er det obligatorisk for alle bedrifter å benytte seg av et regnskapsfirma?"
+Løsning: Er det obligatorisk med revisor?
+Fasit: Har alle regnskapsplikt?
+Similarity Score: 0.6453572261558691
 
 
 Spørringsnummer: 218, 
 Inquiry: Kan du gi meg adressen til regnskapsfirmaet deres?
 Løsning: Hva er åpningstidene deres?
 Fasit: Hvor er kontoret deres lokalisert?
-Similarity Score: 0.6707592012039544
-
-
-Spørringsnummer: 225, 
-Inquiry: Kan du gi meg informasjon om beliggenheten til regnskapsfirmaet deres?
-Løsning: Hva er åpningstidene deres?
-Fasit: Hvor er kontoret deres lokalisert?
-Similarity Score: 0.6525183098415089
-
-
-Spørringsnummer: 235, 
-Inquiry: Hvordan går jeg frem for å avtale en konsultasjon med regnskapsfirmaet?
-Løsning: Hva er åpningstidene deres?
-Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.6947953054186029
+Similarity Score: 0.6823586554713903
 
 
 Spørringsnummer: 236, 
 Inquiry: Hvordan kan jeg avtale en konsultasjon med regnskapsfirmaet?
 Løsning: Hva er åpningstidene deres?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.7045813985660241
+Similarity Score: 0.6768387136687181
 
 
 Spørringsnummer: 237, 
 Inquiry: Hvordan kan jeg få en avtale for en konsultasjon med regnskapsfirmaet?
 Løsning: Hva er åpningstidene deres?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.7123675972232848
+Similarity Score: 0.6629444712782722
 
 
 Spørringsnummer: 238, 
 Inquiry: Hvordan kan jeg avtale en konsultasjon med regnskapsfirmaet?
 Løsning: Hva er åpningstidene deres?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.7045813985660241
-
-
-Spørringsnummer: 239, 
-Inquiry: Hvordan går jeg frem for å avtale en konsultasjon med regnskapsfirmaet?
-Løsning: Hva er åpningstidene deres?
-Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.6947953054186029
+Similarity Score: 0.6768387136687181
 
 
 Spørringsnummer: 240, 
 Inquiry: Hvordan kan jeg avtale et møte med regnskapsfirmaet for konsultasjon?
 Løsning: Hva er åpningstidene deres?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.7083599662529568
+Similarity Score: 0.6718153773085168
 
 
 Spørringsnummer: 241, 
 Inquiry: Hvordan kan jeg planlegge en avtale for å diskutere mine regnskapsbehov?
 Løsning: Hva er åpningstidene deres?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.5760257383669545
+Similarity Score: 0.5490415591452358
+
+
+Spørringsnummer: 242, 
+Inquiry: Hvordan kan jeg avtale en time for å få råd om mine regnskapsbehov?
+Løsning: Hva er åpningstidene deres?
+Fasit: Hvordan kan jeg bestille en konsultasjon?
+Similarity Score: 0.5987520752299844
 
 
 Spørringsnummer: 243, 
 Inquiry: Hvordan kan jeg få en avtale for å diskutere mine regnskapsbehov?
 Løsning: Hva er åpningstidene deres?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.6155516079837163
+Similarity Score: 0.5771607128491243
 
 
 Spørringsnummer: 253, 
 Inquiry: 
 Løsning: Hvordan kan jeg bestille en konsultasjon?
 Fasit: Tilbyr dere digitale regnskapstjenester?
-Similarity Score: 0.23494271642482387
-
-
-Spørringsnummer: 262, 
-Inquiry: Kan du gi meg en oversikt over hvilke tjenester deres regnskapsfirma tilbyr?
-Løsning: Hva er åpningstidene deres?
-Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.6682285464265518
+Similarity Score: 0.2546853613294525
 
 
 Spørringsnummer: 263, 
 Inquiry: Jeg vil gjerne vite mer om hvilke tjenester dere tilbyr som regnskapsfirma. Kan du gi meg en oversikt over dette?
 Løsning: Hva er åpningstidene deres?
 Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.6376940929588535
+Similarity Score: 0.644433978757343
 
 
 Spørringsnummer: 264, 
 Inquiry: Kan du gi meg en oversikt over tjenestene deres som regnskapsfirma?
 Løsning: Hva er åpningstidene deres?
 Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.6433509571632934
-
-
-Spørringsnummer: 265, 
-Inquiry: Kan du fortelle meg hva slags tjenester regnskapsfirmaet deres tilbyr?
-Løsning: Hva er åpningstidene deres?
-Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.6665889894114494
-
-
-Spørringsnummer: 266, 
-Inquiry: Kan du gi meg informasjon om hvilke tjenester regnskapsfirmaet deres tilbyr?
-Løsning: Hva er åpningstidene deres?
-Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.6995919840114666
-
-
-Spørringsnummer: 267, 
-Inquiry: Kan du fortelle meg om de ulike tjenestene regnskapsfirmaet deres tilbyr?
-Løsning: Hva er åpningstidene deres?
-Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.5975331457144235
-
-
-Spørringsnummer: 268, 
-Inquiry: Kan du gi meg informasjon om de forskjellige tjenestene regnskapsfirmaet deres tilbyr?
-Løsning: Hva er åpningstidene deres?
-Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.6112642135491114
-
-
-Spørringsnummer: 269, 
-Inquiry: Kan du fortelle meg hva slags tjenester regnskapsfirmaet ditt tilbyr?
-Løsning: Hva er åpningstidene deres?
-Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.6713340428682253
+Similarity Score: 0.6399356713070264
 
 
 Spørringsnummer: 270, 
 Inquiry: Kan du gi meg informasjon om tjenestene regnskapsfirmaet ditt tilbyr?
 Løsning: Hva er åpningstidene deres?
 Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.6937325069934754
+Similarity Score: 0.6883074560461249

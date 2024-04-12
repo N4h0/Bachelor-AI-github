@@ -14,7 +14,6 @@ from setfit import SetFitModel #For å kunne teste med en modell treng med setFi
 modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.co/NbAiLab/nb-sbert-base
 #modell = SetFitModel.from_pretrained("modeller/alpha2") #Instansierer BERT modellen . https://huggingface.co/docs/transformers/main_classes/model
 
-
 #modell = SetFitModel.from_pretrained("modeller/alpha1") #For å teste med en trent modell.
 modell = SentenceTransformer(modellnavn) #For å teste utrent modell
 modell = SetFitModel.from_pretrained("modeller/alpha5")
@@ -26,15 +25,12 @@ fasit = [] #Lista somk inneheld fasiten aka spørsmåla chatGPT har generert i t
 spørsmål = [] #Liste med spørmsåla chatGPT har laga
 søkeliste = [] #Liste som programmet søker gjennom for å finne spørsmål som ligner mest.
 
-with open('txtandCSV-files/chatQA.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den og enkoder som uft-8 (lar Æ, Ø og å vere med)
+with open('SetFit/treningsdata3.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den og enkoder som uft-8 (lar Æ, Ø og å vere med)
     for line in file:
-        if line.startswith('Q:'):
-            fasit.append(line[3:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.
-
-with open('txtandCSV-files/chatQA.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den og enkoder som uft-8 (lar Æ, Ø og å vere med)
-    for line in file:
-        if line.startswith('I:'):
-            spørsmål.append(line[3:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.
+        if line.startswith('text:'):
+            spørsmål.append(line[5:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.
+        elif line.startswith('label'):
+            fasit.append(line[6:].strip())
 
 with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den og enkoder som uft-8 (lar Æ, Ø og å vere med)
     for line in file:

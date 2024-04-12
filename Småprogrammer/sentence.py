@@ -8,6 +8,12 @@ from sklearn.metrics.pairwise import cosine_similarity  #For å kunne sammenlign
 from sentence_transformers import SentenceTransformer  #Bruke modellen på setninger
 import numpy as np  #For at python skal jobbe med mattegreier
 import json
+from setfit import SetFitModel
+
+
+modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.co/NbAiLab/nb-sbert-base
+sbertbase = SentenceTransformer(modellnavn) #Instansierer BERT modellen . https://huggingface.co/docs/transformers/main_classes/model
+modell3 = SetFitModel.from_pretrained("modeller/alpha2")
 
 '''
 _______________________________Kunne køyre i terminal med custom input_______________________________
@@ -18,8 +24,20 @@ standardspørsmål = "Hei, kan du hjelpe meg?"
 parser = argparse.ArgumentParser(description='Et program som tar en input og sammenligner med en liste av spørmsål.')
 #E gjer at input ikkje er påkrevd, slik at programmet kan køyrast både frå komandlinje enten med eller uten argument, og direkte i VSC.
 parser.add_argument('input', nargs='?', type=str, help='Spørsmål som skal bli samenlignet med liste med spørsmål', default=standardspørsmål)
+parser.add_argument('--model', type=str, help='Which model do you want to use? Options: sbertbase, alpha', default='sbertbase')
+
+
 args = parser.parse_args()
 user_question = args.input
+
+if args.model == 'sbertbase':
+    modell = sbertbase
+elif args.model == 'alpha':
+    modell = modell3
+else:
+    raise ValueError("Invalid model selection. Please choose either 'sbertbase' or 'alpha'.")
+
+
 
 '''
 _______________________________Formater spørsmål med modellen_______________________________
@@ -32,10 +50,6 @@ with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file: #Opne Q&A, 
         if line.startswith('Q:'):
             spørsmål.append(line[3:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.
 
-modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.co/NbAiLab/nb-sbert-base
-
-modell = SentenceTransformer(modellnavn) #Instansierer BERT modellen . https://huggingface.co/docs/transformers/main_classes/model
-
 # Load the structure from JSON
 with open('txtandCSV-files/Q&A_embedded.json', 'r', encoding='utf-8') as file:
     loaded_list_as_lists = json.load(file)
@@ -44,10 +58,11 @@ with open('txtandCSV-files/Q&A_embedded.json', 'r', encoding='utf-8') as file:
 def convert_to_arrays(loaded_list_as_lists):
     return [np.array(sublist) for sublist in loaded_list_as_lists]
 
+print(len(loaded_list_as_lists))
+
 loaded_list = [convert_to_arrays(sublist) for sublist in loaded_list_as_lists]
 
 encoded_user_question = modell.encode([args.input])[0]
-
 
 '''
 _______________________________Sammenlign spørmsål_______________________________

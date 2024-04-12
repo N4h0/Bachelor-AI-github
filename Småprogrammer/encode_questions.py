@@ -16,8 +16,7 @@ with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file: #Opne Q&A, 
             sublist.append(line[3:].strip())
 
 spørsmål.pop(0)
-
-print(spørsmål)
+spørsmål.append(sublist)
 
 encoded_list = []
 encoded_sublist = []
