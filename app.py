@@ -15,10 +15,11 @@ with open('Q&A.txt', 'r', encoding='utf-8') as file:
     for line in file:
         if line.startswith('Q:'):
             questions.append(line[3:].strip())
-        if line.startswith('A') and not line.startswith('AF'):
+        if line.startswith('A'):
             answers.append(line[3:].strip())
 
-print(questions)
+print("Questions loaded:", questions)
+print("Answers loaded:", answers)
 
 #Henter den encoda lista med spørsmål i json format
 with open('Q&A_embedded.json', 'r', encoding='utf-8') as file:
@@ -60,11 +61,12 @@ def chatbot():
 
 
     most_similar_question = questions[most_similar_question_index]
+    most_similar_answer = answers[most_similar_question_index]
     print("Returning output to user: ", most_similar_question)
     for item in sorted_nested_list:
         print(item)
 
-    return jsonify(most_similar_question)
+    return jsonify(most_similar_answer)
 
 if __name__ == '__main__':
     app.run(debug=True)
