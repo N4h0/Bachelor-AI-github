@@ -1,0 +1,299 @@
+Q: Den raske brune reven hoppet over den late hunden.
+Q: Hvis du vil lykkes, må du først tro at du kan.
+Q: Den brune hunden løp raskt over den grønne plenen.
+Q: Jeg hopper over stokk og stein på vei til skolen.
+Q: "Den lille katten lekte i hagen."
+Q: Jeg elsker lukten av fersk bakst om morgenen.
+Q: Den grønne katten hoppet elegant over den digre steinen.
+Q: Jeg liker å gå på turer i skogen og plukke bær.
+Q: "Den brune hunden løp glad rundt i parken."
+Q: Hunden sprang bortover stranden og plasket i vannkanten.
+Q: Jeg gikk tur i skogen og fant en skatt gjemt under et gammelt tre.
+Q: "Den brune hunden løp raskt gjennom det grønne gresset."
+Q: Jeg elsker lukten av nykvernet kaffe om morgenen.
+Q: Jeg liker å gå på tur i skogen og plukke bær.
+Q: "Den svarte katten sprang raskt over den gamle broen."
+Q: "Den brune hunden løp raskt over den grønne engen."
+Q: Den brune katten løp raskt over den grønne engen.
+Q: I går gikk jeg på butikken for å kjøpe melk og brød.
+Q: "Den blå hunden løp raskt nedover den bratte bakken."
+Q: Hunden sprang raskt over gresset i jakt etter ballen.
+Q: Jeg elsker lukten av ferskt gress på en solfylt dag.
+Q: Jeg liker å gå på tur i skogen og lytte til fuglesang.
+Q: Den brune hunden hoppet over den store steinen i parken.
+Q: "Den lille katten lekte med en fargerik ballong i hagen."
+Q: Den katten spiser lakris i solen.
+Q: I dag gikk jeg på en lang og avslappende spasertur i skogen.
+Q: Jeg liker å spise iskrem på stranda mens solen skinner.
+Q: Jeg elsker lukten av nybakte boller på lørdagsmorgenen.
+Q: Jeg liker å gå på lange turer og utforske nye steder.
+Q: Hva er ditt favorittsted å besøke om sommeren?
+Q: Hunden løp raskt gjennom parken og fikk mange venner på veien.
+Q: Den lilla elefanten danset på taket i regnet.
+Q: Jeg løp ut døren i full fart og glemt nøklene på kjøkkenbordet.
+Q: "Den grønne bilen kjørte raskt forbi det gamle huset."
+Q: I don't like broccoli, but I love chocolate ice cream.
+Q: "Den brune hunden løp raskt over den grønne engen."
+Q: "Den brune hunden løp raskt over den grønne engen."
+Q: "Den raske brunrev jumps over den late hunden."
+Q: Jeg tror det er på tide å ta en pause og nyte litt tid for meg selv.
+Q: I går glemte jeg å lukke kjøleskapsdøren, og alt maten ble ødelagt.
+Q: Hvis jeg vant i lotteriet, ville jeg reise verden rundt.
+Q: "Den grønne katten hoppet over den store steinen."
+Q: I rode my bike to the beach and watched the sunset.
+Q: Hunden min elsker å løpe rundt i parken og leke med andre hunder.
+Q: Jeg liker å gå på lange turer i skogen og lytte til fuglesangen.
+Q: "Den svarte katten hoppet elegant over gjerdet og forsvant inn i natten."
+Q: Jeg elsker lukten av nyslått gress på en sommerdag.
+Q: I går glemte jeg nøklene mine hjemme, så jeg måtte låne en reservekopi fra naboen.
+Q: Jeg glemte å slå av komfyren før jeg dro hjemmefra.
+Q: "Den brune hunden løp raskt over den grønne engen."
+Q: Jeg elsker å utforske nye steder og prøve forskjellige typer mat.
+Q: Den brune hunden løp raskt over den grønne engen.
+Q: Den brune hunden hoppet glad over gresset.
+Q: Jeg elsker å gå på turer i skogen og plukke sopp.
+Q: "Den brune hunden løp raskt over den grønne engen."
+Q: Jeg glemte å lukke vinduet i stuen, og nå er det et iskaldt drag i hele rommet.
+Q: Jeg liker å gå på tur i skogen og plukke blåbær.
+Q: Det blå treet vokste opp ned i hagen.
+Q: Hunden løp raskt over den grønne engen og hoppet over gjerdet.
+Q: "Den svarte katten hopper over det grønne gresset."
+Q: I have a pet cat named Fluffy who loves to sleep all day.
+Q: Den brune hunden løp raskt gjennom skogen.
+Q: Den svarte katten hoppet over gjerdet og forsvant inn i natten.
+Q: Jeg liker å gå på tur i skogen og plukke bær.
+Q: Den svarte katten sitter på taket og stirrer på stjernene.
+Q: Den raske hunden hoppet over det høye gjerdet.
+Q: Jeg liker å gå på tur i skogen og utforske naturen.
+Q: Papegøyen på skulderen min synger alltid når jeg danser.
+Q: Jeg har aldri smakt sushi før, men jeg er nysgjerrig på hvordan det smaker.
+Q: Den hvite katten løp raskt over den grønne engen.
+Q: "Den røde katten løp raskt over den grønne engen."
+Q: Den svarte katten løp raskt over den knirkende broen.
+Q: Den store hunden løp raskt etter ballen i parken.
+Q: "Den svarte katten løp raskt over taket i nattens stillhet."
+Q: Den store bjørnen spiste en saftig honningkake i skogen.
+Q: "Den røde bilen kjørte raskt gjennom den støvete ørkenen."
+Q: I dag er været uforutsigbart og solen skinner.
+Q: Jeg elsker lukten av nystekte vafler på en søndagsmorgen.
+Q: Den brune hunden løp raskt over den grønne engen.
+Q: The cat jumped on the table and knocked over a vase.
+Q: I går fikk jeg endelig se den filmen jeg har gledet meg til å se!
+Q: Den brune hunden løp raskt over gresset og lekte med en rød ball.
+Q: Etter regnet kom solen og skinte over de grønne åsene.
+Q: Jeg liker å gå på ski om vinteren når snøen ligger dyp.
+Q: "Den brune hunden løp raskt over den grønne engen."
+Q: Jeg elsker lukten av nystekte pannekaker på en søndags morgen.
+Q: "Jeg ønsker å reise verden rundt og oppleve nye kulturer."
+Q: Den raske reven hopper over den late hunden.
+Q: Den svarte katten sprang raskt over det grønne gresset.
+Q: Jeg drakk en kopp te mens jeg så på solnedgangen.
+Q: Hun gikk til butikken for å kjøpe melk, men endte opp med å kjøpe en hel handlekurv med matvarer.
+Q: Jeg liker å lese bøker mens jeg drikker te.
+Q: Den svarte katten hoppet elegant over gjerdet.
+Q: Jeg elsker lukten av nystekt bacon om morgenen.
+Q: Den svarte katten løp raskt over den glitrende broen.
+Q: Sola skinner og fuglene synger i trærne.
+Q: Jeg har aldri smakt sushi før, men jeg er nysgjerrig på å prøve det.
+Q: "Den grønne katten danset på taket i regnet."
+Q: I går glemte jeg å ta med paraplyen på grunn av det fine været.
+Q: Den sultne katten jaktet på en mus i hagen.
+Q: "Den blå katten spiste en stor fisk ved elvebredden."
+Q: Jeg liker å sitte i sola med en god bok og en kopp te.
+Q: Solen skinner lysest rett før solnedgang.
+Q: Jeg liker å gå på tur i skogen og plukke blåbær.
+Q: Den brune hunden løp raskt over den grønne gressplenen.
+Q: "Utenfor vinduet regnet det tungt og jeg lengtet etter en varm kopp te."
+Q: Den brune hunden løp raskt over den grønne engen.
+Q: Jeg tror jeg har glemt å slå av ovnen før jeg dro hjemmefra.
+Q: "Den svarte katten lekte med en rød ball i hagen."
+Q: Den store katten løp raskt gjennom hagen.
+Q: "Den brune hunden løp raskt gjennom skogen på jakt etter et spor av mat."
+Q: Jeg kan lukte nybakt brød fra bakeriet nedover gaten.
+Q: Den brune hunden løp raskt over den grønne engen.
+Q: The cat jumped over the fence and into the neighbor's yard.
+Q: Den brune hunden løp raskt over den grønne engen.
+Q: Jeg liker å spise fersk frukt til frokost.
+Q: Jeg liker å gå på tur i skogen og plukke bær.
+Q: Den store bjørnen spiste en saftig honningkake.
+Q: Den brune hunden løp raskt gjennom den grønne skogen.
+Q: Den svarte katten sprang over den gamle månen.
+Q: Den blå fuglen sang vakkert i den grønne skogen.
+Q: "Den røde bilen kjørte fort forbi det gamle treet."
+Q: Den hvite katten lekte med en rød ball.
+Q: Etter regnet kom solen frem og skinte på de fargerike blomstene.
+Q: Jeg liker å gå på tur i skogen og plukke bær.
+Q: Hun gikk inn i butikken og kjøpte en paraply til den kommende regnværsdagen.
+Q: "Den hvite katten løp raskt over den grønne engen."
+Q: Jeg liker å gå på tur langs stranden mens solen går ned.
+Q: Den brune hunden løp raskt over gresset og hoppet inn i bilen.
+Q: Hun gikk raskt inn i butikken og kjøpte en stor pose med poteter.
+Q: "Den brune hunden løp raskt over den grønne plenen."
+Q: Bananer er gule og smaker godt.
+Q: Det er alltid lurt å ha en paraply med seg, bare i tilfelle det begynner å regne.
+Q: "Den brune hunden løp raskt over gresset og hoppet inn i den gamle bilen."
+Q: Den store hunden løp etter ballen over gresset.
+Q: Jeg elsker lukten av nyslått gress på en sommerdag.
+Q: Den brune hunden løp raskt over den grønne engen.
+Q: Jeg kan ikke tro at jeg klarte å vinne den store premien i lotteriet!
+Q: Den svarte katten ligger og sover på den gamle stolen.
+Q: Jeg har aldri smakt sushi, men jeg vil gjerne prøve det en dag.
+Q: "Den lille katten sprang raskt over gresset og jaget en sommerfugl."
+Q: Den brune hunden løp raskt over den grønne engen.
+Q: Da katten hoppet opp på bordet, falt alle glassene.
+Q: Hunden min elsker å løpe på stranden og leke i vannet.
+Q: Jeg liker å ta lange turer i skogen for å nyte naturen.
+Q: Den brune katten hoppet elegant over den gamle stakittgjerdet.
+Q: "Den svarte katten løp raskt over den glinsende broen."
+Q: Jeg elsker å bake cookies på søndager.
+Q: "Den brune hunden løp raskt over den grønne gressplen."
+Q: Den svarte katten løp raskt over den gamle broen i måneskinnet.
+Q: Etter regnet kommer solen.
+Q: Den brune hunden løp raskt over den grønne engen.
+Q: Hunden min elsker å leke i parken med andre hunder.
+Q: Jeg glemte å lukke vinduet før jeg dro på ferie.
+Q: Jeg glemte å lukke vinduet, så nå regner det inn.
+Q: Hunden min elsker å leke i parken med andre hunder.
+Q: "Dagens vær var overraskende fint, og jeg fikk endelig tid til å gå på tur langs kysten."
+Q: Jeg liker å gå på lange turer i skogen og lytte til fuglesang.
+Q: "Den brune hunden løp raskt gjennom den grønne skogen."
+Q: "Papegøyen satt på skulderen til piraten mens de seilte gjennom det farlige havet."
+Q: "Den raske brune reven hoppet over den late hunden."
+Q: Hunden min elsker å løpe rundt i hagen og leke med ballen sin.
+Q: Den grønne katten lekte med den brune hunden i parken.
+Q: Den sorte katten løp raskt over den glatte veien.
+Q: "Den blå katten hoppet elegant over gjerdet og forsvant inn i natten."
+Q: I dag gikk jeg tur i skogen og fant en skjult skatt.
+Q: "Solen skinner og fuglene synger mens jeg nyter en kopp kaffe på verandaen."
+Q: Jeg drakk kaffe mens jeg gikk på den solfylte stranden.
+Q: Jeg liker å gå på tur i skogen og plukke bær.
+Q: "Den brune hunden løp raskt over den grønne engen."
+Q: "Dagens været er fint, men det er meldt om regn senere i kveld."
+Q: Den gamle mannen gikk langsomt nedover den støvete veien med en stokk i hånden.
+Q: Jeg håper på solskinn og latter i morgen.
+Q: Den store hvite katten hoppet elegant over gjerdet.
+Q: I love to go for long walks on the beach at sunset.
+Q: Den lille katten lekte i gresset mens solen skinte.
+Q: Jeg liker å gå på tur i skogen og plukke bær.
+Q: "Det var en gang en snakkende papegøye som bodde i et palass av regnbuefarget glass."
+Q: Jeg liker å ta lange spaserturer langs stranden på kveldene.
+Q: Jeg elsker lukten av nybakte boller på lørdag morgen.
+Q: Hunden min løp gjennom hagen og plasket i dammen.
+Q: Jeg elsker lukten av nybakte kanelboller om morgenen.
+Q: Hunden min elsker å løpe rundt i parken og leke med andre hunder.
+Q: Hunden min elsker å leke i parken med andre hunder.
+Q: Jeg har aldri prøvd sushi, men jeg vil gjerne smake det en dag.
+Q: Det var en gang en snegle som dro på en spennende eventyr.
+Q: Papegøyen min elsker å danse til sambarytmer!
+Q: "Det blå skjerfet matcher perfekt med de gamle skoene."
+Q: "På vei til butikken kom jeg over en flokk ender som krysset veien."
+Q: Jeg skal til stranden i morgen og nyte solen.
+Q: "Den svarte katten sprang gjennom den lysegrønne engen."
+Q: Den hvite katten leker med en rød ball i hagen.
+Q: Den svarte katten løp fort gjennom den regnfulle natten.
+Q: Den brune hunden løp raskt over den grønne engen.
+Q: "Den brune hunden løp raskt over den grønne engen."
+Q: "Den svarte katten sprang over den gamle muren."
+Q: Jeg elsker lukten av nybakte kjeks på en regnfull dag.
+Q: Jeg drakk en kopp kaffe mens jeg så på solnedgangen.
+Q: Jeg glemte å mate fiskene da jeg dro på ferie.
+Q: Jeg liker å gå på turer i skogen for å finne indre ro.
+Q: Jeg elsker å ta lange turer langs stranden på solfylte dager.
+Q: "Den svarte katten sprang raskt over den grønne engen."
+Q: Hunden løp raskt over gresset og hoppet over gjerdet.
+Q: Jeg pleier å løpe om morgenen før jeg jobber.
+Q: Jeg elsker å utforske nye steder og oppleve forskjellige kulturer.
+Q: Den svarte katten jaktet på en mus i hagen.
+Q: Hunden hoppet over gjerdet for å jage ekornet.
+Q: "Den grønne bilen kjørte raskt forbi den store kirken."
+Q: "Den brune hunden løp fort over den grønne engen."
+Q: "Den brune hunden løp raskt etter den oransje katten."
+Q: Hunden min elsker å leke i parken.
+Q: "Den brune hunden løp raskt gjennom skogen på jakt etter mat."
+Q: I går gikk jeg på en lang og avslappende spasertur i skogen.
+Q: Hunden løp raskt over den grønne engen og plukket opp en pinne i munnen.
+Q: Jeg vil ha en kopp te med melk og sukker, takk.
+Q: Jeg elsker å tilbringe tid utendørs og utforske naturen.
+Q: Den brune hunden løp raskt over den grønne engen.
+Q: Den røde bilen kjørte raskt forbi det gamle huset.
+Q: Jeg liker å spasere i skogen og nyte naturens fred.
+Q: Den blå katten løp raskt over den grønne engen.
+Q: "Etter regnet kom solen og skapte et vakkert regnbue."
+Q: Den raske reven hoppet over den brune hunden.
+Q: "Den grønne katten hoppet elegant over det gule gjerdet."
+Q: "Den svarte katten hoppet elegant over gjerdet og forsvant inn i natten."
+Q: "Den grønne bilen kjørte raskt gjennom den tette skogen."
+Q: "Den lille katten sprang raskt over gresset og jaget en sommerfugl."
+Q: Den brune hunden løp raskt over den grønne engen.
+Q: Jeg elsker å gå på tur i skogen og plukke bær.
+Q: Jeg elsker lukten av nybakte boller om morgenen.
+Q: Den lille katten sprang rundt i hagen og lekte med en sommerfugl.
+Q: "Den grønne katten hoppet elegant over den knudrete stien."
+Q: I går var jeg på kafe og traff en gammel venn jeg ikke hadde sett på år.
+Q: "Den lille katten lekte i solen mens den store hunden sov i skyggen."
+Q: Den brune hunden løp raskt over den grønne engen.
+Q: Den svarte katten sprang over den gamle muren.
+Q: Jeg liker å spise pannekaker til frokost.
+Q: Den brune katten lekte utenfor i solen.
+Q: I går spilte jeg fotball med en lilla elefant på stranden.
+Q: Den grønne bilen kjørte raskt forbi den gamle kirken.
+Q: Den brune hunden løp raskt over den grønne gressplenen.
+Q: Jeg liker å danse i regnet mens jeg synger høyt.
+Q: Den brune hunden løp raskt over den grønne engen.
+Q: Den brune hunden løp raskt over det grønne gresset.
+Q: Den brune hunden løp raskt rundt i hagen og lekte med en ball.
+Q: Den lilla elefanten danset under stjernene i natt.
+Q: Papegøyen sitter på skulderen min og messer etterlignende ord jeg sier.
+Q: Den store hunden løp raskt over den grønne engen.
+Q: Den svarte katten løp raskt gjennom den mørke skogen.
+Q: Det regner katter og hunder i dag.
+Q: "Den hvite katten lekte i hagen mens solen skinte."
+Q: The cat jumped over the lazy dog.
+Q: "Hunden min elsker å leke i parken."
+Q: Det var en gang en liten katt som drømte om å fly.
+Q: Jeg liker å reise til fjerne land og oppleve forskjellige kulturer.
+Q: "Den svarte katten sprang raskt gjennom den mørke skogen."
+Q: "Den grønne katten hoppet elegant over den høye gjerdet."
+Q: I dag tok jeg en lang spasertur langs stranden og nøt den friske sjøluften.
+Q: Papegøyen min elsker å danse til musikk.
+Q: Jeg elsker lukten av nystekte vafler en søndags morgen.
+Q: "Jeg tror jeg har glemt å slå av ovnen hjemme."
+Q: "Jeg liker å spise pizza på en solfylt dag."
+Q: Papegøyen min elsker å snakke og synge på norsk.
+Q: Det var en gang en snill drage som bodde i et magisk skog.
+Q: Den brune reven hopper over den late hunden.
+Q: Den brune hunden løp raskt over gresset.
+Q: "Den svarte katten løp raskt over den glatte steinbroen."
+Q: Hunden min elsker å bade i sjøen på varme sommerdager.
+Q: "Hunden løp raskt etter ballen i parken."
+Q: Den store hvite katten løp raskt over den grønne engen.
+Q: Den svarte katten sprang gjennom det grønne gresset.
+Q: "Jeg tror jeg glemte å slå av komfyren hjemme."
+Q: Jeg tror jeg skal lage pannekaker til middag i dag.
+Q: Jeg elsker lukten av nybakte boller på en søndagsmorgen.
+Q: Jeg liker å spise eple og agurk til lunsj.
+Q: Jeg glemte å mate katten i dag.
+Q: Hunden min elsker å løpe rundt i parken og leke med andre hunder.
+Q: I løpet av helgen skal jeg besøke en gammel venn jeg ikke har sett på lenge.
+Q: Den blå hunden løp raskt over gresset i parken.
+Q: Den store brunbjørnen spiste rolig sine bær i skogen.
+Q: Jeg spiste pannekaker til frokost i dag.
+Q: Jeg liker å spise iskrem selv om det er kaldt ute.
+Q: Den svarte katten sprang gjennom hagen og forsvant inn i natten.
+Q: Jeg liker å gå på turer i skogen og utforske naturen.
+Q: Jeg har aldri prøvd sushi før, men jeg er villig til å gi det en sjanse.
+Q: Jeg elsker lukten av fersk bakt brød om morgenen.
+Q: Den store grønne dragen fløy over det glitrende havet.
+Q: Den raske rødhårede belgiske sjiraffen spiste en bolle med sjokoladeis i parken.
+Q: I went to the store to buy some groceries and ended up adopting a kitten.
+Q: I går lagde jeg en deilig omelett til frokost.
+Q: Den raske brune reven hoppet over den dovne hunden.
+Q: Hunden min elsker å leke i parken.
+Q: På fredagen gikk jeg en tur i skogen og fant en skjult hule.
+Q: Jeg liker å lese bøker i solen mens jeg drikker te.
+Q: Den brune hunden løp raskt over den grønne engen.
+Q: Bjørnen spiste en saftig hamburger på toppen av fjellet.
+Q: Den brune hunden løp raskt over den grønne engen.
+Q: Den brune hunden hoppet over gjerdet og løp nedover veien.
+Q: Den lille katten lekte med en myk ball i solskinnet.
+Q: Jeg kan ikke tro at det er allerede tirsdag!

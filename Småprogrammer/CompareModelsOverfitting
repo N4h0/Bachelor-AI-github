@@ -1,0 +1,78 @@
+#Sammenligning av setninger: https://huggingface.co/tasks/sentence-similarity
+#https://www.sbert.net/ transformers
+#Me bruker https://huggingface.co/NbAiLab/nb-sbert-base
+#Modellen er bygd opp på ein måte osm gjer at engelske setningar også kan pare bra opp mot norske setningar.
+
+from sklearn.metrics.pairwise import cosine_similarity  #For å kunne sammenligne setninger, som cosine_similarity tydeligvis er bra til
+from sentence_transformers import SentenceTransformer  #Bruke modellen på setninger
+import numpy as np  #For at python skal jobbe med mattegreier
+from setfit import SetFitModel
+import matplotlib.pyplot as plt
+import statistics
+import random
+
+
+sbert = SentenceTransformer("NbAiLab/nb-sbert-base")
+alpha6 = SetFitModel.from_pretrained("modeller/alpha6")
+
+'''
+_______________________________Formater spørsmål med modellen_______________________________
+'''
+
+randomquestions = []
+
+with open('txtandCSV-files/randomquestions.txt', 'r', encoding='utf-8') as file: #Opne Q&A, les den /r) og enkoder som uft-8 (lar Æ, Ø og å vere med)
+    for line in file:
+        if line.startswith('Q:'):
+            randomquestions.append(line[3:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.
+
+embeddings_alpha6 = alpha6.encode(randomquestions)
+embeddings_sbert = sbert.encode(randomquestions)
+
+CoSim1 = []  # Sber
+CoSim2 = []  # Alpha6
+
+
+for i in range(len(randomquestions)):
+    j = random.randint(0,298)
+    while i == j:
+        j = random.randint(0,298)
+    
+#"Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample."
+    emb1_sbert = embeddings_sbert[i].reshape(1, -1)
+    emb2_sbert = embeddings_sbert[j].reshape(1, -1)
+    emb1_alpha6 = embeddings_alpha6[i].reshape(1, -1)
+    emb2_alpha6 = embeddings_alpha6[j].reshape(1, -1)
+
+    # Calculate cosine similarity and append the result
+    cos_sim_sbert = cosine_similarity(emb1_sbert, emb2_sbert)[0][0]
+    cos_sim_alpha6 = cosine_similarity(emb1_alpha6, emb2_alpha6)[0][0]
+    
+    CoSim1.append(cos_sim_sbert)
+    CoSim2.append(cos_sim_alpha6)
+    
+
+#Scatterplot
+plt.figure(figsize=(10, 6))
+plt.scatter(range(len(CoSim1)), CoSim1, color='red', alpha=0.5, label=f'Utrent modell (n = {len(CoSim1)})')
+plt.scatter(range(len(CoSim2)), CoSim2, color='purple', alpha=0.5, label=f'Trent modell (n = {len(CoSim2)})')
+
+plt.legend(loc='lower center', bbox_to_anchor=(0.5, 1.05), fancybox=True, shadow=True, ncol=2)
+plt.title('CoSim verdier testet med tilfeldige setninger', fontsize=14, fontweight='bold')
+plt.xlabel('Index', fontsize=12)
+plt.ylabel('Cosine Similarity', fontsize=12)
+plt.tight_layout()
+
+plt.savefig("figures/overfittingtest")
+
+average_all_scores = sum(CoSim1) / len(CoSim1)
+print("Average of all_scores:", average_all_scores)
+
+median_all_scores = statistics.median(CoSim1)
+print("Median of all_scores:", median_all_scores)
+
+average_all_scores2 = sum(CoSim2) / len(CoSim2)
+print("Average of all_scores2:", average_all_scores2)
+
+median_all_scores2 = statistics.median(CoSim2)
+print("Median of all_scores2:", median_all_scores2)

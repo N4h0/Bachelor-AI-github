@@ -17,7 +17,7 @@ modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.c
 
 #modell = SetFitModel.from_pretrained("modeller/alpha1") #For å teste med en trent modell.
 modell = SentenceTransformer(modellnavn) #For å teste utrent modell
-modell = SetFitModel.from_pretrained("modeller/alpha5")
+#modell = SetFitModel.from_pretrained("modeller/alpha6")
 '''
 _______________________________Formater spørsmål med modellen_______________________________
 '''
@@ -165,7 +165,7 @@ feilsvar_scores = [item['similarity_score'] for item in feilsvar]
 
 # Creating the boxplots
 fig, ax = plt.subplots()
-ax.boxplot([resultat_scores, rettsvar_scores, feilsvar_scores], labels=['Resultat', 'Rett svar', 'Feil svar'])
+ax.boxplot([resultat_scores, rettsvar_scores, feilsvar_scores], labels=['Resultat (n=270)', 'Rett svar (n=247)', 'Feil svar (n=23)'])
 ax.set_title('Boxplot av Resultat, Rett svar, og Feil svar')
 ax.set_ylabel('Cosine Similarity Scores')
 plt.savefig("figures/result-boxplot")

@@ -8,6 +8,8 @@ from sentence_transformers import SentenceTransformer  #Bruke modellen på setni
 import numpy as np  #For at python skal jobbe med mattegreier
 import json
 from setfit import SetFitModel
+import matplotlib.pyplot as plt
+import statistics
 
 
 modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.co/NbAiLab/nb-sbert-base
@@ -152,7 +154,7 @@ for i, (question,question2) in enumerate(zip(encoded_user_questions,encoded_user
         if highestWrongCoSim2 is None or max(similarity_scores2) < highestWrongCoSim2:
             highestWrongCoSim2 = max(similarity_scores2)
     else:
-        rettsvar.append({
+        rettsvar2.append({
         "spørringsnummer": i+1,
         "inquiry": inquiry,
         "løsning": løsning2,
@@ -280,3 +282,89 @@ with open('results/trainedmodelresultssummary.txt', 'w', encoding='utf-8') as fi
             file.write(f"\nSimilarity Score: {svar['similarity_score']}\n\n\n")
         else:
             file.write(f"\nSimilarity Score: {svar['similarity_score']}")
+            
+correct_scores = [d['similarity_score'] for d in rettsvar]
+wrong_scores = [d['similarity_score'] for d in feilsvar]
+all_scores = [d['similarity_score'] for d in Resultat]
+
+correct_scores2 = [d['similarity_score'] for d in rettsvar2]
+wrong_scores2 = [d['similarity_score'] for d in feilsvar2]
+all_scores2 = [d['similarity_score'] for d in Resultat2]
+
+#BOXPLOT
+fig, axs = plt.subplots(3, 1, figsize=(10, 15))
+
+#Rett svar
+axs[0].boxplot([correct_scores, correct_scores2], labels=[f'Utrent modell (n = {len(correct_scores)})', f'Trent modell (n = {len(correct_scores2)})'])
+axs[0].set_title('Sammenligning av CoSim ved rette svar')
+axs[0].set_ylabel('Cosine Similarity')
+#Feil svar
+axs[1].boxplot([wrong_scores, wrong_scores2], labels=[f'Utrent modell (n = {len(wrong_scores)})', f'Trent modell (n = {len(wrong_scores2)})'])
+axs[1].set_title('Sammenliging av CoSim ved feil svar')
+axs[1].set_ylabel('Cosine Similarity')
+#Alle svar
+axs[2].boxplot([all_scores, all_scores2], labels=[f'Utrent modell (n = {len(all_scores)})', f'Trent modell (n = {len(all_scores2)})'])
+axs[2].set_title('Sammenligning av CoSim for alle resultat')
+axs[2].set_ylabel('Cosine Similarity')
+
+plt.tight_layout()
+plt.savefig("SetFitSammenligning/boxplots")
+
+#Histogram
+fig, axs = plt.subplots(2, 1, figsize=(10, 12))
+axs[0].hist(correct_scores, bins=20, alpha=0.7, label='Utrent model - rett svar')
+axs[0].hist(correct_scores2, bins=20, alpha=0.7, label='Trent model - rett svar')
+axs[0].set_title('Histogram som viser korrekte CoSim svar')
+axs[0].set_xlabel('Cosine Similarity')
+axs[0].set_ylabel('Frekvens')
+axs[0].legend()
+
+axs[1].hist(wrong_scores, bins=20, alpha=0.7, label='Utrent modell - feil svar')
+axs[1].hist(wrong_scores2, bins=20, alpha=0.7, label='Trent modell - feil svar')
+axs[1].set_title('Histogram som viser feil CoSim svar')
+axs[1].set_xlabel('Cosine Similarity')
+axs[1].set_ylabel('Frekvens')
+axs[1].legend()
+
+plt.tight_layout()
+plt.savefig("SetFitSammenligning/histogram")
+
+#CDF https://en.wikipedia.org/wiki/Cumulative_distribution_function
+fig, ax = plt.subplots(figsize=(10, 6))
+ax.hist(correct_scores, bins=100, density=True, histtype='step', cumulative=True, label='Utrent model - rett svar', linestyle='--')
+ax.hist(correct_scores2, bins=100, density=True, histtype='step', cumulative=True, label='Trent model - rett svar')
+ax.hist(wrong_scores, bins=100, density=True, histtype='step', cumulative=True, label='Utrent modell - feil svar', linestyle='--')
+ax.hist(wrong_scores2, bins=100, density=True, histtype='step', cumulative=True, label='Trent modell - feil svar')
+ax.set_title('CDF-plot som viser CoSim-verdier')
+ax.set_xlabel('Cosine Similarity')
+ax.set_ylabel('Frekvens')
+ax.legend()
+plt.savefig("SetFitSammenligning/CDF")
+
+#Scatterplot
+plt.figure(figsize=(10, 6))
+plt.scatter(range(len(correct_scores)), correct_scores, color='green', alpha=0.5, label=f'Utrent model - rett svar (n = {len(correct_scores)})')
+plt.scatter(range(len(correct_scores2)), correct_scores2, color='blue', alpha=0.5, label=f'Trent model - rett svar (n = {len(correct_scores2)})')
+plt.scatter(range(len(wrong_scores)), wrong_scores, color='red', alpha=0.5, label=f'Utrent modell - feil svar (n = {len(wrong_scores)})')
+plt.scatter(range(len(wrong_scores2)), wrong_scores2, color='purple', alpha=0.5, label=f'Trent modell - feil svar (n = {len(wrong_scores2)})')
+plt.title('Scatterplot som viser CoSim-verdier')
+plt.xlabel('Index')
+plt.ylabel('Cosine Similarity')
+plt.legend()
+plt.savefig("SetFitSammenligning/scatterplot")
+
+
+average_all_scores = sum(all_scores) / len(all_scores)
+print("Average of all_scores:", average_all_scores)
+
+# Calculate and print the median for all_scores using the statistics module
+median_all_scores = statistics.median(all_scores)
+print("Median of all_scores:", median_all_scores)
+
+# Calculate and print the average for all_scores2
+average_all_scores2 = sum(all_scores2) / len(all_scores2)
+print("Average of all_scores2:", average_all_scores2)
+
+# Calculate and print the median for all_scores2
+median_all_scores2 = statistics.median(all_scores2)
+print("Median of all_scores2:", median_all_scores2)

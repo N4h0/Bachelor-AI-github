@@ -30,12 +30,12 @@ parser.add_argument('--model', type=str, help='Which model do you want to use? O
 args = parser.parse_args()
 user_question = args.input
 
-if args.model == 'sbertbase':
+if args.model == '1':
     modell = sbertbase
-elif args.model == 'alpha':
+elif args.model == '2':
     modell = modell3
 else:
-    raise ValueError("Invalid model selection. Please choose either 'sbertbase' or 'alpha'.")
+    modell = sbertbase
 
 
 

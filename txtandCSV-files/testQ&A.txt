@@ -1,0 +1,78 @@
+
+Here's a list formatted with questions about Python programming, translated into Norwegian:
+
+Q: Hva er en liste i Python?
+A:
+
+Q: Hvordan installerer du et eksternt Python-bibliotek?
+A:
+
+Q: Hva er en funksjon i Python?
+A:
+
+Q: Hva er forskjellen mellom en liste og en tupel i Python?
+A:
+
+Q: Hvordan håndterer du unntak i Python?
+A:
+
+Q: Hva er dekoratører i Python?
+A:
+
+Q: Hvordan leser og skriver du filer i Python?
+A:
+
+Q: Hva er objektorientert programmering i Python?
+AF: Hvordan bruker du klasser i Python?
+AF: Hva er objekter i Python?
+A:
+
+Q: Hva er bruken av setningen if __name__ == "__main__":?
+A:
+
+Q: Hvordan forbedrer du ytelsen til Python-kode?
+A:
+
+Q: Hva koster det å ansette en Python-utvikler?
+A: Varierer typisk etter region og erfaring
+
+Q: Hva er kostnaden for å utvikle en liten Python-applikasjon?
+A: Avhenger av
+
+Q: Hvordan bruker du listeforståelse i Python?
+A:
+
+Q: Hva er lambda-funksjoner i Python?
+A:
+
+Q: Hvordan bruker du moduler i Python?
+A:
+
+Q: Hva er iterables og iterators i Python?
+A:
+
+Q: Hvordan implementerer du rekursjon i Python?
+A:
+
+Q: Hvordan kan du håndtere feil i Python ved hjelp av try og except?
+A:
+
+Q: Hva er forskjellen på __str__ og __repr__ i Python?
+A:
+
+Q: Hvordan fungerer arv i Python-klasser?
+AF: Hvordan bruker du arv i Python?
+AF: Hva er superklasser og underklasser i Python?
+A:
+
+Q: Hvordan bruker du pip for å installere Python-pakker?
+A:
+
+Q: Hvordan tester du Python-kode effektivt?
+A:
+
+Q: Hva er kostnaden for et avansert Python-kurs?
+A: Varierer etter kursleverandør og lengde
+
+Q: Hva er beste praksis for feilsøking i Python?
+A:
