@@ -11,10 +11,28 @@ from setfit import SetFitModel
 import matplotlib.pyplot as plt
 import statistics
 
+'''
+_______________________________Initiallierer greier_______________________________
+'''
 
 modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.co/NbAiLab/nb-sbert-base
 modell = SentenceTransformer(modellnavn) #Instansierer BERT modellen . https://huggingface.co/docs/transformers/main_classes/model
-modell2 = SetFitModel.from_pretrained("modeller/alpha6")
+modell2 = SetFitModel.from_pretrained("modeller/alpha10")
+
+
+# Laste jsonfila med alle encoda spørsmål
+with open('txtandCSV-files/Q&A_embedded.json', 'r', encoding='utf-8') as file:
+    jsonliste = json.load(file)
+
+# Laste jsonfila med alle encoda spørsmål
+with open('txtandCSV-files/Q&A_embeddedetFitModel.json', 'r', encoding='utf-8') as file:
+    jsonliste2 = json.load(file)
+
+#Overskrive filer me skal lagre data i.o+p\
+with open('results/comparisonresults.txt', 'w', encoding='utf-8') as file:
+    file.write("")
+with open('results/defaultmodelresults.txt', 'w', encoding='utf-8') as file:
+    file.write("")
 
 '''
 _______________________________Formater spørsmål med modellen_______________________________
@@ -37,35 +55,29 @@ with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file: #Opne Q&A, 
             søkeliste.append(line[3:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.
 
 
-# Laste jsonfila med alle encoda spørsmål
-with open('txtandCSV-files/Q&A_embedded.json', 'r', encoding='utf-8') as file:
-    jsonliste = json.load(file)
-
 # Konverter til arrays for å bruke videre
 def convert_to_arrays(loaded_list_as_lists):
     return [np.array(sublist) for sublist in loaded_list_as_lists]
 
 
-loaded_list = [convert_to_arrays(sublist) for sublist in jsonliste]
+embeddingsSbert = [convert_to_arrays(sublist) for sublist in jsonliste]
+embeddingsAlpha = [convert_to_arrays(sublist) for sublist in jsonliste2]
 
 encoded_user_questions = modell.encode(spørsmål)
 encoded_user_questions2 = modell2.encode(spørsmål)
 
 '''
 _______________________________Sammenlign spørmsål_______________________________
-'''
+''' 
 
 # Similarity scores
 # https://huggingface.co/tasks/sentence-similarity "The similarity of the embeddings is evaluated mainly on cosine similarity. 
 # It is calculated as the cosine of the angle between two vectors. It is particularly useful when your texts are not the same length"
-# Initialize an empty list to hold the similarity scores
+# Initialize an empty list to hold the similarity scores"
 
 IandAandQ = [] #Inquiry, fasit og det modellen kom fram til.
 IandAandQ2 = [] #Inquiry, fasit og det modellen kom fram til.
 
-
-with open('results/comparisonresults.txt', 'w', encoding='utf-8') as file:
-    file.write("")
 
 #Liste med alle resultat
 Resultat = []
@@ -81,18 +93,17 @@ highestWrongCoSim2 = None
 lowestCorrectCoSim = None
 lowestCorrectCoSim2 = None
 
-with open('results/defaultmodelresults.txt', 'w', encoding='utf-8') as file:
-    file.write("")
 
-#Looper gjennom heile lista med chatbpt-spørsmål
+#Looper gjennom heile lista med chatgpt-spørsmål
 for i, (question,question2) in enumerate(zip(encoded_user_questions,encoded_user_questions2), start = 0):
     
     #Finn cosine similarity for spørsmålet
     similarity_scores = []
     similarity_scores2 = []
 
-    for sublist in loaded_list: #Looper gjennom lista med spørsmål og finner cosine similarity scores. Bruker sublist for å ta hensyn til alt. formuleringar.
+    for sublist in embeddingsSbert: #Looper gjennom lista med spørsmål og finner cosine similarity scores. Bruker sublist for å ta hensyn til alternative formuleringar.
         similarity_scores.append(max(cosine_similarity([question], sublist)[0]))
+    for sublist in embeddingsAlpha:
         similarity_scores2.append(max(cosine_similarity([question2], sublist)[0]))
     most_similar_question_index = np.argmax(similarity_scores)
     most_similar_question_index2 = np.argmax(similarity_scores2)
@@ -117,7 +128,7 @@ for i, (question,question2) in enumerate(zip(encoded_user_questions,encoded_user
     Resultat2.append({
         "spørringsnummer": i+1,
         "inquiry": inquiry,
-        "løsning": løsning,
+        "løsning": løsning2,
         "fasit": fasiten,
         "similarity_score": max(similarity_scores2)
     })
@@ -169,16 +180,16 @@ for i, (question,question2) in enumerate(zip(encoded_user_questions,encoded_user
         file.write(f"""
             Spørsmål {i}
             Spørsmål generert: {inquiry}
-            Spørsmål som ligner mest: {løsning2}
+            Spørsmål som ligner mest: {løsning}
             Fasit: {fasiten}
-            CoSim-Score: {max(similarity_scores2)}
+            CoSim-Score: {max(similarity_scores)}
             """)
         #Lagrer resultatet i ei tekstfil
     with open('results/trainedmodelresults.txt', 'a', encoding='utf-8') as file:
         file.write(f"""
             Spørsmål {i}
             Spørsmål generert: {inquiry}
-            Spørsmål som ligner mest: {løsning}
+            Spørsmål som ligner mest: {løsning2}
             Fasit: {fasiten}
             CoSim-Score: {max(similarity_scores2)}
             """)
@@ -286,6 +297,8 @@ with open('results/trainedmodelresultssummary.txt', 'w', encoding='utf-8') as fi
 correct_scores = [d['similarity_score'] for d in rettsvar]
 wrong_scores = [d['similarity_score'] for d in feilsvar]
 all_scores = [d['similarity_score'] for d in Resultat]
+
+print(Resultat)
 
 correct_scores2 = [d['similarity_score'] for d in rettsvar2]
 wrong_scores2 = [d['similarity_score'] for d in feilsvar2]

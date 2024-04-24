@@ -1,0 +1,60 @@
+text Når må merverdiavgiftsoppgaven leveres? 
+label Hva er fristen på innsending av merverdiavgift?
+text Kan du forklare hva merverdiavgift betyr? 
+label Hva er merverdiavgift (MVA)?
+text Når må skattemeldingen sendes inn? 
+label Hva er fristen på innsending av skattemelding?
+text Når må årsoppgjøret være ferdigstilt? 
+label Hva er fristen for årsoppgjør?
+text Hva er prosedyren for å melde inn et enkeltpersonforetak? 
+label Hvordan registrerer jeg et enkeltpersonforetak?
+text Hva er prosedyren for å søke serveringsbevilling? 
+label Hvordan søker jeg om serveringsbevilling?
+text Hva går søknadsprosessen for etableringsprøven ut på? 
+label Hvordan er søknad for etableringsprøve?
+text Hvilken prosess følger jeg for å melde inn merverdiavgift? 
+label Hvordan søker jeg om registrering av mva?
+text Hvordan går man frem for å fylle ut omsetningsoppgaven for alkohol? 
+label Hvordan utføres omsetningsoppgaven for alkohol?
+text Når må A-meldingen leveres inn? 
+label Hva er fristen for å levere A-meldingen?
+text Kan du fortelle meg hva kostnaden per time for å føre regnskap er? 
+label Hva er timepris for bokføring?
+text Hvor mye koster det å registrere et enkeltpersonsforetak? 
+label Hva er pris for registrering av enkeltpresonsforetak?
+text Hva koster det å registrere et aksjeselskap? 
+label Hva er pris for registrering av aksjeselskap?
+text Hva koster det å få gjort årsoppgjøret for et EPF og et aksjeselskap? 
+label Hva er prisen på årsoppgjør for EPF og Aksje selskap?
+text Hvordan skiller regnskapsføring seg fra revisjon? 
+label Hva er forskjellen mellom regnskapsføring og revisjon?
+text Er det regnskapsplikt for enhver? 
+label Har alle regnskapsplikt?
+text Kan du forklare hva plikten til å føre regnskap innebærer? 
+label Hva er bokføringsplikt?
+text Er det skattefradrag for hjemmekontorutgifter? 
+label Kan jeg trekke fra hjemmekontor på skatten?
+text Kan du forklare kontrasten mellom et resultatregnskap og en balanse? 
+label Hva er forskjellen på en balanse og et resultatregnskap?
+text Hva er metoden for å kalkulere skatten til et enkeltpersonforetak? 
+label Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+text Må alle bedrifter ha revisor? 
+label Er det obligatorisk med revisor?
+text Kan dere fortelle meg når dere åpner og stenger? 
+label Hva er åpningstidene deres?
+text Kan jeg få hjelp til å fylle ut selvangivelsen hos dere? 
+label Tilbyr dere bistand med selvangivelsen?
+text Er det mulig for dere å assistere med lønnsutbetalinger? 
+label Kan dere hjelpe til med lønnstjenester?
+text Kan du fortelle meg adressen til deres kontor? 
+label Hvor er kontoret deres lokalisert?
+text Er rådgivningstjenester tilgjengelige for småbedrifter hos dere? 
+label Tilbyr dere rådgivning for småbedrifter?
+text Hva må til for at jeg kan skaffe en time til konsultasjon? 
+label Hvordan kan jeg bestille en konsultasjon?
+text Har dere erfaring innen internasjonal skatterådgivning? 
+label Er dere erfarne med internasjonal skatterådgivning?
+text Har dere tilbud om regnskapstjenester på nett? 
+label Tilbyr dere digitale regnskapstjenester?
+text Hva slags arbeid utfører deres selskap? 
+label Hvilke tjenester tilbyr deres firma?

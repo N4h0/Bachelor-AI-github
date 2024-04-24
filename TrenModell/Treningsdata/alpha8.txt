@@ -1,0 +1,420 @@
+text Når må merverdiavgiften være innbetalt? 
+label Hva er fristen på innsending av merverdiavgift?
+text Når er siste frist for å sende inn merverdiavgift? 
+label Hva er fristen på innsending av merverdiavgift?
+text Hvilken dato er merverdiavgiften forfalt? 
+label Hva er fristen på innsending av merverdiavgift?
+text Når er deadline for innsending av merverdiavgift? 
+label Hva er fristen på innsending av merverdiavgift?
+text Hvilken dato må vi sende inn merverdiavgiftsoppgaven? 
+label Hva er fristen på innsending av merverdiavgift?
+text Når er tidsfristen for innlevering av merverdiavgift? 
+label Hva er fristen på innsending av merverdiavgift?
+text Når er betalingsfristen for merverdiavgift? 
+label Hva er fristen på innsending av merverdiavgift?
+text Kan du forklare hva merverdiavgift innebærer? 
+label Hva er merverdiavgift (MVA)?
+text Kan du fortelle hva MVA står for? 
+label Hva er merverdiavgift (MVA)?
+text Hva betyr merverdiavgift? 
+label Hva er merverdiavgift (MVA)?
+text Kunne du beskrive hva merverdiavgift er? 
+label Hva er merverdiavgift (MVA)?
+text Hva innebærer MVA?
+label Hva er merverdiavgift (MVA)?
+text Hva er definisjonen på merverdiavgift? 
+label Hva er merverdiavgift (MVA)?
+text Hva går merverdiavgift ut på? 
+label Hva er merverdiavgift (MVA)?
+text Når må skattemeldingen sendes inn? 
+label Hva er fristen på innsending av skattemelding?
+text Hvordan er tidsfristen for å levere skattemeldingen? 
+label Hva er fristen på innsending av skattemelding?
+text Når er siste dato for innlevering av skattemeldingen? 
+label Hva er fristen på innsending av skattemelding?
+text Hva er siste frist for å sende inn skattemeldingen? 
+label Hva er fristen på innsending av skattemelding?
+text Når går fristen ut for å levere skattemeldingen? 
+label Hva er fristen på innsending av skattemelding?
+text Hvilken dato er fristen for innsending av skattemeldingen? 
+label Hva er fristen på innsending av skattemelding?
+text Når er deadline for å sende inn skattemeldingen? 
+label Hva er fristen på innsending av skattemelding?
+text Når må årsoppgjøret være ferdig? 
+label Hva er fristen for årsoppgjør?
+text Når er deadline for innlevering av årsoppgjør? 
+label Hva er fristen for årsoppgjør?
+text Når er siste frist for å levere årsoppgjøret? 
+label Hva er fristen for årsoppgjør?
+text Hva er siste dato for innlevering av årsoppgjør? 
+label Hva er fristen for årsoppgjør?
+text Når er årsoppgjøret senest innlevert? 
+label Hva er fristen for årsoppgjør?
+text Hvilken dato må årsoppgjøret leveres innen? 
+label Hva er fristen for årsoppgjør?
+text Når må årsregnskapet leveres? 
+label Hva er fristen for årsoppgjør?
+text Hva er prosessen for å opprette et enkeltpersonforetak? 
+label Hvordan registrerer jeg et enkeltpersonforetak?
+text Hvordan går jeg frem for å melde inn et enkeltpersonforetak? 
+label Hvordan registrerer jeg et enkeltpersonforetak?
+text Hvordan melder jeg opprettelse av et enkeltpersonforetak? 
+label Hvordan registrerer jeg et enkeltpersonforetak?
+text Hvordan foregår registreringen av et enkeltpersonforetak? 
+label Hvordan registrerer jeg et enkeltpersonforetak?
+text Hvilke steg følger jeg for å registrere et enkeltpersonforetak? 
+label Hvordan registrerer jeg et enkeltpersonforetak?
+text Hva skal til for å starte et enkeltpersonforetak? 
+label Hvordan registrerer jeg et enkeltpersonforetak?
+text Hvordan kan jeg etablere et enkeltpersonforetak? 
+label Hvordan registrerer jeg et enkeltpersonforetak?
+text Hva er prosedyren for å få serveringsbevilling? 
+label Hvordan søker jeg om serveringsbevilling?
+text Hvordan går jeg frem for å søke serveringsbevilling? 
+label Hvordan søker jeg om serveringsbevilling?
+text Hva må jeg gjøre for å få serveringsbevilling? 
+label Hvordan søker jeg om serveringsbevilling?
+text Hvilke steg må til for å søke om serveringsbevilling? 
+label Hvordan søker jeg om serveringsbevilling?
+text Hvordan kan jeg søke om tillatelse til å servere alkohol? 
+label Hvordan søker jeg om serveringsbevilling?
+text Hvordan kan jeg skaffe en serveringsbevilling? 
+label Hvordan søker jeg om serveringsbevilling?
+text Hvordan kan jeg sende inn en søknad om serveringsbevilling? 
+label Hvordan søker jeg om serveringsbevilling?
+text Kan du forklare prosessen for å søke på etableringsprøven? 
+label Hvordan er søknad for etableringsprøve?
+text Hva må til for å søke om etableringsprøven? 
+label Hvordan er søknad for etableringsprøve?
+text Hvordan går man frem for å søke på etableringsprøven? 
+label Hvordan er søknad for etableringsprøve?
+text Hvilke steg må man følge for å søke om etableringsprøven? 
+label Hvordan er søknad for etableringsprøve?
+text Hva er fremgangsmåten for å sende inn søknad om etableringsprøve? 
+label Hvordan er søknad for etableringsprøve?
+text Hvordan søker man om å ta etableringsprøven? 
+label Hvordan er søknad for etableringsprøve?
+text Hvordan melder man seg på etableringsprøven? 
+label Hvordan er søknad for etableringsprøve?
+text Hva er prosessen for å registrere seg for merverdiavgift? 
+label Hvordan søker jeg om registrering av mva?
+text Hvordan går jeg frem for å melde meg inn i mva-registeret? 
+label Hvordan søker jeg om registrering av mva?
+text Hva skal til for å sende inn en søknad om mva-registrering? 
+label Hvordan søker jeg om registrering av mva?
+text Hvordan kan jeg registrere meg for mva? 
+label Hvordan søker jeg om registrering av mva?
+text Hvordan kan jeg søke om å bli registrert i merverdiavgiftsregisteret? 
+label Hvordan søker jeg om registrering av mva?
+text Hvordan foregår registreringen for mva? 
+label Hvordan søker jeg om registrering av mva?
+text Hvordan kan jeg gå fram for å registrere meg for merverdiavgift? 
+label Hvordan søker jeg om registrering av mva?
+text Hvordan går man frem for å fylle ut omsetningsoppgaven for alkohol? 
+label Hvordan utføres omsetningsoppgaven for alkohol?
+text Hvordan skal omsetningsoppgaven for alkohol utfylles? 
+label Hvordan utføres omsetningsoppgaven for alkohol?
+text Hva er prosedyren for å utføre omsetningsoppgaven for alkohol? 
+label Hvordan utføres omsetningsoppgaven for alkohol?
+text Hvordan gjennomfører man innsending av omsetningsoppgaven for alkohol? 
+label Hvordan utføres omsetningsoppgaven for alkohol?
+text Hvilke steg følges for å utføre omsetningsoppgaven for alkohol? 
+label Hvordan utføres omsetningsoppgaven for alkohol?
+text Hvordan skal man registrere alkoholsalg i omsetningsoppgaven? 
+label Hvordan utføres omsetningsoppgaven for alkohol?
+text Hvordan foretas registreringen av alkohol i omsetningsoppgaven? 
+label Hvordan utføres omsetningsoppgaven for alkohol?
+text Når må A-meldingen sendes inn? 
+label Hva er fristen for å levere A-meldingen?
+text Hvilken dato er siste frist for innlevering av A-meldingen? 
+label Hva er fristen for å levere A-meldingen?
+text Når er siste dag for å levere A-meldingen? 
+label Hva er fristen for å levere A-meldingen?
+text Når skal A-meldingen være levert? 
+label Hva er fristen for å levere A-meldingen?
+text Hva er siste frist for innsending av A-meldingen? 
+label Hva er fristen for å levere A-meldingen?
+text Hvilken deadline har man for å sende inn A-meldingen? 
+label Hva er fristen for å levere A-meldingen?
+text Når er tidsfristen for å levere A-meldingen? 
+label Hva er fristen for å levere A-meldingen?
+text Kan du oppgi kostnaden per time for regnskapsføring? 
+label Hva er timepris for bokføring?
+text Hva koster det per time å få utført bokføring? 
+label Hva er timepris for bokføring?
+text Hvor mye må man betale i timen for bokføringstjenester? 
+label Hva er timepris for bokføring?
+text Hva tar dere i timen for bokføring? 
+label Hva er timepris for bokføring?
+text Hva er kostnaden for én time med bokføring? 
+label Hva er timepris for bokføring?
+text Hva er den timelige prisen for å utføre bokføring? 
+label Hva er timepris for bokføring?
+text Hva ligger timeprisen på for bokføringsarbeid? 
+label Hva er timepris for bokføring?
+text Hva koster det å registrere et enkeltpersonsforetak? 
+label Hva er pris for registrering av enkeltpresonsforetak?
+text Hva må man betale for å melde inn et enkeltpersonsforetak? 
+label Hva er pris for registrering av enkeltpresonsforetak?
+text Hva er kostnaden for å opprette et enkeltpersonsforetak? 
+label Hva er pris for registrering av enkeltpresonsforetak?
+text Hvor mye må jeg ut med for å registrere et enkeltpersonsforetak? 
+label Hva er pris for registrering av enkeltpresonsforetak?
+text Hvor stor er avgiften for å registrere enkeltpersonsforetak? 
+label Hva er pris for registrering av enkeltpresonsforetak?
+text Hva er gebyret for å etablere enkeltpersonsforetak? 
+label Hva er pris for registrering av enkeltpresonsforetak?
+text Hvilken sum kreves for registrering av enkeltpersonsforetak? 
+label Hva er pris for registrering av enkeltpresonsforetak?
+text Hvor mye koster det å registrere et aksjeselskap? 
+label Hva er pris for registrering av aksjeselskap?
+text Hva koster det å melde inn et aksjeselskap i foretaksregisteret? 
+label Hva er pris for registrering av aksjeselskap?
+text Hva er kostnaden for å registrere et aksjeselskap? 
+label Hva er pris for registrering av aksjeselskap?
+text Hva må man betale for å opprette et aksjeselskap i registeret? 
+label Hva er pris for registrering av aksjeselskap?
+text Hva er avgiften for innmelding av aksjeselskap? 
+label Hva er pris for registrering av aksjeselskap?
+text Hva skal man ut med for å registrere et aksjeselskap? 
+label Hva er pris for registrering av aksjeselskap?
+text Hvor stor er registreringsavgiften for et aksjeselskap? 
+label Hva er pris for registrering av aksjeselskap?
+text Kan du fortelle meg hva det koster å gjennomføre et årsoppgjør for et EPF og et aksjeselskap? 
+label Hva er prisen på årsoppgjør for EPF og Aksje selskap?
+text Hva koster det å utføre årsoppgjør for både EPF og aksjeselskap? 
+label Hva er prisen på årsoppgjør for EPF og Aksje selskap?
+text Hvor mye må man betale for årsoppgjør for et EPF og et aksjeselskap? 
+label Hva er prisen på årsoppgjør for EPF og Aksje selskap?
+text Hva er kostnaden for årsoppgjør for et EPF og et aksjeselskap? 
+label Hva er prisen på årsoppgjør for EPF og Aksje selskap?
+text Hva må jeg betale for årsregnskapet til et EPF og et aksjeselskap? 
+label Hva er prisen på årsoppgjør for EPF og Aksje selskap?
+text Kan du oppgi prisen på årsregnskap for både EPF og aksjeselskap? 
+label Hva er prisen på årsoppgjør for EPF og Aksje selskap?
+text Hva kreves i betaling for årsoppgjør av EPF og aksjeselskap? 
+label Hva er prisen på årsoppgjør for EPF og Aksje selskap?
+text Kan du forklare hva som skiller regnskapsføring fra revisjon? 
+label Hva er forskjellen mellom regnskapsføring og revisjon?
+text Hva skiller arbeidet med regnskapsføring fra gjennomføringen av revisjon? 
+label Hva er forskjellen mellom regnskapsføring og revisjon?
+text Hva er de viktigste forskjellene mellom å føre regnskap og å utføre revisjon? 
+label Hva er forskjellen mellom regnskapsføring og revisjon?
+text Hvordan varierer oppgavene innen regnskapsføring fra de innen revisjon? 
+label Hva er forskjellen mellom regnskapsføring og revisjon?
+text Kan du opplyse om hovedforskjellene mellom regnskapsføring og revisjon? 
+label Hva er forskjellen mellom regnskapsføring og revisjon?
+text Hvilke særtrekk skiller regnskapsføring fra revisjon? 
+label Hva er forskjellen mellom regnskapsføring og revisjon?
+text Hvilke grunnleggende forskjeller finnes mellom regnskapsføring og revisjon? 
+label Hva er forskjellen mellom regnskapsføring og revisjon?
+text Er det slik at alle må føre regnskap? 
+label Har alle regnskapsplikt?
+text Er regnskapsføring et krav for enhver? 
+label Har alle regnskapsplikt?
+text Må hver enkelt føre regnskap? 
+label Har alle regnskapsplikt?
+text Er det regnskapsplikt for alle? 
+label Har alle regnskapsplikt?
+text Er alle underlagt plikten til å føre regnskap? 
+label Har alle regnskapsplikt?
+text Er det regnskapsplikt for enhver? 
+label Har alle regnskapsplikt?
+text Må alle holde regnskap? 
+label Har alle regnskapsplikt?
+text Kan du forklare hva plikten til å føre regnskap innebærer? 
+label Hva er bokføringsplikt?
+text Kunne du gi en beskrivelse av hva det innebærer å være bokføringspliktig? 
+label Hva er bokføringsplikt?
+text Hva innebærer det å ha bokføringsplikt? 
+label Hva er bokføringsplikt?
+text Hva betyr det å være underlagt bokføringsplikt? 
+label Hva er bokføringsplikt?
+text Hva innebærer det å føre bøker etter loven? 
+label Hva er bokføringsplikt?
+text Hva innebærer kravet til å bokføre økonomiske transaksjoner? 
+label Hva er bokføringsplikt?
+text Hvilke forpliktelser følger med å være bokføringspliktig? 
+label Hva er bokføringsplikt?
+text Er det mulig å få skattefradrag for hjemmekontor? 
+label Kan jeg trekke fra hjemmekontor på skatten?
+text Er det fradragsberettiget for hjemmekontor på selvangivelsen? 
+label Kan jeg trekke fra hjemmekontor på skatten?
+text Kan hjemmekontoret gi fradrag på skatten? 
+label Kan jeg trekke fra hjemmekontor på skatten?
+text Gir skattemyndighetene fradrag for bruk av hjemmekontor? 
+label Kan jeg trekke fra hjemmekontor på skatten?
+text Kan jeg få skattelette for kostnader til hjemmekontor? 
+label Kan jeg trekke fra hjemmekontor på skatten?
+text Kan utgifter til hjemmekontor trekkes fra på skatten? 
+label Kan jeg trekke fra hjemmekontor på skatten?
+text Er det lov å trekke fra utgifter til hjemmekontor på skatteoppgjøret? 
+label Kan jeg trekke fra hjemmekontor på skatten?
+text Kan du forklare forskjellen mellom en balanseoppstilling og et resultatregnskap? 
+label Hva er forskjellen på en balanse og et resultatregnskap?
+text Hvordan skiller et resultatregnskap seg fra en balanse? 
+label Hva er forskjellen på en balanse og et resultatregnskap?
+text Hva skiller en balanse fra et resultatregnskap? 
+label Hva er forskjellen på en balanse og et resultatregnskap?
+text Hvilke ulikheter finner vi mellom balansen og resultatregnskapet? 
+label Hva er forskjellen på en balanse og et resultatregnskap?
+text Hva distinguerer en balanse fra et resultatregnskap? 
+label Hva er forskjellen på en balanse og et resultatregnskap?
+text Kan du si hva som gjør en balanse forskjellig fra et resultatregnskap? 
+label Hva er forskjellen på en balanse og et resultatregnskap?
+text Hvordan er en balanse ulik et resultatregnskap? 
+label Hva er forskjellen på en balanse og et resultatregnskap?
+text Hva er metoden for å utregne skatten for mitt enkeltpersonforetak? 
+label Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+text Kan du forklare hvordan jeg skal regne ut skatten for mitt enkeltpersonforetak? 
+label Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+text Hvordan finner jeg ut hva jeg skal betale i skatt for mitt enkeltpersonforetak? 
+label Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+text Hvilke steg følger jeg for å kalkulere skatten i mitt enkeltpersonforetak? 
+label Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+text Hvordan går jeg frem for å beregne skatten for mitt enkeltpersonforetak? 
+label Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+text Hva er prosedyren for å beregne skatten for mitt enkeltpersonforetak? 
+label Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+text Kan du vise meg hvordan jeg beregner skatten for mitt enkeltpersonforetak? 
+label Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+text Må man ha revisor for regnskapet? 
+label Er det obligatorisk med revisor?
+text Er revisjon et krav for bedriften? 
+label Er det obligatorisk med revisor?
+text Er det påkrevd å bruke revisor? 
+label Er det obligatorisk med revisor?
+text Er det nødvendig å ansette en revisor? 
+label Er det obligatorisk med revisor?
+text Er det lovpålagt å engasjere en revisor? 
+label Er det obligatorisk med revisor?
+text Er det et krav å ha revisor? 
+label Er det obligatorisk med revisor?
+text Er det obligatorisk å ha revisor for bedriften? 
+label Er det obligatorisk med revisor?
+text Kan du fortelle meg når dere er åpne? 
+label Hva er åpningstidene deres?
+text Når holder dere åpent? 
+label Hva er åpningstidene deres?
+text Hvilke tider er dere åpne? 
+label Hva er åpningstidene deres?
+text Når kan jeg besøke dere? 
+label Hva er åpningstidene deres?
+text Når stenger dere for dagen? 
+label Hva er åpningstidene deres?
+text Hvilke timer er butikken tilgjengelig? 
+label Hva er åpningstidene deres?
+text Kunne du opplyse om deres åpningstider? 
+label Hva er åpningstidene deres?
+text Kan jeg få hjelp til å fylle ut selvangivelsen hos dere? 
+label Tilbyr dere bistand med selvangivelsen?
+text Assisterer dere med utfylling av selvangivelse? 
+label Tilbyr dere bistand med selvangivelsen?
+text Er det mulig å få støtte til selvangivelsen hos dere? 
+label Tilbyr dere bistand med selvangivelsen?
+text Gir dere veiledning i forbindelse med selvangivelsen? 
+label Tilbyr dere bistand med selvangivelsen?
+text Yter dere assistanse med selvangivelsen? 
+label Tilbyr dere bistand med selvangivelsen?
+text Har dere tjenester for hjelp med selvangivelsen? 
+label Tilbyr dere bistand med selvangivelsen?
+text Kan dere hjelpe meg med selvangivelsen? 
+label Tilbyr dere bistand med selvangivelsen?
+text Er det mulig for dere å assistere med lønnsarbeid? 
+label Kan dere hjelpe til med lønnstjenester?
+text Kunne dere bistå med lønnstjenester? 
+label Kan dere hjelpe til med lønnstjenester?
+text Er dere i stand til å tilby hjelp med lønnstjenester? 
+label Kan dere hjelpe til med lønnstjenester?
+text Kan dere assistere oss med lønnstjenester? 
+label Kan dere hjelpe til med lønnstjenester?
+text Er det aktuelt for dere å støtte oss med lønnstjenester? 
+label Kan dere hjelpe til med lønnstjenester?
+text Er det mulig å få deres hjelp til lønnstjenester? 
+label Kan dere hjelpe til med lønnstjenester?
+text Er dere i stand til å hjelpe med lønnstjenester? 
+label Kan dere hjelpe til med lønnstjenester?
+text Kan du fortelle meg plasseringen av deres kontor? 
+label Hvor er kontoret deres lokalisert?
+text Hvor holder firmaet deres til? 
+label Hvor er kontoret deres lokalisert?
+text Hva er adressen til deres kontor? 
+label Hvor er kontoret deres lokalisert?
+text Hvilken lokasjon har deres kontor? 
+label Hvor er kontoret deres lokalisert?
+text Hvor finner jeg kontoret deres? 
+label Hvor er kontoret deres lokalisert?
+text Hvor ligger deres kontor? 
+label Hvor er kontoret deres lokalisert?
+text Kan du oppgi hvor kontoret deres befinner seg? 
+label Hvor er kontoret deres lokalisert?
+text Er rådgivningstjenester for småbedrifter noe dere tilbyr? 
+label Tilbyr dere rådgivning for småbedrifter?
+text Har dere rådgivingstilbud for småbedrifter? 
+label Tilbyr dere rådgivning for småbedrifter?
+text Yter dere bistand til småbedrifter? 
+label Tilbyr dere rådgivning for småbedrifter?
+text Hjelper dere småbedrifter med rådgivning? 
+label Tilbyr dere rådgivning for småbedrifter?
+text Har dere tjenester for rådgivning til småbedrifter? 
+label Tilbyr dere rådgivning for småbedrifter?
+text Finnes det rådgivningsmuligheter hos dere for småbedrifter? 
+label Tilbyr dere rådgivning for småbedrifter?
+text Er småbedrifter en gruppe dere gir råd til? 
+label Tilbyr dere rådgivning for småbedrifter?
+text Hvordan går jeg frem for å reservere en time? 
+label Hvordan kan jeg bestille en konsultasjon?
+text Hva er fremgangsmåten for å skaffe en konsultasjonstime? 
+label Hvordan kan jeg bestille en konsultasjon?
+text Hva skal jeg gjøre for å bestille en konsultasjon? 
+label Hvordan kan jeg bestille en konsultasjon?
+text Hva må jeg gjøre for å avtale en konsultasjon? 
+label Hvordan kan jeg bestille en konsultasjon?
+text Hvordan kan jeg avtale en time til konsultasjon? 
+label Hvordan kan jeg bestille en konsultasjon?
+text Hvordan kan jeg få satt opp en konsultasjon? 
+label Hvordan kan jeg bestille en konsultasjon?
+text Kan du fortelle meg hvordan jeg bestiller en konsultasjon? 
+label Hvordan kan jeg bestille en konsultasjon?
+text Har dere erfaring innen internasjonal skatterådgivning? 
+label Er dere erfarne med internasjonal skatterådgivning?
+text Har dere kompetanse på skatteveiledning i et internasjonalt perspektiv? 
+label Er dere erfarne med internasjonal skatterådgivning?
+text Har dere kunnskap om skatterådgivning på tvers av landegrenser? 
+label Er dere erfarne med internasjonal skatterådgivning?
+text Besitter dere ekspertise i internasjonal skatterådgivning? 
+label Er dere erfarne med internasjonal skatterådgivning?
+text Har dere praktisert innenfor internasjonal skatterådgivning? 
+label Er dere erfarne med internasjonal skatterådgivning?
+text Har dere innsikt i skatteråd over landegrensene? 
+label Er dere erfarne med internasjonal skatterådgivning?
+text Er dere dyktige i å gi råd om skatter internasjonalt? 
+label Er dere erfarne med internasjonal skatterådgivning?
+text Kan jeg få tilgang til deres tjenester for digitalt regnskap? 
+label Tilbyr dere digitale regnskapstjenester?
+text Er digitale regnskapstjenester noe dere tilbyr? 
+label Tilbyr dere digitale regnskapstjenester?
+text Har dere tjenester for digitalt regnskap? 
+label Tilbyr dere digitale regnskapstjenester?
+text Har dere mulighet til å levere digitale regnskapstjenester? 
+label Tilbyr dere digitale regnskapstjenester?
+text Leverer dere tjenester innen digital regnskapsføring? 
+label Tilbyr dere digitale regnskapstjenester?
+text Finnes det digitale regnskapstjenester hos dere? 
+label Tilbyr dere digitale regnskapstjenester?
+text Har dere digitale løsninger for regnskap? 
+label Tilbyr dere digitale regnskapstjenester?
+text Kan dere opplyse om hvilke tjenester firmaet deres leverer? 
+label Hvilke tjenester tilbyr deres firma?
+text Hvilket utvalg av tjenester leveres av deres selskap? 
+label Hvilke tjenester tilbyr deres firma?
+text Hva slags tjenester tilbyr bedriften deres? 
+label Hvilke tjenester tilbyr deres firma?
+text Kunne du fortelle hva slags tjenester bedriften deres tilbyr? 
+label Hvilke tjenester tilbyr deres firma?
+text Hva tilbyr selskapet deres av tjenester? 
+label Hvilke tjenester tilbyr deres firma?
+text Kan du liste opp tjenestene deres firma tilbyr? 
+label Hvilke tjenester tilbyr deres firma?
+text Hva inkluderer tjenestetilbudet deres? 
+label Hvilke tjenester tilbyr deres firma?
