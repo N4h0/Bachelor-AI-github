@@ -1,7 +1,6 @@
 This training data was made using the following prompt:
 Lag 1 setninger som er en omforumlering av følgende spørsmål: Her vil brukerspørsmålet komme.. Skriv korte setninger og bruk andre ord og skrivemåte. Spørsmålet kan IKKE være likt noen av disse spørsmålene: 
 
-
     Her vil listen av alle spørsmål som er blit stillt innenfor det nåverende spørsmålet komme.
 
 text Innen hvilken dato må merverdiavgiften sendes inn? 

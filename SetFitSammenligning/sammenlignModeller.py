@@ -17,7 +17,7 @@ _______________________________Initiallierer greier_____________________________
 
 modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.co/NbAiLab/nb-sbert-base
 modell = SentenceTransformer(modellnavn) #Instansierer BERT modellen . https://huggingface.co/docs/transformers/main_classes/model
-modell2 = SetFitModel.from_pretrained("modeller/alpha10")
+modell2 = SetFitModel.from_pretrained("modeller/alpha11")
 
 
 # Laste jsonfila med alle encoda spørsmål

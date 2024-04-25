@@ -1,9 +1,81 @@
-23 av 270 av spørringer ga feil resultat ved bruk av utrent modell. 17 av 270 av spørringer ga feil resultat ved bruk av trent modell.
-Unquique to default model: [16, 29, 140, 144, 262, 268]
-Unquique to trained model: []
-Common to both: [218, 225, 235, 236, 237, 238, 239, 240, 241, 242, 243, 253, 263, 264, 266, 269, 270]
+23 av 270 av spørringer ga feil resultat ved bruk av utrent modell. 31 av 270 av spørringer ga feil resultat ved bruk av trent modell.
+Unquique to default model: [16, 29, 140, 144]
+Unquique to trained model: [202, 204, 206, 217, 219, 220, 221, 222, 223, 224, 265, 267]
+Common to both: [218, 225, 235, 236, 237, 238, 239, 240, 241, 242, 243, 253, 262, 263, 264, 266, 268, 269, 270]
 
 _____Feil unike til trent modell_____
+
+Spørringsnummer: 202, 
+Inquiry: Kan dere hjelpe meg med å fylle ut skattemeldingen?
+Løsning: Hva er fristen på innsending av skattemelding?
+Fasit: Tilbyr dere bistand med selvangivelsen?
+Score:0.6966350732066127
+
+Spørringsnummer: 204, 
+Inquiry: Kan dere hjelpe meg med å fylle ut skattemeldingen?
+Løsning: Hva er fristen på innsending av skattemelding?
+Fasit: Tilbyr dere bistand med selvangivelsen?
+Score:0.6966350732066127
+
+Spørringsnummer: 206, 
+Inquiry: Kan dere hjelpe meg med å fylle ut skattemeldingen?
+Løsning: Hva er fristen på innsending av skattemelding?
+Fasit: Tilbyr dere bistand med selvangivelsen?
+Score:0.6966350732066127
+
+Spørringsnummer: 217, 
+Inquiry: Kan du fortelle meg hvor regnskapsfirmaet deres holder til?
+Løsning: Hva er åpningstidene deres?
+Fasit: Hvor er kontoret deres lokalisert?
+Score:0.6817467759163227
+
+Spørringsnummer: 219, 
+Inquiry: Kan du fortelle meg hvor regnskapsfirmaet deres ligger?
+Løsning: Hva er åpningstidene deres?
+Fasit: Hvor er kontoret deres lokalisert?
+Score:0.670540674906096
+
+Spørringsnummer: 220, 
+Inquiry: Kan jeg få vite hvor regnskapsfirmaet deres er plassert?
+Løsning: Hva er åpningstidene deres?
+Fasit: Hvor er kontoret deres lokalisert?
+Score:0.69562648209776
+
+Spørringsnummer: 221, 
+Inquiry: Kan du fortelle meg hvor regnskapsfirmaet deres er plassert?
+Løsning: Hva er åpningstidene deres?
+Fasit: Hvor er kontoret deres lokalisert?
+Score:0.6682696257952947
+
+Spørringsnummer: 222, 
+Inquiry: Kan jeg få informasjon om hvor regnskapsfirmaet deres holder til?
+Løsning: Hva er åpningstidene deres?
+Fasit: Hvor er kontoret deres lokalisert?
+Score:0.6958155175752629
+
+Spørringsnummer: 223, 
+Inquiry: Kan du gi meg informasjon om hvor regnskapsfirmaet deres holder til?
+Løsning: Hva er åpningstidene deres?
+Fasit: Hvor er kontoret deres lokalisert?
+Score:0.6735721282295178
+
+Spørringsnummer: 224, 
+Inquiry: Kan du fortelle meg hvor regnskapsfirmaet deres holder til?
+Løsning: Hva er åpningstidene deres?
+Fasit: Hvor er kontoret deres lokalisert?
+Score:0.6817467759163227
+
+Spørringsnummer: 265, 
+Inquiry: Kan du fortelle meg hva slags tjenester regnskapsfirmaet deres tilbyr?
+Løsning: Hva er åpningstidene deres?
+Fasit: Hvilke tjenester tilbyr deres firma?
+Score:0.7237411593886369
+
+Spørringsnummer: 267, 
+Inquiry: Kan du fortelle meg om de ulike tjenestene regnskapsfirmaet deres tilbyr?
+Løsning: Hva er åpningstidene deres?
+Fasit: Hvilke tjenester tilbyr deres firma?
+Score:0.6546212055085385
 
 _____Feil unike til utrent modell_____
 
@@ -31,18 +103,6 @@ Løsning: Er det obligatorisk med revisor?
 Fasit: Har alle regnskapsplikt?
 Score:0.7944472171672043
 
-Spørringsnummer: 262, 
-Inquiry: Kan du gi meg en oversikt over hvilke tjenester deres regnskapsfirma tilbyr?
-Løsning: Hva er åpningstidene deres?
-Fasit: Hvilke tjenester tilbyr deres firma?
-Score:0.7684107492526555
-
-Spørringsnummer: 268, 
-Inquiry: Kan du gi meg informasjon om de forskjellige tjenestene regnskapsfirmaet deres tilbyr?
-Løsning: Hva er åpningstidene deres?
-Fasit: Hvilke tjenester tilbyr deres firma?
-Score:0.7056804315818814
-
 _____Feil felles for begge modellene_____
 
 Spørringsnummer: 218, 
@@ -51,7 +111,7 @@ DefaultLøsning: Hva er åpningstidene deres?
 TrainedLøsning: Hva er åpningstidene deres?
 Fasit: Hvor er kontoret deres lokalisert?
 DefaultScore: 0.7704932607531876
-TrainedScore: 0.7852207838979095
+TrainedScore: 0.7440810686243606
 
 Spørringsnummer: 225, 
 Inquiry: Kan du gi meg informasjon om beliggenheten til regnskapsfirmaet deres?
@@ -59,7 +119,7 @@ DefaultLøsning: Hva er åpningstidene deres?
 TrainedLøsning: Hva er åpningstidene deres?
 Fasit: Hvor er kontoret deres lokalisert?
 DefaultScore: 0.7351556450439551
-TrainedScore: 0.8097260303047817
+TrainedScore: 0.670540674906096
 
 Spørringsnummer: 235, 
 Inquiry: Hvordan går jeg frem for å avtale en konsultasjon med regnskapsfirmaet?
@@ -67,7 +127,7 @@ DefaultLøsning: Hva er åpningstidene deres?
 TrainedLøsning: Hva er åpningstidene deres?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
 DefaultScore: 0.7766374106791987
-TrainedScore: 0.7644330421965811
+TrainedScore: 0.69562648209776
 
 Spørringsnummer: 236, 
 Inquiry: Hvordan kan jeg avtale en konsultasjon med regnskapsfirmaet?
@@ -75,7 +135,7 @@ DefaultLøsning: Hva er åpningstidene deres?
 TrainedLøsning: Hva er åpningstidene deres?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
 DefaultScore: 0.803186510996055
-TrainedScore: 0.7740836817973384
+TrainedScore: 0.6682696257952947
 
 Spørringsnummer: 237, 
 Inquiry: Hvordan kan jeg få en avtale for en konsultasjon med regnskapsfirmaet?
@@ -83,7 +143,7 @@ DefaultLøsning: Hva er åpningstidene deres?
 TrainedLøsning: Hva er åpningstidene deres?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
 DefaultScore: 0.7899051309650287
-TrainedScore: 0.5573787280465234
+TrainedScore: 0.6958155175752629
 
 Spørringsnummer: 238, 
 Inquiry: Hvordan kan jeg avtale en konsultasjon med regnskapsfirmaet?
@@ -91,7 +151,7 @@ DefaultLøsning: Hva er åpningstidene deres?
 TrainedLøsning: Hva er åpningstidene deres?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
 DefaultScore: 0.803186510996055
-TrainedScore: 0.6642943203578778
+TrainedScore: 0.6735721282295178
 
 Spørringsnummer: 239, 
 Inquiry: Hvordan går jeg frem for å avtale en konsultasjon med regnskapsfirmaet?
@@ -99,15 +159,15 @@ DefaultLøsning: Hva er åpningstidene deres?
 TrainedLøsning: Hva er åpningstidene deres?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
 DefaultScore: 0.7766374106791987
-TrainedScore: 0.613926602460253
+TrainedScore: 0.6817467759163227
 
 Spørringsnummer: 240, 
 Inquiry: Hvordan kan jeg avtale et møte med regnskapsfirmaet for konsultasjon?
 DefaultLøsning: Hva er åpningstidene deres?
-TrainedLøsning: Hvordan kan jeg bestille en konsultasjon?
+TrainedLøsning: Hva er åpningstidene deres?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
 DefaultScore: 0.7903072620232485
-TrainedScore: 0.2304222798424436
+TrainedScore: 0.6798110537937584
 
 Spørringsnummer: 241, 
 Inquiry: Hvordan kan jeg planlegge en avtale for å diskutere mine regnskapsbehov?
@@ -115,7 +175,7 @@ DefaultLøsning: Hva er åpningstidene deres?
 TrainedLøsning: Hva er åpningstidene deres?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
 DefaultScore: 0.6571146481524343
-TrainedScore: 0.635281072899798
+TrainedScore: 0.7311278938030019
 
 Spørringsnummer: 242, 
 Inquiry: Hvordan kan jeg avtale en time for å få råd om mine regnskapsbehov?
@@ -123,7 +183,7 @@ DefaultLøsning: Hva er åpningstidene deres?
 TrainedLøsning: Hva er åpningstidene deres?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
 DefaultScore: 0.73474895194532
-TrainedScore: 0.6715629219085784
+TrainedScore: 0.7538716246054256
 
 Spørringsnummer: 243, 
 Inquiry: Hvordan kan jeg få en avtale for å diskutere mine regnskapsbehov?
@@ -131,7 +191,7 @@ DefaultLøsning: Hva er åpningstidene deres?
 TrainedLøsning: Hva er åpningstidene deres?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
 DefaultScore: 0.6921676502437342
-TrainedScore: 0.7211767614074764
+TrainedScore: 0.744465777430583
 
 Spørringsnummer: 253, 
 Inquiry: 
@@ -139,5 +199,61 @@ DefaultLøsning: Hvordan kan jeg bestille en konsultasjon?
 TrainedLøsning: Hva er åpningstidene deres?
 Fasit: Tilbyr dere digitale regnskapstjenester?
 DefaultScore: 0.2567238417383167
-TrainedScore: 0.6914745181167952
+TrainedScore: 0.7538716246054256
+
+Spørringsnummer: 262, 
+Inquiry: Kan du gi meg en oversikt over hvilke tjenester deres regnskapsfirma tilbyr?
+DefaultLøsning: Hva er åpningstidene deres?
+TrainedLøsning: Hva er åpningstidene deres?
+Fasit: Hvilke tjenester tilbyr deres firma?
+DefaultScore: 0.7684107492526555
+TrainedScore: 0.7311278938030019
+
+Spørringsnummer: 263, 
+Inquiry: Jeg vil gjerne vite mer om hvilke tjenester dere tilbyr som regnskapsfirma. Kan du gi meg en oversikt over dette?
+DefaultLøsning: Hva er åpningstidene deres?
+TrainedLøsning: Hva er åpningstidene deres?
+Fasit: Hvilke tjenester tilbyr deres firma?
+DefaultScore: 0.7412538207009891
+TrainedScore: 0.7403532760489197
+
+Spørringsnummer: 264, 
+Inquiry: Kan du gi meg en oversikt over tjenestene deres som regnskapsfirma?
+DefaultLøsning: Hva er åpningstidene deres?
+TrainedLøsning: Har alle regnskapsplikt?
+Fasit: Hvilke tjenester tilbyr deres firma?
+DefaultScore: 0.7399390121390983
+TrainedScore: 0.6511456108796989
+
+Spørringsnummer: 266, 
+Inquiry: Kan du gi meg informasjon om hvilke tjenester regnskapsfirmaet deres tilbyr?
+DefaultLøsning: Hva er åpningstidene deres?
+TrainedLøsning: Hva er åpningstidene deres?
+Fasit: Hvilke tjenester tilbyr deres firma?
+DefaultScore: 0.7939611978879096
+TrainedScore: 0.7477761182562845
+
+Spørringsnummer: 268, 
+Inquiry: Kan du gi meg informasjon om de forskjellige tjenestene regnskapsfirmaet deres tilbyr?
+DefaultLøsning: Hva er åpningstidene deres?
+TrainedLøsning: Har alle regnskapsplikt?
+Fasit: Hvilke tjenester tilbyr deres firma?
+DefaultScore: 0.7056804315818814
+TrainedScore: 0.6514114205572715
+
+Spørringsnummer: 269, 
+Inquiry: Kan du fortelle meg hva slags tjenester regnskapsfirmaet ditt tilbyr?
+DefaultLøsning: Hva er åpningstidene deres?
+TrainedLøsning: Hvordan kan jeg bestille en konsultasjon?
+Fasit: Hvilke tjenester tilbyr deres firma?
+DefaultScore: 0.765868772143227
+TrainedScore: 0.2838861625760789
+
+Spørringsnummer: 270, 
+Inquiry: Kan du gi meg informasjon om tjenestene regnskapsfirmaet ditt tilbyr?
+DefaultLøsning: Hva er åpningstidene deres?
+TrainedLøsning: Hva er åpningstidene deres?
+Fasit: Hvilke tjenester tilbyr deres firma?
+DefaultScore: 0.7955825253216895
+TrainedScore: 0.7130088841313487
 

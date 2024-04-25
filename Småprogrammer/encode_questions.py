@@ -5,7 +5,7 @@ from setfit import SetFitModel #For å kunne teste med en modell treng med setFi
 
 model_name = "NbAiLab/nb-sbert-base"
 model = SentenceTransformer(model_name)
-model2 = SetFitModel.from_pretrained("modeller/alpha10")
+model2 = SetFitModel.from_pretrained("modeller/alpha11")
 
 spørsmål = []
 sublist = []
