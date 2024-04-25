@@ -18,7 +18,7 @@ from torch.utils.data import DataLoader
 model_name = "NbAiLab/nb-sbert-base"
 utgangsmodell = SentenceTransformer(model_name)
 
-data_path = 'TrenModell/Treningsdata/alpha11.txt'
+data_path = 'TrenModell/Treningsdata/alpha12.txt'
 Text= []
 Labels = []
 
@@ -57,4 +57,4 @@ utgangsmodell.fit(train_objectives=[(train_dataloaderB, loss_function)],
           epochs=num_epochsB,
           warmup_steps=warmup_stepsB) 
 
-utgangsmodell.save("modeller/alpha11") #https://discuss.huggingface.co/t/how-to-save-my-model-to-use-it-later/20568
+utgangsmodell.save("modeller/alpha12") #https://discuss.huggingface.co/t/how-to-save-my-model-to-use-it-later/20568

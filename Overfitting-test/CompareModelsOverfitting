@@ -13,7 +13,7 @@ import random
 
 
 sbert = SentenceTransformer("NbAiLab/nb-sbert-base")
-alpha6 = SetFitModel.from_pretrained("modeller/alpha6")
+fineTunedModel = SetFitModel.from_pretrained("modeller/alpha12")
 
 '''
 _______________________________Formater spørsmål med modellen_______________________________
@@ -26,7 +26,7 @@ with open('txtandCSV-files/randomquestions.txt', 'r', encoding='utf-8') as file:
         if line.startswith('Q:'):
             randomquestions.append(line[3:].strip())  # henter ut alle linjer son starter på q, og tek ut alt frå og med tegn 3. strip fjerner lange mellomrom og linjeskift.
 
-embeddings_alpha6 = alpha6.encode(randomquestions)
+embeddingsFineTuned = fineTunedModel.encode(randomquestions)
 embeddings_sbert = sbert.encode(randomquestions)
 
 CoSim1 = []  # Sber
@@ -41,8 +41,8 @@ for i in range(len(randomquestions)):
 #"Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample."
     emb1_sbert = embeddings_sbert[i].reshape(1, -1)
     emb2_sbert = embeddings_sbert[j].reshape(1, -1)
-    emb1_alpha6 = embeddings_alpha6[i].reshape(1, -1)
-    emb2_alpha6 = embeddings_alpha6[j].reshape(1, -1)
+    emb1_alpha6 = embeddingsFineTuned[i].reshape(1, -1)
+    emb2_alpha6 = embeddingsFineTuned[j].reshape(1, -1)
 
     # Calculate cosine similarity and append the result
     cos_sim_sbert = cosine_similarity(emb1_sbert, emb2_sbert)[0][0]
