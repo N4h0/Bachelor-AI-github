@@ -5,7 +5,7 @@ import re
 
 question = "*Her skal spørsmålet som skal omformuleres komme*"
 
-prompt =    f"""Lag 10 setninger som er en omforumlering av følgende spørsmål: {question}. Spørsmålene skal brukes til å trene en AI-modell."""
+prompt =    f"""Lag 25 setninger som er en omforumlering av følgende spørsmål: {question}. Spørsmålene skal brukes til å trene en AI-modell."""
 
 reformulted_list = []
 
@@ -19,7 +19,7 @@ def clean_string(s):
     return s
 
 #Gjerne bruk dene linja for å beskrive treningsdata
-with open('TrenModell/Treningsdata/alpha12.txt', 'w', encoding='utf-8') as file:
+with open('TrenModell/Treningsdata/alpha15.txt', 'w', encoding='utf-8') as file:
     file.write("Denne treningsdataen var laget ved å bruke følgende prompt:\n")
     file.write(prompt)
     file.write("\n\n")
@@ -42,7 +42,7 @@ for question in questions:
     spørsmålsliste = ""
     message = [
                 {"role": "user", "content": f"""
-Lag 20 setninger som er omformuleringer av følgende spørsmål: {question}. Spørsmålene skal brukes til å trene en AI-modell.
+Lag 25 setninger som er omformuleringer av følgende spørsmål: {question}. Spørsmålene skal brukes til å trene en AI-modell.
 """}
     ]
     stream = client.chat.completions.create(
@@ -58,15 +58,18 @@ Lag 20 setninger som er omformuleringer av følgende spørsmål: {question}. Sp�
         content = chunk.choices[0].delta.content
         if content:
             spørsmålsliste += content 
+            
+    """__________Formatterer og lagrer data__________"""
     
-    #Fjern alle tall
+    #Fjern alle tall og punktim som kommer etter tall
     spørsmålsliste = re.sub(r'\d+|\.\s', '', spørsmålsliste)
-    #Formater outputtet med å legge til label og text. 
-    spørsmålsliste = ''.join(f"text {line}\nlabel {question}\n" for line in spørsmålsliste.splitlines() if line.strip())
+    #Formater outputtet med å legge til label og text.
+     
+    spørsmålsliste = ''.join(f"text. {line}\n" for line in (question + '\n' + spørsmålsliste).splitlines() if line.strip())
     #Legg til label-linje    
     #Etter hver linje det det står text må det være en linje der det bare står "Label".
     
-    with open('TrenModell/Treningsdata/alpha12.txt', 'a', encoding='utf-8') as file:
+    with open('TrenModell/Treningsdata/alpha15.txt', 'a', encoding='utf-8') as file:
         file.write(f"__________NYTT SPØRSMÅL: {question}__________\n")
         file.write(spørsmålsliste)
         file.write("\n\n")

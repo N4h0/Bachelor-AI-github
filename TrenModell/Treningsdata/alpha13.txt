@@ -1,0 +1,422 @@
+Denne treningsdataen var laget ved å bruke følgende prompt:
+Lag 10 setninger som er en omforumlering av følgende spørsmål: *Her skal spørsmålet som skal omformuleres komme*. Spørsmålene skal brukes til å trene en AI-modell.
+
+__________NYTT SPØRSMÅL: Hva er fristen på innsending av merverdiavgift?__________
+text. Hva er fristen på innsending av merverdiavgift?
+text. Når må merverdiavgiften sendes inn?
+text. Hva er innleveringsdatoen for merverdiavgift?
+text. Kan du oppgi innleveringsfristen for merverdiavgift?
+text. Hvilken dato må vi overholde for å sende inn merverdiavgiften?
+text. Hva er tidsfristen for innsending av merverdiavgift?
+text. Når er seneste dato for innlevering av merverdiavgiftsoppgaven?
+text. Hva er deadline for å rapportere merverdiavgift?
+text. Kan du fortelle meg siste frist for å sende inn merverdiavgift?
+text. Til hvilken dato må merverdiavgiften være innlevert?
+text. Når er det siste tidspunktet man kan sende inn merverdiavgiften?
+
+
+__________NYTT SPØRSMÅL: Hva er merverdiavgift (MVA)?__________
+text. Hva er merverdiavgift (MVA)?
+text. Kan du forklare hva merverdiavgift (MVA) er?
+text. Hva menes med begrepet merverdiavgift?
+text. Kunne du gi en definisjon av merverdiavgift?
+text. Hvordan definerer man merverdiavgift (MVA)?
+text. Hva representerer merverdiavgift i økonomiske termer?
+text. Kan du opplyse om hva MVA står for?
+text. På hvilken måte påvirker merverdiavgift prisingen av varer og tjenester?
+text. Hva innebærer det å beregne merverdiavgift på produkter og tjenester?
+text. Hva er prinsippene bak beregning av merverdiavgift?
+text. Hvordan kan man forstå konseptet med merverdiavgift (MVA)?
+
+
+__________NYTT SPØRSMÅL: Hva er fristen på innsending av skattemelding?__________
+text. Hva er fristen på innsending av skattemelding?
+text. Når må skattemeldingen leveres inn?
+text. Kan du fortelle meg siste frist for å sende inn skattemeldingen?
+text. Hva er deadline for innsending av skattemelding?
+text. Innen hvilken dato må skattemeldingen være innsendt?
+text. Vet du når fristen for å levere skattemeldingen er?
+text. Når løper fristen for å sende inn skattemeldingen ut?
+text. Hva er den siste mulige datoen for å levere skattemeldingen?
+text. Kan du opplyse om endelig frist for innsending av skattemelding?
+text. Hvilken dato er fristen satt for å sende inn skattemeldingen?
+text. På hvilken dag må vi senest ha sendt inn skattemeldingen?
+
+
+__________NYTT SPØRSMÅL: Hva er fristen for årsoppgjør?__________
+text. Hva er fristen for årsoppgjør?
+text. Når er den siste datoen man kan sende inn årsoppgjøret?
+text. Kan du fortelle meg hvilken dato årsoppgjøret må være levert innen?
+text. Hvilken frist gjelder for innsending av årsoppgjør?
+text. På hvilken dag utløper fristen for å levere årsoppgjør?
+text. Innen hvilken dato må årsoppgjøret være ferdigstilt?
+text. Hvilken er siste frist for å innsende årsoppgjøret?
+text. Kan du oppgi deadline for å levere årsoppgjør?
+text. Hva er cutoff-datoen for innsending av årsoppgjør?
+text. Når må jeg senest ha sendt inn årsoppgjøret?
+text. Hva er tidsfristen for å fullføre og levere årsoppgjøret?
+
+
+__________NYTT SPØRSMÅL: Hvordan registrerer jeg et enkeltpersonforetak?__________
+text. Hvordan registrerer jeg et enkeltpersonforetak?
+text. Kan du veilede meg i hvordan jeg går frem for å registrere et enkeltpersonforetak?
+text. Hva er prosessen for å melde inn et enkeltpersonforetak?
+text. På hvilken måte kan jeg registrere mitt enkeltpersonforetak?
+text. Hvordan skal jeg gå fram for å opprette et enkeltpersonforetak?
+text. Hva er stegene for å etablere et enkeltpersonforetak?
+text. Hvilke formaliteter må ivaretas ved registrering av et enkeltpersonforetak?
+text. Hvordan kan jeg formelt sett registrere et enkeltpersonforetak?
+text. Kan du forklare prosedyren for å registrere et enkeltpersonforetak?
+text. Hvilke dokumenter trenger jeg for å registrere et enkeltpersonforetak?
+text. Hvordan skal jeg utføre registreringen av et enkeltpersonforetak?
+
+
+__________NYTT SPØRSMÅL: Hvordan søker jeg om serveringsbevilling?__________
+text. Hvordan søker jeg om serveringsbevilling?
+text. Hvordan kan jeg gå fram for å få serveringsbevilling?
+text. Kan du guide meg gjennom prosessen for å søke serveringsbevilling?
+text. Hva er stegene for å søke om tillatelse til å servere alkohol?
+text. Hvordan sender jeg inn en søknad om serveringsbevilling?
+text. Hvilken prosedyre må jeg følge for å oppnå serveringsbevilling?
+text. Hva trenger jeg å gjøre for å søke om en bevilling for servering?
+text. Kan du forklare hvordan jeg søker om serveringsrettigheter?
+text. Hva er fremgangsmåten for å få godkjent en serveringsbevilling?
+text. Kunne du fortelle meg hvordan jeg skaffer serveringsbevilling?
+text. Hvilken prosess følger man for å få utstedt serveringsbevilling?
+
+
+__________NYTT SPØRSMÅL: Hvordan er søknad for etableringsprøve?__________
+text. Hvordan er søknad for etableringsprøve?
+text. Hvordan kan man søke om etableringsprøven?
+text. På hvilken måte foregår søknadsprosessen for etableringsprøven?
+text. Hva er prosedyren for å søke om å ta etableringsprøven?
+text. Kan du forklare prosessen for å registrere seg til etableringsprøven?
+text. Hvordan skal jeg gå frem for å melde meg på etableringsprøven?
+text. Hvilke steg må jeg følge for å søke om etableringsprøven?
+text. Hvordan utføres søknaden for å delta i etableringsprøven?
+text. Kan du beskrive hvordan man søker for å ta etableringsprøven?
+text. Hva må til for å få søkt om oppmelding til etableringsprøven?
+text. Hvilken metode brukes for å inngi søknad om etableringsprøven?
+
+
+__________NYTT SPØRSMÅL: Hvordan søker jeg om registrering av mva?__________
+text. Hvordan søker jeg om registrering av mva?
+text. Hvordan kan jeg registrere meg for merverdiavgift?
+text. Hva er prosessen for å søke om MVA-registrering?
+text. Hvilke steg må jeg følge for å bli MVA-registrert?
+text. Kan du forklare hvordan jeg søker om å bli registrert for mva?
+text. Hvilken fremgangsmåte bruker jeg for å registrere min virksomhet for merverdiavgift?
+text. Hva må til for å søke om mva-registrering?
+text. Hvordan går jeg frem for å registrere meg for mva?
+text. På hvilken måte kan jeg søke om registrering for merverdiavgift?
+text. Hva er prosedyren for å søke mva-registrering?
+text. Kan du veilede meg gjennom prosessen til å bli registrert for merverdiavgift?
+
+
+__________NYTT SPØRSMÅL: Hvordan utføres omsetningsoppgaven for alkohol?__________
+text. Hvordan utføres omsetningsoppgaven for alkohol?
+text. Kan du forklare prosessen for å fylle ut omsetningsoppgaven for alkohol?
+text. Hvilke steg må man følge for å rapportere omsetning av alkohol?
+text. På hvilken måte gjennomføres innrapporteringen av alkoholsalg?
+text. Hva er metodene for å utføre omsetningsoppgaven for alkohol?
+text. Hvilke krav stilles til utfylling av omsetningsoppgaven for alkohol?
+text. Hvordan skal man korrekt rapportere salg av alkohol i omsetningsoppgaven?
+text. Hvilken fremgangsmåte brukes for å registrere alkoholomsetning?
+text. Kan du guide meg gjennom prosedyren for å innsende omsetningsoppgave for alkohol?
+text. Hva innebærer prosessen med å dokumentere omsetning av alkohol?
+text. På hvilken måte kan jeg riktig fylle ut og levere omsetningsoppgaven for alkohol?
+
+
+__________NYTT SPØRSMÅL: Hva er fristen for å levere A-meldingen?__________
+text. Hva er fristen for å levere A-meldingen?
+text. Når er siste frist for innlevering av A-meldingen?
+text. Kan du fortelle meg hvilken dato A-meldingen må være levert innen?
+text. Hvilken tidsfrist gjelder for innsending av A-meldingen?
+text. Innen hvilken dato må vi sende inn A-meldingen?
+text. Hva er den siste dagen vi kan sende inn A-meldingen på?
+text. Når må A-meldingen være levert for å unngå forsinkelser?
+text. Hvilken dato er absolutt siste mulighet for å levere A-meldingen?
+text. Kan du opplyse om fristen for levering av A-meldingen?
+text. Hva er deadline for å sende inn A-meldingen?
+text. Når løper fristen for innsending av A-meldingen ut?
+
+
+__________NYTT SPØRSMÅL: Hva er timepris for bokføring?__________
+text. Hva er timepris for bokføring?
+text. Kan du oppgi hva timeprisen er for å utføre bokføring?
+text. Hva koster det per time å få utført bokføringstjenester?
+text. Hvilken pris tar dere for en times bokføringsarbeid?
+text. Kunne du informere meg om timeprisen deres for bokføring?
+text. Hva beløper timekostnaden seg til for bokføring hos dere?
+text. Kan du fortelle meg hva det koster for en time med bokføring?
+text. Hvor mye skal man betale per time for bokføringstjenester?
+text. Hva er den aktuelle timeprisen for å få gjort bokføring?
+text. Ber om info angående deres timepris på bokføringHvilken timepris tar dere for utførelse av bokføring?
+
+
+__________NYTT SPØRSMÅL: Hva er pris for registrering av enkeltpresonsforetak?__________
+text. Hva er pris for registrering av enkeltpresonsforetak?
+text. Hvor mye koster det å registrere et enkeltpersonsforetak?
+text. Hvilket beløp må man betale for å opprette et enkeltpersonsforetak?
+text. Hva er kostnaden for å etablere et enkeltpersonsforetak?
+text. Kan du fortelle meg registreringsavgiften for et enkeltpersonsforetak?
+text. Hva må jeg betale for å registrere mitt enkeltpersonsforetak?
+text. Hva er gebyret for å formalisere et enkeltpersonsforetak?
+text. Hvilken pris må en forvente ved opprettelse av et enkeltpersonsforetak?
+text. Hva er utgiftene til registrering av et enkeltpersonsforetak?
+text. Hvordan er prisstrukturen for å registrere et enkeltpersonsforetak?
+text. Hvilken sum påløper ved registrering av et enkeltpersonsforetak?
+
+
+__________NYTT SPØRSMÅL: Hva er pris for registrering av aksjeselskap?__________
+text. Hva er pris for registrering av aksjeselskap?
+text. Hvor mye koster det å registrere et aksjeselskap?
+text. Kan du fortelle meg registreringskostnaden for et aksjeselskap?
+text. Hva må man betale for å sette opp et aksjeselskap?
+text. Hvilket beløp må man ut med for å registrere et aksjeselskap?
+text. Hva er kostnaden forbundet med å registrere et nytt aksjeselskap?
+text. Hvor mye skal til for at et aksjeselskap blir registrert?
+text. Hvilken pris har registreringen av et aksjeselskap?
+text. Kan du opplyse om prisen for å etablere et aksjeselskap?
+text. Hva kreves økonomisk for å starte et aksjeselskap?
+text. Hvilken sum må dekkes for offisiell registrering av et aksjeselskap?
+
+
+__________NYTT SPØRSMÅL: Hva er prisen på årsoppgjør for EPF og Aksje selskap?__________
+text. Hva er prisen på årsoppgjør for EPF og Aksje selskap?
+text. Kan du fortelle hva det koster å gjennomføre et årsoppgjør for et EPF og et aksjeselskap?
+text. Hvor mye må man betale for å utføre årsoppgjør for både et EPF og et aksjeselskap?
+text. Hvilken pris må en forvente for et årsoppgjør for et enkeltpersonforetak og et aksjeselskap?
+text. Hva er kostnaden for å lage årsoppgjør for en EPF og et AS?
+text. Hva blir regningen for å få utført årsoppgjør for både EPF og aksjeselskap?
+text. Kan du oppgi prisen for årsoppgjørstjenester for et enkeltpersonforetak sammen med et aksjeselskap?
+text. Hva vil et årsoppgjør for et enkeltpersonforetak og et aksjeselskap koste meg?
+text. Jeg lurer på hva utgiften for å gjøre årsoppgjør for et EPF og et aksjeselskap er?
+text. Kunne du gi en prisindikasjon på årsoppgjør for både enkeltpersonforetak og aksjeselskap?
+text. Hva er den forventede kostnaden for å håndtere årsoppgjøret for både et enkeltpersonforetak og et aksjeselskap?
+
+
+__________NYTT SPØRSMÅL: Hva er forskjellen mellom regnskapsføring og revisjon?__________
+text. Hva er forskjellen mellom regnskapsføring og revisjon?
+text. Kan du forklare hvilke oppgaver som skiller regnskapsføring fra revisjon?
+text. Hvordan er regnskapsføring forskjellig fra revisjon i praksis?
+text. Hva er de primære forskjellene mellom en regnskapsfører og en revisor?
+text. På hvilke måter differensierer rollene til regnskapsføring og revisjon seg fra hverandre?
+text. Hvilke unike karakteristikker skiller regnskapsføring fra revisjon?
+text. I hvilke aspekter av finans differerer regnskapsføring fra revisjon?
+text. Kan du identifisere forskjellene i mål og metoder mellom regnskapsføring og revisjon?
+text. Hvordan varierer oppgavene og ansvarsområdene i regnskapsføring sammenlignet med revisjon?
+text. Hva er de distinkte funksjonene som adskiller revisjonsarbeid fra regnskapsarbeid?
+text. Hvordan definerer du forskjellen mellom regnskap og revisjon når du vurderer deres roller i finanssektoren?
+
+
+__________NYTT SPØRSMÅL: Har alle regnskapsplikt?__________
+text. Har alle regnskapsplikt?
+text. Må alle føre regnskap?
+text. Er det regnskapsplikt for alle?
+text. Gjelder regnskapsplikt for enhver virksomhet eller person?
+text. Er alle underlagt loven om å føre regnskap?
+text. Er det obligatorisk for alle å ha regnskapsfører?
+text. Trenger hver enkelt å opprettholde regnskap etter loven?
+text. Er det unntak fra regnskapsplikt, eller er det en generell regel for alle?
+text. Må alle bedrifter og privatpersoner følge regnskapsreglene?
+text. Er det et generelt krav om å føre regnskapsbøker for alle aktører i markedet?
+text. Er alle juridiske enheter pålagt å ha ordnet regnskap?
+
+
+__________NYTT SPØRSMÅL: Hva er bokføringsplikt?__________
+text. Hva er bokføringsplikt?
+text. Kan du forklare hva bokføringsplikt innebærer?
+text. Hvilke regler gjelder for bokføringsplikt?
+text. Hva innebærer det å være bokføringspliktig?
+text. Kunne du beskrive kravene til bokføringsplikt?
+text. Hvilke forpliktelser følger med bokføringsplikten?
+text. Hvem må følge bokføringsplikten og hva innebærer det?
+text. Hva sier loven om bokføringsplikt?
+text. Hvordan defineres bokføringsplikt i regnskapsloven?
+text. Hvilke kriterier bestemmer om jeg er bokføringspliktig?
+text. Kan du utdype hva det betyr å ha bokføringsplikt?
+
+
+__________NYTT SPØRSMÅL: Kan jeg trekke fra hjemmekontor på skatten?__________
+text. Kan jeg trekke fra hjemmekontor på skatten?
+text. Er det mulig å fradragsføre hjemmekontor ved beregning av skatt?
+text. Kan utgifter til hjemmekontor reduseres fra skattebeløpet mitt?
+text. Er det tillatt å gjøre fradrag for hjemmekontor på selvangivelsen?
+text. Har jeg anledning til å trekke fra kostnader til hjemmekontor på skatten?
+text. Finnes det fradragsmuligheter for bruk av hjemmekontor ved skatteoppgjøret?
+text. Kan jeg få skattefradrag for å ha hjemmekontor?
+text. Er det skattemessige fradrag for oppsetting av hjemmekontor?
+text. Kan jeg redusere skattebyrden min ved å deklarere hjemmekontor?
+text. Er utgifter til hjemmekontor akseptert som fradrag på selvangivelsen?
+text. Har jeg rett til skattefradrag for etablering av kontor i hjemmet mitt?
+
+
+__________NYTT SPØRSMÅL: Hva er forskjellen på en balanse og et resultatregnskap?__________
+text. Hva er forskjellen på en balanse og et resultatregnskap?
+text. Kan du forklare forskjellen mellom et resultatregnskap og en balanse?
+text. Hvordan skiller en balanse seg fra et resultatregnskap?
+text. Hva er de primære forskjellene mellom en balanse og et resultatregnskap?
+text. På hvilke måter er en balanse ulik et resultatregnskap?
+text. Kan du beskrive de distinkte forskjellene mellom et resultatregnskap og en balanse?
+text. Hvilke hovedelementer differensierer en balanse fra et resultatregnskap?
+text. Kunne du gi en oversikt over hva som skiller en balanse fra et resultatregnskap?
+text. Hva skiller en balanse fra et resultatregnskap i bedriftsregnskap?
+text. I hvilken grad er en balanse forskjellig fra et resultatregnskap?
+text. Hva er de unike karakteristikkene ved en balanse sammenlignet med et resultatregnskap?
+
+
+__________NYTT SPØRSMÅL: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?__________
+text. Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+text. Kan du forklare prosessen for å regne ut skatten på mitt enkeltpersonforetak?
+text. Hvilke steg involveres i beregningen av skatt for et enkeltpersonforetak?
+text. Hvordan kan jeg finne ut hva jeg skal betale i skatt for mitt enkeltpersonforetak?
+text. Er det en spesiell måte å kalkulere skatten jeg skylder fra mitt enkeltpersonforetak på?
+text. Hvordan skal jeg gå frem for å beregne skattebeløpet for mitt enkeltpersonforetak?
+text. Hvilken metode bruker jeg for å finne ut skatt for mitt enkeltpersonforetak?
+text. Kan du veilede meg gjennom skatteberegningen for et enkeltpersonforetak?
+text. Hva er den riktige fremgangsmåten for å kalkulere skatten for mitt enkeltpersonforetak?
+text. På hvilken måte kan jeg regne ut den nødvendige skatten for mitt enkeltpersonforetak?
+text. Hvordan utfører jeg en korrekt skatteberegning for mitt enkeltpersonforetak?
+
+
+__________NYTT SPØRSMÅL: Er det obligatorisk med revisor?__________
+text. Er det obligatorisk med revisor?
+text. Er det et krav å ha revisor?
+text. Må man ha revisor ifølge loven?
+text. Er det nødvendig å ansette revisor for alle bedrifter?
+text. Er revisor et obligatorisk krav for selskaper?
+text. Må alle bedrifter engasjere en revisor?
+text. Er det fastsatt i regelverket at vi må bruke revisor?
+text. Er det obligatorisk for alle virksomheter å ha revisor?
+text. Må jeg ha revisor for min bedrift?
+text. Er det en lovpålagt plikt å ansette en revisor?
+text. Er det uunngåelig å bruke revisor for selskapskontroll?
+
+
+__________NYTT SPØRSMÅL: Hva er åpningstidene deres?__________
+text. Hva er åpningstidene deres?
+text. Kan du fortelle meg når dere åpner og stenger?
+text. Hvilke tider er dere åpne?
+text. Kunne du opplyse om deres åpningstider?
+text. Jeg lurer på hva klokkeslettene for åpning og stenging er hos dere?
+text. Hva er deres driftstimer?
+text. Når på dagen begynner og avslutter dere deres åpningstid?
+text. Kan du gi meg informasjon om åpningstidene deres?
+text. Jeg ønsker å vite når jeg kan besøke dere, hva er åpningstidene?
+text. På hvilke tidspunkter er deres etablering åpen for besøkende?
+text. Jeg trenger å vite åpningstidene deres, kan du hjelpe meg med det?
+
+
+__________NYTT SPØRSMÅL: Tilbyr dere bistand med selvangivelsen?__________
+text. Tilbyr dere bistand med selvangivelsen?
+text. Kan dere hjelpe meg med å fylle ut selvangivelsen?
+text. Tilbyr deres tjenester assistanse i forbindelse med selvangivelsen?
+text. Har dere tilbud om hjelp til utfylling av selvangivelsen?
+text. Er det mulig å få støtte fra dere til selvangivelsesarbeidet?
+text. Inkluderer deres tjenester hjelp til selvangivelsen?
+text. Kan deres team assistere med utfylling av selvangivelsen?
+text. Er det hjelp å få hos dere når det gjelder selvangivelsen?
+text. Kan jeg få bistand fra dere i forbindelse med å fylle ut selvangivelsen?
+text. Tilbyr dere rådgivning relatert til utarbeidelsen av selvangivelsen?
+text. Finnes det muligheter for assistanse hos dere med selvangivelse?
+
+
+__________NYTT SPØRSMÅL: Kan dere hjelpe til med lønnstjenester?__________
+text. Kan dere hjelpe til med lønnstjenester?
+text. Er det mulig for dere å assistere med lønnstjenester?
+text. Kunne dere tilby hjelp innenfor lønnsadministrasjon?
+text. Har dere muligheten til å bistå med lønnstjenester?
+text. Er dere i stand til å tilby assistanse relatert til lønnsarbeid?
+text. Kan deres team støtte oss med lønnstjenester?
+text. Er dere i posisjon til å levere tjenester innen lønnsbehandling?
+text. Ville det vært mulig for dere å hjelpe oss med håndtering av lønn?
+text. Kan vi få bistand fra dere angående lønnstjenester?
+text. Er dere kapable til å håndtere våre lønnsbehov?
+text. Kan dere yte assistanse i forbindelse med utbetaling av lønninger?
+
+
+__________NYTT SPØRSMÅL: Hvor er kontoret deres lokalisert?__________
+text. Hvor er kontoret deres lokalisert?
+text. Kan du fortelle meg hvor jeg finner deres kontor?
+text. Hvor holder kontoret deres til?
+text. Kunne du oppgi lokasjonen til kontoret deres?
+text. Jeg lurer på hvor deres kontor befinner seg, kan du hjelpe meg?
+text. Hvilken adresse har deres kontor?
+text. Kan du informere meg om plasseringen av deres kontor?
+text. Jeg trenger å vite hvor kontoret deres er, kan du opplyse om det?
+text. Hvor kan jeg finne kontoret deres?
+text. Vennligst, hvor er kontoret deres plassert?
+text. Jeg ønsker å besøke deres kontor, hvor ligger det?
+
+
+__________NYTT SPØRSMÅL: Tilbyr dere rådgivning for småbedrifter?__________
+text. Tilbyr dere rådgivning for småbedrifter?
+text. Har dere rådgivningstjenester tilgjengelig for småbedrifter?
+text. Kan småbedrifter få tilgang til rådgivning hos dere?
+text. Er det mulig for småbedrifter å motta rådgivning gjennom deres tjenester?
+text. Tilbyr dere spesifikk veiledning for småbedriftseiere?
+text. Finnes det rådgivningsmuligheter for småbedrifter i deres tilbud?
+text. Kan dere tilby konsulenthjelp til småbedrifter?
+text. Har dere noen rådgivningstilbud som er rettet mot småbedrifter?
+text. Er småbedrifter en målgruppe for deres rådgivningstjenester?
+text. Kan min småbedrift dra nytte av rådgivningstjenester hos dere?
+text. Tilbys det støtte eller veiledning for småbedrifter i deres firma?
+
+
+__________NYTT SPØRSMÅL: Hvordan kan jeg bestille en konsultasjon?__________
+text. Hvordan kan jeg bestille en konsultasjon?
+text. På hvilken måte kan jeg avtale tid for en konsultasjon?
+text. Kan du veilede meg i hvordan jeg går frem for å bestille en konsultasjon?
+text. Hva er prosessen for å reservere en konsultasjonstime?
+text. Hvordan skal jeg registrere meg for en konsultasjon?
+text. Hvordan kan jeg arrangere en tid for konsultasjon?
+text. Kan du fortelle meg stegene for å booke en konsultasjon?
+text. Hvilken fremgangsmåte følger jeg for å sikre meg en konsultasjon?
+text. Hvordan melder jeg meg på for en konsultasjon?
+text. På hvilken måte kan jeg skaffe en avtale for konsultasjon?
+text. Hvordan kan jeg organisere en time for å få en konsultasjon?
+
+
+__________NYTT SPØRSMÅL: Er dere erfarne med internasjonal skatterådgivning?__________
+text. Er dere erfarne med internasjonal skatterådgivning?
+text. Har dere ekspertise innen internasjonal skatterådgivning?
+text. Kan dere tilby erfaring relatert til internasjonal skatterådgivning?
+text. Er internasjonal skatterådgivning en del av deres tjenesteportefølje?
+text. Har dere kunnskap om skatterådgivning på internasjonalt nivå?
+text. Har deres team erfaring med skatteproblemer i flere land?
+text. Besitter dere spesialisering innen rådgivning av internasjonal skatt?
+text. Kan dere demonstrere erfaring med skattespørsmål som krysser nasjonale grenser?
+text. Er dere kvalifiserte til å håndtere internasjonale skatterådgivningssaker?
+text. Har dere kapasitet til å gi råd om skatt i et internasjonalt perspektiv?
+text. Har dere utviklet ekspertise innen skattelovgivning for flere land?
+
+
+__________NYTT SPØRSMÅL: Tilbyr dere digitale regnskapstjenester?__________
+text. Tilbyr dere digitale regnskapstjenester?
+text. Har dere en tjeneste for digital regnskapsføring?
+text. Kan dere tilby elektroniske regnskapstjenester?
+text. Er digitale regnskapstjenester en del av deres serviceportefølje?
+text. Finnes det muligheter for å benytte seg av deres digitale regnskapsløsninger?
+text. Er det mulig å få utført regnskapstjenester elektronisk hos dere?
+text. Tilbyr dere noen form for digital regnskapshåndtering?
+text. Har dere tilrettelagt for elektronisk regnskapstjenester?
+text. Er elektronisk regnskapsføring en tjeneste dere tilbyr?
+text. Kan jeg benytte meg av deres digitale løsninger for regnskap?
+text. Tilbyr deres firma regnskapstjenester i digital format?
+
+
+__________NYTT SPØRSMÅL: Hvilke tjenester tilbyr deres firma?__________
+text. Hvilke tjenester tilbyr deres firma?
+text. Kunne du fortelle meg mer om hvilke tjenester deres selskap tilbyr?
+text. Jeg er interessert i å lære mer om tjenestene deres, hva tilbyr dere?
+text. Kan du liste opp de forskjellige tjenestene som firmaet ditt tilbyr?
+text. Hva slags tjenester er deres bedrift kjent for å levere?
+text. Jeg ønsker detaljert informasjon om tjenesteutvalget deresKan du hjelpe med dette?
+text. Kan du forklare hvilke spesifikke tjenester deres organisasjon tilbyr?
+text. Hvilke hovedtjenester leverer deres firma til kundene?
+text. Jeg lurer på hvilke tjenester dere tilbyrKunne du gå gjennom dem for meg?
+text. Er det mulig å få en oversikt over alle tjenestene deres selskap tilbyr?
+text. Hvordan kan deres firma assistere med sine tilbudte tjenester?
+
+

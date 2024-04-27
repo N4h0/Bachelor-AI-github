@@ -17,7 +17,7 @@ _______________________________Initiallierer greier_____________________________
 
 modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.co/NbAiLab/nb-sbert-base
 modell = SentenceTransformer(modellnavn) #Instansierer BERT modellen . https://huggingface.co/docs/transformers/main_classes/model
-modell2 = SetFitModel.from_pretrained("modeller/alpha12")
+modell2 = SetFitModel.from_pretrained("modeller/alpha15")
 
 
 # Laste jsonfila med alle encoda spørsmål
@@ -29,9 +29,9 @@ with open('txtandCSV-files/Q&A_embeddedetFitModel.json', 'r', encoding='utf-8') 
     jsonliste2 = json.load(file)
 
 #Overskrive filer me skal lagre data i.o+p\
-with open('results/comparisonresults.txt', 'w', encoding='utf-8') as file:
+with open('SetFitSammenligning/resultat/comparisonresults.txt', 'w', encoding='utf-8') as file:
     file.write("")
-with open('results/defaultmodelresults.txt', 'w', encoding='utf-8') as file:
+with open('SetFitSammenligning/resultat/defaultmodelresults.txt', 'w', encoding='utf-8') as file:
     file.write("")
 
 '''
@@ -176,7 +176,7 @@ for i, (question,question2) in enumerate(zip(encoded_user_questions,encoded_user
             lowestCorrectCoSim2 = max(similarity_scores2)
 
     #Lagrer resultatet i ei tekstfil
-    with open('results/defaultmodelresults.txt', 'a', encoding='utf-8') as file:
+    with open('SetFitSammenligning/resultat/defaultmodelresults.txt', 'a', encoding='utf-8') as file:
         file.write(f"""
             Spørsmål {i}
             Spørsmål generert: {inquiry}
@@ -185,7 +185,7 @@ for i, (question,question2) in enumerate(zip(encoded_user_questions,encoded_user
             CoSim-Score: {max(similarity_scores)}
             """)
         #Lagrer resultatet i ei tekstfil
-    with open('results/trainedmodelresults.txt', 'a', encoding='utf-8') as file:
+    with open('SetFitSammenligning/resultat/trainedmodelresults.txt', 'a', encoding='utf-8') as file:
         file.write(f"""
             Spørsmål {i}
             Spørsmål generert: {inquiry}
@@ -209,7 +209,7 @@ common_to_both = sporringsnummer_feilsvar & sporringsnummer_feilsvar2
 
 
 #Tekstfil som oppsummerer de viktiste resultatene når det gjelder sammenligning av modeller
-with open('results/comparisonresults.txt', 'w', encoding='utf-8') as file:
+with open('SetFitSammenligning/resultat/comparisonresults.txt', 'w', encoding='utf-8') as file:
     file.write(f"{str(len(feilsvar))} av {str(len(Resultat))} av spørringer ga feil resultat ved bruk av utrent modell. ")
     file.write(f"{str(len(feilsvar2))} av {str(len(Resultat2))} av spørringer ga feil resultat ved bruk av trent modell.\n")
     file.write(f"Unquique to default model: {sorted(unique_to_feilsvar)}\n")
@@ -247,7 +247,7 @@ with open('results/comparisonresults.txt', 'w', encoding='utf-8') as file:
             
 feilspørsmål = []    
 #Tekstfil som oppsummerer de viktiste resultatene innad i hver modell.
-with open('results/defaultmodelresultsummary.txt', 'w', encoding='utf-8') as file:
+with open('SetFitSammenligning/resultat/defaultmodelresultsummary.txt', 'w', encoding='utf-8') as file:
     file.write(f"{str(len(feilsvar))} av {str(len(Resultat))} av spørringer ga feil resultat. Dette gjaldt følgende spørringer: \n")
     for i, svar in enumerate(feilsvar):
         file.write(f"{str(svar['spørringsnummer'])}")
@@ -271,7 +271,7 @@ with open('results/defaultmodelresultsummary.txt', 'w', encoding='utf-8') as fil
             file.write(f"\nSimilarity Score: {svar['similarity_score']}")
             
 #Tekstfil som oppsummerer de viktiste resultatene innad i hver modell.
-with open('results/trainedmodelresultssummary.txt', 'w', encoding='utf-8') as file:
+with open('SetFitSammenligning/resultat/trainedmodelresultssummary.txt', 'w', encoding='utf-8') as file:
     file.write(f"{str(len(feilsvar2))} av {str(len(Resultat2))} av spørringer ga feil resultat. Dette gjaldt følgende spørringer: \n")
     for i, svar in enumerate(feilsvar2):
         file.write(f"{str(svar['spørringsnummer'])}")
@@ -321,7 +321,7 @@ axs[2].set_title('Sammenligning av CoSim for alle resultat')
 axs[2].set_ylabel('Cosine Similarity')
 
 plt.tight_layout()
-plt.savefig("SetFitSammenligning/boxplots")
+plt.savefig("SetFitSammenligning/figurer/boxplots")
 
 #Histogram
 fig, axs = plt.subplots(2, 1, figsize=(10, 12))
@@ -340,7 +340,7 @@ axs[1].set_ylabel('Frekvens')
 axs[1].legend()
 
 plt.tight_layout()
-plt.savefig("SetFitSammenligning/histogram")
+plt.savefig("SetFitSammenligning/figurer/histogram")
 
 #CDF https://en.wikipedia.org/wiki/Cumulative_distribution_function
 fig, ax = plt.subplots(figsize=(10, 6))
@@ -352,7 +352,7 @@ ax.set_title('CDF-plot som viser CoSim-verdier')
 ax.set_xlabel('Cosine Similarity')
 ax.set_ylabel('Frekvens')
 ax.legend()
-plt.savefig("SetFitSammenligning/CDF")
+plt.savefig("SetFitSammenligning/figurer/CDF")
 
 #Scatterplot
 plt.figure(figsize=(10, 6))
@@ -364,7 +364,7 @@ plt.title('Scatterplot som viser CoSim-verdier')
 plt.xlabel('Index')
 plt.ylabel('Cosine Similarity')
 plt.legend()
-plt.savefig("SetFitSammenligning/scatterplot")
+plt.savefig("SetFitSammenligning/figurer/scatterplot")
 
 
 average_all_scores = sum(all_scores) / len(all_scores)

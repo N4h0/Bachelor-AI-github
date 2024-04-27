@@ -13,7 +13,7 @@ import random
 
 
 sbert = SentenceTransformer("NbAiLab/nb-sbert-base")
-fineTunedModel = SetFitModel.from_pretrained("modeller/alpha12")
+fineTunedModel = SetFitModel.from_pretrained("modeller/alpha13")
 
 '''
 _______________________________Formater spørsmål med modellen_______________________________

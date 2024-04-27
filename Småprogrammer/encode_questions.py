@@ -5,8 +5,7 @@ from setfit import SetFitModel #For å kunne teste med en modell treng med setFi
 
 model_name = "NbAiLab/nb-sbert-base"
 model = SentenceTransformer(model_name)
-model2 = SetFitModel.from_pretrained("modeller/alpha12")
-
+model2 = SetFitModel.from_pretrained("modeller/alpha14")
 spørsmål = []
 sublist = []
 with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file:
