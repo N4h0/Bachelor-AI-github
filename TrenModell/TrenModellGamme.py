@@ -13,8 +13,6 @@ from torch.utils.data import DataLoader
 #Bruker MultipleNegativesRankingLoss https://www.sbert.net/docs/package_reference/losses.html#multiplenegativesrankingloss
 # "This loss expects as input a batch consisting of sentence pairs (a_1, p_1), (a_2, p_2)..., (a_n, p_n) where we assume that (a_i, p_i) are a positive pair and (a_i, p_j) for i != j a negative pair."
 
-
-
 model_name = "NbAiLab/nb-sbert-base"
 utgangsmodell = SentenceTransformer(model_name)
 

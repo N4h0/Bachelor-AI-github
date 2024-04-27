@@ -91,9 +91,9 @@
             
             Spørsmål 15
             Spørsmål generert: Kan du hjelpe meg med å forstå hva merverdiavgift (MVA) dreier seg om og gi meg informasjon om det?
-            Spørsmål som ligner mest: Hvordan søker jeg om registrering av mva?
+            Spørsmål som ligner mest: Hva er merverdiavgift (MVA)?
             Fasit: Hva er merverdiavgift (MVA)?
-            CoSim-Score: 0.7921842266823267
+            CoSim-Score: 0.7900302553686072
             
             Spørsmål 16
             Spørsmål generert: Kan du gi meg informasjon om hva merverdiavgift (MVA) er og hjelpe meg med å forstå det?
@@ -169,9 +169,9 @@
             
             Spørsmål 28
             Spørsmål generert: Kan du fortelle meg når jeg må levere årsregnskapet mitt?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hva er fristen for årsoppgjør?
             Fasit: Hva er fristen for årsoppgjør?
-            CoSim-Score: 0.7465944939184423
+            CoSim-Score: 0.7426384470947087
             
             Spørsmål 29
             Spørsmål generert: Når må jeg levere inn årsregnskapet mitt?
@@ -381,55 +381,55 @@
             Spørsmål generert: Hvordan kan jeg registrere meg for mva?
             Spørsmål som ligner mest: Hvordan søker jeg om registrering av mva?
             Fasit: Hvordan søker jeg om registrering av mva?
-            CoSim-Score: 0.923291575516348
+            CoSim-Score: 0.9232915755163487
             
             Spørsmål 64
             Spørsmål generert: Kan du hjelpe meg med å finne ut hvordan jeg kan melde meg for mva?
             Spørsmål som ligner mest: Hvordan søker jeg om registrering av mva?
             Fasit: Hvordan søker jeg om registrering av mva?
-            CoSim-Score: 0.7660816146655864
+            CoSim-Score: 0.7660816146655868
             
             Spørsmål 65
             Spørsmål generert: Kan du veilede meg gjennom prosessen med å registrere meg for mva?
             Spørsmål som ligner mest: Hvordan søker jeg om registrering av mva?
             Fasit: Hvordan søker jeg om registrering av mva?
-            CoSim-Score: 0.8118431271316152
+            CoSim-Score: 0.8118431271316151
             
             Spørsmål 66
             Spørsmål generert: Hvordan går jeg frem for å melde meg for mva-registrering?
             Spørsmål som ligner mest: Hvordan søker jeg om registrering av mva?
             Fasit: Hvordan søker jeg om registrering av mva?
-            CoSim-Score: 0.9362997159766365
+            CoSim-Score: 0.9362997159766364
             
             Spørsmål 67
             Spørsmål generert: Hvordan kan jeg registrere meg for mva?
             Spørsmål som ligner mest: Hvordan søker jeg om registrering av mva?
             Fasit: Hvordan søker jeg om registrering av mva?
-            CoSim-Score: 0.923291575516348
+            CoSim-Score: 0.9232915755163487
             
             Spørsmål 68
             Spørsmål generert: Hvordan kan jeg melde meg på for mva-registrering?
             Spørsmål som ligner mest: Hvordan søker jeg om registrering av mva?
             Fasit: Hvordan søker jeg om registrering av mva?
-            CoSim-Score: 0.9285568353783504
+            CoSim-Score: 0.9285568353783507
             
             Spørsmål 69
             Spørsmål generert: Hvordan kan jeg registrere meg for mva?
             Spørsmål som ligner mest: Hvordan søker jeg om registrering av mva?
             Fasit: Hvordan søker jeg om registrering av mva?
-            CoSim-Score: 0.923291575516348
+            CoSim-Score: 0.9232915755163487
             
             Spørsmål 70
             Spørsmål generert: Hvordan kan jeg melde meg på for mva-registrering?
             Spørsmål som ligner mest: Hvordan søker jeg om registrering av mva?
             Fasit: Hvordan søker jeg om registrering av mva?
-            CoSim-Score: 0.9285568353783504
+            CoSim-Score: 0.9285568353783507
             
             Spørsmål 71
             Spørsmål generert: Hvordan kan jeg registrere meg for mva?
             Spørsmål som ligner mest: Hvordan søker jeg om registrering av mva?
             Fasit: Hvordan søker jeg om registrering av mva?
-            CoSim-Score: 0.923291575516348
+            CoSim-Score: 0.9232915755163487
             
             Spørsmål 72
             Spørsmål generert: Hvordan skal jeg håndtere alkoholrelaterte omsetningsoppgaver?
@@ -1137,55 +1137,55 @@
             Spørsmål generert: Kan du fortelle meg når dere er tilgjengelige for kundeservice?
             Spørsmål som ligner mest: Hva er åpningstidene deres?
             Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.7799768645694662
+            CoSim-Score: 0.6174367237029774
             
             Spørsmål 190
             Spørsmål generert: Hva er tidspunktet for når dere kan hjelpe meg med kundeservice?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
             Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.776600299513839
+            CoSim-Score: 0.6793399822893107
             
             Spørsmål 191
             Spørsmål generert: Kan du fortelle meg når dere er tilgjengelige for kundeservice?
             Spørsmål som ligner mest: Hva er åpningstidene deres?
             Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.7799768645694662
+            CoSim-Score: 0.6174367237029774
             
             Spørsmål 192
             Spørsmål generert: Kan du gi meg informasjon om når dere er tilgjengelige for kundeservice?
             Spørsmål som ligner mest: Hva er åpningstidene deres?
             Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.7820696777819173
+            CoSim-Score: 0.611765502607061
             
             Spørsmål 193
             Spørsmål generert: Kan du fortelle meg når jeg kan kontakte dere for kundeservice?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
             Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.8482203913393092
+            CoSim-Score: 0.6263983345672219
             
             Spørsmål 194
             Spørsmål generert: Når er dere tilgjengelige for kundeservice?
             Spørsmål som ligner mest: Hva er åpningstidene deres?
             Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.7450089137546113
+            CoSim-Score: 0.6475788954744146
             
             Spørsmål 195
             Spørsmål generert: Kan du fortelle meg når jeg kan få tak i kundeservice?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
             Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.8020963952428932
+            CoSim-Score: 0.6370547203626542
             
             Spørsmål 196
             Spørsmål generert: Hva er tidspunktene for når jeg kan komme i kontakt med kundeservice?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
             Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.7662397685306324
+            CoSim-Score: 0.6166686981435341
             
             Spørsmål 197
             Spørsmål generert: Kan du gi meg informasjon om når jeg kan kontakte kundeservice?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
             Fasit: Hva er åpningstidene deres?
-            CoSim-Score: 0.8030825276802279
+            CoSim-Score: 0.6401969431744852
             
             Spørsmål 198
             Spørsmål generert: Kan dere hjelpe meg med å fylle ut selvangivelsen?
@@ -1303,9 +1303,9 @@
             
             Spørsmål 217
             Spørsmål generert: Kan du gi meg adressen til regnskapsfirmaet deres?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
             Fasit: Hvor er kontoret deres lokalisert?
-            CoSim-Score: 0.7704932607531876
+            CoSim-Score: 0.5973180140133643
             
             Spørsmål 218
             Spørsmål generert: Kan du fortelle meg hvor regnskapsfirmaet deres ligger?
@@ -1345,9 +1345,9 @@
             
             Spørsmål 224
             Spørsmål generert: Kan du gi meg informasjon om beliggenheten til regnskapsfirmaet deres?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvor er kontoret deres lokalisert?
             Fasit: Hvor er kontoret deres lokalisert?
-            CoSim-Score: 0.7351556450439551
+            CoSim-Score: 0.671609338323504
             
             Spørsmål 225
             Spørsmål generert: Kan dere gi rådgivning til småbedrifter?
@@ -1405,57 +1405,57 @@
             
             Spørsmål 234
             Spørsmål generert: Hvordan går jeg frem for å avtale en konsultasjon med regnskapsfirmaet?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
             Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.7766374106791987
+            CoSim-Score: 0.7039336295947072
             
             Spørsmål 235
             Spørsmål generert: Hvordan kan jeg avtale en konsultasjon med regnskapsfirmaet?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
             Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.803186510996055
+            CoSim-Score: 0.6821566653996837
             
             Spørsmål 236
             Spørsmål generert: Hvordan kan jeg få en avtale for en konsultasjon med regnskapsfirmaet?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
             Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.7899051309650287
+            CoSim-Score: 0.6757473735721923
             
             Spørsmål 237
             Spørsmål generert: Hvordan kan jeg avtale en konsultasjon med regnskapsfirmaet?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
             Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.803186510996055
+            CoSim-Score: 0.6821566653996837
             
             Spørsmål 238
             Spørsmål generert: Hvordan går jeg frem for å avtale en konsultasjon med regnskapsfirmaet?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
             Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.7766374106791987
+            CoSim-Score: 0.7039336295947072
             
             Spørsmål 239
             Spørsmål generert: Hvordan kan jeg avtale et møte med regnskapsfirmaet for konsultasjon?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
             Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.7903072620232485
+            CoSim-Score: 0.663999899408211
             
             Spørsmål 240
             Spørsmål generert: Hvordan kan jeg planlegge en avtale for å diskutere mine regnskapsbehov?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hva er bokføringsplikt?
             Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.6571146481524343
+            CoSim-Score: 0.5643160572782866
             
             Spørsmål 241
             Spørsmål generert: Hvordan kan jeg avtale en time for å få råd om mine regnskapsbehov?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
             Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.73474895194532
+            CoSim-Score: 0.7078523980259679
             
             Spørsmål 242
             Spørsmål generert: Hvordan kan jeg få en avtale for å diskutere mine regnskapsbehov?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
             Fasit: Hvordan kan jeg bestille en konsultasjon?
-            CoSim-Score: 0.6921676502437342
+            CoSim-Score: 0.6156368245219505
             
             Spørsmål 243
             Spørsmål generert: Har dere kunnskap om internasjonal skatterådgivning?
@@ -1513,9 +1513,9 @@
             
             Spørsmål 252
             Spørsmål generert: 
-            Spørsmål som ligner mest: Hvordan kan jeg bestille en konsultasjon?
+            Spørsmål som ligner mest: Hva er åpningstidene deres?
             Fasit: Tilbyr dere digitale regnskapstjenester?
-            CoSim-Score: 0.2567238417383167
+            CoSim-Score: 0.21136589846861875
             
             Spørsmål 253
             Spørsmål generert: Kan dere fortelle meg mer om deres digitale regnskapstjenester?
@@ -1567,55 +1567,55 @@
             
             Spørsmål 261
             Spørsmål generert: Kan du gi meg en oversikt over hvilke tjenester deres regnskapsfirma tilbyr?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
             Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7684107492526555
+            CoSim-Score: 0.7557325315417203
             
             Spørsmål 262
             Spørsmål generert: Jeg vil gjerne vite mer om hvilke tjenester dere tilbyr som regnskapsfirma. Kan du gi meg en oversikt over dette?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
             Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7412538207009891
+            CoSim-Score: 0.6795999910401642
             
             Spørsmål 263
             Spørsmål generert: Kan du gi meg en oversikt over tjenestene deres som regnskapsfirma?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
             Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7399390121390983
+            CoSim-Score: 0.6692995448379521
             
             Spørsmål 264
             Spørsmål generert: Kan du fortelle meg hva slags tjenester regnskapsfirmaet deres tilbyr?
             Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
             Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7677967047307602
+            CoSim-Score: 0.7677967047307603
             
             Spørsmål 265
             Spørsmål generert: Kan du gi meg informasjon om hvilke tjenester regnskapsfirmaet deres tilbyr?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
             Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7939611978879096
+            CoSim-Score: 0.7512284959996071
             
             Spørsmål 266
             Spørsmål generert: Kan du fortelle meg om de ulike tjenestene regnskapsfirmaet deres tilbyr?
             Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
             Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7177278708356498
+            CoSim-Score: 0.71772787083565
             
             Spørsmål 267
             Spørsmål generert: Kan du gi meg informasjon om de forskjellige tjenestene regnskapsfirmaet deres tilbyr?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
             Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7056804315818814
+            CoSim-Score: 0.6926621708954793
             
             Spørsmål 268
             Spørsmål generert: Kan du fortelle meg hva slags tjenester regnskapsfirmaet ditt tilbyr?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Hvilke tjenester tilbyr deres firma?
             Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.765868772143227
+            CoSim-Score: 0.7362014104245925
             
             Spørsmål 269
             Spørsmål generert: Kan du gi meg informasjon om tjenestene regnskapsfirmaet ditt tilbyr?
-            Spørsmål som ligner mest: Hva er åpningstidene deres?
+            Spørsmål som ligner mest: Tilbyr dere bistand med selvangivelsen?
             Fasit: Hvilke tjenester tilbyr deres firma?
-            CoSim-Score: 0.7955825253216895
+            CoSim-Score: 0.7117451116724155
             

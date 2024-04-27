@@ -10,15 +10,18 @@ import json
 from setfit import SetFitModel
 import matplotlib.pyplot as plt
 import statistics
+from encode_questions import embedOrdbok
 
 '''
 _______________________________Initiallierer greier_______________________________
 '''
 
+fineTunaModell = "modeller/alpha14"
+
 modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.co/NbAiLab/nb-sbert-base
 modell = SentenceTransformer(modellnavn) #Instansierer BERT modellen . https://huggingface.co/docs/transformers/main_classes/model
-modell2 = SetFitModel.from_pretrained("modeller/alpha15")
-
+modell2 = SetFitModel.from_pretrained(fineTunaModell)
+embedOrdbok(fineTunaModell) #Legger inn ein funksjon for å lage embedding til ordboka vår her. 
 
 # Laste jsonfila med alle encoda spørsmål
 with open('txtandCSV-files/Q&A_embedded.json', 'r', encoding='utf-8') as file:

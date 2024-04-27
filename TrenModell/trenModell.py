@@ -5,8 +5,11 @@
 #https://huggingface.co/blog/how-to-train-sentence-transformers Endå meir GOAT!
 
 from datasets import Dataset, DatasetDict
-from sentence_transformers import InputExample, losses, SentenceTransformer
+from sentence_transformers import SentenceTransformer,InputExample, losses, SentenceTransformer
 from torch.utils.data import DataLoader
+from torch.optim import Adam
+import sentence_transformers
+
 
 #https://www.sbert.net/docs/package_reference/losses.html#multiplenegativesrankingloss
 #Bruker MultipleNegativesRankingLoss https://www.sbert.net/docs/package_reference/losses.html#multiplenegativesrankingloss
@@ -43,11 +46,10 @@ with open(data_path, 'r', encoding='utf-8') as file:
 if set != []:
     sets.append(set)
 
-for set in sets:
-    print(set)
-
 
 """__________Formaterer treningsdataen__________"""
+#The next step is converting the dataset into a format the Sentence Transformers model can understand. The model cannot accept raw lists of strings. Each example must be converted to a sentence_transformers.InputExample class and then to a torch.utils.data.DataLoader class to batch and shuffle the examples.
+#https://huggingface.co/blog/how-to-train-sentence-transformers
 treningsdata = []
 #Looper gjennom alle setta i lista med set av treningsdata.
 for set in sets:
@@ -57,7 +59,27 @@ for set in sets:
 # Må konvertere dataen til ein "dataloader" for å kunne lese dataen. Dataloader enderer dataen til det formatet den må vere i for å kunne brukas til trening. 
 train_dataloader = DataLoader(treningsdata, shuffle=True, batch_size=64)
 
-# Dette er linja som trener dataen. 
-utgangsmodell.fit(train_objectives=[(train_dataloader, losses.MultipleNegativesRankingLoss(model=utgangsmodell))], epochs=10)
+
+"""__________Trener modellen__________"""
+
+# Define your optimizer
+optimizer = Adam(utgangsmodell.parameters(), lr=5e-5)
+
+# Define your loss
+train_loss = losses.MultipleNegativesRankingLoss(model=utgangsmodell)
+
+# Define your dataloader
+train_dataloader = DataLoader(treningsdata, shuffle=True, batch_size=64)
+
+trainer = sentence_transformers.Trainer(
+    model=utgangsmodell,
+    train_dataloader=train_dataloader,
+    train_loss=train_loss,
+    optimizer=optimizer,
+)
+
+# Dette er linja som trener modellen. (Bruker denne: https://huggingface.co/blog/how-to-train-sentence-transformers)
+utgangsmodell.fit(train_objectives=[(train_dataloader, losses.MultipleNegativesRankingLoss(model=utgangsmodell))],
+                epochs=10)
 
 utgangsmodell.save("modeller/alpha14") #https://discuss.huggingface.co/t/how-to-save-my-model-to-use-it-later/20568
