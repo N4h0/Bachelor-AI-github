@@ -12,14 +12,12 @@ import matplotlib.pyplot as plt
 import statistics
 from encode_questions import embedOrdbok
 
-'''
-_______________________________Initiallierer greier_______________________________
-'''
+'''_______________________________Initiallierer greier_______________________________'''
 
-fineTunaModell = "modeller/alpha14"
+fineTunaModell = "modeller/alpha16"
 
 modellnavn = "NbAiLab/nb-sbert-base"  #Modellen me bruker. https://huggingface.co/NbAiLab/nb-sbert-base
-modell = SentenceTransformer(modellnavn) #Instansierer BERT modellen . https://huggingface.co/docs/transformers/main_classes/model
+modell = SentenceTransformer(modellnavn) #Instansierer BERT modellen. https://huggingface.co/docs/transformers/main_classes/model
 modell2 = SetFitModel.from_pretrained(fineTunaModell)
 embedOrdbok(fineTunaModell) #Legger inn ein funksjon for å lage embedding til ordboka vår her. 
 
@@ -30,16 +28,14 @@ with open('txtandCSV-files/Q&A_embedded.json', 'r', encoding='utf-8') as file:
 # Laste jsonfila med alle encoda spørsmål
 with open('txtandCSV-files/Q&A_embeddedetFitModel.json', 'r', encoding='utf-8') as file:
     jsonliste2 = json.load(file)
-
+    
 #Overskrive filer me skal lagre data i.o+p\
 with open('SetFitSammenligning/resultat/comparisonresults.txt', 'w', encoding='utf-8') as file:
     file.write("")
 with open('SetFitSammenligning/resultat/defaultmodelresults.txt', 'w', encoding='utf-8') as file:
     file.write("")
 
-'''
-_______________________________Formater spørsmål med modellen_______________________________
-'''
+'''_______________________________Formater spørsmål med modellen_______________________________'''
 
 fasit = [] #Lista somk inneheld fasiten aka spørsmåla chatGPT har generert i teorien skal ligne mest på
 spørsmål = [] #Liste med spørmsåla chatGPT har laga
@@ -69,9 +65,7 @@ embeddingsAlpha = [convert_to_arrays(sublist) for sublist in jsonliste2]
 encoded_user_questions = modell.encode(spørsmål)
 encoded_user_questions2 = modell2.encode(spørsmål)
 
-'''
-_______________________________Sammenlign spørmsål_______________________________
-''' 
+'''_______________________________Sammenlign spørmsål_______________________________''' 
 
 # Similarity scores
 # https://huggingface.co/tasks/sentence-similarity "The similarity of the embeddings is evaluated mainly on cosine similarity. 
@@ -210,7 +204,6 @@ unique_to_feilsvar2 = sporringsnummer_feilsvar2 - sporringsnummer_feilsvar
 # Find spørringsnummer present in both
 common_to_both = sporringsnummer_feilsvar & sporringsnummer_feilsvar2
 
-
 #Tekstfil som oppsummerer de viktiste resultatene når det gjelder sammenligning av modeller
 with open('SetFitSammenligning/resultat/comparisonresults.txt', 'w', encoding='utf-8') as file:
     file.write(f"{str(len(feilsvar))} av {str(len(Resultat))} av spørringer ga feil resultat ved bruk av utrent modell. ")
@@ -237,17 +230,19 @@ with open('SetFitSammenligning/resultat/comparisonresults.txt', 'w', encoding='u
             file.write(f"\nScore:{i['similarity_score']}")
             file.write("\n\n")
     file.write("_____Feil felles for begge modellene_____\n\n")
-    for svar1, svar2 in zip(feilsvar, feilsvar2):
-        if svar1['spørringsnummer'] in common_to_both:
-            file.write(f"Spørringsnummer: {svar1['spørringsnummer']}, ")
-            file.write(f"\nInquiry: {svar1['inquiry']}")
-            file.write(f"\nDefaultLøsning: {svar1['løsning']}")
-            file.write(f"\nTrainedLøsning: {svar2['løsning']}")
-            file.write(f"\nFasit: {svar1['fasit']}")
-            file.write(f"\nDefaultScore: {svar1['similarity_score']}")
-            file.write(f"\nTrainedScore: {svar2['similarity_score']}")
-            file.write("\n\n")
-            
+    print(feilsvar2)
+    print(feilsvar)
+    for i in common_to_both:
+        feil = next((item for item in feilsvar if item['spørringsnummer'] == i), None)
+        feil2 = next((item for item in feilsvar2 if item['spørringsnummer'] == i), None)
+        file.write(f"Spørringsnummer: {i}, ")
+        file.write(f"\nInquiry: {feil['inquiry']}")
+        file.write(f"\nDefaultLøsning: {feil['løsning']}")
+        file.write(f"\nTrainedLøsning: {feil2['løsning']}")
+        file.write(f"\nFasit: {feil['fasit']}")
+        file.write(f"\nDefaultScore: {feil['similarity_score']}")
+        file.write(f"\nTrainedScore: {feil2['similarity_score']}")
+        file.write("\n\n")
 feilspørsmål = []    
 #Tekstfil som oppsummerer de viktiste resultatene innad i hver modell.
 with open('SetFitSammenligning/resultat/defaultmodelresultsummary.txt', 'w', encoding='utf-8') as file:
@@ -300,8 +295,6 @@ with open('SetFitSammenligning/resultat/trainedmodelresultssummary.txt', 'w', en
 correct_scores = [d['similarity_score'] for d in rettsvar]
 wrong_scores = [d['similarity_score'] for d in feilsvar]
 all_scores = [d['similarity_score'] for d in Resultat]
-
-print(Resultat)
 
 correct_scores2 = [d['similarity_score'] for d in rettsvar2]
 wrong_scores2 = [d['similarity_score'] for d in feilsvar2]
@@ -359,10 +352,10 @@ plt.savefig("SetFitSammenligning/figurer/CDF")
 
 #Scatterplot
 plt.figure(figsize=(10, 6))
-plt.scatter(range(len(correct_scores)), correct_scores, color='green', alpha=0.5, label=f'Utrent model - rett svar (n = {len(correct_scores)})')
-plt.scatter(range(len(correct_scores2)), correct_scores2, color='blue', alpha=0.5, label=f'Trent model - rett svar (n = {len(correct_scores2)})')
-plt.scatter(range(len(wrong_scores)), wrong_scores, color='red', alpha=0.5, label=f'Utrent modell - feil svar (n = {len(wrong_scores)})')
-plt.scatter(range(len(wrong_scores2)), wrong_scores2, color='purple', alpha=0.5, label=f'Trent modell - feil svar (n = {len(wrong_scores2)})')
+plt.scatter(range(len(correct_scores)), correct_scores, color='green', alpha=0.5, label=f'Utrent model - rett svar (n = {len(correct_scores)}) avg = {np.mean(correct_scores)}')
+plt.scatter(range(len(correct_scores2)), correct_scores2, color='blue', alpha=0.5, label=f'Trent model - rett svar (n = {len(correct_scores2)}) avg = {np.mean(correct_scores2)}')
+plt.scatter(range(len(wrong_scores)), wrong_scores, color='red', alpha=0.5, label=f'Utrent modell - feil svar (n = {len(wrong_scores)}) avg = {np.mean(wrong_scores)}')
+plt.scatter(range(len(wrong_scores2)), wrong_scores2, color='purple', alpha=0.5, label=f'Trent modell - feil svar (n = {len(wrong_scores2)}) avg = {np.mean(wrong_scores2)}')
 plt.title('Scatterplot som viser CoSim-verdier')
 plt.xlabel('Index')
 plt.ylabel('Cosine Similarity')
@@ -384,3 +377,24 @@ print("Average of all_scores2:", average_all_scores2)
 # Calculate and print the median for all_scores2
 median_all_scores2 = statistics.median(all_scores2)
 print("Median of all_scores2:", median_all_scores2)
+
+average_correct_scores = sum(correct_scores) / len(correct_scores)
+average_correct_scores2 = sum(correct_scores2) / len(correct_scores2)
+median_correct_scores = statistics.median(correct_scores)
+median_correct_scores2 = statistics.median(correct_scores2)
+
+average_wrong_scores = sum(wrong_scores) / len(wrong_scores)
+average_wrong_scores2 = sum(wrong_scores2) / len(wrong_scores2)
+median_wrong_scores = statistics.median(wrong_scores)
+median_wrong_scores2 = statistics.median(wrong_scores2)
+
+print("Standard modell:")
+print(f"Snitt - rett svar: {average_correct_scores}")
+print(f"Median - rett svar: {median_correct_scores}")
+print(f"Snitt - feil svar: {average_wrong_scores}")
+print(f"Median - feil svar: {median_wrong_scores}")
+print("Trent modell:")
+print(f"Snitt - rett svar: {average_correct_scores2}")
+print(f"Median - rett svar: {median_correct_scores2}")
+print(f"Snitt - feil svar: {average_wrong_scores2}")
+print(f"Median - feil svar: {median_wrong_scores2}")

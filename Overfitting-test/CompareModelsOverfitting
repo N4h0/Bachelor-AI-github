@@ -13,7 +13,7 @@ import random
 
 
 sbert = SentenceTransformer("NbAiLab/nb-sbert-base")
-fineTunedModel = SetFitModel.from_pretrained("modeller/alpha13")
+fineTunedModel = SetFitModel.from_pretrained("modeller/alpha16")
 
 '''
 _______________________________Formater spørsmål med modellen_______________________________
@@ -63,7 +63,7 @@ plt.xlabel('Index', fontsize=12)
 plt.ylabel('Cosine Similarity', fontsize=12)
 plt.tight_layout()
 
-plt.savefig("figures/overfittingtest")
+plt.savefig("overfittingtest")
 
 average_all_scores = sum(CoSim1) / len(CoSim1)
 print("Average of all_scores:", average_all_scores)

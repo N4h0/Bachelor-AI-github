@@ -5,7 +5,7 @@ import re
 
 question = "*Her skal spørsmålet som skal omformuleres komme*"
 
-prompt =    f"""Lag 25 setninger som er en omforumlering av følgende spørsmål: {question}. Spørsmålene skal brukes til å trene en AI-modell."""
+prompt =    f"""Lag 6 setninger som er en omforumlering av følgende spørsmål: {question}. Spørsmålene skal brukes til å trene en AI-modell."""
 
 reformulted_list = []
 
@@ -19,7 +19,7 @@ def clean_string(s):
     return s
 
 #Gjerne bruk dene linja for å beskrive treningsdata
-with open('TrenModell/Treningsdata/alpha15.txt', 'w', encoding='utf-8') as file:
+with open('TrenModell/Treningsdata/alpha16.txt', 'w', encoding='utf-8') as file:
     file.write("Denne treningsdataen var laget ved å bruke følgende prompt:\n")
     file.write(prompt)
     file.write("\n\n")
@@ -42,7 +42,7 @@ for question in questions:
     spørsmålsliste = ""
     message = [
                 {"role": "user", "content": f"""
-Lag 25 setninger som er omformuleringer av følgende spørsmål: {question}. Spørsmålene skal brukes til å trene en AI-modell.
+Lag 6 setninger som er omformuleringer av følgende spørsmål: {question}. Spørsmålene skal brukes til å trene en AI-modell.
 """}
     ]
     stream = client.chat.completions.create(
@@ -69,7 +69,7 @@ Lag 25 setninger som er omformuleringer av følgende spørsmål: {question}. Sp�
     #Legg til label-linje    
     #Etter hver linje det det står text må det være en linje der det bare står "Label".
     
-    with open('TrenModell/Treningsdata/alpha15.txt', 'a', encoding='utf-8') as file:
+    with open('TrenModell/Treningsdata/alpha16.txt', 'a', encoding='utf-8') as file:
         file.write(f"__________NYTT SPØRSMÅL: {question}__________\n")
         file.write(spørsmålsliste)
         file.write("\n\n")

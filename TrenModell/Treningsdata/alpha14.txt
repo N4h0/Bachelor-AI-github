@@ -269,5 +269,3 @@ text. Jeg lurer på hva slags tjenester deres organisasjon leverer?
 text. Kan du fortelle meg mer om spekteret av tjenester som tilbys av deres selskap?
 text. Jeg er interessert i å vite hvilke tjenester dere tilbyr fra deres firma
 text. Hva er de ulike tjenestene som deres firma tilbyr til kunder?
-
-

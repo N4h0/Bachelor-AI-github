@@ -16,7 +16,8 @@ from torch.utils.data import DataLoader
 
 model_name = "NbAiLab/nb-sbert-base"
 utgangsmodell = SentenceTransformer(model_name)
-data_path = 'TrenModell/Treningsdata/alpha14.txt'
+data_path = 'TrenModell/Treningsdata/alpha16.txt'
+model = SentenceTransformer(model_name)
 Text= []
 
 """__________Henter dataen som skal brukes til å formatere dataen__________"""
@@ -28,39 +29,69 @@ set = []
 #Case 2: The Sentence Compression dataset has examples made up of positive pairs. If your dataset has more than two positive sentences per example, for example quintets as in the COCO Captions or the Flickr30k Captions datasets, you can format the examples as to have different combinations of positive pairs.
 #https://huggingface.co/blog/how-to-train-sentence-transformers
 
+Text = []
+Labels = []
+
+#Litt ufnky kode for å unngå å endre på formatet til dataen :P
+x=False
 with open(data_path, 'r', encoding='utf-8') as file:
     for line in file:
         # Check if the line starts with 'text' and remove the first 5 characters
-        if line.startswith('text.'):
-            set.append(line[6:].strip())
+        if x == True:
+            label = line[6:].strip()
+            x = False
+        elif line.startswith('text.'):
+            Labels.append(label)
+            Text.append(line[5:].strip())
         # Check if the line starts with 'label' and remove the first 6 characters
-        if line.startswith('__________NYTT SPØRSMÅL') and set !=[] or len(set) > 1:
-            if len(set) > 1:
-                sets.append(set)
-            set = []
+        if line.startswith('__________NYTT SPØRSMÅL'):
+            x = True
+            
+merged = [[text, label] for text, label in zip(Text, Labels)]
 
-#Legge til siste settet. 
-if set != []:
-    sets.append(set)
+print(merged)
 
-for set in sets:
-    print(set)
+dataset = merged
 
+# Assuming 'merged' is already defined as a list of [text, label] pairs
+# First, convert 'merged' into a list of dictionaries, which is a format that can be directly converted into a Dataset
+texts, labels = zip(*merged)  # This separates the merged list into two lists of texts and labels
+data_dict = {'text': texts, 'label': labels}
 
-"""__________Formaterer treningsdataen__________"""
-#The next step is converting the dataset into a format the Sentence Transformers model can understand. The model cannot accept raw lists of strings. Each example must be converted to a sentence_transformers.InputExample class and then to a torch.utils.data.DataLoader class to batch and shuffle the examples.
-#https://huggingface.co/blog/how-to-train-sentence-transformers
-treningsdata = []
-#Looper gjennom alle setta i lista med set av treningsdata.
-for set in sets:
-    for text in set:
-        treningsdata.append(InputExample(texts=[text] + [other for other in set if other != text]))    
+# Convert this dictionary into a Hugging Face Dataset
+train_dataset = Dataset.from_dict(data_dict)
 
-# Må konvertere dataen til ein "dataloader" for å kunne lese dataen. Dataloader enderer dataen til det formatet den må vere i for å kunne brukas til trening. 
-train_dataloader = DataLoader(treningsdata, shuffle=True, batch_size=64)
+# Now, create a DatasetDict containing your train_dataset under the 'train' key
+dataset = DatasetDict({'train': train_dataset})
 
-# Dette er linja som trener modellen. 
-utgangsmodell.fit(train_objectives=[(train_dataloader, losses.MultipleNegativesRankingLoss(model=utgangsmodell))],
-                epochs=10)
+# Your dataset is now correctly structured
+train_dataB = dataset['train']
+texts, labels = zip(*merged)  # This separates the merged list into two lists of texts and labels
+data_dict = {'text': texts, 'label': labels}
 
-utgangsmodell.save("modeller/alpha14") #https://discuss.huggingface.co/t/how-to-save-my-model-to-use-it-later/20568
+# Convert this dictionary into a Hugging Face Dataset
+train_dataset = Dataset.from_dict(data_dict)
+
+# Now, create a DatasetDict containing your train_dataset under the 'train' key
+dataset = DatasetDict({'train': train_dataset})
+
+# Your dataset is now correctly structured
+train_dataB = dataset['train']
+n_examples = len(train_dataB)
+
+train_examples = []
+# Loop over all examples in the training set
+for i in range(n_examples):
+    # Retrieve the ith example from the training data
+    example = train_dataB[i]
+    
+    # Create an InputExample object from the example, assuming it has two fields to be used as texts
+    # and append it to the list of training examples
+    train_examples.append(InputExample(texts=[example['text'], example['label']]))
+    
+train_dataloader = DataLoader(train_examples, shuffle=True, batch_size=64)
+train_loss = losses.MultipleNegativesRankingLoss(model=model)  #https://www.sbert.net/docs/package_reference/losses.html
+
+model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=10) 
+
+model.save("modeller/alpha16")

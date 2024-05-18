@@ -29,6 +29,7 @@ def embedOrdbok(setfitmodel):
             encoded_questions.append(encoded_sub_questions)
         return encoded_questions
 
+
     encoded_list = encode_questions(spørsmål, model)
     encoded_list2 = encode_questions(spørsmål, model2)
 

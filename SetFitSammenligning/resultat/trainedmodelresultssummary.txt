@@ -1,87 +1,206 @@
-12 av 270 av spørringer ga feil resultat. Dette gjaldt følgende spørringer: 
-140, 144, 191, 194, 196, 197, 198, 218, 241, 253, 263 og 270
-Høyest cosine similarity der løsning og fasit ikke er like fasit: 0.2122239394270489
-Laveste cosine similiarty der fasit og løsning er like: 0.5798072398684433
-
-Spørringsnummer: 140, 
-Inquiry: "Er det obligatorisk for alle selskaper å benytte seg av regnskapstjenester?"
-Løsning: Er det obligatorisk med revisor?
-Fasit: Har alle regnskapsplikt?
-Similarity Score: 0.7723811240717875
-
+29 av 315 av spørringer ga feil resultat. Dette gjaldt følgende spørringer: 
+144, 172, 194, 195, 207, 238, 239, 240, 241, 242, 243, 262, 263, 264, 265, 266, 267, 268, 269, 270, 281, 285, 286, 288, 303, 304, 305, 306 og 315
+Høyest cosine similarity der løsning og fasit ikke er like fasit: 0.4429448767877379
+Laveste cosine similiarty der fasit og løsning er like: 0.46861915702795853
 
 Spørringsnummer: 144, 
-Inquiry: "Er det obligatorisk for alle bedrifter å benytte seg av et regnskapsfirma?"
-Løsning: Er det obligatorisk med revisor?
+Inquiry: Hvilke typer bedrifter er unntatt fra regnskapsplikt?
+Løsning: Hva er forskjellen mellom regnskapsføring og revisjon?
 Fasit: Har alle regnskapsplikt?
-Similarity Score: 0.7951436347651579
+Similarity Score: 0.4429448767877379
 
 
-Spørringsnummer: 191, 
-Inquiry: Hva er tidspunktet for når dere kan hjelpe meg med kundeservice?
-Løsning: Hvordan kan jeg bestille en konsultasjon?
-Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6805432709897121
+Spørringsnummer: 172, 
+Inquiry: 
+Løsning: Hvordan går det!
+Fasit: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+Similarity Score: 0.4690796947289936
 
 
 Spørringsnummer: 194, 
-Inquiry: Kan du fortelle meg når jeg kan kontakte dere for kundeservice?
-Løsning: Hvordan kan jeg bestille en konsultasjon?
-Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6273334474566307
+Inquiry: Kan du gi meg informasjon om når regnskapsfirmaet er tilgjengelig?
+Løsning: Hva er fristen for årsoppgjør?
+Fasit: Når har dere åpent?
+Similarity Score: 0.5998389380848556
 
 
-Spørringsnummer: 196, 
-Inquiry: Kan du fortelle meg når jeg kan få tak i kundeservice?
-Løsning: Hvordan kan jeg bestille en konsultasjon?
-Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6381687806957639
+Spørringsnummer: 195, 
+Inquiry: Kan jeg få informasjon angående arbeidstidene for regnskapsfirmaet?
+Løsning: Hva er timepris for bokføring?
+Fasit: Når har dere åpent?
+Similarity Score: 0.5009136011473855
 
 
-Spørringsnummer: 197, 
-Inquiry: Hva er tidspunktene for når jeg kan komme i kontakt med kundeservice?
-Løsning: Hvordan kan jeg bestille en konsultasjon?
-Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6184273224476543
+Spørringsnummer: 207, 
+Inquiry: Kan dere hjelpe meg med å ferdigstille skattemeldingen min?
+Løsning: Hva er fristen på innsending av skattemelding?
+Fasit: Tilbyr dere bistand med selvangivelsen?
+Similarity Score: 0.6959789206433085
 
 
-Spørringsnummer: 198, 
-Inquiry: Kan du gi meg informasjon om når jeg kan kontakte kundeservice?
-Løsning: Hvordan kan jeg bestille en konsultasjon?
-Fasit: Hva er åpningstidene deres?
-Similarity Score: 0.6411046717782488
+Spørringsnummer: 238, 
+Inquiry: Hvordan kan jeg planlegge et møte med dere for å diskutere mine regnskapsbehov?
+Løsning: Har alle regnskapsplikt?
+Fasit: Hvordan kan jeg bestille en konsultasjon?
+Similarity Score: 0.5349297220975542
 
 
-Spørringsnummer: 218, 
-Inquiry: Kan du gi meg adressen til regnskapsfirmaet deres?
-Løsning: Tilbyr dere bistand med selvangivelsen?
-Fasit: Hvor er kontoret deres lokalisert?
-Similarity Score: 0.5990350712349664
+Spørringsnummer: 239, 
+Inquiry: Hvordan kan jeg avtale et møte med dere for å gå gjennom mine regnskapsbehov?
+Løsning: Har alle regnskapsplikt?
+Fasit: Hvordan kan jeg bestille en konsultasjon?
+Similarity Score: 0.5481429212088262
+
+
+Spørringsnummer: 240, 
+Inquiry: Hvordan kan jeg planlegge en gjennomgang av mine regnskapsbehov med dere?
+Løsning: Har alle regnskapsplikt?
+Fasit: Hvordan kan jeg bestille en konsultasjon?
+Similarity Score: 0.633739850941938
 
 
 Spørringsnummer: 241, 
-Inquiry: Hvordan kan jeg planlegge en avtale for å diskutere mine regnskapsbehov?
-Løsning: Hva er bokføringsplikt?
+Inquiry: Hvordan kan jeg avtale en time for gjennomgang av mine regnskapsbehov med dere?
+Løsning: Har alle regnskapsplikt?
 Fasit: Hvordan kan jeg bestille en konsultasjon?
-Similarity Score: 0.5681227513838393
+Similarity Score: 0.5056136242988942
 
 
-Spørringsnummer: 253, 
-Inquiry: 
-Løsning: Hva er åpningstidene deres?
-Fasit: Tilbyr dere digitale regnskapstjenester?
-Similarity Score: 0.2122239394270489
+Spørringsnummer: 242, 
+Inquiry: Hvordan kan jeg planlegge en avtale for å diskutere mine regnskapsbehov med deres firma?
+Løsning: Har alle regnskapsplikt?
+Fasit: Hvordan kan jeg bestille en konsultasjon?
+Similarity Score: 0.5461314355345187
+
+
+Spørringsnummer: 243, 
+Inquiry: Hvordan kan jeg avtale en møtetid for å diskutere mine regnskapsbehov med deres firma?
+Løsning: Har alle regnskapsplikt?
+Fasit: Hvordan kan jeg bestille en konsultasjon?
+Similarity Score: 0.47034017827346253
+
+
+Spørringsnummer: 262, 
+Inquiry: Kan du gi meg en oversikt over hvilke tjenester regnskapsfirmaet deres tilbyr?
+Løsning: Tilbyr dere digitale regnskapstjenester?
+Fasit: Hvilke tjenester tilbyr dere?
+Similarity Score: 0.5594618279218789
 
 
 Spørringsnummer: 263, 
-Inquiry: Jeg vil gjerne vite mer om hvilke tjenester dere tilbyr som regnskapsfirma. Kan du gi meg en oversikt over dette?
-Løsning: Tilbyr dere bistand med selvangivelsen?
-Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.6806533174350644
+Inquiry: Kan du fortelle meg hva slags tjenester regnskapsfirmaet deres har?
+Løsning: Tilbyr dere digitale regnskapstjenester?
+Fasit: Hvilke tjenester tilbyr dere?
+Similarity Score: 0.5705673495285712
+
+
+Spørringsnummer: 264, 
+Inquiry: Kan du gi meg informasjon om hvilke tjenester regnskapsfirmaet deres tilbyr?
+Løsning: Tilbyr dere digitale regnskapstjenester?
+Fasit: Hvilke tjenester tilbyr dere?
+Similarity Score: 0.5763246269192569
+
+
+Spørringsnummer: 265, 
+Inquiry: Kan du fortelle meg mer om hvilke tjenester regnskapsfirmaet deres har tilgjengelig?
+Løsning: Tilbyr dere digitale regnskapstjenester?
+Fasit: Hvilke tjenester tilbyr dere?
+Similarity Score: 0.5871721526593863
+
+
+Spørringsnummer: 266, 
+Inquiry: Kan du gi meg en oversikt over hvilke tjenester regnskapsfirmaet deres tilbyr?
+Løsning: Tilbyr dere digitale regnskapstjenester?
+Fasit: Hvilke tjenester tilbyr dere?
+Similarity Score: 0.5594618279218789
+
+
+Spørringsnummer: 267, 
+Inquiry: Kan jeg få en liste over hvilke tjenester regnskapsfirmaet deres tilbyr?
+Løsning: Tilbyr dere digitale regnskapstjenester?
+Fasit: Hvilke tjenester tilbyr dere?
+Similarity Score: 0.5228850489383012
+
+
+Spørringsnummer: 268, 
+Inquiry: Kan dere fortelle meg hvilke tjenester regnskapsfirmaet deres tilbyr?
+Løsning: Tilbyr dere digitale regnskapstjenester?
+Fasit: Hvilke tjenester tilbyr dere?
+Similarity Score: 0.5694533835672327
+
+
+Spørringsnummer: 269, 
+Inquiry: Kan du gi meg en oversikt over hvilke tjenester regnskapsfirmaet deres tilbyr?
+Løsning: Tilbyr dere digitale regnskapstjenester?
+Fasit: Hvilke tjenester tilbyr dere?
+Similarity Score: 0.5594618279218789
 
 
 Spørringsnummer: 270, 
-Inquiry: Kan du gi meg informasjon om tjenestene regnskapsfirmaet ditt tilbyr?
-Løsning: Tilbyr dere bistand med selvangivelsen?
-Fasit: Hvilke tjenester tilbyr deres firma?
-Similarity Score: 0.7125915109339775
+Inquiry: Kan du beskrive hvilke tjenester regnskapsfirmaet deres tilbyr?
+Løsning: Tilbyr dere digitale regnskapstjenester?
+Fasit: Hvilke tjenester tilbyr dere?
+Similarity Score: 0.5607084438857386
+
+
+Spørringsnummer: 281, 
+Inquiry: Kan jeg få kontaktinformasjonen deres?
+Løsning: Hvordan kan jeg kontakte dere?
+Fasit: Hva er telefonnummeret deres?
+Similarity Score: 0.8081413759919057
+
+
+Spørringsnummer: 285, 
+Inquiry: Kan jeg ringe dere for å snakke med en av deres representanter?
+Løsning: Hvordan kan jeg kontakte dere?
+Fasit: Hva er telefonnummeret deres?
+Similarity Score: 0.6009680630127843
+
+
+Spørringsnummer: 286, 
+Inquiry: Kan jeg få kontaktinformasjonen deres for å snakke med en av deres representanter?
+Løsning: Hvordan kan jeg kontakte dere?
+Fasit: Hva er telefonnummeret deres?
+Similarity Score: 0.6955682860493289
+
+
+Spørringsnummer: 288, 
+Inquiry: Kan jeg snakke med en av deres representanter direkte?
+Løsning: Hvordan kan jeg kontakte dere?
+Fasit: Hva er telefonnummeret deres?
+Similarity Score: 0.4534646477779316
+
+
+Spørringsnummer: 303, 
+Inquiry: Hvordan kan jeg nå regnskapsfirmaet deres for å få mer informasjon?
+Løsning: Tilbyr dere digitale regnskapstjenester?
+Fasit: Hvordan kan jeg kontakte dere?
+Similarity Score: 0.47120835443596787
+
+
+Spørringsnummer: 304, 
+Inquiry: Hvordan kan jeg komme i kontakt med deres regnskapsfirma for å få mer informasjon?
+Løsning: Har alle regnskapsplikt?
+Fasit: Hvordan kan jeg kontakte dere?
+Similarity Score: 0.4942400742687774
+
+
+Spørringsnummer: 305, 
+Inquiry: Hvordan kan jeg få mer informasjon om deres regnskapstjenester?
+Løsning: Tilbyr dere digitale regnskapstjenester?
+Fasit: Hvordan kan jeg kontakte dere?
+Similarity Score: 0.5825852548047692
+
+
+Spørringsnummer: 306, 
+Inquiry: Kan du gi meg informasjon om hvordan jeg kan lære mer om deres regnskapstjenester?
+Løsning: Tilbyr dere digitale regnskapstjenester?
+Fasit: Hvordan kan jeg kontakte dere?
+Similarity Score: 0.5485237309018739
+
+
+Spørringsnummer: 315, 
+Inquiry: Hvordan kan jeg henvise meg til deg?
+Løsning: Hvordan kan jeg kontakte dere?
+Fasit: Hva heter du?
+Similarity Score: 0.7258686912765571

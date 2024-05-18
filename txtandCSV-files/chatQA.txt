@@ -1,1139 +1,1333 @@
 
-Spørringsnummer: 0
-I: Når er fristen for å sende inn merverdiavgift?
+
+_____________NYTT SPØRSMÅL: Hva er fristen på innsending av merverdiavgift?_____________
+Spørringsnummer: 18
+I: Når må merverdiavgiften bli innlevert?
 Q: Hva er fristen på innsending av merverdiavgift?
 
-Spørringsnummer: 1
-I: Kan du fortelle meg hvilken frist som gjelder for å sende inn merverdiavgift?
+Spørringsnummer: 19
+I: Når er fristen for å levere inn merverdiavgiften?
 Q: Hva er fristen på innsending av merverdiavgift?
 
-Spørringsnummer: 2
-I: Kan du gi meg informasjon om fristen for innsending av merverdiavgift?
+Spørringsnummer: 20
+I: Kan du fortelle meg når fristen for å levere inn merverdiavgiften er?
 Q: Hva er fristen på innsending av merverdiavgift?
 
-Spørringsnummer: 3
-I: Kan du fortelle meg når fristen for innsending av merverdiavgift er?
+Spørringsnummer: 21
+I: Kan du gi meg informasjon om når fristen for å levere inn merverdiavgiften er?
 Q: Hva er fristen på innsending av merverdiavgift?
 
-Spørringsnummer: 4
-I: Når er fristen for å levere merverdiavgift?
+Spørringsnummer: 22
+I: Kan du fortelle meg når fristen for innlevering av merverdiavgift er?
 Q: Hva er fristen på innsending av merverdiavgift?
 
-Spørringsnummer: 5
-I: "Kan du fortelle meg når fristen er for å levere merverdiavgift?"
+Spørringsnummer: 23
+I: Når er siste frist for å levere inn merverdiavgift?
 Q: Hva er fristen på innsending av merverdiavgift?
 
-Spørringsnummer: 6
-I: Kan du opplyse meg om når fristen er for innlevering av merverdiavgift?
+Spørringsnummer: 24
+I: Kan du fortelle meg når siste frist er for å levere inn merverdiavgift?
 Q: Hva er fristen på innsending av merverdiavgift?
 
-Spørringsnummer: 7
-I: Kan jeg få informasjon om fristen for innsending av merverdiavgift?
+Spørringsnummer: 25
+I: Kan du gi meg informasjon om den siste fristen for å levere inn merverdiavgift?
 Q: Hva er fristen på innsending av merverdiavgift?
 
-Spørringsnummer: 8
-I: Kan du fortelle meg når fristen for å sende inn merverdiavgift er?
+Spørringsnummer: 26
+I: Kan du fortelle meg når den siste fristen for å levere inn merverdiavgift er?
 Q: Hva er fristen på innsending av merverdiavgift?
 
 
 _____________NYTT SPØRSMÅL: Hva er merverdiavgift (MVA)?_____________
-Spørringsnummer: 9
-I: Kan du forklare meg hva merverdiavgift (MVA) er?
+Spørringsnummer: 27
+I: Kan du forklare meg hvordan merverdiavgift (MVA) fungerer?
 Q: Hva er merverdiavgift (MVA)?
 
-Spørringsnummer: 10
-I: Kan du gi meg en forklaring på begrepet merverdiavgift (MVA)?
+Spørringsnummer: 28
+I: Kan du gi meg en forklaring på hvordan merverdiavgift (MVA) fungerer?
 Q: Hva er merverdiavgift (MVA)?
 
-Spørringsnummer: 11
-I: Kan du hjelpe meg med å forstå hva merverdiavgift (MVA) betyr?
+Spørringsnummer: 29
+I: Kan du forklare hvordan MVA fungerer?
 Q: Hva er merverdiavgift (MVA)?
 
-Spørringsnummer: 12
-I: Kan du forklare meg hva merverdiavgift (MVA) handler om?
+Spørringsnummer: 30
+I: Kan du gi meg en forklaring på hvordan MVA virker?
 Q: Hva er merverdiavgift (MVA)?
 
-Spørringsnummer: 13
-I: Kan du gi meg en forklaring på hva merverdiavgift (MVA) dreier seg om?
+Spørringsnummer: 31
+I: Kan du hjelpe meg med å forstå hvordan merverdiavgift (MVA) fungerer?
 Q: Hva er merverdiavgift (MVA)?
 
-Spørringsnummer: 14
-I: Kan du gi meg informasjon om merverdiavgift (MVA) og hva det dreier seg om?
+Spørringsnummer: 32
+I: Kan du forklare meg hvordan merverdiavgift (MVA) fungerer?
 Q: Hva er merverdiavgift (MVA)?
 
-Spørringsnummer: 15
-I: Kan du hjelpe meg med å forstå hva merverdiavgift (MVA) dreier seg om og gi meg informasjon om det?
+Spørringsnummer: 33
+I: Kan du gi meg en forklaring på hvordan MVA fungerer?
 Q: Hva er merverdiavgift (MVA)?
 
-Spørringsnummer: 16
-I: Kan du gi meg informasjon om hva merverdiavgift (MVA) er og hjelpe meg med å forstå det?
+Spørringsnummer: 34
+I: Kan du forklare meg hvordan MVA fungerer?
 Q: Hva er merverdiavgift (MVA)?
 
-Spørringsnummer: 17
-I: Kan du forklare meg hva merverdiavgift (MVA) er og hjelpe meg med å forstå det bedre?
+Spørringsnummer: 35
+I: Kan du gi meg en forklaring på hvordan MVA fungerer?
 Q: Hva er merverdiavgift (MVA)?
 
 
 _____________NYTT SPØRSMÅL: Hva er fristen på innsending av skattemelding?_____________
-Spørringsnummer: 18
+Spørringsnummer: 36
 I: Når er siste frist for å levere skattemeldingen?
 Q: Hva er fristen på innsending av skattemelding?
 
-Spørringsnummer: 19
-I: Når er siste frist for å levere skattemeldingen?
+Spørringsnummer: 37
+I: Kan du fortelle meg når den siste fristen er for å sende inn skattemeldingen?
 Q: Hva er fristen på innsending av skattemelding?
 
-Spørringsnummer: 20
-I: Du kan spørre chatboten: "Hvilken dato er siste frist for å levere skattemeldingen?" Det vil gi deg samme informasjon.
+Spørringsnummer: 38
+I: Hva er den endelige datoen for å sende inn skattemeldingen?
 Q: Hva er fristen på innsending av skattemelding?
 
-Spørringsnummer: 21
-I: "Kan du fortelle meg når siste frist er for å sende inn skattemeldingen?"
+Spørringsnummer: 39
+I: Når er siste frist for å sende inn skattemeldingen?
 Q: Hva er fristen på innsending av skattemelding?
 
-Spørringsnummer: 22
-I: "Når er frist for å levere skattemeldingen?"
+Spørringsnummer: 40
+I: Når må skattemeldingen være levert innen?
 Q: Hva er fristen på innsending av skattemelding?
 
-Spørringsnummer: 23
-I: "Kan du fortelle meg når skattemeldingen må leveres inn?"
+Spørringsnummer: 41
+I: Når er den siste fristen for å levere skattemeldingen?
 Q: Hva er fristen på innsending av skattemelding?
 
-Spørringsnummer: 24
-I: "Kan du opplyse meg om fristen for innlevering av skattemeldingen?"
+Spørringsnummer: 42
+I: Hva er den siste fristen for å sende inn skattemeldingen?
 Q: Hva er fristen på innsending av skattemelding?
 
-Spørringsnummer: 25
-I: Kan du fortelle meg når fristen for å levere skattemeldingen er?
+Spørringsnummer: 43
+I: Kan du fortelle meg når skattemeldingen må leveres inn?
 Q: Hva er fristen på innsending av skattemelding?
 
-Spørringsnummer: 26
-I: Kan du gi meg informasjon om fristen for å sende inn skattemeldingen?
+Spørringsnummer: 44
+I: Kan du opplyse meg om fristen for å sende inn skattemeldingen?
 Q: Hva er fristen på innsending av skattemelding?
 
 
 _____________NYTT SPØRSMÅL: Hva er fristen for årsoppgjør?_____________
-Spørringsnummer: 27
-I: Kan du gi meg informasjon om når årsoppgjøret må være ferdig innlevert?
+Spørringsnummer: 45
+I: Kan du fortelle meg når årsoppgjøret må være ferdig?
 Q: Hva er fristen for årsoppgjør?
 
-Spørringsnummer: 28
-I: Kan du fortelle meg når jeg må levere årsregnskapet mitt?
+Spørringsnummer: 46
+I: Hva er den siste datoen for å levere årsoppgjøret?
 Q: Hva er fristen for årsoppgjør?
 
-Spørringsnummer: 29
-I: Når må jeg levere inn årsregnskapet mitt?
+Spørringsnummer: 47
+I: Når er siste frist for å levere årsoppgjøret?
 Q: Hva er fristen for årsoppgjør?
 
-Spørringsnummer: 30
-I: Når er fristen for levering av årsregnskapet mitt?
+Spørringsnummer: 48
+I: Hvilken dato er det siste vi kan levere årsoppgjøret?
 Q: Hva er fristen for årsoppgjør?
 
-Spørringsnummer: 31
-I: Kan du fortelle meg når årsregnskapet mitt må leveres?
+Spørringsnummer: 49
+I: Når er siste frist for å levere årsoppgjøret?
 Q: Hva er fristen for årsoppgjør?
 
-Spørringsnummer: 32
-I: Kan du informere meg om den endelige leveringsfristen for årsregnskapet mitt?
+Spørringsnummer: 50
+I: Når må jeg levere årsoppgjøret?
 Q: Hva er fristen for årsoppgjør?
 
-Spørringsnummer: 33
-I: Hva er den siste fristen for å levere årsregnskapet mitt?
+Spørringsnummer: 51
+I: Når er siste frist for å levere årsoppgjøret?
 Q: Hva er fristen for årsoppgjør?
 
-Spørringsnummer: 34
-I: Hva er den siste fristen for innsending av mitt årsregnskap?
+Spørringsnummer: 52
+I: Kan du fortelle meg når siste frist er for å levere årsoppgjøret?
 Q: Hva er fristen for årsoppgjør?
 
-Spørringsnummer: 35
-I: Hva er den siste fristen for å levere årsregnskapet mitt?
+Spørringsnummer: 53
+I: "Kan du oppgi den siste fristen for å levere årsoppgjøret?"
 Q: Hva er fristen for årsoppgjør?
 
 
 _____________NYTT SPØRSMÅL: Hvordan registrerer jeg et enkeltpersonforetak?_____________
-Spørringsnummer: 36
-I: Hvordan går jeg frem for å opprette et enkeltpersonforetak?
+Spørringsnummer: 54
+I: Hvordan kan jeg registrere mitt enkeltpersonforetak?
 Q: Hvordan registrerer jeg et enkeltpersonforetak?
 
-Spørringsnummer: 37
-I: Hvordan kan jeg starte prosessen med å etablere et enkeltpersonforetak?
+Spørringsnummer: 55
+I: Hvordan går jeg frem for å registrere mitt enkeltpersonsforetak?
 Q: Hvordan registrerer jeg et enkeltpersonforetak?
 
-Spørringsnummer: 38
-I: Hvordan går jeg frem for å opprette enkeltmannsforetak?
+Spørringsnummer: 56
+I: Kan du hjelpe meg med å få informasjon om hvordan jeg kan registrere mitt enkeltpersonsforetak?
 Q: Hvordan registrerer jeg et enkeltpersonforetak?
 
-Spørringsnummer: 39
-I: Hvordan kan jeg starte enkeltmannsforetak?
+Spørringsnummer: 57
+I: Kan du veilede meg gjennom prosessen for å registrere mitt enkeltpersonsforetak?
 Q: Hvordan registrerer jeg et enkeltpersonforetak?
 
-Spørringsnummer: 40
-I: Hvordan går jeg frem for å etablere enkeltmannsforetak?
+Spørringsnummer: 58
+I: Kan du hjelpe meg med å forstå prosessen for å registrere mitt enkeltpersonsforetak?
 Q: Hvordan registrerer jeg et enkeltpersonforetak?
 
-Spørringsnummer: 41
-I: Hvordan kan jeg starte enkeltmannsforetak?
+Spørringsnummer: 59
+I: Kan du veilede meg gjennom prosessen med å registrere mitt enkeltpersonsforetak?
 Q: Hvordan registrerer jeg et enkeltpersonforetak?
 
-Spørringsnummer: 42
-I: Hvordan går jeg frem for å etablere enkeltmannsforetak?
+Spørringsnummer: 60
+I: Kan du hjelpe meg med å forstå hvordan jeg kan registrere mitt enkeltpersonforetak?
 Q: Hvordan registrerer jeg et enkeltpersonforetak?
 
-Spørringsnummer: 43
-I: Hvordan kan jeg starte mitt eget enkeltmannsforetak?
+Spørringsnummer: 61
+I: Kan du veilede meg gjennom prosessen med å registrere mitt enkeltpersonforetak?
 Q: Hvordan registrerer jeg et enkeltpersonforetak?
 
-Spørringsnummer: 44
-I: Hvordan går jeg frem for å opprette mitt eget enkeltpersonsforetak?
+Spørringsnummer: 62
+I: Kan du hjelpe meg med å få veiledning om registrering av mitt enkeltpersonforetak?
 Q: Hvordan registrerer jeg et enkeltpersonforetak?
 
 
 _____________NYTT SPØRSMÅL: Hvordan søker jeg om serveringsbevilling?_____________
-Spørringsnummer: 45
+Spørringsnummer: 63
 I: Hvordan kan jeg søke om serveringsbevilling?
 Q: Hvordan søker jeg om serveringsbevilling?
 
-Spørringsnummer: 46
-I: Hvordan kan jeg få informasjon om å søke om serveringsbevilling?
+Spørringsnummer: 64
+I: Hvordan går jeg frem for å søke om serveringsbevilling?
 Q: Hvordan søker jeg om serveringsbevilling?
 
-Spørringsnummer: 47
-I: Hvordan kan jeg få veiledning og informasjon angående søknad om serveringsbevilling?
+Spørringsnummer: 65
+I: Hvordan kan jeg søke om serveringsbevilling?
 Q: Hvordan søker jeg om serveringsbevilling?
 
-Spørringsnummer: 48
-I: Kan du hjelpe meg med å få veiledning og informasjon angående søknad om serveringsbevilling?
+Spørringsnummer: 66
+I: Hvordan kan jeg søke om tillatelse til å servere alkohol?
 Q: Hvordan søker jeg om serveringsbevilling?
 
-Spørringsnummer: 49
-I: Kan du veilede meg angående søknad om serveringsbevilling?
+Spørringsnummer: 67
+I: Hvordan kan jeg søke om tillatelse til å servere alkohol på mitt serveringssted?
 Q: Hvordan søker jeg om serveringsbevilling?
 
-Spørringsnummer: 50
-I: Kan du hjelpe meg med å forstå prosessen for å søke om serveringsbevilling?
+Spørringsnummer: 68
+I: Hvordan kan jeg søke om tillatelse til å servere alkohol på mitt serveringssted?
 Q: Hvordan søker jeg om serveringsbevilling?
 
-Spørringsnummer: 51
-I: Kan du veilede meg gjennom prosessen med å søke om serveringsbevilling?
+Spørringsnummer: 69
+I: Hvordan kan jeg søke om tillatelse til å servere alkohol på mitt serveringssted?
 Q: Hvordan søker jeg om serveringsbevilling?
 
-Spørringsnummer: 52
-I: Kan du hjelpe meg med å forstå prosessen for å søke om serveringsbevilling?
+Spørringsnummer: 70
+I: Hvordan kan jeg få tillatelse til å selge alkohol på mitt serveringssted?
 Q: Hvordan søker jeg om serveringsbevilling?
 
-Spørringsnummer: 53
-I: Kan du guide meg gjennom prosessen for å søke om serveringsbevilling?
+Spørringsnummer: 71
+I: Hvordan kan jeg få tillatelse til å servere alkohol på mitt sted?
 Q: Hvordan søker jeg om serveringsbevilling?
 
 
 _____________NYTT SPØRSMÅL: Hvordan er søknad for etableringsprøve?_____________
-Spørringsnummer: 54
-I: Jeg trenger informasjon om søknadsprosessen for etableringsprøven. Kan du hjelpe meg med det?
+Spørringsnummer: 72
+I: Kan du gi meg informasjon om hvordan jeg går frem med søknaden for etableringsprøven?
 Q: Hvordan er søknad for etableringsprøve?
 
-Spørringsnummer: 55
-I: Kan du gi meg informasjon om hvordan søknadsprosessen for etableringsprøven foregår?
+Spørringsnummer: 73
+I: Hvordan kan jeg søke om etableringsprøven?
 Q: Hvordan er søknad for etableringsprøve?
 
-Spørringsnummer: 56
-I: Hvordan fungerer søknadsprosessen for etableringsprøven?
-Q: Hvordan er søknad for etableringsprøve?
-
-Spørringsnummer: 57
-I: Kan du forklare meg prosessen for å søke om etableringsprøven?
-Q: Hvordan er søknad for etableringsprøve?
-
-Spørringsnummer: 58
+Spørringsnummer: 74
 I: Hvordan går jeg frem for å søke om etableringsprøven?
 Q: Hvordan er søknad for etableringsprøve?
 
-Spørringsnummer: 59
-I: Hvordan kan jeg gå frem for å søke om etableringsprøven?
-Q: Hvordan er søknad for etableringsprøve?
-
-Spørringsnummer: 60
-I: "Kan du fortelle meg hva som trengs for å søke om etableringsprøven?"
-Q: Hvordan er søknad for etableringsprøve?
-
-Spørringsnummer: 61
-I: "Hvordan går jeg frem for å søke om etableringsprøven?"
-Q: Hvordan er søknad for etableringsprøve?
-
-Spørringsnummer: 62
+Spørringsnummer: 75
 I: "Hvordan kan jeg søke om etableringsprøven?"
+Q: Hvordan er søknad for etableringsprøve?
+
+Spørringsnummer: 76
+I: "Kan du hjelpe meg med informasjon om hvordan jeg kan sende inn søknad for etableringsprøven?"
+Q: Hvordan er søknad for etableringsprøve?
+
+Spørringsnummer: 77
+I: Kan du gi meg veiledning om hvordan jeg kan sende inn søknad for etableringsprøven?
+Q: Hvordan er søknad for etableringsprøve?
+
+Spørringsnummer: 78
+I: Hvordan kan jeg sende inn søknad for etableringsprøven?
+Q: Hvordan er søknad for etableringsprøve?
+
+Spørringsnummer: 79
+I: Hvordan sender jeg inn søknaden for etableringsprøven?
+Q: Hvordan er søknad for etableringsprøve?
+
+Spørringsnummer: 80
+I: Hvordan kan jeg sende inn søknaden for etableringsprøven?
 Q: Hvordan er søknad for etableringsprøve?
 
 
 _____________NYTT SPØRSMÅL: Hvordan søker jeg om registrering av mva?_____________
-Spørringsnummer: 63
+Spørringsnummer: 81
 I: Hvordan kan jeg registrere meg for mva?
 Q: Hvordan søker jeg om registrering av mva?
 
-Spørringsnummer: 64
-I: Kan du hjelpe meg med å finne ut hvordan jeg kan melde meg for mva?
+Spørringsnummer: 82
+I: Hvordan kan jeg søke om registrering for merverdiavgift (mva)?
 Q: Hvordan søker jeg om registrering av mva?
 
-Spørringsnummer: 65
+Spørringsnummer: 83
+I: Hvordan kan jeg registrere meg for merverdiavgift (mva)?
+Q: Hvordan søker jeg om registrering av mva?
+
+Spørringsnummer: 84
+I: Hvordan kan jeg søke om å bli registrert for merverdiavgift (mva)?
+Q: Hvordan søker jeg om registrering av mva?
+
+Spørringsnummer: 85
+I: Hvordan kan jeg registrere meg for merverdiavgift (mva)?
+Q: Hvordan søker jeg om registrering av mva?
+
+Spørringsnummer: 86
+I: "Kan du hjelpe meg med å registrere meg for merverdiavgift (mva)?"
+Q: Hvordan søker jeg om registrering av mva?
+
+Spørringsnummer: 87
+I: "Kan du guide meg gjennom prosessen med å søke om mva-registrering?"
+Q: Hvordan søker jeg om registrering av mva?
+
+Spørringsnummer: 88
+I: "Kan du hjelpe meg med å forstå hvordan jeg kan registrere meg for mva?"
+Q: Hvordan søker jeg om registrering av mva?
+
+Spørringsnummer: 89
 I: Kan du veilede meg gjennom prosessen med å registrere meg for mva?
-Q: Hvordan søker jeg om registrering av mva?
-
-Spørringsnummer: 66
-I: Hvordan går jeg frem for å melde meg for mva-registrering?
-Q: Hvordan søker jeg om registrering av mva?
-
-Spørringsnummer: 67
-I: Hvordan kan jeg registrere meg for mva?
-Q: Hvordan søker jeg om registrering av mva?
-
-Spørringsnummer: 68
-I: Hvordan kan jeg melde meg på for mva-registrering?
-Q: Hvordan søker jeg om registrering av mva?
-
-Spørringsnummer: 69
-I: Hvordan kan jeg registrere meg for mva?
-Q: Hvordan søker jeg om registrering av mva?
-
-Spørringsnummer: 70
-I: Hvordan kan jeg melde meg på for mva-registrering?
-Q: Hvordan søker jeg om registrering av mva?
-
-Spørringsnummer: 71
-I: Hvordan kan jeg registrere meg for mva?
 Q: Hvordan søker jeg om registrering av mva?
 
 
 _____________NYTT SPØRSMÅL: Hvordan utføres omsetningsoppgaven for alkohol?_____________
-Spørringsnummer: 72
-I: Hvordan skal jeg håndtere alkoholrelaterte omsetningsoppgaver?
+Spørringsnummer: 90
+I: Hvordan gjennomføres omsetningsoppgaven for alkohol i regnskapet?
 Q: Hvordan utføres omsetningsoppgaven for alkohol?
 
-Spørringsnummer: 73
-I: Hvordan bør jeg håndtere rapportering av omsetning av alkohol?
+Spørringsnummer: 91
+I: Hvordan behandles omsetningsoppgaven for alkohol i regnskapet?
 Q: Hvordan utføres omsetningsoppgaven for alkohol?
 
-Spørringsnummer: 74
-I: Hvordan skal jeg rapportere salg av alkohol til skattemyndighetene?
+Spørringsnummer: 92
+I: Hvordan håndteres omsetningsoppgaven for alkohol i regnskapet?
 Q: Hvordan utføres omsetningsoppgaven for alkohol?
 
-Spørringsnummer: 75
-I: Hvordan rapporterer jeg salg av alkohol til skattemyndighetene?
+Spørringsnummer: 93
+I: Hvordan behandles alkoholomsetningsoppgaven i regnskapet?
 Q: Hvordan utføres omsetningsoppgaven for alkohol?
 
-Spørringsnummer: 76
-I: Hvordan skal jeg rapportere salget av alkohol til skattemyndighetene?
+Spørringsnummer: 94
+I: Hvordan håndteres regnskapet for salg av alkohol?
 Q: Hvordan utføres omsetningsoppgaven for alkohol?
 
-Spørringsnummer: 77
-I: Hvordan skal jeg rapportere alkoholsalget til skattemyndighetene?
+Spørringsnummer: 95
+I: Hvordan behandles regnskapet for salg av alkohol?
 Q: Hvordan utføres omsetningsoppgaven for alkohol?
 
-Spørringsnummer: 78
-I: Hvordan skal jeg rapportere salget av alkohol til skattemyndighetene?
+Spørringsnummer: 96
+I: Hvordan skal regnskapet for salg av alkohol håndteres?
 Q: Hvordan utføres omsetningsoppgaven for alkohol?
 
-Spørringsnummer: 79
-I: Hvordan skal jeg rapportere alkoholsalget til skattemyndighetene?
+Spørringsnummer: 97
+I: Hvordan behandles regnskapet for salg av alkoholprodukter?
 Q: Hvordan utføres omsetningsoppgaven for alkohol?
 
-Spørringsnummer: 80
-I: Hvordan skal jeg rapportere salget av alkohol til skattemyndighetene?
+Spørringsnummer: 98
+I: Kan du gi meg informasjon om regnskapsbehandlingen for salg av alkoholprodukter?
 Q: Hvordan utføres omsetningsoppgaven for alkohol?
 
 
 _____________NYTT SPØRSMÅL: Hva er fristen for å levere A-meldingen?_____________
-Spørringsnummer: 81
-I: Kan du fortelle meg når fristen for å levere A-meldingen er?
+Spørringsnummer: 99
+I: Hvilken dato må jeg levere A-meldingen innen?
 Q: Hva er fristen for å levere A-meldingen?
 
-Spørringsnummer: 82
-I: Kan du gi meg informasjon om når A-meldingen må leveres innen?
+Spørringsnummer: 100
+I: Når er siste frist for å levere A-meldingen?
 Q: Hva er fristen for å levere A-meldingen?
 
-Spørringsnummer: 83
-I: Kan du fortelle meg hvilken frist jeg må overholde for å levere A-meldingen?
+Spørringsnummer: 101
+I: Kan du fortelle meg når siste frist er for å levere A-meldingen?
 Q: Hva er fristen for å levere A-meldingen?
 
-Spørringsnummer: 84
-I: Hva er den aktuelle fristen for å rapportere A-meldingen?
+Spørringsnummer: 102
+I: Kan du opplyse meg om når siste frist er for å levere A-meldingen?
 Q: Hva er fristen for å levere A-meldingen?
 
-Spørringsnummer: 85
-I: Når er fristen for å rapportere A-meldingen?
+Spørringsnummer: 103
+I: Hva er den siste fristen for å sende inn A-meldingen?
 Q: Hva er fristen for å levere A-meldingen?
 
-Spørringsnummer: 86
-I: Når må A-meldingen rapporteres innen?
-Q: Hva er fristen for å levere A-meldingen?
-
-Spørringsnummer: 87
-I: Når er siste frist for å rapportere inn A-meldingen?
-Q: Hva er fristen for å levere A-meldingen?
-
-Spørringsnummer: 88
-I: Hva er den siste datoen jeg kan sende inn A-meldingen?
-Q: Hva er fristen for å levere A-meldingen?
-
-Spørringsnummer: 89
+Spørringsnummer: 104
 I: Når er siste frist for å sende inn A-meldingen?
+Q: Hva er fristen for å levere A-meldingen?
+
+Spørringsnummer: 105
+I: Når må A-meldingen være levert innen?
+Q: Hva er fristen for å levere A-meldingen?
+
+Spørringsnummer: 106
+I: Kan du fortelle meg innen hvilken dato A-meldingen må være levert?
+Q: Hva er fristen for å levere A-meldingen?
+
+Spørringsnummer: 107
+I: Når må A-meldingen være levert innen?
 Q: Hva er fristen for å levere A-meldingen?
 
 
 _____________NYTT SPØRSMÅL: Hva er timepris for bokføring?_____________
-Spørringsnummer: 90
-I: Hvor mye koster det per time å få utført bokføring?
+Spørringsnummer: 108
+I: Kan du gi meg informasjon om prisen for bokføring per time?
 Q: Hva er timepris for bokføring?
 
-Spørringsnummer: 91
-I: Hva er prisen per time for bokføringstjenester?
+Spørringsnummer: 109
+I: Kan du fortelle meg hva prisen er for regnskapsføring per time?
 Q: Hva er timepris for bokføring?
 
-Spørringsnummer: 92
-I: Hva er kostnaden per time for regnskapstjenestene deres?
+Spørringsnummer: 110
+I: Kan jeg få informasjon om prisen for regnskapsføring per time?
 Q: Hva er timepris for bokføring?
 
-Spørringsnummer: 93
-I: Kan jeg få vite prisen per time for deres regnskapstjenester?
+Spørringsnummer: 111
+I: Kan du gi meg informasjon om kostnaden for regnskapsføring per time?
 Q: Hva er timepris for bokføring?
 
-Spørringsnummer: 94
-I: Hvor mye koster det per time for deres regnskapstjenester?
+Spørringsnummer: 112
+I: Kan du fortelle meg hva regnskapsfirmaet ditt tar per time for regnskapsføring?
 Q: Hva er timepris for bokføring?
 
-Spørringsnummer: 95
-I: Kan du gi meg informasjon om prisene deres for regnskapstjenester per time?
+Spørringsnummer: 113
+I: Hva er prisen per time for regnskapsføring hos deres regnskapsfirma?
 Q: Hva er timepris for bokføring?
 
-Spørringsnummer: 96
-I: Kan du fortelle meg hva deres pris per time er for regnskapstjenester?
+Spørringsnummer: 114
+I: Hva er kostnaden per time for regnskapsføring hos deres regnskapsfirma?
 Q: Hva er timepris for bokføring?
 
-Spørringsnummer: 97
-I: Hva koster regnskapstjenestene deres per time?
+Spørringsnummer: 115
+I: Kan du fortelle meg hva timetaksten er for regnskapsføring hos deres firma?
 Q: Hva er timepris for bokføring?
 
-Spørringsnummer: 98
-I: Kan jeg få prisinformasjon for regnskapstjenestene deres per time?
+Spørringsnummer: 116
+I: Kan du gi meg informasjon om timetaksten for regnskapsføring hos deres firma?
 Q: Hva er timepris for bokføring?
 
 
 _____________NYTT SPØRSMÅL: Hva er pris for registrering av enkeltpresonsforetak?_____________
-Spørringsnummer: 99
-I: Kan du oppgi prisen for å registrere et enkeltpersonsforetak?
+Spørringsnummer: 117
+I: Hvor mye koster det å registrere et enkeltpersonsforetak?
 Q: Hva er pris for registrering av enkeltpresonsforetak?
 
-Spørringsnummer: 100
-I: Kan jeg få en oversikt over kostnadene for å registrere et enkeltpersonsforetak?
+Spørringsnummer: 118
+I: Kan du gi meg informasjon om kostnaden for å registrere et enkeltpersonsforetak?
 Q: Hva er pris for registrering av enkeltpresonsforetak?
 
-Spørringsnummer: 101
-I: Kan du gi meg informasjon om kostnadene for å registrere et enkeltpersonsforetak?
+Spørringsnummer: 119
+I: Kan du fortelle meg hva det koster å registrere et enkeltpersonsforetak?
 Q: Hva er pris for registrering av enkeltpresonsforetak?
 
-Spørringsnummer: 102
-I: Kan du gi meg prisinformasjon for å registrere et enkeltpersonsforetak?
-Q: Hva er pris for registrering av enkeltpresonsforetak?
-
-Spørringsnummer: 103
-I: Kan jeg få informasjon om prisen for å registrere et enkeltpersonsforetak?
-Q: Hva er pris for registrering av enkeltpresonsforetak?
-
-Spørringsnummer: 104
-I: Kan jeg få vite hva det koster å registrere et enkeltpersonsforetak?
-Q: Hva er pris for registrering av enkeltpresonsforetak?
-
-Spørringsnummer: 105
+Spørringsnummer: 120
 I: Hva er kostnaden for å registrere et enkeltpersonsforetak?
 Q: Hva er pris for registrering av enkeltpresonsforetak?
 
-Spørringsnummer: 106
-I: Hva vil det koste å registrere et enkeltpersonsforetak?
+Spørringsnummer: 121
+I: Hvor mye koster det å registrere et enkeltpersonsforetak?
 Q: Hva er pris for registrering av enkeltpresonsforetak?
 
-Spørringsnummer: 107
-I: Kan du gi meg informasjon om kostnadene for å registrere et enkeltpersonsforetak?
+Spørringsnummer: 122
+I: Hva er kostnaden for å registrere et enkeltpersonsforetak?
+Q: Hva er pris for registrering av enkeltpresonsforetak?
+
+Spørringsnummer: 123
+I: Kan du gi meg informasjon om kostnadene ved å registrere et enkeltpersonsforetak?
+Q: Hva er pris for registrering av enkeltpresonsforetak?
+
+Spørringsnummer: 124
+I: Kan du fortelle meg hva kostnadene er for å registrere et enkeltpersonsforetak?
+Q: Hva er pris for registrering av enkeltpresonsforetak?
+
+Spørringsnummer: 125
+I: Kan du gi meg informasjon om kostnadene for å registrere et enkeltpersonforetak?
 Q: Hva er pris for registrering av enkeltpresonsforetak?
 
 
 _____________NYTT SPØRSMÅL: Hva er pris for registrering av aksjeselskap?_____________
-Spørringsnummer: 108
-I: Hvor mye koster det å registrere et aksjeselskap?
-Q: Hva er pris for registrering av aksjeselskap?
-
-Spørringsnummer: 109
-I: Kan du gi meg informasjon om kostnadene for å registrere et aksjeselskap?
-Q: Hva er pris for registrering av aksjeselskap?
-
-Spørringsnummer: 110
-I: Hvor mye koster det å få registrert et aksjeselskap?
-Q: Hva er pris for registrering av aksjeselskap?
-
-Spørringsnummer: 111
-I: Kan du gi meg prisinformasjon for registrering av et aksjeselskap?
-Q: Hva er pris for registrering av aksjeselskap?
-
-Spørringsnummer: 112
+Spørringsnummer: 126
 I: Kan du fortelle meg hva det koster å registrere et aksjeselskap hos dere?
 Q: Hva er pris for registrering av aksjeselskap?
 
-Spørringsnummer: 113
-I: Hva er kostnaden for å få registrert et aksjeselskap hos dere?
+Spørringsnummer: 127
+I: Kan jeg få informasjon om kostnaden for å registrere et aksjeselskap hos dere?
 Q: Hva er pris for registrering av aksjeselskap?
 
-Spørringsnummer: 114
-I: Hva er kostnaden for å få et aksjeselskap registrert hos dere?
+Spørringsnummer: 128
+I: Kan du gi meg informasjon om kostnaden for å etablere et aksjeselskap gjennom deres regnskapsfirma?
 Q: Hva er pris for registrering av aksjeselskap?
 
-Spørringsnummer: 115
-I: Kan jeg få informasjon om kostnaden for å få et aksjeselskap registrert hos dere?
+Spørringsnummer: 129
+I: Hva er kostnaden for å etablere et aksjeselskap gjennom deres regnskapsfirma?
 Q: Hva er pris for registrering av aksjeselskap?
 
-Spørringsnummer: 116
-I: Hva er kostnaden for å få et aksjeselskap registrert hos dere?
+Spørringsnummer: 130
+I: Hva er kostnaden for å opprette et aksjeselskap gjennom deres regnskapsfirma?
+Q: Hva er pris for registrering av aksjeselskap?
+
+Spørringsnummer: 131
+I: Hva er prisen for å etablere et aksjeselskap gjennom deres regnskapsfirma?
+Q: Hva er pris for registrering av aksjeselskap?
+
+Spørringsnummer: 132
+I: Kan du gi meg informasjon om kostnadene for å etablere et aksjeselskap gjennom deres regnskapsfirma?
+Q: Hva er pris for registrering av aksjeselskap?
+
+Spørringsnummer: 133
+I: Hva er kostnaden for å opprette et aksjeselskap gjennom deres regnskapsfirma?
+Q: Hva er pris for registrering av aksjeselskap?
+
+Spørringsnummer: 134
+I: Hva er kostnaden for å etablere et aksjeselskap gjennom deres regnskapsfirma?
 Q: Hva er pris for registrering av aksjeselskap?
 
 
 _____________NYTT SPØRSMÅL: Hva er prisen på årsoppgjør for EPF og Aksje selskap?_____________
-Spørringsnummer: 117
-I: Hvor mye koster det for årsoppgjør for EPF og Aksjeselskap?
+Spørringsnummer: 135
+I: Kan du gi meg informasjon om kostnaden for årsoppgjør for et EPF og et aksjeselskap?
 Q: Hva er prisen på årsoppgjør for EPF og Aksje selskap?
 
-Spørringsnummer: 118
-I: Hvor mye må jeg betale for årsoppgjør for EPF og Aksjeselskapet mitt?
+Spørringsnummer: 136
+I: Kan du fortelle meg hvor mye det koster for å få gjennomført årsoppgjør for et EPF og et aksjeselskap?
 Q: Hva er prisen på årsoppgjør for EPF og Aksje selskap?
 
-Spørringsnummer: 119
-I: Hvor mye koster det for å få årsoppgjør for EPF og Aksjeselskapet mitt?
+Spørringsnummer: 137
+I: Kan jeg få informasjon om kostnaden for å gjennomføre årsoppgjør for et EPF og et aksjeselskap?
 Q: Hva er prisen på årsoppgjør for EPF og Aksje selskap?
 
-Spørringsnummer: 120
-I: Kan jeg få informasjon om kostnadene for å få årsoppgjør for EPF og Aksjeselskapet mitt?
+Spørringsnummer: 138
+I: Kan du gi meg informasjon om kostnaden for å gjennomføre årsoppgjør for et EPF og et aksjeselskap?
 Q: Hva er prisen på årsoppgjør for EPF og Aksje selskap?
 
-Spørringsnummer: 121
-I: Kan du gi meg informasjon om prisene for å få årsoppgjør for EPF og Aksjeselskapet mitt?
+Spørringsnummer: 139
+I: Kan du fortelle meg hva det vil koste å gjennomføre årsoppgjør for et EPF og et aksjeselskap?
 Q: Hva er prisen på årsoppgjør for EPF og Aksje selskap?
 
-Spørringsnummer: 122
-I: Kan du gi meg informasjon angående prisene for å få årsoppgjør for mitt EPF og Aksjeselskap?
+Spørringsnummer: 140
+I: Kan du gi meg informasjon om kostnadene for å gjennomføre årsoppgjør for et EPF og et aksjeselskap?
 Q: Hva er prisen på årsoppgjør for EPF og Aksje selskap?
 
-Spørringsnummer: 123
-I: Hvor mye koster det å få årsoppgjør for mitt EPF og Aksjeselskap?
+Spørringsnummer: 141
+I: Kan du fortelle meg hva kostnadene er for å gjennomføre årsoppgjør for et EPF og et aksjeselskap?
 Q: Hva er prisen på årsoppgjør for EPF og Aksje selskap?
 
-Spørringsnummer: 124
-I: Hva er prisene for å få årsoppgjør for mitt EPF og Aksjeselskap?
+Spørringsnummer: 142
+I: Hva er kostnadene knyttet til gjennomføring av årsoppgjør for et EPF og et aksjeselskap?
 Q: Hva er prisen på årsoppgjør for EPF og Aksje selskap?
 
-Spørringsnummer: 125
-I: Hva koster det å få årsoppgjør for mitt EPF og aksjeselskap?
+Spørringsnummer: 143
+I: Hvor mye koster det å få gjennomført årsoppgjør for EPF og aksjeselskap?
 Q: Hva er prisen på årsoppgjør for EPF og Aksje selskap?
 
 
 _____________NYTT SPØRSMÅL: Hva er forskjellen mellom regnskapsføring og revisjon?_____________
-Spørringsnummer: 126
+Spørringsnummer: 144
 I: Kan du forklare meg forskjellen mellom regnskapsføring og revisjon?
 Q: Hva er forskjellen mellom regnskapsføring og revisjon?
 
-Spørringsnummer: 127
-I: Kan du gi meg en forklaring på forskjellen mellom regnskapsføring og revisjon?
+Spørringsnummer: 145
+I: Kan du hjelpe meg med å forstå forskjellen mellom regnskapsføring og revisjon?
 Q: Hva er forskjellen mellom regnskapsføring og revisjon?
 
-Spørringsnummer: 128
+Spørringsnummer: 146
 I: Kan du forklare meg forskjellen mellom regnskapsføring og revisjon?
 Q: Hva er forskjellen mellom regnskapsføring og revisjon?
 
-Spørringsnummer: 129
-I: Kan du gi meg en forklaring på hvordan regnskapsføring og revisjon skiller seg fra hverandre?
+Spørringsnummer: 147
+I: Kan du gi meg en forklaring på hvordan regnskapsføring skiller seg fra revisjon?
 Q: Hva er forskjellen mellom regnskapsføring og revisjon?
 
-Spørringsnummer: 130
-I: Kan du forklare meg hvordan regnskapsføring og revisjon skiller seg fra hverandre?
+Spørringsnummer: 148
+I: Hva er det som gjør regnskapsføring forskjellig fra revisjon?
 Q: Hva er forskjellen mellom regnskapsføring og revisjon?
 
-Spørringsnummer: 131
-I: Kan du gi meg en oversikt over hvordan regnskapsføring og revisjon skiller seg fra hverandre?
+Spørringsnummer: 149
+I: Hva er det som skiller regnskapsføring fra revisjon?
 Q: Hva er forskjellen mellom regnskapsføring og revisjon?
 
-Spørringsnummer: 132
+Spørringsnummer: 150
+I: Hva er det som skiller regnskapsføring fra revisjon?
+Q: Hva er forskjellen mellom regnskapsføring og revisjon?
+
+Spørringsnummer: 151
 I: Kan du forklare meg forskjellen mellom regnskapsføring og revisjon?
 Q: Hva er forskjellen mellom regnskapsføring og revisjon?
 
-Spørringsnummer: 133
-I: Kan du skissere de viktigste forskjellene mellom regnskapsføring og revisjon?
-Q: Hva er forskjellen mellom regnskapsføring og revisjon?
-
-Spørringsnummer: 134
-I: Kan du beskrive de viktigste forskjellene mellom regnskapsføring og revisjon?
+Spørringsnummer: 152
+I: Kan du beskrive forskjellen mellom regnskapsføring og revisjon?
 Q: Hva er forskjellen mellom regnskapsføring og revisjon?
 
 
 _____________NYTT SPØRSMÅL: Har alle regnskapsplikt?_____________
-Spørringsnummer: 135
-I: Er det obligatorisk for alle å føre regnskap?
+Spørringsnummer: 153
+I: Hva er kravene for å ha regnskapsplikt?
 Q: Har alle regnskapsplikt?
 
-Spørringsnummer: 136
-I: "Er det påkrevd at alle bedrifter må føre regnskap?"
+Spørringsnummer: 154
+I: Hvilke kriterier må være oppfylt for å ha regnskapsplikt?
 Q: Har alle regnskapsplikt?
 
-Spørringsnummer: 137
-I: "Er det obligatorisk for alle bedrifter å ha regnskapsføring?"
+Spørringsnummer: 155
+I: Hva er kravene for å være underlagt regnskapsplikt?
 Q: Har alle regnskapsplikt?
 
-Spørringsnummer: 138
-I: "Er det påkrevd for alle bedrifter å benytte seg av regnskapstjenester?"
+Spørringsnummer: 156
+I: Hvilke virksomheter er omfattet av regnskapsplikt?
 Q: Har alle regnskapsplikt?
 
-Spørringsnummer: 139
-I: "Er det obligatorisk for alle selskaper å benytte seg av regnskapstjenester?"
+Spørringsnummer: 157
+I: Kan du gi meg informasjon om hvilke virksomheter som er pålagt å føre regnskap?
 Q: Har alle regnskapsplikt?
 
-Spørringsnummer: 140
-I: Må alle selskaper bruke regnskapsfirmaer?
+Spørringsnummer: 158
+I: Kan du fortelle meg hvilke bedrifter som er forpliktet til å føre regnskap?
 Q: Har alle regnskapsplikt?
 
-Spørringsnummer: 141
-I: Trenger alle bedrifter å benytte seg av et regnskapsfirma?
+Spørringsnummer: 159
+I: Kan du liste opp de typer bedrifter som må føre regnskap?
 Q: Har alle regnskapsplikt?
 
-Spørringsnummer: 142
-I: Må alle bedrifter bruke et regnskapsfirma?
+Spørringsnummer: 160
+I: Hvilke typer bedrifter må føre regnskap?
 Q: Har alle regnskapsplikt?
 
-Spørringsnummer: 143
-I: "Er det obligatorisk for alle bedrifter å benytte seg av et regnskapsfirma?"
+Spørringsnummer: 161
+I: Hvilke typer bedrifter er unntatt fra regnskapsplikt?
 Q: Har alle regnskapsplikt?
 
 
 _____________NYTT SPØRSMÅL: Hva er bokføringsplikt?_____________
-Spørringsnummer: 144
-I: Kan du forklare meg hva som menes med bokføringsplikt?
+Spørringsnummer: 162
+I: Kan du gi meg informasjon om hva bokføringsplikt innebærer?
 Q: Hva er bokføringsplikt?
 
-Spørringsnummer: 145
-I: Kan du gi meg en forklaring på hva som menes med begrepet bokføringsplikt?
+Spørringsnummer: 163
+I: Kan du fortelle meg mer om hva som kreves når det gjelder bokføringsplikt?
 Q: Hva er bokføringsplikt?
 
-Spørringsnummer: 146
-I: Kan du forklare meg hva begrepet bokføringsplikt innebærer?
+Spørringsnummer: 164
+I: Kan du gi meg mer informasjon om de kravene som gjelder for bokføring?
 Q: Hva er bokføringsplikt?
 
-Spørringsnummer: 147
-I: Kan du beskrive hva det betyr å ha bokføringsplikt?
+Spørringsnummer: 165
+I: Kan du fortelle meg mer om bokføringsplikten og hvilke krav som gjelder?
 Q: Hva er bokføringsplikt?
 
-Spørringsnummer: 148
-I: Kan du gi meg en beskrivelse av hva det innebærer å ha bokføringsplikt?
+Spørringsnummer: 166
+I: Kan du gi meg informasjon om bokføringsplikten og de gjeldende kravene?
 Q: Hva er bokføringsplikt?
 
-Spørringsnummer: 149
-I: Kan du forklare meg hva det innebærer å ha bokføringsplikt?
+Spørringsnummer: 167
+I: Kan du fortelle meg mer om bokføringsplikten og de gjeldende kravene? Hva betyr det å ha bokføringsplikt?
 Q: Hva er bokføringsplikt?
 
-Spørringsnummer: 150
-I: Kan du gi meg en forklaring på hva det innebærer å ha bokføringsplikt?
+Spørringsnummer: 168
+I: Kan du gi meg mer informasjon om bokføringsplikten og de gjeldende kravene? Hva innebærer det å ha bokføringsplikt?
 Q: Hva er bokføringsplikt?
 
-Spørringsnummer: 151
-I: Kan du gi meg en oversikt over de kravene som stilles til meg som bedriftseier når det gjelder bokføring?
+Spørringsnummer: 169
+I: Kan du forklare meg hva det innebærer å ha bokføringsplikt og de gjeldende kravene?
 Q: Hva er bokføringsplikt?
 
-Spørringsnummer: 152
-I: Kan du fortelle meg hva jeg som bedriftseier må huske på når det gjelder bokføring?
+Spørringsnummer: 170
+I: Kan du gi meg informasjon om bokføringsplikt og de kravene som gjelder?
 Q: Hva er bokføringsplikt?
 
 
 _____________NYTT SPØRSMÅL: Kan jeg trekke fra hjemmekontor på skatten?_____________
-Spørringsnummer: 153
-I: Kan jeg få fradrag for hjemmekontor på skatten?
+Spørringsnummer: 171
+I: Kan jeg få fradrag for hjemmekontor på selvangivelsen?
 Q: Kan jeg trekke fra hjemmekontor på skatten?
 
-Spørringsnummer: 154
-I: Kan jeg få skattefradrag for hjemmekontor?
+Spørringsnummer: 172
+I: Kan jeg få skattefradrag for hjemmekontorutgifter på selvangivelsen?
 Q: Kan jeg trekke fra hjemmekontor på skatten?
 
-Spørringsnummer: 155
-I: Kan jeg få fradrag for hjemmekontor på skatten?
+Spørringsnummer: 173
+I: Kan jeg få fradrag for hjemmekontorutgifter på skatten?
 Q: Kan jeg trekke fra hjemmekontor på skatten?
 
-Spørringsnummer: 156
-I: Kan jeg søke om fradrag for utgifter til hjemmekontor når jeg fyller ut selvangivelsen?
+Spørringsnummer: 174
+I: Kan jeg få skattefradrag for utgifter til hjemmekontor?
 Q: Kan jeg trekke fra hjemmekontor på skatten?
 
-Spørringsnummer: 157
-I: Kan jeg få fradrag for utgifter til hjemmekontor når jeg fyller ut selvangivelsen?
+Spørringsnummer: 175
+I: Kan jeg få skattefradrag for utgifter knyttet til hjemmekontor?
 Q: Kan jeg trekke fra hjemmekontor på skatten?
 
-Spørringsnummer: 158
-I: Kan jeg få fradrag for utgifter til hjemmekontor når jeg rapporterer skatt?
+Spørringsnummer: 176
+I: Kan jeg få fradrag for utgifter til hjemmekontor på skatten?
 Q: Kan jeg trekke fra hjemmekontor på skatten?
 
-Spørringsnummer: 159
-I: Kan jeg få fradrag for utgifter til hjemmekontor når jeg rapporterer skatt?
+Spørringsnummer: 177
+I: Kan jeg få skattefradrag for utgifter til hjemmekontor?
 Q: Kan jeg trekke fra hjemmekontor på skatten?
 
-Spørringsnummer: 160
-I: Kan jeg få fradrag for utgifter til hjemmekontor når jeg fyller ut skattemeldingen?
+Spørringsnummer: 178
+I: Kan jeg få fradrag for utgifter til hjemmekontor på skatten?
 Q: Kan jeg trekke fra hjemmekontor på skatten?
 
-Spørringsnummer: 161
-I: Kan jeg få fradrag for utgifter til hjemmekontor når jeg fyller ut skattemeldingen?
+Spørringsnummer: 179
+I: Kan jeg få fradrag for utgifter til hjemmekontor når jeg skal betale skatt?
 Q: Kan jeg trekke fra hjemmekontor på skatten?
 
 
 _____________NYTT SPØRSMÅL: Hva er forskjellen på en balanse og et resultatregnskap?_____________
-Spørringsnummer: 162
+Spørringsnummer: 180
 I: Kan du forklare meg forskjellen mellom en balanse og et resultatregnskap?
 Q: Hva er forskjellen på en balanse og et resultatregnskap?
 
-Spørringsnummer: 163
+Spørringsnummer: 181
+I: Kan du hjelpe meg med å forstå forskjellen mellom en balanse og et resultatregnskap?
+Q: Hva er forskjellen på en balanse og et resultatregnskap?
+
+Spørringsnummer: 182
+I: Kan du gi meg informasjon om forskjellen mellom en balanse og et resultatregnskap?
+Q: Hva er forskjellen på en balanse og et resultatregnskap?
+
+Spørringsnummer: 183
+I: Kan du forklare meg forskjellen mellom en balanse og et resultatregnskap?
+Q: Hva er forskjellen på en balanse og et resultatregnskap?
+
+Spørringsnummer: 184
+I: Kan du hjelpe meg med å forstå forskjellen mellom en balanse og et resultatregnskap?
+Q: Hva er forskjellen på en balanse og et resultatregnskap?
+
+Spørringsnummer: 185
+I: Kan du gi meg informasjon om hvordan en balanse skiller seg fra et resultatregnskap?
+Q: Hva er forskjellen på en balanse og et resultatregnskap?
+
+Spørringsnummer: 186
+I: Kan du forklare meg forskjellen mellom en balanse og et resultatregnskap?
+Q: Hva er forskjellen på en balanse og et resultatregnskap?
+
+Spørringsnummer: 187
+I: Kan du hjelpe meg med å forstå forskjellen mellom en balanse og et resultatregnskap?
+Q: Hva er forskjellen på en balanse og et resultatregnskap?
+
+Spørringsnummer: 188
 I: Kan du gi meg en forklaring på forskjellen mellom en balanse og et resultatregnskap?
-Q: Hva er forskjellen på en balanse og et resultatregnskap?
-
-Spørringsnummer: 164
-I: Kan du hjelpe meg med å forstå forskjellen mellom en balanse og et resultatregnskap?
-Q: Hva er forskjellen på en balanse og et resultatregnskap?
-
-Spørringsnummer: 165
-I: Kan du forklare meg forskjellen mellom en balanse og et resultatregnskap?
-Q: Hva er forskjellen på en balanse og et resultatregnskap?
-
-Spørringsnummer: 166
-I: Kan du gi meg en forklaring på hvordan balansen skiller seg fra et resultatregnskap?
-Q: Hva er forskjellen på en balanse og et resultatregnskap?
-
-Spørringsnummer: 167
-I: Kan du gi meg en forklaring på hvordan balansen er forskjellig fra et resultatregnskap?
-Q: Hva er forskjellen på en balanse og et resultatregnskap?
-
-Spørringsnummer: 168
-I: Kan du forklare hvordan balansen skiller seg fra et resultatregnskap?
-Q: Hva er forskjellen på en balanse og et resultatregnskap?
-
-Spørringsnummer: 169
-I: Kan du hjelpe meg med å forstå forskjellen mellom en balanse og et resultatregnskap?
-Q: Hva er forskjellen på en balanse og et resultatregnskap?
-
-Spørringsnummer: 170
-I: Kan du forklare meg forskjellen mellom en balanse og et resultatregnskap?
 Q: Hva er forskjellen på en balanse og et resultatregnskap?
 
 
 _____________NYTT SPØRSMÅL: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?_____________
-Spørringsnummer: 171
-I: Hvordan kan jeg beregne skatten for mitt enkeltpersonforetak?
-Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-
-Spørringsnummer: 172
-I: Hvordan kan jeg finne ut av skatteberegningen for mitt enkeltpersonforetak?
-Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-
-Spørringsnummer: 173
-I: Hvordan kan jeg få informasjon om skatteberegning for mitt enkeltpersonforetak?
-Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-
-Spørringsnummer: 174
-I: Hvordan kan jeg få hjelp til å beregne skatt for mitt enkeltpersonforetak?
-Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-
-Spørringsnummer: 175
-I: Hvordan kan jeg få assistanse med skatteberegning for mitt enkeltpersonforetak?
-Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-
-Spørringsnummer: 176
-I: Hvordan kan jeg få hjelp med skatteberegning for mitt enkeltpersonforetak?
-Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-
-Spørringsnummer: 177
-I: Hvordan kan jeg få assistanse med skatteberegning for mitt enkeltpersonforetak?
-Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-
-Spørringsnummer: 178
-I: "Kan du hjelpe meg med å beregne skatten for mitt enkeltpersonforetak?"
-Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-
-Spørringsnummer: 179
-I: "Kan du veilede meg gjennom prosessen med å beregne skatten for mitt enkeltpersonforetak?"
-Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
-
-
-_____________NYTT SPØRSMÅL: Er det obligatorisk med revisor?_____________
-Spørringsnummer: 180
-I: Må jeg ha en revisor?
-Q: Er det obligatorisk med revisor?
-
-Spørringsnummer: 181
-I: Trenger jeg en revisor for å føre regnskapet mitt?
-Q: Er det obligatorisk med revisor?
-
-Spørringsnummer: 182
-I: Trenger jeg å ansette en revisor for å føre regnskapet mitt?
-Q: Er det obligatorisk med revisor?
-
-Spørringsnummer: 183
-I: Må jeg ha en revisor for å føre regnskapet mitt?
-Q: Er det obligatorisk med revisor?
-
-Spørringsnummer: 184
-I: Trenger jeg en revisor for å føre regnskapet mitt?
-Q: Er det obligatorisk med revisor?
-
-Spørringsnummer: 185
-I: Trenger jeg å bruke en revisor for å føre regnskapet mitt?
-Q: Er det obligatorisk med revisor?
-
-Spørringsnummer: 186
-I: Trenger jeg å ansette en revisor for å ta seg av regnskapet mitt?
-Q: Er det obligatorisk med revisor?
-
-Spørringsnummer: 187
-I: "Er det nødvendig med en revisor for å ta hånd om mitt regnskap?"
-Q: Er det obligatorisk med revisor?
-
-Spørringsnummer: 188
-I: Trenger jeg å bruke en revisor for mitt regnskap?
-Q: Er det obligatorisk med revisor?
-
-
-_____________NYTT SPØRSMÅL: Hva er åpningstidene deres?_____________
 Spørringsnummer: 189
-I: Kan du fortelle meg når dere er tilgjengelige for kundeservice?
-Q: Hva er åpningstidene deres?
+I: 
+Hvordan kan jeg få informasjon om skatteberegning for mitt enkeltpersonforetak?
+Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
 
 Spørringsnummer: 190
-I: Hva er tidspunktet for når dere kan hjelpe meg med kundeservice?
-Q: Hva er åpningstidene deres?
+I: Kan du hjelpe meg med å få informasjon om skatteberegning for mitt enkeltpersonforetak?
+Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
 
 Spørringsnummer: 191
-I: Kan du fortelle meg når dere er tilgjengelige for kundeservice?
-Q: Hva er åpningstidene deres?
+I: Kan du gi meg informasjon om skatteberegning for mitt enkeltpersonforetak?
+Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
 
 Spørringsnummer: 192
-I: Kan du gi meg informasjon om når dere er tilgjengelige for kundeservice?
-Q: Hva er åpningstidene deres?
+I: Kan du gi meg noen tips om hvordan jeg kan beregne skatten for mitt enkeltpersonforetak?
+Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
 
 Spørringsnummer: 193
-I: Kan du fortelle meg når jeg kan kontakte dere for kundeservice?
-Q: Hva er åpningstidene deres?
+I: Kan du hjelpe meg med å forstå hvordan jeg kan beregne skatten for mitt enkeltpersonforetak?
+Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
 
 Spørringsnummer: 194
-I: Når er dere tilgjengelige for kundeservice?
-Q: Hva er åpningstidene deres?
+I: Kan du veilede meg gjennom prosessen med å beregne skatten for mitt enkeltpersonforetak?
+Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
 
 Spørringsnummer: 195
-I: Kan du fortelle meg når jeg kan få tak i kundeservice?
-Q: Hva er åpningstidene deres?
+I: Kan du hjelpe meg med å forstå hvordan jeg beregner skatten for mitt enkeltpersonforetak?
+Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
 
 Spørringsnummer: 196
-I: Hva er tidspunktene for når jeg kan komme i kontakt med kundeservice?
-Q: Hva er åpningstidene deres?
+I: Kan du veilede meg gjennom prosessen med å beregne skatten for mitt enkeltpersonforetak?
+Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
 
 Spørringsnummer: 197
-I: Kan du gi meg informasjon om når jeg kan kontakte kundeservice?
-Q: Hva er åpningstidene deres?
+I: Kan du hjelpe meg med å forstå hvordan jeg kan beregne skatten for mitt enkeltpersonforetak?
+Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+
+
+_____________NYTT SPØRSMÅL: Er revisor obligatorisk?_____________
+Spørringsnummer: 198
+I: Må jeg ha en revisor for mitt regnskap?
+Q: Er revisor obligatorisk?
+
+Spørringsnummer: 199
+I: Trenger jeg å ha en revisor for mitt regnskap?
+Q: Er revisor obligatorisk?
+
+Spørringsnummer: 200
+I: Er det nødvendig å ha en revisor for mitt regnskap?
+Q: Er revisor obligatorisk?
+
+Spørringsnummer: 201
+I: Trenger jeg å bruke en revisor for regnskapet mitt?
+Q: Er revisor obligatorisk?
+
+Spørringsnummer: 202
+I: Kan jeg håndtere regnskapet mitt selv, eller må jeg bruke en revisor?
+Q: Er revisor obligatorisk?
+
+Spørringsnummer: 203
+I: "Trenger jeg å bruke en revisor, eller kan jeg håndtere regnskapet mitt selv?"
+Q: Er revisor obligatorisk?
+
+Spørringsnummer: 204
+I: "Er det nødvendig for meg å bruke en revisor, eller kan jeg selv administrere regnskapet mitt?"
+Q: Er revisor obligatorisk?
+
+Spørringsnummer: 205
+I: Trenger jeg å ansette en revisor, eller kan jeg håndtere regnskapet mitt selv?
+Q: Er revisor obligatorisk?
+
+Spørringsnummer: 206
+I: Er det nødvendig å ansette en revisor, eller kan jeg selv håndtere regnskapet mitt?
+Q: Er revisor obligatorisk?
+
+
+_____________NYTT SPØRSMÅL: Når har dere åpent?_____________
+Spørringsnummer: 207
+I: Hvilke er deres åpningstider?
+Q: Når har dere åpent?
+
+Spørringsnummer: 208
+I: Kan du gi meg informasjon om når dere er tilgjengelige?
+Q: Når har dere åpent?
+
+Spørringsnummer: 209
+I: Kan jeg få informasjon om når dere er tilgjengelige?
+Q: Når har dere åpent?
+
+Spørringsnummer: 210
+I: Kan du fortelle meg hvilke tidspunkter dere er tilgjengelige?
+Q: Når har dere åpent?
+
+Spørringsnummer: 211
+I: Kan du gi meg informasjon om når regnskapsfirmaet er tilgjengelig?
+Q: Når har dere åpent?
+
+Spørringsnummer: 212
+I: Kan jeg få informasjon angående arbeidstidene for regnskapsfirmaet?
+Q: Når har dere åpent?
+
+Spørringsnummer: 213
+I: Kan du gi meg informasjon om regnskapsfirmaets arbeidstider?
+Q: Når har dere åpent?
+
+Spørringsnummer: 214
+I: Kan du fortelle meg når regnskapsfirmaet har åpent?
+Q: Når har dere åpent?
+
+Spørringsnummer: 215
+I: Hva er åpningstidene for regnskapsfirmaet ditt?
+Q: Når har dere åpent?
 
 
 _____________NYTT SPØRSMÅL: Tilbyr dere bistand med selvangivelsen?_____________
-Spørringsnummer: 198
+Spørringsnummer: 216
 I: Kan dere hjelpe meg med å fylle ut selvangivelsen?
 Q: Tilbyr dere bistand med selvangivelsen?
 
-Spørringsnummer: 199
-I: Kan dere assistere meg med utfylling av selvangivelsen?
+Spørringsnummer: 217
+I: Kan dere assistere meg med å fullføre min selvangivelse?
 Q: Tilbyr dere bistand med selvangivelsen?
 
-Spørringsnummer: 200
-I: Kan dere hjelpe meg med å fylle ut selvangivelsen?
+Spørringsnummer: 218
+I: Kan dere hjelpe meg med å avslutte selvangivelsen min?
 Q: Tilbyr dere bistand med selvangivelsen?
 
-Spørringsnummer: 201
-I: Kan dere hjelpe meg med å fylle ut skattemeldingen?
+Spørringsnummer: 219
+I: Kan dere assistere meg med å fullføre selvangivelsen min?
 Q: Tilbyr dere bistand med selvangivelsen?
 
-Spørringsnummer: 202
-I: Kan jeg få hjelp med utfylling av skattemeldingen hos dere?
+Spørringsnummer: 220
+I: Kan dere hjelpe meg med å fylle ut selvangivelsen min?
 Q: Tilbyr dere bistand med selvangivelsen?
 
-Spørringsnummer: 203
-I: Kan dere hjelpe meg med å fylle ut skattemeldingen?
+Spørringsnummer: 221
+I: Kan dere assistere meg med å fullføre min selvangivelse?
 Q: Tilbyr dere bistand med selvangivelsen?
 
-Spørringsnummer: 204
-I: Kan dere veilede meg i utfylling av skattemeldingen?
+Spørringsnummer: 222
+I: Kan dere hjelpe meg med å ferdigstille min selvangivelse?
 Q: Tilbyr dere bistand med selvangivelsen?
 
-Spørringsnummer: 205
-I: Kan dere hjelpe meg med å fylle ut skattemeldingen?
+Spørringsnummer: 223
+I: Kan dere assistere meg med å fullføre min skattemelding?
 Q: Tilbyr dere bistand med selvangivelsen?
 
-Spørringsnummer: 206
-I: Kan dere assistere meg med å utfylle skattemeldingen?
+Spørringsnummer: 224
+I: Kan dere hjelpe meg med å ferdigstille skattemeldingen min?
 Q: Tilbyr dere bistand med selvangivelsen?
 
 
 _____________NYTT SPØRSMÅL: Kan dere hjelpe til med lønnstjenester?_____________
-Spørringsnummer: 207
+Spørringsnummer: 225
+I: Kan dere bistå med lønnsadministrasjon?
+Q: Kan dere hjelpe til med lønnstjenester?
+
+Spørringsnummer: 226
+I: Kan dere hjelpe med å administrere lønnen?
+Q: Kan dere hjelpe til med lønnstjenester?
+
+Spørringsnummer: 227
 I: Kan dere assistere med lønnsadministrasjon?
 Q: Kan dere hjelpe til med lønnstjenester?
 
-Spørringsnummer: 208
-I: Kan dere være behjelpelige med lønnsadministrasjon?
+Spørringsnummer: 228
+I: Kan dere bidra med lønnsadministrasjon?
 Q: Kan dere hjelpe til med lønnstjenester?
 
-Spørringsnummer: 209
-I: Kan dere assistere med lønnsadministrasjonen?
+Spørringsnummer: 229
+I: Kan dere håndtere lønnsadministrasjon for bedriften min?
 Q: Kan dere hjelpe til med lønnstjenester?
 
-Spørringsnummer: 210
-I: Kan dere bistå med lønnsadministrasjonstjenester?
+Spørringsnummer: 230
+I: Kan dere utføre lønnsadministrasjon for min bedrift?
 Q: Kan dere hjelpe til med lønnstjenester?
 
-Spørringsnummer: 211
-I: Kan dere hjelpe til med administrasjon av lønn?
+Spørringsnummer: 231
+I: Kan dere ta hånd om lønnsadministrasjonen for min bedrift?
 Q: Kan dere hjelpe til med lønnstjenester?
 
-Spørringsnummer: 212
-I: Kan dere assistere med lønnsadministrasjon?
+Spørringsnummer: 232
+I: Kan dere hjelpe til med håndtering av lønnsadministrasjonen for min bedrift?
 Q: Kan dere hjelpe til med lønnstjenester?
 
-Spørringsnummer: 213
-I: Kan dere bidra med lønnsadministrasjonstjenester?
-Q: Kan dere hjelpe til med lønnstjenester?
-
-Spørringsnummer: 214
-I: Kan dere assistere med lønnsadministrasjonstjenester?
-Q: Kan dere hjelpe til med lønnstjenester?
-
-Spørringsnummer: 215
-I: Kan dere tilby assistanse innen lønnsadministrasjon?
+Spørringsnummer: 233
+I: Kan dere assistere med administrasjon av lønn for min bedrift?
 Q: Kan dere hjelpe til med lønnstjenester?
 
 
 _____________NYTT SPØRSMÅL: Hvor er kontoret deres lokalisert?_____________
-Spørringsnummer: 216
-I: Kan du fortelle meg hvor regnskapsfirmaet deres holder til?
+Spørringsnummer: 234
+I: Hvor ligger deres kontor?
 Q: Hvor er kontoret deres lokalisert?
 
-Spørringsnummer: 217
-I: Kan du gi meg adressen til regnskapsfirmaet deres?
+Spørringsnummer: 235
+I: Kan du fortelle meg hvor deres kontor er?
 Q: Hvor er kontoret deres lokalisert?
 
-Spørringsnummer: 218
-I: Kan du fortelle meg hvor regnskapsfirmaet deres ligger?
+Spørringsnummer: 236
+I: Kan jeg få vite hvor deres kontor er plassert?
 Q: Hvor er kontoret deres lokalisert?
 
-Spørringsnummer: 219
-I: Kan jeg få vite hvor regnskapsfirmaet deres er plassert?
+Spørringsnummer: 237
+I: Kan du fortelle meg hvor jeg kan finne deres kontor?
 Q: Hvor er kontoret deres lokalisert?
 
-Spørringsnummer: 220
-I: Kan du fortelle meg hvor regnskapsfirmaet deres er plassert?
+Spørringsnummer: 238
+I: Kan du hjelpe meg med å finne adressen til deres kontor?
 Q: Hvor er kontoret deres lokalisert?
 
-Spørringsnummer: 221
-I: Kan jeg få informasjon om hvor regnskapsfirmaet deres holder til?
+Spørringsnummer: 239
+I: Kan du fortelle meg hvor kontoret deres ligger?
 Q: Hvor er kontoret deres lokalisert?
 
-Spørringsnummer: 222
-I: Kan du gi meg informasjon om hvor regnskapsfirmaet deres holder til?
+Spørringsnummer: 240
+I: Kan du gi meg informasjon om beliggenheten til deres kontor?
 Q: Hvor er kontoret deres lokalisert?
 
-Spørringsnummer: 223
-I: Kan du fortelle meg hvor regnskapsfirmaet deres holder til?
+Spørringsnummer: 241
+I: Kan du fortelle meg hvor deres kontor er plassert?
 Q: Hvor er kontoret deres lokalisert?
 
-Spørringsnummer: 224
-I: Kan du gi meg informasjon om beliggenheten til regnskapsfirmaet deres?
+Spørringsnummer: 242
+I: Kan du gi meg informasjon om hvor regnskapsfirmaet deres ligger?
 Q: Hvor er kontoret deres lokalisert?
 
 
 _____________NYTT SPØRSMÅL: Tilbyr dere rådgivning for småbedrifter?_____________
-Spørringsnummer: 225
-I: Kan dere gi rådgivning til småbedrifter?
+Spørringsnummer: 243
+I: Kan jeg få informasjon om muligheten for å få rådgivning for småbedrifter hos dere?
 Q: Tilbyr dere rådgivning for småbedrifter?
 
-Spørringsnummer: 226
-I: Kan dere hjelpe småbedrifter med rådgivning?
+Spørringsnummer: 244
+I: Kan dere gi meg informasjon om rådgivningstjenester for småbedrifter?
 Q: Tilbyr dere rådgivning for småbedrifter?
 
-Spørringsnummer: 227
-I: Kan dere gi rådgivning til småbedrifter?
+Spørringsnummer: 245
+I: Kan dere hjelpe meg med informasjon om rådgivningstjenester for småbedrifter?
 Q: Tilbyr dere rådgivning for småbedrifter?
 
-Spørringsnummer: 228
-I: Kan dere hjelpe småbedrifter med rådgivning?
+Spørringsnummer: 246
+I: Kan dere gi meg informasjon om hvilke rådgivningstjenester dere tilbyr for småbedrifter?
 Q: Tilbyr dere rådgivning for småbedrifter?
 
-Spørringsnummer: 229
-I: Kan dere assistere småbedrifter med rådgivning?
+Spørringsnummer: 247
+I: Kan jeg få informasjon om hvilke former for rådgivning dere tilbyr for småbedrifter?
 Q: Tilbyr dere rådgivning for småbedrifter?
 
-Spørringsnummer: 230
-I: Kan dere hjelpe småbedrifter med rådgivning?
+Spørringsnummer: 248
+I: Kan dere gi meg informasjon om hvilke former for rådgivning dere tilbyr for småbedrifter?
 Q: Tilbyr dere rådgivning for småbedrifter?
 
-Spørringsnummer: 231
-I: Er det mulig å få hjelp med rådgivning for småbedrifter hos dere?
+Spørringsnummer: 249
+I: Kan dere fortelle meg om hvilke typer rådgivning deres regnskapsfirma tilbyr for småbedrifter?
 Q: Tilbyr dere rådgivning for småbedrifter?
 
-Spørringsnummer: 232
-I: Kan dere hjelpe med rådgivning for småbedrifter hos deres regnskapsfirma?
+Spørringsnummer: 250
+I: Kan dere gi meg informasjon om hvilke former for rådgivning deres regnskapsfirma tilbyr for småbedrifter?
 Q: Tilbyr dere rådgivning for småbedrifter?
 
-Spørringsnummer: 233
-I: Kan dere gi rådgivning til småbedrifter hos deres regnskapsfirma?
+Spørringsnummer: 251
+I: Kan dere fortelle meg om hvilke former for rådgivning deres regnskapsfirma tilbyr for småbedrifter?
 Q: Tilbyr dere rådgivning for småbedrifter?
 
 
 _____________NYTT SPØRSMÅL: Hvordan kan jeg bestille en konsultasjon?_____________
-Spørringsnummer: 234
-I: Hvordan går jeg frem for å avtale en konsultasjon med regnskapsfirmaet?
+Spørringsnummer: 252
+I: Hvordan kan jeg avtale en konsultasjon med dere?
 Q: Hvordan kan jeg bestille en konsultasjon?
 
-Spørringsnummer: 235
-I: Hvordan kan jeg avtale en konsultasjon med regnskapsfirmaet?
+Spørringsnummer: 253
+I: Hvordan kan jeg planlegge å møtes med dere for en konsultasjon?
 Q: Hvordan kan jeg bestille en konsultasjon?
 
-Spørringsnummer: 236
-I: Hvordan kan jeg få en avtale for en konsultasjon med regnskapsfirmaet?
+Spørringsnummer: 254
+I: Hvordan kan jeg avtale et møte med dere for en konsultasjon?
 Q: Hvordan kan jeg bestille en konsultasjon?
 
-Spørringsnummer: 237
-I: Hvordan kan jeg avtale en konsultasjon med regnskapsfirmaet?
+Spørringsnummer: 255
+I: Hvordan kan jeg planlegge et møte med dere for å diskutere mine regnskapsbehov?
 Q: Hvordan kan jeg bestille en konsultasjon?
 
-Spørringsnummer: 238
-I: Hvordan går jeg frem for å avtale en konsultasjon med regnskapsfirmaet?
+Spørringsnummer: 256
+I: Hvordan kan jeg avtale et møte med dere for å gå gjennom mine regnskapsbehov?
 Q: Hvordan kan jeg bestille en konsultasjon?
 
-Spørringsnummer: 239
-I: Hvordan kan jeg avtale et møte med regnskapsfirmaet for konsultasjon?
+Spørringsnummer: 257
+I: Hvordan kan jeg planlegge en gjennomgang av mine regnskapsbehov med dere?
 Q: Hvordan kan jeg bestille en konsultasjon?
 
-Spørringsnummer: 240
-I: Hvordan kan jeg planlegge en avtale for å diskutere mine regnskapsbehov?
+Spørringsnummer: 258
+I: Hvordan kan jeg avtale en time for gjennomgang av mine regnskapsbehov med dere?
 Q: Hvordan kan jeg bestille en konsultasjon?
 
-Spørringsnummer: 241
-I: Hvordan kan jeg avtale en time for å få råd om mine regnskapsbehov?
+Spørringsnummer: 259
+I: Hvordan kan jeg planlegge en avtale for å diskutere mine regnskapsbehov med deres firma?
 Q: Hvordan kan jeg bestille en konsultasjon?
 
-Spørringsnummer: 242
-I: Hvordan kan jeg få en avtale for å diskutere mine regnskapsbehov?
+Spørringsnummer: 260
+I: Hvordan kan jeg avtale en møtetid for å diskutere mine regnskapsbehov med deres firma?
 Q: Hvordan kan jeg bestille en konsultasjon?
 
 
 _____________NYTT SPØRSMÅL: Er dere erfarne med internasjonal skatterådgivning?_____________
-Spørringsnummer: 243
-I: Har dere kunnskap om internasjonal skatterådgivning?
+Spørringsnummer: 261
+I: Har dere kompetanse innen internasjonal skatterådgivning?
 Q: Er dere erfarne med internasjonal skatterådgivning?
 
-Spørringsnummer: 244
-I: Kan dere gi meg informasjon om internasjonal skatterådgivning?
+Spørringsnummer: 262
+I:  Har deres regnskapsfirma kunnskap og erfaring med internasjonal skatterådgivning?
 Q: Er dere erfarne med internasjonal skatterådgivning?
 
-Spørringsnummer: 245
-I: Kan dere hjelpe meg med internasjonal skatterådgivning?
+Spørringsnummer: 263
+I: Har deres regnskapsfirma kunnskap om og erfaring med internasjonal skatterådgivning?
 Q: Er dere erfarne med internasjonal skatterådgivning?
 
-Spørringsnummer: 246
-I: Kan dere tilby assistanse med internasjonale skatterådgivningstjenester?
+Spørringsnummer: 264
+I: Har dere kompetanse og erfaring innen internasjonal skatterådgivning?
 Q: Er dere erfarne med internasjonal skatterådgivning?
 
-Spørringsnummer: 247
-I: Kan dere hjelpe med internasjonale skatterådgivningstjenester?
+Spørringsnummer: 265
+I: Har dere kunnskap og erfaring med internasjonal skatteplanlegging?
 Q: Er dere erfarne med internasjonal skatterådgivning?
 
-Spørringsnummer: 248
-I: Kan dere tilby assistanse med internasjonal skatterådgivningstjenester?
+Spørringsnummer: 266
+I: Kan dere hjelpe meg med internasjonal skatteplanlegging, og har dere erfaring med det området?
 Q: Er dere erfarne med internasjonal skatterådgivning?
 
-Spørringsnummer: 249
-I: Kan dere hjelpe med internasjonal skatteplanleggingstjenester?
+Spørringsnummer: 267
+I: Kan dere assistere meg med planlegging av internasjonal skatt, og har dere erfaring innen dette området?
 Q: Er dere erfarne med internasjonal skatterådgivning?
 
-Spørringsnummer: 250
-I: Kan dere tilby tjenester innen internasjonal skatteplanlegging?
+Spørringsnummer: 268
+I: Kan dere hjelpe meg med å planlegge internasjonal skatt, og har dere erfaring med dette området?
 Q: Er dere erfarne med internasjonal skatterådgivning?
 
-Spørringsnummer: 251
-I: Kan dere hjelpe med internasjonale skatteavtaler og planlegging?
+Spørringsnummer: 269
+I: Kan dere bidra med planlegging av internasjonal skatt, og har dere erfaring innen dette området?
 Q: Er dere erfarne med internasjonal skatterådgivning?
 
 
 _____________NYTT SPØRSMÅL: Tilbyr dere digitale regnskapstjenester?_____________
-Spørringsnummer: 252
-I: 
-Kan jeg få informasjon om deres digitale regnskapstjenester?
+Spørringsnummer: 270
+I: Tilbyr dere regnskapstjenester online?
 Q: Tilbyr dere digitale regnskapstjenester?
 
-Spørringsnummer: 253
-I: Kan dere fortelle meg mer om deres digitale regnskapstjenester?
+Spørringsnummer: 271
+I: Har dere mulighet for å tilby regnskapstjenester på nettet?
 Q: Tilbyr dere digitale regnskapstjenester?
 
-Spørringsnummer: 254
-I: Kan dere gi meg mer informasjon om deres regnskapstjenester som er tilgjengelige digitalt?
+Spørringsnummer: 272
+I: Kan dere hjelpe meg med regnskapstjenester via nettet?
 Q: Tilbyr dere digitale regnskapstjenester?
 
-Spørringsnummer: 255
-I: Kan jeg få mer informasjon om regnskapstjenestene deres som er tilgjengelige digitalt?
+Spørringsnummer: 273
+I: Kan jeg få assistanse med regnskapstjenester ved hjelp av nettbaserte løsninger?
 Q: Tilbyr dere digitale regnskapstjenester?
 
-Spørringsnummer: 256
-I: Kan dere gi meg mer informasjon om de regnskapstjenestene dere tilbyr digitalt?
+Spørringsnummer: 274
+I: Kan jeg få hjelp med regnskapstjenester ved hjelp av nettbaserte løsninger?
 Q: Tilbyr dere digitale regnskapstjenester?
 
-Spørringsnummer: 257
-I: Kan jeg få mer informasjon om de digitale regnskapstjenestene dere tilbyr?
+Spørringsnummer: 275
+I: Er det mulig å få assistanse med regnskapstjenester ved hjelp av nettbaserte løsninger?
 Q: Tilbyr dere digitale regnskapstjenester?
 
-Spørringsnummer: 258
-I: Kan dere fortelle mer om deres digitale regnskapstjenester?
+Spørringsnummer: 276
+I: Kan dere hjelpe meg med regnskap ved bruk av nettbaserte løsninger?
 Q: Tilbyr dere digitale regnskapstjenester?
 
-Spørringsnummer: 259
-I: Kan jeg få mer informasjon om deres online regnskapstjenester?
+Spørringsnummer: 277
+I: Kan dere assistere meg med regnskapsføring gjennom nettbaserte løsninger?
 Q: Tilbyr dere digitale regnskapstjenester?
 
-Spørringsnummer: 260
-I: Kan dere gi meg mer informasjon om deres regnskapstjenester som tilbys online?
+Spørringsnummer: 278
+I: Kan dere hjelpe meg med regnskapsføring ved bruk av nettbaserte løsninger?
 Q: Tilbyr dere digitale regnskapstjenester?
 
 
-_____________NYTT SPØRSMÅL: Hvilke tjenester tilbyr deres firma?_____________
-Spørringsnummer: 261
-I: Kan du gi meg en oversikt over hvilke tjenester deres regnskapsfirma tilbyr?
-Q: Hvilke tjenester tilbyr deres firma?
+_____________NYTT SPØRSMÅL: Hvilke tjenester tilbyr dere?_____________
+Spørringsnummer: 279
+I: Kan du gi meg en oversikt over hvilke tjenester regnskapsfirmaet deres tilbyr?
+Q: Hvilke tjenester tilbyr dere?
 
-Spørringsnummer: 262
-I: Jeg vil gjerne vite mer om hvilke tjenester dere tilbyr som regnskapsfirma. Kan du gi meg en oversikt over dette?
-Q: Hvilke tjenester tilbyr deres firma?
+Spørringsnummer: 280
+I: Kan du fortelle meg hva slags tjenester regnskapsfirmaet deres har?
+Q: Hvilke tjenester tilbyr dere?
 
-Spørringsnummer: 263
-I: Kan du gi meg en oversikt over tjenestene deres som regnskapsfirma?
-Q: Hvilke tjenester tilbyr deres firma?
-
-Spørringsnummer: 264
-I: Kan du fortelle meg hva slags tjenester regnskapsfirmaet deres tilbyr?
-Q: Hvilke tjenester tilbyr deres firma?
-
-Spørringsnummer: 265
+Spørringsnummer: 281
 I: Kan du gi meg informasjon om hvilke tjenester regnskapsfirmaet deres tilbyr?
-Q: Hvilke tjenester tilbyr deres firma?
+Q: Hvilke tjenester tilbyr dere?
 
-Spørringsnummer: 266
-I: Kan du fortelle meg om de ulike tjenestene regnskapsfirmaet deres tilbyr?
-Q: Hvilke tjenester tilbyr deres firma?
+Spørringsnummer: 282
+I: Kan du fortelle meg mer om hvilke tjenester regnskapsfirmaet deres har tilgjengelig?
+Q: Hvilke tjenester tilbyr dere?
 
-Spørringsnummer: 267
-I: Kan du gi meg informasjon om de forskjellige tjenestene regnskapsfirmaet deres tilbyr?
-Q: Hvilke tjenester tilbyr deres firma?
+Spørringsnummer: 283
+I: Kan du gi meg en oversikt over hvilke tjenester regnskapsfirmaet deres tilbyr?
+Q: Hvilke tjenester tilbyr dere?
 
-Spørringsnummer: 268
-I: Kan du fortelle meg hva slags tjenester regnskapsfirmaet ditt tilbyr?
-Q: Hvilke tjenester tilbyr deres firma?
+Spørringsnummer: 284
+I: Kan jeg få en liste over hvilke tjenester regnskapsfirmaet deres tilbyr?
+Q: Hvilke tjenester tilbyr dere?
 
-Spørringsnummer: 269
-I: Kan du gi meg informasjon om tjenestene regnskapsfirmaet ditt tilbyr?
-Q: Hvilke tjenester tilbyr deres firma?
+Spørringsnummer: 285
+I: Kan dere fortelle meg hvilke tjenester regnskapsfirmaet deres tilbyr?
+Q: Hvilke tjenester tilbyr dere?
+
+Spørringsnummer: 286
+I: Kan du gi meg en oversikt over hvilke tjenester regnskapsfirmaet deres tilbyr?
+Q: Hvilke tjenester tilbyr dere?
+
+Spørringsnummer: 287
+I: Kan du beskrive hvilke tjenester regnskapsfirmaet deres tilbyr?
+Q: Hvilke tjenester tilbyr dere?
+
+
+_____________NYTT SPØRSMÅL: Tilbyr dere tjenester for leger og tannleger?_____________
+Spørringsnummer: 288
+I: Kan dere hjelpe regnskapstjenester til helsepersonell som leger og tannleger?
+Q: Tilbyr dere tjenester for leger og tannleger?
+
+Spørringsnummer: 289
+I: Kan dere assistere med regnskapstjenester for helsepersonell som leger og tannleger?
+Q: Tilbyr dere tjenester for leger og tannleger?
+
+Spørringsnummer: 290
+I: Kan dere hjelpe med regnskapsføring for helsepersonell som leger og tannleger?
+Q: Tilbyr dere tjenester for leger og tannleger?
+
+Spørringsnummer: 291
+I: Kan jeg få hjelp til regnskapsføring for helsepersonell som leger og tannleger hos dere?
+Q: Tilbyr dere tjenester for leger og tannleger?
+
+Spørringsnummer: 292
+I: Kan dere hjelpe med regnskapsføring for helsepersonell som leger og tannleger?
+Q: Tilbyr dere tjenester for leger og tannleger?
+
+Spørringsnummer: 293
+I: Kan dere assistere med regnskapsføring for helsepersonell som leger og tannleger?
+Q: Tilbyr dere tjenester for leger og tannleger?
+
+Spørringsnummer: 294
+I: Kan dere hjelpe med regnskapsføring for helsepersonell som leger og tannleger?
+Q: Tilbyr dere tjenester for leger og tannleger?
+
+Spørringsnummer: 295
+I: Kan dere assistere med regnskapsførsel for helsepersonell som leger og tannleger?
+Q: Tilbyr dere tjenester for leger og tannleger?
+
+Spørringsnummer: 296
+I: Kan dere hjelpe med regnskapsførsel for helsepersonell som leger og tannleger?
+Q: Tilbyr dere tjenester for leger og tannleger?
+
+
+_____________NYTT SPØRSMÅL: Hva er telefonnummeret deres?_____________
+Spørringsnummer: 297
+I: Kan jeg få telefonnummeret deres?
+Q: Hva er telefonnummeret deres?
+
+Spørringsnummer: 298
+I: Kan jeg få kontaktinformasjonen deres?
+Q: Hva er telefonnummeret deres?
+
+Spørringsnummer: 299
+I: Kan jeg kontakte dere på telefon?
+Q: Hva er telefonnummeret deres?
+
+Spørringsnummer: 300
+I: Er det mulig å ringe dere for å snakke med en av deres representanter? Hva er telefonnummeret deres?
+Q: Hva er telefonnummeret deres?
+
+Spørringsnummer: 301
+I: Kan jeg få tak i telefonnummeret deres for å snakke med en av deres representanter?
+Q: Hva er telefonnummeret deres?
+
+Spørringsnummer: 302
+I: Kan jeg ringe dere for å snakke med en av deres representanter?
+Q: Hva er telefonnummeret deres?
+
+Spørringsnummer: 303
+I: Kan jeg få kontaktinformasjonen deres for å snakke med en av deres representanter?
+Q: Hva er telefonnummeret deres?
+
+Spørringsnummer: 304
+I: Kan jeg få telefonnummeret til en av deres representanter for å snakke med dem direkte?
+Q: Hva er telefonnummeret deres?
+
+Spørringsnummer: 305
+I: Kan jeg snakke med en av deres representanter direkte?
+Q: Hva er telefonnummeret deres?
+
+
+_____________NYTT SPØRSMÅL: Hva er e-posten deres?_____________
+Spørringsnummer: 306
+I: Kan jeg få kontaktinformasjonen deres, spesifikt e-postadressen deres?
+Q: Hva er e-posten deres?
+
+Spørringsnummer: 307
+I: Hva er den beste måten å kontakte dere på, spesifikt via e-post?
+Q: Hva er e-posten deres?
+
+Spørringsnummer: 308
+I: Hvordan kan jeg nå dere via e-post?
+Q: Hva er e-posten deres?
+
+Spørringsnummer: 309
+I: Hvordan kan jeg kontakte dere via e-post?
+Q: Hva er e-posten deres?
+
+Spørringsnummer: 310
+I: Hvordan kan jeg nå dere via e-post?
+Q: Hva er e-posten deres?
+
+Spørringsnummer: 311
+I: Hvordan kan jeg kontakte dere via e-post?
+Q: Hva er e-posten deres?
+
+Spørringsnummer: 312
+I: "Hvordan kan jeg nå dere via e-post?"
+Q: Hva er e-posten deres?
+
+Spørringsnummer: 313
+I: "Kan du gi meg deres e-postadresse for kontakt?"
+Q: Hva er e-posten deres?
+
+Spørringsnummer: 314
+I: "Kan jeg få tak i deres kontakt-e-post?"
+Q: Hva er e-posten deres?
+
+
+_____________NYTT SPØRSMÅL: Hvordan kan jeg kontakte dere?_____________
+Spørringsnummer: 315
+I: Hvordan kan jeg komme i kontakt med dere?
+Q: Hvordan kan jeg kontakte dere?
+
+Spørringsnummer: 316
+I: Hvordan kan jeg få tak i dere?
+Q: Hvordan kan jeg kontakte dere?
+
+Spørringsnummer: 317
+I: Hvordan kan jeg komme i kontakt med dere?
+Q: Hvordan kan jeg kontakte dere?
+
+Spørringsnummer: 318
+I: Hvordan kan jeg nå ut til dere?
+Q: Hvordan kan jeg kontakte dere?
+
+Spørringsnummer: 319
+I: Hvordan kan jeg komme i kontakt med dere?
+Q: Hvordan kan jeg kontakte dere?
+
+Spørringsnummer: 320
+I: Hvordan kan jeg nå regnskapsfirmaet deres for å få mer informasjon?
+Q: Hvordan kan jeg kontakte dere?
+
+Spørringsnummer: 321
+I: Hvordan kan jeg komme i kontakt med deres regnskapsfirma for å få mer informasjon?
+Q: Hvordan kan jeg kontakte dere?
+
+Spørringsnummer: 322
+I: Hvordan kan jeg få mer informasjon om deres regnskapstjenester?
+Q: Hvordan kan jeg kontakte dere?
+
+Spørringsnummer: 323
+I: Kan du gi meg informasjon om hvordan jeg kan lære mer om deres regnskapstjenester?
+Kan du fortelle meg hvordan jeg kan komme i kontakt med dere?
+Q: Hvordan kan jeg kontakte dere?
+
+
+_____________NYTT SPØRSMÅL: Hva heter du?_____________
+Spørringsnummer: 324
+I: Kan jeg få vite navnet ditt?
+Q: Hva heter du?
+
+Spørringsnummer: 325
+I: Kan jeg få vite hva du heter?
+Q: Hva heter du?
+
+Spørringsnummer: 326
+I: Kan jeg få vite hva ditt navn er?
+Q: Hva heter du?
+
+Spørringsnummer: 327
+I: Kan jeg få vite hva jeg kan kalle deg?
+Q: Hva heter du?
+
+Spørringsnummer: 328
+I: Hva er ditt navn?
+Q: Hva heter du?
+
+Spørringsnummer: 329
+I: Kan du vennligst oppgi navnet ditt?
+Q: Hva heter du?
+
+Spørringsnummer: 330
+I: Kan jeg få vite hva jeg kan kalle deg?
+Q: Hva heter du?
+
+Spørringsnummer: 331
+I: Kan du fortelle meg hva jeg kan referere til deg som?
+Q: Hva heter du?
+
+Spørringsnummer: 332
+I: Hvordan kan jeg henvise meg til deg?
+Q: Hva heter du?
+

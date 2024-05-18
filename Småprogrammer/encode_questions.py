@@ -5,10 +5,10 @@ from setfit import SetFitModel #For å kunne teste med en modell treng med setFi
 
 model_name = "NbAiLab/nb-sbert-base"
 model = SentenceTransformer(model_name)
-model2 = SetFitModel.from_pretrained("modeller/alpha14")
+model2 = SetFitModel.from_pretrained("modeller/alpha16")
 spørsmål = []
 sublist = []
-with open('txtandCSV-files/Q&A.txt', 'r', encoding='utf-8') as file:
+with open('txtandCSV-files/Q&AEnglish.txt', 'r', encoding='utf-8') as file:
     for line in file:
         if line.startswith('Q:'):
             if sublist:
@@ -41,7 +41,7 @@ encoded_list_as_lists2 = convert_to_list(encoded_list2)
 
 # Save the list structure as JSON
 
-with open('txtandCSV-files/Q&A_embedded.json', 'w', encoding='utf-8') as file:
+with open('txtandCSV-files/Q&A_embeddedEnglish.json', 'w', encoding='utf-8') as file:
     json.dump(encoded_list_as_lists, file, ensure_ascii=False, indent=4)
 
 with open('txtandCSV-files/Q&A_embeddedetFitModel.json', 'w', encoding='utf-8') as file:
